@@ -5,8 +5,9 @@ const readJson = (p, d) => { try { return JSON.parse(fs.readFileSync(p, 'utf8'))
 export function loadCatalog({ sample = false } = {}) {
   let dir = path.join(ROOT, 'catalog');
   const real = fs.existsSync(path.join(dir, 'apps')) ? fs.readdirSync(path.join(dir, 'apps')).filter(f => f.endsWith('.json')) : [];
-  const useSample = sample || real.length === 0;
+  const useSample = sample || (real.length === 0 && !process.env.CI);
   const base = useSample ? path.join(dir, '_sample') : dir;
+  if (!fs.existsSync(path.join(base, 'apps'))) fs.mkdirSync(path.join(base, 'apps'), { recursive: true });
   const apps = fs.readdirSync(path.join(base, 'apps')).filter(f => f.endsWith('.json')).sort()
     .map(f => ({ ...readJson(path.join(base, 'apps', f)), _file: f }));
   return {
