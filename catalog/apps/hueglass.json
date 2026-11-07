@@ -19,9 +19,9 @@
     "3d"
   ],
   "developer": "EqualInformation",
-  "shortDescription": "Tip five real dyes into a thick brass-footed glass and match the pearl. Refractive 3D glassware, 160 levels, a Daily Hue and a Lab Notebook. Free, with ads.",
-  "longDescription": "Step into a small brass-and-slate colour atelier. Five dye bottles hang in the lamplight above a heavy glass tumbler: Rose, Amber, Aqua, Milk and Ink. Tip them in, watch the pigment swirl and settle, and bring the liquid to the exact shade of the pearl floating in its brass bezel.\n\n### The Glass Is The Game\nThe tumbler is modelled in real 3D: thick refractive walls, soft studio reflections, a curved meniscus where the dye climbs the glass, and clouds of pigment that bloom as each stream lands. A brass coaster, cork-stoppered bottles and warm dust in the light make the bench feel like a place you could reach into.\n\n### Colour That Behaves\nNothing here is a slider. Each dye absorbs light like a real pigment, so Rose with Amber warms to orange, Aqua with Amber turns green, Milk lifts a shade toward pastel and a few drops of Ink pull it toward shadow. How close you are is measured the way colour scientists do it, with the CIE94 colour-difference formula, so a perfect three-star pour has to be genuinely perfect.\n\n### 160 Levels Across Eight Worlds\nBegin at the Warm-up Bench with two dyes. Later worlds ration your stock, hand you a ruined batch to rescue, hide the target as a mystery hue you decode from written clues, and finish in the Grand Atelier. A solver has checked every level, so a winning mix always exists.\n\n### Keep A Lab Notebook\nEach new shade you invent is written down with its recipe and hex code: Emerald, Mocha, Lavender, Gunmetal and plenty more. Browse the discovery shelf, learn why a recipe works, and chase the ones you have not found yet.\n\n### Daily Hue, Endless Blend, Free Pour\nOne fresh target every day with a streak to protect, an endless chain that keeps tightening the tolerance, and a free bench for pouring purely for fun. No timers, no lives, and everything runs without a connection.\n\n### Ads And The Ad-Free Option\nHueglass costs nothing to download. Google AdMob supplies a banner on the menu and under the play field, an occasional full-screen ad between levels, and optional videos that grant a boost. Watch enough videos in a month to play ad-free until it ends, or take Hueglass Ad-Free for US$2.99 a month. The subscription renews each month until you cancel, is billed to your Apple Account when you confirm, and can be managed or cancelled at least 24 hours before renewal in Settings > Apple Account > Subscriptions. It removes ads only; every level stays free for everyone.",
-  "whatsNew": "Welcome to Hueglass: the first release.",
+  "shortDescription": "Five real dyes, one heavy glass tumbler and a pearl to match: 160 refractive 3D colour puzzles with a Daily Hue and a Lab Notebook.",
+  "longDescription": "Step into a small brass-and-slate colour atelier. Five dye bottles hang in the lamplight above a heavy glass tumbler: Rose, Amber, Aqua, Milk and Ink. Tip them in, watch the pigment swirl and settle, and bring the liquid to the exact shade of the pearl floating in its brass bezel.\n\n### The Glass Is The Game\nThe tumbler is modelled in real 3D: thick refractive walls, soft studio reflections, a curved meniscus where the dye climbs the glass, and clouds of pigment that bloom as each stream lands. A brass coaster, cork-stoppered bottles and warm dust in the light make the bench feel like a place you could reach into.\n\n### Colour That Behaves\nNothing here is a slider. Each dye absorbs light like a real pigment, so Rose with Amber warms to orange, Aqua with Amber turns green, Milk lifts a shade toward pastel and a few drops of Ink pull it toward shadow. How close you are is measured the way colour scientists do it, with the CIE94 colour-difference formula, so a perfect three-star pour has to be genuinely perfect.\n\n### 160 Levels Across Eight Worlds\nBegin at the Warm-up Bench with two dyes. Later worlds ration your stock, hand you a ruined batch to rescue, hide the target as a mystery hue you decode from written clues, and finish in the Grand Atelier. A solver has checked every level, so a winning mix always exists.\n\n### Keep A Lab Notebook\nEach new shade you invent is written down with its recipe and hex code: Emerald, Mocha, Lavender, Gunmetal and plenty more. Browse the discovery shelf, learn why a recipe works, and chase the ones you have not found yet.\n\n### Daily Hue, Endless Blend, Free Pour\nOne fresh target every day with a streak to protect, an endless chain that keeps tightening the tolerance, and a free bench for pouring purely for fun. No timers, no lives, and everything runs without a connection.",
+  "whatsNew": "Version 1.0 launch: 160 levels in 8 worlds, a Daily Hue, Endless Blend, Free Pour and a Lab Notebook of discovered shades.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
@@ -37,32 +37,32 @@
     {
       "src": "assets/apps/hueglass/shot-1.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "The brass tumbler of green dye with the five dye bottles"
     },
     {
       "src": "assets/apps/hueglass/shot-2.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Pouring amber dye from a tipped bottle into the glass"
     },
     {
       "src": "assets/apps/hueglass/shot-3.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Matching a red pearl target in the glass"
     },
     {
       "src": "assets/apps/hueglass/shot-4.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Five dyes: Rose, Amber, Aqua, Milk and Ink"
     },
     {
       "src": "assets/apps/hueglass/shot-5.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "The level map: 160 levels, World 1 Warm-up Bench"
     },
     {
       "src": "assets/apps/hueglass/shot-6.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A level with the colour target and bottle stock left"
     }
   ],
   "ios": {

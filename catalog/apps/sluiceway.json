@@ -19,9 +19,9 @@
     "no-timers"
   ],
   "developer": "EqualInformation",
-  "shortDescription": "The river is high, the sea is low, and a little red boat needs to reach its pier. You hold the sluice gates. Open one and water rushes through; shut it and...",
-  "longDescription": "The river is high, the sea is low, and a little red boat needs to reach its pier. You hold the sluice gates. Open one and water rushes through; shut it and the level holds. Make the water rise and fall, and lift every boat to its dock.\n\nSluiceway is a calm canal-lock puzzle in real 3D. Basins sit side by side, each one a step lower than the last. Tap a gate wheel to open or close it. Water in basins joined by open gates settles to one level, exactly as in a real canal lock, and a boat can only sail through when it floats on both sides. Plan your gates, then watch the water pour. Undo and restart are free, so you can think out loud.\n\n### Nine Harbours, A New Twist In Each\n- Millpond: plain sluices and a river inlet, to learn how water finds its level.\n- Estuary Docks: a sea gate that always holds the sea at its own height.\n- Check-Valve Canal: one-way doors that let water through in only one direction.\n- Pump House: pumps that lift water uphill into a higher basin.\n- Leaky Weirs: closed doors that slowly seep.\n- Tidal Reach: a tide that rises and falls with every move you make.\n- Freight Yard: heavy freighters that need deep water, beside nimble light boats.\n- Twin-Lock Gates: chained gate pairs, where opening one shuts its twin.\n- Grand Harbour: springs, plus everything you have learned so far.\nEach wheel carries its own icon and colour, so you can always see what a gate does.\n\n### 153 Canals, Every One Solvable\nSeventeen canals in each harbour; the last is a boss with the most boats and the trickiest plumbing. Every canal is checked by a solver, so there is always an answer, and the three-star target is the true shortest number of moves. No timers, no lives, nothing is ever unwinnable.\n\n### A Harbour That Grows With You\nEarn coins by playing and spend them in the Boatyard on 36 boats in different hull styles and colours, each with a fixed visible price (no random loot, no boxes). Cosmetic upgrades such as a bell, a lighthouse, bunting and flower boxes decorate your harbour on the title screen.\n\n### Every Day, And Endlessly\nA fresh Daily Canal, the same for everyone, with a streak. Endless Harbour Master hands you a shift of canal after canal that gets harder every three canals; finish a canal over its move budget and you earn a strike, three strikes end the shift. A short Watch and Learn lesson explains the basics. Plays offline, no account.\n\n### Ads, And How To Switch Them Off\nSluiceway carries Google AdMob ads: a small banner on the menus, one under the canal that stays clear of the gate wheels, and a full-screen ad now and then after you finish a canal (never while you are mid-puzzle, and not before canal 3). Rewarded videos are always your choice: take one for a hint or double coins, and a hundred of them in a month buys ad-free play until that month ends. On iPhone and iPad a single prompt asks whether the app may use your advertising identifier; decline and the game plays identically.\n\nOPTIONAL SUBSCRIPTION: SLUICEWAY AD-FREE MONTHLY\nPrefer a quiet harbour? Open the crown button on the home screen to subscribe. While it is active, banners and full-screen ads stop. The monthly price is shown in the sheet before you confirm. It is billed to your Apple Account when you confirm, renews each month until cancelled, and can be cancelled at least 24 hours before renewal in Settings > your name > Subscriptions. No canal is locked behind it. Restore Purchases sits in the same sheet.",
-  "whatsNew": "First release. Lock your way through 153 canals in nine harbours, from a quiet millpond to the Grand Harbour, collect 36 boats and take on the daily canal.",
+  "shortDescription": "Open and close canal gates so the water rises and falls, and lift every little boat to its pier through 153 canals in nine harbours.",
+  "longDescription": "The river is high, the sea is low, and a little red boat needs to reach its pier. You hold the sluice gates. Open one and water rushes through; shut it and the level holds. Make the water rise and fall, and lift every boat to its dock.\n\nSluiceway is a calm canal-lock puzzle in real 3D. Basins sit side by side, each one a step lower than the last. Tap a gate wheel to open or close it. Water in basins joined by open gates settles to one level, exactly as in a real canal lock, and a boat can only sail through when it floats on both sides. Plan your gates, then watch the water pour. Undo and restart are free, so you can think out loud.\n\n### Nine Harbours, A New Twist In Each\n- Millpond: plain sluices and a river inlet, to learn how water finds its level.\n- Estuary Docks: a sea gate that always holds the sea at its own height.\n- Check-Valve Canal: one-way doors that let water through in only one direction.\n- Pump House: pumps that lift water uphill into a higher basin.\n- Leaky Weirs: closed doors that slowly seep.\n- Tidal Reach: a tide that rises and falls with every move you make.\n- Freight Yard: heavy freighters that need deep water, beside nimble light boats.\n- Twin-Lock Gates: chained gate pairs, where opening one shuts its twin.\n- Grand Harbour: springs, plus everything you have learned so far.\nEach wheel carries its own icon and colour, so you can always see what a gate does.\n\n### 153 Canals, Every One Solvable\nSeventeen canals in each harbour; the last is a boss with the most boats and the trickiest plumbing. Every canal is checked by a solver, so there is always an answer, and the three-star target is the true shortest number of moves. No timers, no lives, nothing is ever unwinnable.\n\n### A Harbour That Grows With You\nEarn coins by playing and spend them in the Boatyard on 36 boats in different hull styles and colours, each with a fixed visible price (no random loot, no boxes). Cosmetic upgrades such as a bell, a lighthouse, bunting and flower boxes decorate your harbour on the title screen.\n\n### Every Day, And Endlessly\nA fresh Daily Canal, the same for everyone, with a streak. Endless Harbour Master hands you a shift of canal after canal that gets harder every three canals; finish a canal over its move budget and you earn a strike, three strikes end the shift. A short Watch and Learn lesson explains the basics. Plays offline, no account.",
+  "whatsNew": "Version 1.0 launch: 153 canals in nine harbours, 36 boats to collect, a Daily Canal and the endless Harbour Master shift.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
@@ -37,32 +37,32 @@
     {
       "src": "assets/apps/sluiceway/shot-1.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Tap a gate wheel and watch the water settle"
     },
     {
       "src": "assets/apps/sluiceway/shot-2.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "One-way doors that steer the flow"
     },
     {
       "src": "assets/apps/sluiceway/shot-3.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Pumps that push water uphill"
     },
     {
       "src": "assets/apps/sluiceway/shot-4.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A tide that rises and falls with every move"
     },
     {
       "src": "assets/apps/sluiceway/shot-5.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A freighter that needs deep water"
     },
     {
       "src": "assets/apps/sluiceway/shot-6.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Chained lock gates that open and shut in pairs"
     }
   ],
   "ios": {

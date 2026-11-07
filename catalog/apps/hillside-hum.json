@@ -19,9 +19,9 @@
     "3d"
   ],
   "developer": "EqualInformation",
-  "shortDescription": "A tiny terraced hill, four seasons and five kinds of building. Find the layout that makes the hill hum: 100 hills, a daily hill and Meadow Run.",
-  "longDescription": "Every building on this hill hums at its own pace. Wheat loves summer, orchards love autumn, bees wake in spring, huts and mills keep going through winter. Your job is to decide who goes where.\n\nPick a seed from the tray and tap a furrow to plant it. Tap a season to see what the hill makes in spring, summer, autumn and winter, and watch the meadow turn from blossom to gold to snow while the little windmills slow down. Neighbours matter: bees like orchards and wheat, mills like wheat, and crowding the same kind side by side costs Hum. Reach the bloom mark to win; the marks near the end of the bar ask for a cleverer layout, and the top star is the best plan that exists.\n\n### 100 Hills In Ten Worlds\nSeedling Slope teaches the basics. Hut Row and Mill Race add new kinds. Rocky Terraces block furrows, Sun and Shade change what a plot gives, Pond Meadow cools the summer, Tending Fair lets you double a building's best season, Windy Ridge strips the autumn, Late Frost sleeps through spring, and the Grand Almanac mixes everything. Every hill was checked by our own exact solver: it can be won, and its three-star target is the true best layout.\n\n### A Hill Every Day, And Meadow Run\nThe Daily hill is the same for everyone on that date and keeps a streak. Meadow Run strings hills together: you have three hearts and a limited number of plantings on each board, so plan before you plant. Your best run is kept.\n\n### Free Charms For Your Home Hill\nStars and bloomed hills earn free coins, only by playing. Spend them on 24 charms for the hill on the home screen: weathervanes, lanterns, banners and little critters. No random boxes, nothing to buy with money.\n\n### Look And Sound\nA golden-hour paper diorama in 3D: terracotta roofs, wooden fences, drifting petals, fireflies, leaves and snow, with soft music that breathes and gentle sounds as you plant. Sound, haptics and a calm-motion setting are in Settings. Works offline.\n\n### Free To Play\nHillside Hum is free, with ads: a banner on the menu, a banner beneath the hill and a short break after some hills. Watch optional videos to earn a month without ads, or subscribe to Clear Skies for a monthly price shown in the store. The subscription renews automatically until you cancel it in your App Store account settings.",
-  "whatsNew": "Welcome to Hillside Hum: the first release.",
+  "shortDescription": "Plant wheat, orchards, bees, huts and mills on a tiny terraced hill and find the seasonal layout that makes it hum: 100 hills plus a daily hill.",
+  "longDescription": "Every building on this hill hums at its own pace. Wheat loves summer, orchards love autumn, bees wake in spring, and huts and mills keep going through winter. Your job is to decide who goes where.\n\nPick a seed from the tray and tap a furrow to plant it. Tap a season to see what the hill makes in spring, summer, autumn and winter, and watch the meadow turn from blossom to gold to snow while the little windmills slow down. Neighbours matter: bees like orchards and wheat, mills like wheat, and crowding the same kind side by side costs Hum. Reach the bloom mark to win; the marks near the end of the bar ask for a cleverer layout, and the top star is the best plan that exists.\n\n### 100 Hills In Ten Worlds\nSeedling Slope teaches the basics, and Hut Row and Mill Race add new kinds. Rocky Terraces block furrows, Sun and Shade change what a plot gives, Pond Meadow cools the summer, Tending Fair lets you double a building's best season, Windy Ridge strips the autumn, Late Frost sleeps through spring, and the Grand Almanac mixes everything. An exact solver checked every hill: each can be won, and its three-star target is the true best layout.\n\n### Daily Hill, Meadow Run And Charms\nThe Daily hill is the same for everyone on that date and keeps a streak. Meadow Run strings hills together with three hearts and limited plantings per board. Stars earn free coins for 24 charms for your home hill, such as weathervanes, lanterns and little critters. No random boxes.\n\nA golden-hour paper diorama in 3D, with drifting petals, fireflies, leaves and snow.",
+  "whatsNew": "Version 1.0 launch: 100 hills in ten worlds, a Daily hill with a streak, Meadow Run and 24 free-coin charms for your home hill.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
@@ -37,32 +37,32 @@
     {
       "src": "assets/apps/hillside-hum/shot-1.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Hillside Hum title over a terraced hill"
     },
     {
       "src": "assets/apps/hillside-hum/shot-2.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Hill 2: plan seeds, then bloom the hill"
     },
     {
       "src": "assets/apps/hillside-hum/shot-3.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Spring to winter: four seasons, four hums"
     },
     {
       "src": "assets/apps/hillside-hum/shot-4.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Bees love orchards, mills love wheat"
     },
     {
       "src": "assets/apps/hillside-hum/shot-5.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "The Almanac: world 3, Mill Race"
     },
     {
       "src": "assets/apps/hillside-hum/shot-6.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Late frost: snowy hill with windmills and rocks"
     }
   ],
   "ios": {

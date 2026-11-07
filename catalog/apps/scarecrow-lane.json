@@ -19,9 +19,9 @@
     "3d"
   ],
   "developer": "EqualInformation",
-  "shortDescription": "Eight orchards, one scarecrow rule: sparrows leave after one startle, crows after two. Today's Daily Lane is waiting.",
+  "shortDescription": "Plant scarecrows and hang wind chimes to turn crows and sparrows away from the cherries across eight orchards, plus a Daily Lane every day.",
   "longDescription": "The cherries are ripe, the crows have noticed, and the only thing between them and your orchard is you.\n\nBirds drift down five lanes toward the trees. Plant a scarecrow (2 seeds) to startle whatever reaches it, hang a wind chime (3 seeds) to slow every bird nearby, and keep fruit on the branches until the last wing has gone. Seeds grow back on their own, so you never wait on a timer and you never lose a life.\n\n### Eight Orchards, 120 Levels\nSeedling Row teaches the lane. Crow Hill brings birds that dig in. Windy Terrace shoves them sideways between lanes. Haystack Market blocks tiles with hay bales. Frosty Dawn thins your straw and slows your seeds. Magpie Court sends thieves that carry off a scarecrow. Heron Pond ends with a very patient grey boss. Grand Harvest mixes it all. Every level can be won, and each was checked with a scripted keeper.\n\n### Every Day, Every Way\nDaily Lane: a fresh lane from the same 90-day table for everybody, with a streak. Evergreen: an endless orchard that gets busier the longer you hold it. Almanac: 30 pages (bird field notes, orchard varieties and 12 scarecrow outfits) that you buy with free coins earned from stars, bosses and the Daily Lane. Fixed prices, no random draws, nothing to buy with real money.\n\n### Look And Feel\nA sunny blossom orchard in real-time 3D: indigo scarecrows in yellow straw hats, turquoise wind chimes, birds with feathered wings, petals on the breeze. Plays offline, no account, works on iPhone and iPad.",
-  "whatsNew": "First release: 120 levels in eight orchards, Daily Lane, Evergreen and the Almanac.",
+  "whatsNew": "Version 1.0 launch: 120 levels in eight orchards, a Daily Lane with a streak, endless Evergreen mode and a 30-page Almanac.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
@@ -37,32 +37,32 @@
     {
       "src": "assets/apps/scarecrow-lane/shot-1.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A scarecrow in a straw hat guarding the orchard"
     },
     {
       "src": "assets/apps/scarecrow-lane/shot-2.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Scarecrows and a wind chime placed on the lane grid"
     },
     {
       "src": "assets/apps/scarecrow-lane/shot-3.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Five kinds of birds, each with its own trouble"
     },
     {
       "src": "assets/apps/scarecrow-lane/shot-4.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Hay bales and a magpie in the orchard lanes"
     },
     {
       "src": "assets/apps/scarecrow-lane/shot-5.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "The level map: 120 levels across eight orchards"
     },
     {
       "src": "assets/apps/scarecrow-lane/shot-6.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Turquoise wind chimes that slow the whole flock"
     }
   ],
   "ios": {

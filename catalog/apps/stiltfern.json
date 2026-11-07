@@ -19,8 +19,8 @@
   ],
   "developer": "EqualInformation",
   "shortDescription": "One finger, one little fern, very long legs. Hold to stretch the stilts, let go to shrink them: 100 trails, a Daily Walk and an endless Meadow Walk.",
-  "longDescription": "Touch and hold: the fern's stilts telescope up with a rubbery stretch. Let go: they shrink. That is the whole controller, and every trail is a new puzzle of timing for your thumb.\n\nA boulder taller than the fern? Stretch over it. A log hanging low across the path? Let go and duck under. An arch with a narrow gap? Hold just long enough and stop in the middle. A stumble costs a star, never a life, so you can always try the trail again and walk it clean.\n\n### 100 Trails In Ten Worlds\nDewy Edge teaches the stretch. Bough Lane adds hanging logs and Arch Grove adds narrow gaps. Then the ground itself changes: Mudflats make your stilts move at half speed, Springmoss doubles it, Downhill Run makes the fern stroll faster, Swaying Boughs slide their gaps up and down, Mist Corridors tilt as you walk through them, and the Tangle Glade and the Grand Stroll mix every twist together. Every trail was checked by our own solver: it can be walked without a single stumble.\n\n### Meadow Walk And Daily Walk\nMeadow Walk is an endless stroll that gets stranger the further you go: three stumbles end it, and your score counts metres, clears and near-miss combos. The Daily Walk is the same for everyone on that date, comes with a twist of the day and keeps a streak. Share your score with friends.\n\n### Free Stilts For Your Fern\nStars and walks earn dewdrops, only by playing. Spend them in the Stilt Shop on 12 sets of stilts, from Honey Bee and Candy Cane to Midnight and Golden Gala. No random boxes, nothing to buy with money.\n\n### Look And Sound\nA bright 3D storybook meadow that changes colour in every world, with a rubbery stretch sound that follows the length of the legs, a soft music-box bed, haptics and a calm-motion setting. Watch and Learn shows the first trail so nobody has to read a thing. Works offline.\n\n### Free To Play\nStiltfern is free, with ads: a banner on the menu, a banner beneath the trail and a short break after some walks. Watch optional videos to earn a quiet month without ads, or subscribe to Quiet Meadow for a monthly price shown in the store. The subscription renews automatically until you cancel it in your App Store account settings.",
-  "whatsNew": "Welcome to Stiltfern: the first release.",
+  "longDescription": "Touch and hold: the fern's stilts telescope up with a rubbery stretch. Let go: they shrink. That is the whole controller, and every trail is a new puzzle of timing for your thumb.\n\nA boulder taller than the fern? Stretch over it. A log hanging low across the path? Let go and duck under. An arch with a narrow gap? Hold just long enough and stop in the middle. A stumble costs a star, never a life, so you can always try the trail again and walk it clean.\n\n### 100 Trails In Ten Worlds\nDewy Edge teaches the stretch. Bough Lane adds hanging logs and Arch Grove adds narrow gaps. Then the ground itself changes: Mudflats make your stilts move at half speed, Springmoss doubles it, Downhill Run makes the fern stroll faster, Swaying Boughs slide their gaps up and down, Mist Corridors tilt as you walk through them, and the Tangle Glade and the Grand Stroll mix every twist together. Every trail was checked by our own solver: it can be walked without a single stumble.\n\n### Meadow Walk And Daily Walk\nMeadow Walk is an endless stroll that gets stranger the further you go: three stumbles end it, and your score counts metres, clears and near-miss combos. The Daily Walk is the same for everyone on that date, comes with a twist of the day and keeps a streak. Share your score with friends.\n\n### Free Stilts For Your Fern\nStars and walks earn dewdrops, only by playing. Spend them in the Stilt Shop on 12 sets of stilts, from Honey Bee and Candy Cane to Midnight and Golden Gala. No random boxes, nothing to buy with money.\n\n### Look And Sound\nA bright 3D storybook meadow that changes colour in every world, with a rubbery stretch sound that follows the length of the legs, a soft music-box bed, haptics and a calm-motion setting. Watch and Learn shows the first trail so nobody has to read a thing. Works offline.",
+  "whatsNew": "Version 1.0 launch: 100 trails in ten worlds, a shared Daily Walk with a streak, an endless Meadow Walk and 12 stilt sets to earn.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
@@ -36,32 +36,32 @@
     {
       "src": "assets/apps/stiltfern/shot-1.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Stand tall: a stretchy fern on a sunny Dewy Edge trail"
     },
     {
       "src": "assets/apps/stiltfern/shot-2.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Duck the hanging logs in Bough Lane"
     },
     {
       "src": "assets/apps/stiltfern/shot-3.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Mudflats slow your stilts to half speed"
     },
     {
       "src": "assets/apps/stiltfern/shot-4.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Springmoss doubles the stretch, over a pink moss pad"
     },
     {
       "src": "assets/apps/stiltfern/shot-5.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Swaying Boughs: logs with gaps that slide"
     },
     {
       "src": "assets/apps/stiltfern/shot-6.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Mist Corridors: squeeze under a tilted log"
     }
   ],
   "ios": {

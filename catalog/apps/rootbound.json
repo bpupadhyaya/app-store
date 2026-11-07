@@ -19,9 +19,9 @@
     "no-timers"
   ],
   "developer": "EqualInformation",
-  "shortDescription": "A seed is waiting in the dark soil. Somewhere below are water, nutrients and a long way to go. You decide where the roots grow, and the plant above ground...",
-  "longDescription": "A seed is waiting in the dark soil. Somewhere below are water, nutrients and a long way to go. You decide where the roots grow, and the plant above ground answers.\n\nRootbound is a calm educational puzzle in real 3D. Every plan is a cutaway of a garden: layers of soil, boulders that turn a root aside, clay that costs extra energy, and glowing pockets of water and nutrients. Press near the seed and drag to steer the root tip, or start from the middle of a root to branch. Reach the pockets before the root runs out of energy, then watch the plant grow from what its roots found. Undo and restart are free, so you can try an idea and think it over.\n\n### A Game About How Roots Feed Plants\nThe plant above ground is grown from a simple growth model: the water, nitrogen, phosphorus and potassium your roots reach, the soil they passed through, and the season and weather. Dry spells, rain and snow change what a plant needs. When a plant struggles, a short \"Why did it wilt?\" card points back to what your roots did and did not reach.\n\n### 160 Plans In 16 Biomes\nGarden Loam, Clay Bed, Sand Dunes, Orchard Row, Prairie, Wetland Paddy, Desert Wadi, Rainforest Floor, Alpine Scree, Salt Marsh, Fungus Woodland, Burrow Meadow, Twin Plot, Monsoon Terrace, Mediterranean Hill and the Master Greenhouse. Soil, stones, pockets and seasons change from plan to plan, some plans grow two or three plants side by side, and every plan is checked by a solver so there is always a way through.\n\n### 31 Plants To Meet\nPlant Library cards open the first time you grow a species: a tomato, a carrot, a date palm, rice, an oak and many more, each with a few simple, general facts about its roots and what it likes. The facts are conservative and general; they are not gardening, medical or agricultural advice, and the Sources screen in Settings lists the public references they were checked against.\n\n### Learn, Experiment, Come Back\nFollow the Learning Path of 25 quests, each a real plan with one idea to discover. Play a Daily Garden that is the same for everyone, with a streak. Dive into Deep Dig, an endless mode that keeps getting harder. Open the Free Garden to choose a biome, plants and seasons, and Compare how two species handle the same roots. Keep a Garden Journal of what you grew. Earn coins and stars by playing; nothing is random and nothing is locked behind a purchase. No lives, no timers, plays offline, no account.\n\n### Ads, And A Quiet Option\nRootbound costs nothing and shows Google AdMob ads: a small banner on the home screen, one under the garden (clear of the buttons), and now and then a full-screen ad once a plan is finished, never while a root is growing. Two optional video buttons trade a short clip for a hint or an early look at the next biome, and enough clips buy ad-free play until the end of the month. The first time you open the app on iPhone or iPad, iOS asks whether the app may use your advertising identifier. Either answer plays the same garden.\n\nAD-FREE MONTHLY (OPTIONAL SUBSCRIPTION)\nPrefer no ads at all? \"Rootbound Ad-free Monthly\" switches off banners and full-screen ads while it is active. The price appears in the app and on this page before you commit. It is charged to your Apple Account when you confirm, and it renews each month unless you turn it off at least 24 hours before the period ends; manage it under Settings > your name > Subscriptions. No plan, plant or biome is behind it. Restore Purchases sits in the Go ad-free sheet.",
-  "whatsNew": "First release. Draw roots through 160 plans in 16 biomes, meet 31 plant species, follow the 25-quest Learning Path and try the Daily Garden.",
+  "shortDescription": "Steer roots through a 3D cutaway of the soil to reach water and nutrients, then watch the plant above ground grow from what they found.",
+  "longDescription": "A seed is waiting in the dark soil. Somewhere below are water, nutrients and a long way to go. You decide where the roots grow, and the plant above ground answers.\n\nRootbound is a calm educational puzzle in real 3D. Every plan is a cutaway of a garden: layers of soil, boulders that turn a root aside, clay that costs extra energy, and glowing pockets of water and nutrients. Press near the seed and drag to steer the root tip, or start from the middle of a root to branch. Reach the pockets before the root runs out of energy, then watch the plant grow from what its roots found. Undo and restart are free, so you can try an idea and think it over.\n\n### A Game About How Roots Feed Plants\nThe plant above ground is grown from a simple growth model: the water, nitrogen, phosphorus and potassium your roots reach, the soil they passed through, and the season and weather. Dry spells, rain and snow change what a plant needs. When a plant struggles, a short \"Why did it wilt?\" card points back to what your roots did and did not reach.\n\n### 160 Plans In 16 Biomes\nGarden Loam, Clay Bed, Sand Dunes, Orchard Row, Prairie, Wetland Paddy, Desert Wadi, Rainforest Floor, Alpine Scree, Salt Marsh, Fungus Woodland, Burrow Meadow, Twin Plot, Monsoon Terrace, Mediterranean Hill and the Master Greenhouse. Soil, stones, pockets and seasons change from plan to plan, some plans grow two or three plants side by side, and every plan is checked by a solver so there is always a way through.\n\n### 31 Plants To Meet\nPlant Library cards open the first time you grow a species: a tomato, a carrot, a date palm, rice, an oak and many more, each with a few simple, general facts about its roots and what it likes. The facts are conservative and general; they are not gardening, medical or agricultural advice, and the Sources screen in Settings lists the public references they were checked against.\n\n### Learn, Experiment, Come Back\nFollow the Learning Path of 25 quests, each a real plan with one idea to discover. Play a Daily Garden that is the same for everyone, with a streak. Dive into Deep Dig, an endless mode that keeps getting harder. Open the Free Garden to choose a biome, plants and seasons, and Compare how two species handle the same roots. Keep a Garden Journal of what you grew. Earn coins and stars by playing; nothing is random and nothing is locked behind a purchase. No lives, no timers, plays offline, no account.",
+  "whatsNew": "Version 1.0 launch: 160 plans in 16 biomes, 31 plant species to meet, a 25-quest Learning Path and a Daily Garden.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
@@ -37,32 +37,32 @@
     {
       "src": "assets/apps/rootbound/shot-1.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Draw roots through a 3D cutaway to find the water"
     },
     {
       "src": "assets/apps/rootbound/shot-2.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Sixteen biomes, from clay and sand to peat and desert"
     },
     {
       "src": "assets/apps/rootbound/shot-3.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Guide a root tip toward a glowing water pocket"
     },
     {
       "src": "assets/apps/rootbound/shot-4.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Water, nitrogen, phosphorus and potassium hide in the soil"
     },
     {
       "src": "assets/apps/rootbound/shot-5.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A nitrogen pocket in loam, beside a cluster of stones"
     },
     {
       "src": "assets/apps/rootbound/shot-6.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A sunflower grows above ground from what the roots reached"
     }
   ],
   "ios": {

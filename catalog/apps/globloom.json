@@ -19,9 +19,9 @@
     "3d"
   ],
   "developer": "EqualInformation",
-  "shortDescription": "Slide, aim and drop sea-glass orbs into a golden globe. Twins fuse into bigger orbs, and every one of ten worlds bends the rules: pegs, tides, urchins, ice...",
-  "longDescription": "A golden-rimmed globe floats above a sunlit lagoon. Slide to aim, lift your finger to let a glass orb fall, and watch twins of the same size fuse into the next size up. Grow the goal orb before the drops run out and before the pile creeps over the tide mark.\n\n### Ten Worlds, Ten Twists\nEach world of ten levels changes how the globe behaves. Sunny Shallows teaches the fusing. Pearl Pegs scatters pearls that orbs bounce off. Tidal Tilt rocks the whole sea so the pile slides. Urchin Reef sends spiky urchins that pop everything beside them. Frost Cove brings frosted orbs that stay inert until a fusion nearby thaws them. Prism Bay hands you prisms that lift any orb one size. Whirlpool turns a current through the water, Magnet Shoal pulls orbs toward a pink pearl, Rising Tide lowers the tide mark with every drop, and Grand Lagoon stacks the lot. 100 levels in all, each with three stars to chase.\n\n### A New Tide Every Day\nThe Daily Tide serves the same twisted globe to everyone on that date and keeps a streak of the days you play it. Deep Dive is the calm alternative: no goal, no budget, just stacking and fusing for as high a score as you can reach.\n\n### Tools When You Need Them\nSwap the orb in your hand with the one waiting next. If the globe overflows you can watch an optional video to pop the seven smallest orbs and carry on, or to earn three extra drops when you run out. Nothing about the puzzles is ever sold.\n\n### The Reef Cabinet\nEvery level, Daily and Deep Dive run pays out coins that cost nothing and come only from playing. Spend them on 24 collectible charms, from the Sun Disc to the Grand Pearl, and wear one as a gem on the globe's rim. Fixed prices, no random draws.\n\n### Bright, Quiet, Offline\nDaylight lagoons, glossy 3D glass and soft chimes you can switch off, plus a reduce-motion setting. It works without a connection.\n\n### Free To Play\nGlobloom is free, with ads: a banner on the home screen, a banner below the globe and a short full-screen break after some levels. Watch optional videos to earn ad-free play for the month, or subscribe to Globloom Ad-free for a monthly price shown in the store. The subscription renews automatically until you cancel it in your App Store account settings.",
-  "whatsNew": "Welcome to Globloom: the first release.",
+  "shortDescription": "Slide, aim and drop sea-glass orbs into a golden globe; twins fuse into bigger ones while ten worlds bend the rules with pegs, tides and urchins.",
+  "longDescription": "A golden-rimmed globe floats above a sunlit lagoon. Slide to aim, lift your finger to let a glass orb fall, and watch twins of the same size fuse into the next size up. Grow the goal orb before the drops run out and before the pile creeps over the tide mark.\n\n### Ten Worlds, Ten Twists\nSunny Shallows teaches the fusing. Pearl Pegs scatters pearls that orbs bounce off. Tidal Tilt rocks the whole sea so the pile slides. Urchin Reef sends spiky urchins that pop everything beside them. Frost Cove brings frosted orbs that stay inert until a nearby fusion thaws them. Prism Bay hands you prisms that lift any orb one size. Whirlpool turns a current through the water, Magnet Shoal pulls orbs toward a pink pearl, Rising Tide lowers the tide mark with every drop, and Grand Lagoon stacks the lot. That makes 100 levels, each with three stars to chase.\n\n### Daily Tide And Deep Dive\nThe Daily Tide serves the same twisted globe to everyone on that date and keeps a streak. Deep Dive is the calm alternative: no goal, no budget, just stacking and fusing for the highest score you can reach.\n\n### Small Helps, Free Charms\nSwap the orb in your hand with the next one. If the globe overflows, an optional video can pop the seven smallest orbs, or give three extra drops when you run out. Levels, Dailies and Deep Dive pay out free coins that buy 24 collectible charms, from the Sun Disc to the Grand Pearl, to wear as a gem on the rim. Fixed prices, no random draws.\n\nDaylight lagoons, glossy 3D glass and soft chimes you can switch off. Works offline.",
+  "whatsNew": "Version 1.0 launch: 100 levels across ten worlds, the Daily Tide with a streak, calm Deep Dive and 24 charms to collect with free coins.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
@@ -37,32 +37,32 @@
     {
       "src": "assets/apps/globloom/shot-1.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Fuse the sea-glass: drop twins to grow bigger orbs"
     },
     {
       "src": "assets/apps/globloom/shot-2.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Deep Dive: a tall stack and a high score"
     },
     {
       "src": "assets/apps/globloom/shot-3.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "World 2: pegs for orbs to bounce off"
     },
     {
       "src": "assets/apps/globloom/shot-4.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "World 3: Tidal Tilt rocks the whole sea"
     },
     {
       "src": "assets/apps/globloom/shot-5.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "World 5: frozen orbs wait for a fusion"
     },
     {
       "src": "assets/apps/globloom/shot-6.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Close-up of striped sea-glass orbs on the globe"
     }
   ],
   "ios": {

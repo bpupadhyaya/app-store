@@ -19,9 +19,9 @@
     "no-timers"
   ],
   "developer": "EqualInformation",
-  "shortDescription": "Rotate the copper pipes and send every letter home through a brass-framed burrow. A new Daily Post each morning and a Night Shift record to beat.",
-  "longDescription": "Somewhere under the wheat, a stack of letters is waiting in the dark, and every mouse in the burrow knows exactly which door it belongs to.\n\nFieldmouse Post is a slow, tactile pipe puzzle set inside a cut-away block of meadow, lit by a low golden sun. Copper tunnels run between brass-framed doors. Tap any tile to rotate it a quarter turn, join each mouse to the door that carries its mark, then watch the whole post run home along the route you laid. Rotating is free and never counted against you until you decide to chase a star.\n\n### Inside The Post Office\n- Ten worlds, one hundred hand-checked boards. Each world brings a single new mechanism: bolted pipes and plank bridges, one-way brass plates, switch junctions, season gates, belts and turntables, wax seals, washouts and rising floodwater, express letters. The tenth board of every world, a Sorting Office, asks you to use everything at once.\n- Every board is proven solvable, and three stars always equal the true shortest number of turns, so a perfect score means a perfect route.\n- Daily Post: one new board each morning, identical for every player, with a streak counter, a streak-freeze each week and a postmark calendar.\n- Night Shift: chain boards together while the lantern oil burns down, then beat your own record.\n- The Stamp Map and Album: collect 120 stamps across the ten worlds, then dress your mice in twelve costumes and pick from eight mailboxes.\n- The Post Office shop: coins earned by delivering mail buy lasting upgrades such as a hint satchel. Coins are never sold for money.\n- A short Watch and Learn demo opens level 1. There are no lives and no timers in the campaign, and no board can be lost for good.\n- Everything works offline, without an account.\n- Reduce Motion, large type, VoiceOver names for every tile, and a colour-and-shape pair on each letter and door.\n\n### Ads And Optional Ad-Free Plan\nThe game is free. Google AdMob ads run in three places: under the Home menu, under the play field away from your controls, and between some finished boards. They never appear while your finger is on a tile. Pick your own way to play: keep ads, watch optional videos for extra coins or a hint (these also build up ad-free days within the month, tracked by a progress bar), or subscribe. On iPhone and iPad the app asks once for permission to use your advertising identifier through Apple's App Tracking Transparency prompt; answering no changes nothing about the game.\n\n\"Fieldmouse Post Ad-free Monthly\" is an optional auto-renewing subscription that switches banner and between-board ads off while it is active. The monthly price is displayed in the app and on this page before you buy. Your Apple Account is charged when you confirm, and the plan renews each month until you turn renewal off at least a day before the period ends, which you can do under Settings > your name > Subscriptions. It never locks content: all one hundred boards are free. Restore Purchases sits inside the Go ad-free sheet.",
-  "whatsNew": "Welcome to Fieldmouse Post: the first release.",
+  "shortDescription": "Rotate copper pipes inside a cut-away meadow so every mouse's letter reaches its own door: 100 boards, a Daily Post and Night Shift.",
+  "longDescription": "Somewhere under the wheat, a stack of letters waits in the dark, and every mouse in the burrow knows which door it belongs to.\n\nFieldmouse Post is a slow, tactile pipe puzzle set in a cut-away block of meadow under a low golden sun. Tap a tile to turn it a quarter, join each mouse to the door that carries its mark, then watch the whole post run home along the route you laid. Turning is free and only counts when you decide to chase a star.\n\n### Ten Worlds, One Hundred Boards\nEach world adds a single new mechanism: bolted pipes and plank bridges, one-way brass plates, switch junctions, season gates, belts and turntables, wax seals, washouts and rising floodwater, express letters. The tenth board of every world, a Sorting Office, uses everything at once. Every board is proven solvable, and three stars equal the true shortest number of turns.\n\n### Around The Burrow\n- Daily Post: one new board each morning, the same for everyone, with a streak, a weekly streak-freeze and a postmark calendar.\n- Night Shift: chain boards while the lantern oil burns down, then beat your own record.\n- The Stamp Map and Album: 120 stamps to collect, twelve costumes for your mice and eight mailboxes.\n- The Post Office shop: coins earned by delivering mail buy lasting upgrades such as a hint satchel. Coins are never sold for money.\n\nNo lives and no timers in the campaign. Works offline without an account, with Reduce Motion, large type and VoiceOver names for every tile.",
+  "whatsNew": "Version 1.0 launch: 100 boards across ten worlds, a Daily Post with a streak, the Night Shift record chase and 120 stamps to collect.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
@@ -37,32 +37,32 @@
     {
       "src": "assets/apps/fieldmouse-post/shot-1.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Fieldmouse Post title over a meadow burrow"
     },
     {
       "src": "assets/apps/fieldmouse-post/shot-2.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Level 18: turn a pipe, point the way"
     },
     {
       "src": "assets/apps/fieldmouse-post/shot-3.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Letters running home along copper pipes"
     },
     {
       "src": "assets/apps/fieldmouse-post/shot-4.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Close-up of a bolted pipe and bridge"
     },
     {
       "src": "assets/apps/fieldmouse-post/shot-5.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Level 50: the Grand Post Office board"
     },
     {
       "src": "assets/apps/fieldmouse-post/shot-6.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Planning a route on a Sorting Office board"
     }
   ],
   "ios": {

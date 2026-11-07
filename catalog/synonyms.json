@@ -1,15 +1,101 @@
 {
-  "relax": ["calm","chill","zen","soothing","relaxing","peaceful","unwind"],
-  "brain": ["brain-training","think","logic","smart","mind","thinking"],
-  "offline": ["no-wifi","no-internet","airplane","plane","travel"],
-  "kids": ["children","child","family","toddler","kid-friendly"],
-  "quick": ["short","fast","snack","five-minute","brief"],
-  "puzzle": ["puzzles","riddle","brainteaser"],
-  "board": ["tabletop","boardgame","strategy"],
-  "word": ["words","letters","vocabulary","spelling"],
-  "music": ["rhythm","instrument","sound","songs"],
-  "sports": ["sport","athletic","match"],
-  "health": ["wellness","fitness","wellbeing"],
-  "free": ["no-cost","gratis"],
-  "new": ["latest","recent","fresh"]
+ "relax": [
+  "calm",
+  "calming",
+  "chill",
+  "zen",
+  "soothing",
+  "relaxing",
+  "peaceful",
+  "unwind",
+  "cozy",
+  "gentle"
+ ],
+ "brain": [
+  "brain-training",
+  "think",
+  "logic",
+  "smart",
+  "mind",
+  "thinking",
+  "puzzle",
+  "puzzles",
+  "clever"
+ ],
+ "offline": [
+  "no-wifi",
+  "no-internet",
+  "airplane",
+  "plane",
+  "travel"
+ ],
+ "kids": [
+  "children",
+  "child",
+  "family",
+  "toddler",
+  "kid-friendly",
+  "young"
+ ],
+ "quick": [
+  "short",
+  "fast",
+  "snack",
+  "five-minute",
+  "brief",
+  "minutes",
+  "bite-sized"
+ ],
+ "puzzle": [
+  "puzzles",
+  "riddle",
+  "brainteaser"
+ ],
+ "board": [
+  "tabletop",
+  "boardgame",
+  "strategy"
+ ],
+ "word": [
+  "words",
+  "letters",
+  "vocabulary",
+  "spelling"
+ ],
+ "music": [
+  "rhythm",
+  "instrument",
+  "sound",
+  "songs"
+ ],
+ "sports": [
+  "sport",
+  "athletic",
+  "match"
+ ],
+ "health": [
+  "wellness",
+  "fitness",
+  "wellbeing"
+ ],
+ "free": [
+  "no-cost",
+  "gratis"
+ ],
+ "new": [
+  "latest",
+  "recent",
+  "fresh"
+ ],
+ "daily": [
+  "every-day",
+  "streak",
+  "daily-challenge",
+  "today"
+ ],
+ "planning": [
+  "plan",
+  "strategy",
+  "think-ahead"
+ ]
 }

@@ -19,9 +19,9 @@
     "3d"
   ],
   "developer": "EqualInformation",
-  "shortDescription": "Somewhere in the dark, a single wick burns. Your job is to keep small moons circling it. Drag back from anywhere on the screen, let go, and watch gravity...",
-  "longDescription": "Somewhere in the dark, a single wick burns. Your job is to keep small moons circling it. Drag back from anywhere on the screen, let go, and watch gravity take your throw and bend it into a curve.\n\nOrbitwick is a quiet, unhurried 3D puzzle about aim and patience. A short dotted line previews the opening stretch of each throw; after that the flame's pull decides everything. Aim a hair differently and the moon ends up somewhere else entirely. A moon that drifts away comes back to the pad, so you can try again as often as you like. There are no clocks and no lives.\n\nA moon is safe once it has travelled one complete lap inside the glowing ring. Bring every moon home to clear the sky.\n\n### Ten Worlds, Eighty Skies\nThe first five worlds (Lantern, Cluster, Cairn, Lamps, Comet) teach you how orbits feel. After that things get odd. In Dark Wells the pull reverses and shoves moons outward. Drifters slide rocks across your route. The Narrow Gate squeezes the ring until only a thin gap is left. Companions are lights that circle the flame by themselves, and the Grand Orrery throws four to six moons at you at once. Each sky has a known solution, confirmed by a solver before release, and stars reward finishing in fewer throws.\n\n### A Sky A Day, Or A Long Run\nThe Daily sky is the same for every player and keeps a streak going. Endless ramps from gentle to tricky, hands you two spare throws per sky and remembers your best run. Both pay coins.\n\n### The Cabinet\nCoins buy planets for your Cabinet: twelve named worlds, from a small rust-coloured rock to a ringed giant and a lava world. Choose the one you want to throw. Prices are fixed and written on the shelf, there are no mystery boxes, and no real money is involved.\n\n### The Feel\nEach settled moon rings a soft pentatonic note. The sky is modelled in real 3D, motion can be reduced, sound can be muted, and the whole game works offline with no sign-in.\n\n### Ads, And How To Remove Them\nOrbitwick costs nothing to download. It shows Google AdMob ads: a strip on the home screen, a strip under the sky that keeps clear of the play area, and an occasional full-screen ad between skies, never during a throw. Short optional videos can extend your preview or double a coin reward, and enough of them switch ads off until the month ends. On iPhone and iPad you are asked once, through Apple's tracking prompt, whether the app may use your advertising identifier. Decline and nothing about play changes.\n\n### Optional Subscription\n\"Orbitwick Ad-free Monthly\" turns off banners and full-screen ads while it is active; the price is displayed in the app and in the store before you confirm. Your Apple Account is billed when you confirm, and the plan renews monthly unless you switch it off at least 24 hours before the period ends. Manage or cancel it under Settings > your name > Subscriptions. No sky is locked behind it. The Go ad-free sheet also has Restore Purchases.",
-  "whatsNew": "First release: ten worlds of orbit puzzles, a daily sky, endless runs and a twelve-planet Cabinet.",
+  "shortDescription": "A single flame burns in the dark and you flick small moons toward it, bending each throw into a lap around the ring across 80 skies in ten worlds.",
+  "longDescription": "Somewhere in the dark, a single wick burns. Your job is to keep small moons circling it. Drag back from anywhere on the screen, let go, and watch gravity take your throw and bend it into a curve.\n\nOrbitwick is a quiet, unhurried 3D puzzle about aim and patience. A short dotted line previews the opening stretch of each throw; after that the flame's pull decides everything. Aim a hair differently and the moon ends up somewhere else entirely. A moon that drifts away comes back to the pad, so you can try again as often as you like. There are no clocks and no lives.\n\nA moon is safe once it has travelled one complete lap inside the glowing ring. Bring every moon home to clear the sky.\n\n### Ten Worlds, Eighty Skies\nThe first five worlds (Lantern, Cluster, Cairn, Lamps, Comet) teach you how orbits feel. After that things get odd. In Dark Wells the pull reverses and shoves moons outward. Drifters slide rocks across your route. The Narrow Gate squeezes the ring until only a thin gap is left. Companions are lights that circle the flame by themselves, and the Grand Orrery throws four to six moons at you at once. Each sky has a known solution, confirmed by a solver before release, and stars reward finishing in fewer throws.\n\n### A Sky A Day, Or A Long Run\nThe Daily sky is the same for every player and keeps a streak going. Endless ramps from gentle to tricky, hands you two spare throws per sky and remembers your best run. Both pay coins.\n\n### The Cabinet\nCoins buy planets for your Cabinet: twelve named worlds, from a small rust-coloured rock to a ringed giant and a lava world. Choose the one you want to throw. Prices are fixed and written on the shelf, there are no mystery boxes, and no real money is involved.\n\n### The Feel\nEach settled moon rings a soft pentatonic note. The sky is modelled in real 3D, motion can be reduced, sound can be muted, and the whole game works offline with no sign-in.",
+  "whatsNew": "Version 1.0 launch: 80 skies in ten worlds, a Daily sky, endless runs and a Cabinet of twelve planets.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
@@ -37,32 +37,32 @@
     {
       "src": "assets/apps/orbitwick/shot-1.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Title art: Orbitwick moon flick puzzle with a ringed planet"
     },
     {
       "src": "assets/apps/orbitwick/shot-2.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A moon flicked away from a planet toward the flame"
     },
     {
       "src": "assets/apps/orbitwick/shot-3.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A moon circling the flame inside a glowing ring"
     },
     {
       "src": "assets/apps/orbitwick/shot-4.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Eighty skies to solve, shown over a lava world"
     },
     {
       "src": "assets/apps/orbitwick/shot-5.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "The path bending round a dark well, with a game view"
     },
     {
       "src": "assets/apps/orbitwick/shot-6.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A new sky every day, with a game view"
     }
   ],
   "ios": {

@@ -19,9 +19,9 @@
     "no-timers"
   ],
   "developer": "EqualInformation",
-  "shortDescription": "Pull the strings to different lengths, let go, and watch a row of glowing bobs braid into a wave that rings like a wind chime.",
-  "longDescription": "Pull the strings to different lengths, let go, and watch a row of glowing bobs braid into a wave that rings like a wind chime.\n\nBobwave is a calm, clever physics puzzle with real music in it. Every level shows ghost rings. Set how long each string is, tap Release, and at the snap moment time freezes: every bob that sits inside its ghost ring chimes. Read the pattern, retune, and release again until the whole wave locks into a chord.\n\n### Why You Will Keep Playing\n- Easy to learn in seconds, hard to master: shorter strings swing faster, and the skill is reading the ripple.\n- [LEVELS] hand-tuned levels, checked by a solver so every one can be solved, from two bobs to a dozen.\n- A new Daily Wave every day, the same for everyone, with a result you can share.\n- A Sandbox where twelve bobs play a generative melody you can loop.\n- Three stars per level reward clean, thoughtful solutions. No timers, no lives, no penalty for trying again.\n- Hints when you are stuck.\n- Beautiful 3D visuals and glass-bell sound, with haptic ticks as you tune.\n- Plays offline. No account needed.\n- Accessibility: reduced motion, VoiceOver support, and nine languages.\n\n### Free To Play, Your Way\nBobwave is free to play with short ads: a banner on the menu and a full-screen ad after a completed level. You choose how to enjoy it:\n- Play for free with ads.\n- Earn ad-free play each month by watching short optional videos. Your progress is shown, and it refills at the start of each month.\n- Or go ad-free every month with Ad-free, monthly.\n\n### Subscription Information\nAd-free, monthly: removes ads for one month at a time. The price is shown in the app before you buy. Payment is charged to your Apple ID account at confirmation of purchase. The subscription renews automatically each month unless it is cancelled at least 24 hours before the end of the current period. Your account is charged for renewal within 24 hours before the end of the current period. You can manage or cancel your subscription in your Apple ID account settings (Settings > your name > Subscriptions) at any time after purchase.",
-  "whatsNew": "First release: Bobwave, a chiming wave puzzle. Set the strings, release the bobs and match the ghost rings.",
+  "shortDescription": "Tune a row of glass beads on silver wire, release them, and catch the instant they all ring inside their ghost rings.",
+  "longDescription": "Bobwave is a pendulum puzzle played like an instrument. A row of glowing glass beads hangs on silver wire, and every level shows a ghost ring for each bead. Set how long each wire is, tap Release, and at the snap moment time freezes: every bead sitting inside its ring chimes. Read the ripple, retune, and release again until the whole wave locks into a chord.\n\nShorter wires swing faster, so the skill is in reading the pattern rather than in quick fingers. There are no timers and no lives, and trying again costs nothing.\n\n### What Is Inside\n- 120 hand-tuned levels, checked by a solver so every one can be solved, from two beads to a dozen.\n- A new Daily Wave every day, the same for everyone, with a result you can share.\n- A Sandbox where twelve beads play a generative melody you can loop.\n- Three stars per level for clean, thoughtful solutions, plus hints when you are stuck.\n- Glass-bell sound, long-exposure light trails and haptic ticks as you tune.\n- Plays offline with no account. Reduced motion, VoiceOver support and nine languages.",
+  "whatsNew": "Version 1.0 launch: 120 hand-tuned levels, a new Daily Wave every day, and a Sandbox where twelve glass beads play a melody you can loop.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
@@ -37,32 +37,32 @@
     {
       "src": "assets/apps/bobwave/shot-1.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Bobwave home screen with a wave of glass beads"
     },
     {
       "src": "assets/apps/bobwave/shot-2.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Tune the wire, catch the moment"
     },
     {
       "src": "assets/apps/bobwave/shot-3.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Level 4: two beads and two ghost rings"
     },
     {
       "src": "assets/apps/bobwave/shot-4.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Long-exposure light trails on four beads"
     },
     {
       "src": "assets/apps/bobwave/shot-5.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Glass beads and wires up close"
     },
     {
       "src": "assets/apps/bobwave/shot-6.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Level 47: six beads and ghost-bob echoes"
     }
   ],
   "ios": {

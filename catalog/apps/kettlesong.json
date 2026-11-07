@@ -19,9 +19,9 @@
     "no-timers"
   ],
   "developer": "EqualInformation",
-  "shortDescription": "A recipe card sits next to an empty cup. It says what the tea should taste like: strength, bitterness, sweetness, aroma. It does not say how to make it...",
-  "longDescription": "A recipe card sits next to an empty cup. It says what the tea should taste like: strength, bitterness, sweetness, aroma. It does not say how to make it. That part is yours to work out.\n\nKettlesong is a calm deduction puzzle told in tea. Turn the dials for leaf, dose, heat and steep time, watch the little bars show how your cup tastes, and press Pour when every bar sits inside the card's range. Fewer taps than the master's pace earn more stars. There are no timers and no lives, so you can taste, undo and think for as long as you like.\n\n### Twelve Tea Regions, 120 Cups\nEvery region adds a new idea. Hangzhou Hills starts with a single dial. Kyoto brings matcha, Darjeeling adds water, milk and spices, and London gives you a pantry budget and orders for several cups at once. In Marrakesh you blend two leaves. Alishan Mist hides some of the tastes until you try them. The Samovar Steppe teaches re-steeping, Ceylon turns to cold brew and iced tea, Yunnan sets a mystery cup from clues, and Hong Kong runs a whole service day. The last region is a run of master duels. Every cup has a recipe that a solver proved possible before release.\n\n### More Ways To Brew\nThe Daily Pot is a fresh puzzle every morning and keeps a streak. The Endless Tea House sends customers one after another and gets harder the longer you last. Free Brew is a sandbox with a tasting notebook, and the Tea Library fills in as you learn: twenty-one leaves, the waters, vessels and methods that suit them, each with a short note on how it behaves.\n\n### Your Tea House\nCoins you earn by playing buy new leaves and vessels, upgrades and decor for the tea house. Prices are fixed and written on the shelf. There are no mystery boxes, and nothing in the shop costs real money.\n\n### Look And Sound\nPorcelain and celadon: a white enamel kettle with cobalt bands on an ink-blue lacquer counter, a pale celadon wall, a red seal, and bright cobalt-and-white screens that stay easy to read. The tea house is modelled in real 3D with glaze, steam and soft light, music changes with the region, sound and motion can be turned down, and the game works offline with no sign-in.\n\n### Ads, And How To Turn Them Off\nKettlesong is free to download and shows Google AdMob ads: a strip on the home screen, a strip under the tea scene while you brew, and an occasional full-screen ad after a finished cup, never in the middle of one. Short optional videos earn coins or a hint, and enough of them switch ads off until the end of the month. On iPhone and iPad the app asks once, through Apple's tracking prompt, whether it may use your advertising identifier. Say no and nothing about play changes.\n\n### Optional Subscription\n\"Kettlesong Ad-free Monthly\" removes banners and full-screen ads while it is active. The price is shown in the app and in the store before you confirm. Your Apple Account is charged when you confirm and the plan renews every month unless you turn it off at least 24 hours before the period ends. Manage or cancel it under Settings > your name > Subscriptions. No cup is locked behind it, and the Go ad-free sheet also offers Restore Purchases.",
-  "whatsNew": "First release: 120 tea puzzles in twelve regions, a Daily Pot, an Endless Tea House, a Free Brew notebook and a Tea Library.",
+  "shortDescription": "An empty cup and a recipe card that names the taste but not the method: dial in leaf, dose, heat and steep across 120 cups in twelve regions.",
+  "longDescription": "A recipe card sits next to an empty cup. It says what the tea should taste like: strength, bitterness, sweetness, aroma. It does not say how to make it. That part is yours to work out.\n\nKettlesong is a calm deduction puzzle told in tea. Turn the dials for leaf, dose, heat and steep time, watch the little bars show how your cup tastes, and press Pour when every bar sits inside the card's range. Fewer taps than the master's pace earn more stars. There are no timers and no lives, so you can taste, undo and think for as long as you like.\n\n### Twelve Tea Regions, 120 Cups\nEvery region adds a new idea. Hangzhou Hills starts with a single dial. Kyoto brings matcha, Darjeeling adds water, milk and spices, and London gives you a pantry budget and orders for several cups at once. In Marrakesh you blend two leaves. Alishan Mist hides some of the tastes until you try them. The Samovar Steppe teaches re-steeping, Ceylon turns to cold brew and iced tea, Yunnan sets a mystery cup from clues, and Hong Kong runs a whole service day. The last region is a run of master duels. Every cup has a recipe that a solver proved possible before release.\n\n### More Ways To Brew\nThe Daily Pot is a fresh puzzle every morning and keeps a streak. The Endless Tea House sends customers one after another and gets harder the longer you last. Free Brew is a sandbox with a tasting notebook, and the Tea Library fills in as you learn: twenty-one leaves, the waters, vessels and methods that suit them, each with a short note on how it behaves.\n\n### Your Tea House\nCoins you earn by playing buy new leaves and vessels, upgrades and decor for the tea house. Prices are fixed and written on the shelf. There are no mystery boxes, and nothing in the shop costs real money.\n\n### Look And Sound\nPorcelain and celadon: a white enamel kettle with cobalt bands on an ink-blue lacquer counter, a pale celadon wall, a red seal, and bright cobalt-and-white screens that stay easy to read. The tea house is modelled in real 3D with glaze, steam and soft light, music changes with the region, sound and motion can be turned down, and the game works offline with no sign-in.",
+  "whatsNew": "Version 1.0 launch: 120 tea puzzles in twelve regions, a Daily Pot, an Endless Tea House, a Free Brew notebook and a Tea Library.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
@@ -37,32 +37,32 @@
     {
       "src": "assets/apps/kettlesong/shot-1.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "The tea house home with Daily Pot, Endless and Free Brew"
     },
     {
       "src": "assets/apps/kettlesong/shot-2.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Level 7 with taste bars and heat and steep dials"
     },
     {
       "src": "assets/apps/kettlesong/shot-3.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Level 25 with taste ranges and dose, heat, steep"
     },
     {
       "src": "assets/apps/kettlesong/shot-4.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A master duel with three cups to match"
     },
     {
       "src": "assets/apps/kettlesong/shot-5.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Cup matched with three stars"
     },
     {
       "src": "assets/apps/kettlesong/shot-6.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "The tea regions map with levels 61 to 69"
     }
   ],
   "ios": {

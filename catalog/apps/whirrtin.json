@@ -20,8 +20,8 @@
   ],
   "developer": "EqualInformation",
   "shortDescription": "A tin toy, a brass key and a bell at the far end of the tray. That is the whole shop.",
-  "longDescription": "A tin toy, a brass key and a bell at the far end of the tray. That is the whole shop.\n\nWhirrtin is a planning puzzle about winding up. Turn the toy's key on the dial: every notch stores one unit of spring. Let go and the toy clatters forward, spending one unit per tile, and rests wherever the spring runs out. Each stage gives you a small budget of winding for the whole walk, so the question is never \"how far\" but \"how little\". Whatever is left when the bell rings becomes your stars.\n\nStages start on a plain tray and grow teeth. A ramp costs two units. A felt patch drags the toy. A gap needs a three-unit hop, and a toy brick bounces it back the way it came. You can undo a wind, restart, or ask the shop clerk to demonstrate stage one. There are no timers and no lives.\n\n### Ten Worlds, Ten Twists\nEvery world adds one new kind of tile and then mixes it in. Gap Gully, Felt Fields and Brick Row come first. Belt Alley shoves the toy along for free. Spring Pad Park flings it two tiles ahead. Turntable Square spins it around to walk the other way. Oil Slick Slope sends it sliding until the slick ends. Tight Spring Lane caps every wind at a handful of units, and the Grand Parade throws everything at you at once. A hundred stages in all.\n\n### More Ways To Wind\nThe Daily Tin is one shared stage per day with a streak counter. The Parade is a run of sixty stages that climbs from world three to world ten and remembers how far you got. The Toy Chest holds twenty-four tin toys, from Pip to Grand Master, that you buy with the coins you win. Coins are earned in play and never sold.\n\n### Look And Sound\nEverything sits on a lithographed tin tray under a circus tent: printed borders, rivets, a brass key and real 3D shadows, with a sunburst poster behind the menus. Each wind ticks higher, each release whirs, each step clatters and the bell rings out the win. Sound, haptics and reduced motion can each be turned off, and the game works offline with no sign-in.\n\n### Ads, And How To Turn Them Off\nWhirrtin is free to download and shows Google AdMob ads: a strip on the home and stage-map screens, a strip below the tray while you play, and an occasional full-screen ad after a won stage, never in your first minutes and never mid-walk. Optional videos double your coins or give six more winding units on a stuck stage, and a hundred videos fill the Mainspring Meter, which switches ads off until the end of the month. On iPhone and iPad the app asks once, through Apple's tracking prompt, whether it may use your advertising identifier. Say no and nothing about play changes.\n\n### Optional Subscription\n\"Quiet Key Monthly\" removes banners and full-screen ads while it is active. The price is shown in the app and in the store before you confirm. Your Apple Account is charged when you confirm and the plan renews every month unless you turn it off at least 24 hours before the period ends. Manage or cancel it under Settings > your name > Subscriptions. Nothing in the game is locked behind it, and the Quiet Key sheet also offers Restore.",
-  "whatsNew": "First release: 100 stages in ten worlds, the Daily Tin, the 60-stage Parade and a Toy Chest of 24 tin toys.",
+  "longDescription": "A tin toy, a brass key and a bell at the far end of the tray. That is the whole shop.\n\nWhirrtin is a planning puzzle about winding up. Turn the toy's key on the dial: every notch stores one unit of spring. Let go and the toy clatters forward, spending one unit per tile, and rests wherever the spring runs out. Each stage gives you a small budget of winding for the whole walk, so the question is never \"how far\" but \"how little\". Whatever is left when the bell rings becomes your stars.\n\nStages start on a plain tray and grow teeth. A ramp costs two units. A felt patch drags the toy. A gap needs a three-unit hop, and a toy brick bounces it back the way it came. You can undo a wind, restart, or ask the shop clerk to demonstrate stage one. There are no timers and no lives.\n\n### Ten Worlds, Ten Twists\nEvery world adds one new kind of tile and then mixes it in. Gap Gully, Felt Fields and Brick Row come first. Belt Alley shoves the toy along for free. Spring Pad Park flings it two tiles ahead. Turntable Square spins it around to walk the other way. Oil Slick Slope sends it sliding until the slick ends. Tight Spring Lane caps every wind at a handful of units, and the Grand Parade throws everything at you at once. A hundred stages in all.\n\n### More Ways To Wind\nThe Daily Tin is one shared stage per day with a streak counter. The Parade is a run of sixty stages that climbs from world three to world ten and remembers how far you got. The Toy Chest holds twenty-four tin toys, from Pip to Grand Master, that you buy with the coins you win. Coins are earned in play and never sold.\n\n### Look And Sound\nEverything sits on a lithographed tin tray under a circus tent: printed borders, rivets, a brass key and real 3D shadows, with a sunburst poster behind the menus. Each wind ticks higher, each release whirs, each step clatters and the bell rings out the win. Sound, haptics and reduced motion can each be turned off, and the game works offline with no sign-in.",
+  "whatsNew": "Version 1.0 launch: 100 stages in ten worlds, the Daily Tin, a 60-stage Parade and a Toy Chest of 24 tin toys to buy with coins.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
@@ -37,37 +37,37 @@
     {
       "src": "assets/apps/whirrtin/shot-1.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A tin toy on a spring pad: wind, release, walk"
     },
     {
       "src": "assets/apps/whirrtin/shot-2.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Stage 55 with the winding dial and a spring budget"
     },
     {
       "src": "assets/apps/whirrtin/shot-3.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A yellow tin toy beside a turntable tile"
     },
     {
       "src": "assets/apps/whirrtin/shot-4.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Stage list: Felt Fields, Brick Row, Belt Alley and more"
     },
     {
       "src": "assets/apps/whirrtin/shot-5.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A green tin toy at the edge of a gap"
     },
     {
       "src": "assets/apps/whirrtin/shot-6.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Three stars and coins after clearing a stage"
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/whirrtin-wind-up-tin-toy/id6831476501",
     "appleId": "6831476501",
     "bundleId": "com.equalinformation.whirrtin.app"
   },

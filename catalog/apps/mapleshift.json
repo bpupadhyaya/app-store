@@ -19,9 +19,9 @@
     "no-timers"
   ],
   "developer": "EqualInformation",
-  "shortDescription": "A glazed-tile courtyard, a rake and heaps of autumn leaves. Slide the rake, fill every planter. 100 hand-checked yards, a Daily yard and endless Windfall.",
-  "longDescription": "Autumn has buried a tiled courtyard and you hold the rake. Press a tile behind a heap of leaves, drag in a straight line, and the rake slides along shoving everything in its path one tile ahead. Park crimson, amber and chestnut heaps in the planters that want them, using as few strokes as you can.\n\nThe rules are small and the puzzles are not. A hedge stops the rake. Two heaps of the same colour merge into one bigger heap, and big planters need big heaps. A brass gutter carries on any heap that stops on it. A well swallows one heap and then becomes floor. Count your strokes against par for three leaves.\n\n### 100 Yards In Ten Worlds\nFront Lawn teaches the push. Hedge Row adds walls, Three Colours adds sorting, Hand Rake narrows the rake to one lane, Heaps introduces merging, Gutters and Wells bring conveyors and holes, Fork Rake gives you two prongs with a gap that heaps slip through, Short Reach limits every stroke to three tiles, and the Grand Orchard mixes the lot on the biggest courtyard. Every yard is built by a generator that also proves, by exhaustive search, that no solution with fewer strokes exists in the short cases.\n\n### A New Yard Every Day, And Windfall\nThe Daily yard is the same for everyone on that date and keeps a streak. Windfall is an endless run of yards with three hearts: overshoot par by more than two strokes and you lose one. Your best run is saved.\n\n### The Shed\nLeaves you collect turn into free coins, earned only by playing. Spend them on rakes (oak, bamboo, copper, jade), tile glazes (azulejo blue, terracotta, sage, plum) and four skies from crisp noon to blue dusk. No random boxes and nothing to buy with money.\n\n### Look And Sound\nGlazed blue-and-cream tiles, terracotta planters, brass fittings and flame-coloured leaves in real 3D with soft shadows and drifting leaves, under a gentle pentatonic bed. Undo, restart and a hint are always one tap away. There are no timers. Works offline.\n\n### Free To Play\nMapleshift is free, with ads: a banner on the menu, a banner beneath the play field and a short break after some yards. Watch optional videos to earn a month without ads, or subscribe to Quiet Yard for a monthly price shown in the store. The subscription renews automatically every month until you cancel it in your Apple ID settings at least 24 hours before the period ends.",
-  "whatsNew": "Welcome to Mapleshift: the first release.",
+  "shortDescription": "Rake autumn leaves across a glazed-tile courtyard, merge the heaps and fill every planter in 100 yards, plus a Daily yard and endless Windfall.",
+  "longDescription": "Autumn has buried a tiled courtyard and you hold the rake. Press a tile behind a heap of leaves, drag in a straight line, and the rake slides along shoving everything in its path one tile ahead. Park crimson, amber and chestnut heaps in the planters that want them, using as few strokes as you can.\n\nThe rules are small and the puzzles are not. A hedge stops the rake. Two heaps of the same colour merge into one bigger heap, and big planters need big heaps. A brass gutter carries on any heap that stops on it. A well swallows one heap and then becomes floor. Count your strokes against par for three leaves.\n\n### 100 Yards In Ten Worlds\nFront Lawn teaches the push. Hedge Row adds walls, Three Colours adds sorting, Hand Rake narrows the rake to one lane, Heaps introduces merging, Gutters and Wells bring conveyors and holes, Fork Rake gives you two prongs with a gap that heaps slip through, Short Reach limits every stroke to three tiles, and the Grand Orchard mixes the lot on the biggest courtyard. Every yard is built by a generator that also proves, by exhaustive search, that no solution with fewer strokes exists in the short cases.\n\n### A New Yard Every Day, And Windfall\nThe Daily yard is the same for everyone on that date and keeps a streak. Windfall is an endless run of yards with three hearts: overshoot par by more than two strokes and you lose one. Your best run is saved.\n\n### The Shed\nLeaves you collect turn into free coins, earned only by playing. Spend them on rakes (oak, bamboo, copper, jade), tile glazes (azulejo blue, terracotta, sage, plum) and four skies from crisp noon to blue dusk. No random boxes and nothing to buy with money.\n\n### Look And Sound\nGlazed blue-and-cream tiles, terracotta planters, brass fittings and flame-coloured leaves in real 3D with soft shadows and drifting leaves, under a gentle pentatonic bed. Undo, restart and a hint are always one tap away. There are no timers. Works offline.",
+  "whatsNew": "Version 1.0 launch: 100 yards in ten worlds, a Daily yard with a streak, endless Windfall and a shed of rakes, glazes and skies.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
@@ -37,32 +37,32 @@
     {
       "src": "assets/apps/mapleshift/shot-1.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Home: Yard 100, Almanac, Daily, Windfall and Shed"
     },
     {
       "src": "assets/apps/mapleshift/shot-2.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A rake pushing a heap of leaves across the tiles"
     },
     {
       "src": "assets/apps/mapleshift/shot-3.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Brass gutters carrying heaps along the courtyard"
     },
     {
       "src": "assets/apps/mapleshift/shot-4.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Yard 21 in the Three Colours world with undo and hint"
     },
     {
       "src": "assets/apps/mapleshift/shot-5.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Wells and planters on a leaf-strewn courtyard"
     },
     {
       "src": "assets/apps/mapleshift/shot-6.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A two-pronged fork rake with a gap in the middle"
     }
   ],
   "ios": {

@@ -19,9 +19,9 @@
     "no-timers"
   ],
   "developer": "EqualInformation",
-  "shortDescription": "It is black in here. A small pale moth has lost its way, and the only thing you can do is call out and listen.",
-  "longDescription": "It is black in here. A small pale moth has lost its way, and the only thing you can do is call out and listen.\n\nDrag anywhere and the moth drifts toward your finger. Tap, and a ring of sound spreads out from it. Wherever the ring touches rock, the wall flashes for a heartbeat and fades back into dark. That glimpse is all you get, so you learn to read a cave in pieces: a corner here, a gap there, the faint glow of the roost somewhere beyond. Reach the roost to finish the cave. Every extra ping costs a star, never your progress. There are no timers and no lives, and a bump just slides the moth along the wall.\n\n### Eight Worlds, Seventy-Four Caves\nYou start in open caverns and narrow tunnels. Mossy Deeps swallows sound, so some walls simply never light up. In the Glass Gallery, sound passes through frosted panes that the moth cannot, and a ping shows you the next corridor you cannot yet reach. Echo Doors stay shut until the first echo touches them, then open for good. Firefly Nights hide tiny lights you can only find by listening. Mixed Hollows combine everything, and the Grand Hollow is the long way down. Every cave is built by a generator and checked by a solver before release, so each one can be finished.\n\n### A Cave A Day, A Drift When You Want More\nThe Daily Cave is the same for everyone and builds a streak. Drift never ends on its own: you start with a handful of breaths, each ping spends one, and each cave you reach gives some back. Go as deep as you can; your best run is saved.\n\n### The Moth Cabinet\nFireflies, stars and daily visits earn coins, and coins buy moths for a dark velvet display case: twenty-four species, from a small grey miller to a long-tailed moon moth. Prices are fixed and shown on each shelf. Nothing is random and no real money is involved.\n\n### Sound And Look\nA low cave bed swells with every ping. The moth, the echoes and the cave are rendered in real 3D, motion can be reduced, sound can be switched off, and the whole game works offline with no account.\n\n### Ads, And How To Remove Them\nHollowping is free to download and shows Google AdMob ads: a strip on the home screen, a strip below the cave that never covers it, and an occasional full-screen ad after a finished cave, never while you fly. Short optional videos can reveal a hint or double a coin reward, and enough of them switch ads off until the month ends. On iPhone and iPad you are asked once, through Apple's tracking prompt, whether the app may use your advertising identifier; say no and play is unchanged.\n\n### Optional Subscription\n\"Hollowping Ad-free Monthly\" removes banners and full-screen ads while it is active. The price is shown in the app and in the store before you confirm. Your Apple Account is charged when you confirm, and the plan renews each month unless you turn it off at least 24 hours before the period ends; manage it under Settings > your name > Subscriptions. No cave is locked behind it. The Go ad-free sheet also has Restore Purchases.",
-  "whatsNew": "First release: eight worlds of dark caves, a daily cave, endless Drift and a 24-moth cabinet.",
+  "shortDescription": "A pale moth lost in a black cave: ping to light the walls for a heartbeat, then read 74 caves by echo, with a daily cave and a 24-moth cabinet.",
+  "longDescription": "It is black in here. A small pale moth has lost its way, and the only thing you can do is call out and listen.\n\nDrag anywhere and the moth drifts toward your finger. Tap, and a ring of sound spreads out from it. Wherever the ring touches rock, the wall flashes for a heartbeat and fades back into dark. That glimpse is all you get, so you learn to read a cave in pieces: a corner here, a gap there, the faint glow of the roost somewhere beyond. Reach the roost to finish the cave. Every extra ping costs a star, never your progress. There are no timers and no lives, and a bump just slides the moth along the wall.\n\n### Eight Worlds, Seventy-Four Caves\nYou start in open caverns and narrow tunnels. Mossy Deeps swallows sound, so some walls simply never light up. In the Glass Gallery, sound passes through frosted panes that the moth cannot, and a ping shows you the next corridor you cannot yet reach. Echo Doors stay shut until the first echo touches them, then open for good. Firefly Nights hide tiny lights you can only find by listening. Mixed Hollows combine everything, and the Grand Hollow is the long way down. Every cave is built by a generator and checked by a solver before release, so each one can be finished.\n\n### A Cave A Day, A Drift When You Want More\nThe Daily Cave is the same for everyone and builds a streak. Drift never ends on its own: you start with a handful of breaths, each ping spends one, and each cave you reach gives some back. Go as deep as you can; your best run is saved.\n\n### The Moth Cabinet\nFireflies, stars and daily visits earn coins, and coins buy moths for a dark velvet display case: twenty-four species, from a small grey miller to a long-tailed moon moth. Prices are fixed and shown on each shelf. Nothing is random and no real money is involved.\n\n### Sound And Look\nA low cave bed swells with every ping. The moth, the echoes and the cave are rendered in real 3D, motion can be reduced, sound can be switched off, and the whole game works offline with no account.",
+  "whatsNew": "Version 1.0 launch: 74 caves across 8 worlds, a shared Daily Cave with a streak, endless Drift and a 24-moth cabinet.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
@@ -37,32 +37,32 @@
     {
       "src": "assets/apps/hollowping/shot-1.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Title screen: Play, Caves, Daily, Drift and Moths"
     },
     {
       "src": "assets/apps/hollowping/shot-2.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A cave in the dark with the moth and a ping button"
     },
     {
       "src": "assets/apps/hollowping/shot-3.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "The moth between two glowing walls, lit by an echo"
     },
     {
       "src": "assets/apps/hollowping/shot-4.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Echo light spreading through a darker cave"
     },
     {
       "src": "assets/apps/hollowping/shot-5.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Cave walls flashing after a ping, a lit roost ahead"
     },
     {
       "src": "assets/apps/hollowping/shot-6.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "The moth in a larger cave of stone blocks"
     }
   ],
   "ios": {

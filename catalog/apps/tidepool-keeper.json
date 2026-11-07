@@ -20,8 +20,8 @@
   ],
   "developer": "EqualInformation",
   "shortDescription": "73 rock pools in eight worlds, plus a new Daily pool every day. Tune the light, the current and the food, then watch the tide pool come alive.",
-  "longDescription": "A tide pool is a tiny world that runs on its own rules. You are its keeper.\n\nIn Tidepool Keeper you never move a creature. You set three things: how much sunlight reaches the water, which way and how hard the current pushes, and where each bit of plankton food lands. Then you watch. Kelp takes hold and sways. Limpets follow the kelp and graze. Anemones open where limpets settle. Starfish arrive last, where anemones and limpets meet. Fill the goals shown at the top of the pool and life emerges, for one to three stars.\n\n### What You Do\n- Drop plankton beside what is already alive. Life spreads from what you feed.\n- Turn the Light dial from dim to dazzling to speed growth.\n- Set the Current to carry plankton along its heading, around rocks and into corners.\n- Read the pool, then wait. Some pools reward patience more than taps.\n\n### What Is Inside\n- 73 pools in eight worlds on the shore, each world adding a twist: a capped light dial, a current that only runs one way, scarce plankton, pools you must hold steady for several tides.\n- Tide of the Day: a fresh Daily pool every day, with a streak to keep.\n- Free Pool: a sandbox where you grow whatever you like.\n- Tint Cabinet: eight water colours, from Clear Teal and Seaglass to Amber Tannin and Deep Ink, bought with pearls you earn by playing.\n- A rock pool built as a real 3D diorama with wet stone, rippling water, drifting caustic light and creatures that sway.\n- Gentle generative sound, haptics, Reduce Motion, works fully offline.\n\n### Free To Play\nTidepool Keeper is free and supported by ads. Optional rewarded videos give bonus plankton or double your pearls. If you would rather play without ads, Quiet Tide is an optional auto-renewing subscription at $2.99 per month (price may vary by region) that removes banners and full-screen ads; you can also earn ad-free time by watching videos. Payment is charged to your Apple Account at confirmation. The subscription renews automatically each month unless cancelled at least 24 hours before the end of the period. Manage or cancel in Settings > your name > Subscriptions. Nothing that affects the puzzles is ever for sale.",
-  "whatsNew": "Welcome to Tidepool Keeper: the first release.",
+  "longDescription": "A tide pool is a tiny world that runs on its own rules. You are its keeper.\n\nIn Tidepool Keeper you never move a creature. You set three things: how much sunlight reaches the water, which way and how hard the current pushes, and where each bit of plankton food lands. Then you watch. Kelp takes hold and sways. Limpets follow the kelp and graze. Anemones open where limpets settle. Starfish arrive last, where anemones and limpets meet. Fill the goals shown at the top of the pool and life emerges, for one to three stars.\n\n### What You Do\n- Drop plankton beside what is already alive. Life spreads from what you feed.\n- Turn the Light dial from dim to dazzling to speed growth.\n- Set the Current to carry plankton along its heading, around rocks and into corners.\n- Read the pool, then wait. Some pools reward patience more than taps.\n\n### What Is Inside\n- 73 pools in eight worlds on the shore, each world adding a twist: a capped light dial, a current that only runs one way, scarce plankton, pools you must hold steady for several tides.\n- Tide of the Day: a fresh Daily pool every day, with a streak to keep.\n- Free Pool: a sandbox where you grow whatever you like.\n- Tint Cabinet: eight water colours, from Clear Teal and Seaglass to Amber Tannin and Deep Ink, bought with pearls you earn by playing.\n- A rock pool built as a real 3D diorama with wet stone, rippling water, drifting caustic light and creatures that sway.\n- Gentle generative sound, haptics, Reduce Motion, works fully offline.",
+  "whatsNew": "Version 1.0 launch: 73 rock pools in eight worlds, a Tide of the Day pool, a Free Pool sandbox and eight water tints to earn.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
@@ -37,32 +37,32 @@
     {
       "src": "assets/apps/tidepool-keeper/shot-1.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A rock pool with kelp and anemones, 73 pools in 8 worlds"
     },
     {
       "src": "assets/apps/tidepool-keeper/shot-2.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Kelp, limpets and anemones blooming after feeding"
     },
     {
       "src": "assets/apps/tidepool-keeper/shot-3.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Pool goals at the top with light and current dials"
     },
     {
       "src": "assets/apps/tidepool-keeper/shot-4.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "A pool with kelp, anemones and sea urchins"
     },
     {
       "src": "assets/apps/tidepool-keeper/shot-5.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Level map: World 4, Starfish Reef, with star ratings"
     },
     {
       "src": "assets/apps/tidepool-keeper/shot-6.webp",
       "device": "phone",
-      "caption": ""
+      "caption": "Tint Cabinet: eight water colours bought with pearls"
     }
   ],
   "ios": {
