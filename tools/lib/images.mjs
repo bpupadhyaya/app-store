@@ -76,7 +76,7 @@ export async function ogImages(items, concurrency = 4) {
     for (const f of [o.heroAbs, o.iconAbs]) if (f && fs.existsSync(f)) parts.push(sha(fs.readFileSync(f)));
     const id = sha(parts.join('|')); return { o, id, jf: path.join(CACHE, 'og', id + '.jpg') };
   });
-  const todo = jobs.filter(j => !fs.existsSync(j.jf)); let next = 0;
+  const todo = jobs.filter(j => !fs.existsSync(j.jf)); let next = 0, tried = 0, ok = 0;
   const run = j => new Promise(done => {
     const { o, id, jf } = j; const toUri = f => f && fs.existsSync(f) ? 'file://' + f : '';
     const a = o.accent || '#3b2bb8', name = o.name;
@@ -92,14 +92,15 @@ p{font-size:36px;line-height:1.2;opacity:.9}
 <div class="bg"></div><div class="sh"></div><div class="c"><div class="ic"></div><h1>${esc(name)}</h1><p>${esc(o.subtitle)}</p></div><div class="f">${esc(o.siteName)}</div>`;
     const hf = path.join(CACHE, 'og', id + '.html'), pf = path.join(CACHE, 'og', id + '.png'); fs.writeFileSync(hf, html);
     const udd = fs.mkdtempSync(path.join(CACHE, 'og', 'prof-'));
-    const ch = spawn(CHROME, ['--headless=new', '--no-sandbox', '--disable-gpu', '--hide-scrollbars', '--allow-file-access-from-files', '--force-device-scale-factor=1', '--window-size=1200,630', '--user-data-dir=' + udd, '--screenshot=' + pf, 'file://' + hf], { stdio: 'ignore' });
-    const kill = setTimeout(() => ch.kill('SIGKILL'), 60000);
-    let fd = false; const fin = () => { if (fd) return; fd = true; clearTimeout(kill); try { ch.kill('SIGKILL'); } catch {} if (fs.existsSync(pf)) spawnSync('ffmpeg', ['-y', '-loglevel', 'error', '-i', pf, '-vf', 'scale=1200:630', '-q:v', '5', jf]); fs.rmSync(hf, { force: true }); fs.rmSync(pf, { force: true }); setTimeout(() => { try { fs.rmSync(udd, { recursive: true, force: true, maxRetries: 3 }); } catch {} }, 1500); done(); };
+    const ch = spawn(CHROME, ['--headless=new', '--no-sandbox', '--disable-gpu', '--disable-dev-shm-usage', '--hide-scrollbars', '--allow-file-access-from-files', '--force-device-scale-factor=1', '--window-size=1200,630', '--user-data-dir=' + udd, '--screenshot=' + pf, 'file://' + hf], { stdio: ['ignore', 'ignore', 'pipe'] });
+    let err = ''; ch.stderr.on('data', d => { if (err.length < 600) err += d; });
+    const kill = setTimeout(() => ch.kill('SIGKILL'), 25000);
+    let fd = false; const fin = () => { if (fd) return; fd = true; clearTimeout(kill); try { ch.kill('SIGKILL'); } catch {} if (fs.existsSync(pf)) spawnSync('ffmpeg', ['-y', '-loglevel', 'error', '-i', pf, '-vf', 'scale=1200:630', '-q:v', '5', jf]); if (!fs.existsSync(jf) && err) console.warn('OG chrome:', err.slice(0, 400)); fs.rmSync(hf, { force: true }); fs.rmSync(pf, { force: true }); setTimeout(() => { try { fs.rmSync(udd, { recursive: true, force: true, maxRetries: 3 }); } catch {} }, 1500); done(); };
     ch.on('exit', fin);
     // headless Chrome lingers ~10s after writing the file: finish as soon as the screenshot exists
     const poll = setInterval(() => { if (fs.existsSync(pf) && fs.statSync(pf).size > 1000) { clearInterval(poll); setTimeout(() => { fin(); }, 300); } }, 200); ch.on('exit', () => clearInterval(poll));
   });
-  await Promise.all(Array.from({ length: concurrency }, async () => { while (next < todo.length) await run(todo[next++]); }));
+  await Promise.all(Array.from({ length: concurrency }, async () => { while (next < todo.length) { if (tried >= concurrency * 2 && ok === 0) { console.warn('OG: headless Chrome produced nothing, skipping OG images'); return; } const j = todo[next++]; tried++; await run(j); if (fs.existsSync(j.jf)) ok++; } }));
   for (const j of jobs) res.set(j.o.key, fs.existsSync(j.jf) ? fs.readFileSync(j.jf) : null);
   return res;
 }
