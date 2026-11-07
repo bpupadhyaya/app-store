@@ -21,7 +21,10 @@ jobs:
             git add catalog && git commit -m "Nightly store status refresh" && git push
           fi
       - name: Image tools (webp; ffmpeg and Chrome ship with the runner)
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends webp
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends webp
+          which google-chrome chromium ffmpeg || true
+          which ffmpeg >/dev/null || sudo apt-get install -y -qq --no-install-recommends ffmpeg
       - uses: actions/cache@v4
         with:
           path: .cache

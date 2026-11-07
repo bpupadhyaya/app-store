@@ -30,6 +30,13 @@ git add catalog assets && git commit -m "catalog: <slug>" && git push     # CI v
 ```
 `ingest-app.mjs` reads command-center `docs/tasks/publish-program/STATUS.md`, `play-packets/<slug>.md`, `docs/tasks/<SLUG>-STORE-TEXT.md`, the app's `publish-program/assets/<slug>/store*/` art (icon, feature graphic, iphone/ipad shots), probes the App Store lookup and the Play URL, optimises images (webp, resized) and writes `catalog/apps/<slug>.json` after schema validation. Hand-edited fields (editorial, related, tags, accent, categories) survive re-runs. Use `--dry` to preview, `--no-probe` offline. Review the printed summary; fix gaps by editing the JSON. A nightly Action runs `refresh-store-status.mjs --write` so live/soon flips automatically.
 
+## Images, OG, i18n
+- `tools/lib/images.mjs`: webp width variants (320/640/960/1440; icons 96/192/384) with `srcset`/`sizes`, lazy loading, blur-up placeholders; per-app Open Graph JPEG (1200x630, hero + icon + name) rendered with headless Chrome + ffmpeg. Needs `cwebp`; without it originals are served and the default OG image is used. Generated files are cached in `.cache/` (gitignored; cached in CI).
+- Sources in `assets/` stay small; variants exist only in `dist/`.
+- i18n scaffold: `node tools/build.mjs --locale xx` merges `site/strings/xx.json` over English and overlays `catalog/i18n/xx/<slug>.json` (subtitle, shortDescription, longDescription, whatsNew, captions[]). Only English content exists today.
+- Ingest keeps curated web copy, screenshot list and captions on re-runs; use `--refresh-text`, `--refresh-shots`, `--refresh-images` to take new store text/art.
+- Today featured app rotates daily (`today.json` `rotation` slugs, else every app with a hero); stories dated in the future stay hidden until their date.
+
 ## Scale
 Incremental output (unchanged files are not rewritten), sharded search index (500 apps per shard), category/collection pages paginated (120 per page), no per-app hand-written HTML.
 
