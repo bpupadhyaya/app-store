@@ -5,5 +5,6 @@
   "developer": "EqualInformation",
   "developerUrl": "https://equalinformation.com/",
   "locale": "en",
-  "askEndpoint": ""
+  "askEndpoint": "",
+  "notifyEmail": "support@equalinformation.com"
 }

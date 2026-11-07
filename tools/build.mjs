@@ -5,6 +5,7 @@ import path from 'node:path';
 import zlib from 'node:zlib';
 import crypto from 'node:crypto';
 import { loadCatalog, ROOT } from './lib/catalog.mjs';
+import { imageInfo, srcset, ogImages, HAVE_CWEBP, HAVE_OG, dims } from './lib/images.mjs';
 const sample = process.argv.includes('--sample');
 const cat = loadCatalog({ sample });
 const DIST = path.join(ROOT, 'dist');
@@ -48,9 +49,20 @@ const mix = (a, b, t) => a.map((v, i) => Math.round(v + (b[i] - v) * t));
 const grad = (u, v) => { const c = u * .5 + v * .5; const s = c < .55 ? mix([26, 17, 72], [38, 38, 143], c / .55) : mix([38, 38, 143], [28, 140, 190], (c - .55) / .45); const gl = Math.max(0, 1 - Math.hypot(u - .15, v - .1) * 2.2) * 70; return s.map(x => Math.min(255, Math.round(x + gl))); };
 // ---- layout ----
 const BRAND_SVG = '<svg viewBox="0 0 40 40" aria-hidden="true"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6a45f2"/><stop offset=".55" stop-color="#3f62f5"/><stop offset="1" stop-color="#12c0c0"/></linearGradient></defs><rect width="40" height="40" rx="10" fill="url(#bg)"/><path d="M20 8l3.4 7 7.6 1-5.6 5.3 1.4 7.6L20 25.2 13.2 28.9l1.4-7.6L9 16l7.6-1z" fill="#fff" opacity=".95"/></svg>';
+const exists = f => !!f && fs.existsSync(path.join(ROOT, f));
+const IMG = (rel, o) => imageInfo(rel, (r, b) => out(r, b), o);
+// responsive <img>: srcset (320..1440 webp), explicit width/height (no layout shift), blur-up placeholder
+function img(rel, { alt = '', cls = '', sizes = '100vw', eager = false, widths, extra = '' } = {}) {
+  const i = IMG(rel, widths ? { widths } : undefined);
+  const bg = i.lqip ? ` style="background:url(${i.lqip}) center/cover"` : '';
+  const ss = i.variants.length > 1 ? ` srcset="${srcset(i, '__R__')}" sizes="${sizes}"` : '';
+  return `<img${cls ? ` class="${cls}"` : ''} src="__R__${esc(i.fallback)}"${ss} alt="${esc(alt)}"${i.w ? ` width="${i.w}" height="${i.h}"` : ''}${eager ? ' fetchpriority="high"' : ' loading="lazy"'} decoding="async"${bg}${extra}>`;
+}
+const ICON_W = [96, 192, 384];
+function iconUrl(a) { if (!exists(a.icon)) return ''; return IMG(a.icon, { widths: ICON_W, q: 85 }).fallback; }
 function iconHtml(a, size = 64, eager) {
   const st = `style="--s:${size}px;--a:${esc(a.accent || '#5b4be8')}"`;
-  if (a.icon && fs.existsSync(path.join(ROOT, a.icon))) return `<img class="icon" ${st} src="__R__${esc(a.icon)}" alt="" width="${size}" height="${size}"${eager ? '' : ' loading="lazy"'}>`;
+  if (exists(a.icon)) { const i = IMG(a.icon, { widths: ICON_W, q: 85 }); const ss = i.variants.length > 1 ? ` srcset="${srcset(i, '__R__')}" sizes="${size}px"` : ''; return `<img class="icon" ${st} src="__R__${esc(i.fallback)}"${ss} alt="" width="${size}" height="${size}"${eager ? '' : ' loading="lazy"'} decoding="async">`; }
   return `<span class="icon" ${st} aria-hidden="true">${esc(a.name[0])}</span>`;
 }
 function tile(a) { return `<a class="tile" href="__R__app/${a.slug}/">${iconHtml(a)}<span class="t"><b>${esc(a.name)}</b><small>${esc(a.subtitle)}</small></span>${a.ios.status === 'live' || a.android.status === 'live' ? '' : `<span class="badge">${S.comingSoon}</span>`}</a>`; }
@@ -60,7 +72,10 @@ function page({ depth, title, desc, path: pth, body, nav = '', json, og, noindex
   const canon = SITE + pth; const ogImg = og ? SITE + og : SITE + 'og-default.png';
   const navItems = [['today', '', S.today], ['games', 'games/', S.games], ['apps', 'apps/', S.apps], ['search', 'search/', S.search]]
     .map(([k, h, n]) => `<a href="${R}${h}"${nav === k ? ' aria-current="page"' : ''}>${n}</a>`).join('');
-  const html = `<!doctype html><html lang="${cat.config.locale}" data-base="${R}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(t)}</title><meta name="description" content="${esc(desc)}">${noindex ? '<meta name="robots" content="noindex">' : ''}<link rel="canonical" href="${canon}"><meta name="theme-color" content="#1a1148"><meta property="og:title" content="${esc(t)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:type" content="website"><meta property="og:url" content="${canon}"><meta property="og:image" content="${ogImg}"><meta name="twitter:card" content="summary_large_image"><link rel="manifest" href="${R}manifest.webmanifest"><link rel="icon" href="${R}icon-192.png"><link rel="apple-touch-icon" href="${R}icon-192.png"><link rel="stylesheet" href="${R}style.css?v=__V__">${json ? `<script type="application/ld+json">${JSON.stringify(json).replace(/</g, '\\u003c')}</script>` : ''}<script>try{var t=localStorage.getItem('ei-theme');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}</script></head><body><a class="skip" href="#main">${S.skip}</a><header class="top"><div class="wrap bar"><a class="brand" href="${R}">${BRAND_SVG}<span><b>App Store</b><small>EqualInformation</small></span></a><nav class="main" aria-label="Primary">${navItems}</nav><button class="iconbtn theme" id="theme" type="button" aria-label="${S.theme}">&#9680;</button></div></header><main id="main" class="wrap">${body}</main><footer class="foot"><div class="wrap cols"><span>&copy; EqualInformation. ${S.footerTag}</span><nav aria-label="Footer"><a href="${R}about/">${S.about}</a><a href="${R}developer/">${S.developer}</a><a href="https://equalinformation.com/" rel="noopener">equalinformation.com</a></nav></div></footer><script>window.ASK_ENDPOINT=${JSON.stringify(cat.config.askEndpoint || '')};window.NO_RESULTS=${JSON.stringify(S.noResults)}</script><script src="${R}site.js?v=__V__" defer></script></body></html>`;
+  const ICO = { today: '<path d="M4 5h16v14H4zM4 9h16M8 13h5"/>', games: '<path d="M7 9h10a4 4 0 0 1 4 4v1a3 3 0 0 1-5 2l-1-1H9l-1 1a3 3 0 0 1-5-2v-1a4 4 0 0 1 4-4zM8 11v4M6 13h4M16 12h.01M18 14h.01"/>', apps: '<path d="M4 4h7v7H4zM13 4h7v7h-7zM4 13h7v7H4zM13 13h7v7h-7z"/>', search: '<circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5"/>' };
+  const tabs = [['today', '', S.today], ['games', 'games/', S.games], ['apps', 'apps/', S.apps], ['search', 'search/', S.search]]
+    .map(([k, h, n]) => `<a href="${R}${h}"${nav === k ? ' aria-current="page"' : ''}><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${ICO[k]}</svg><span>${n}</span></a>`).join('');
+  const html = `<!doctype html><html lang="${cat.config.locale}" data-base="${R}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(t)}</title><meta name="description" content="${esc(desc)}">${noindex ? '<meta name="robots" content="noindex">' : ''}<link rel="canonical" href="${canon}"><meta name="theme-color" content="#1a1148"><meta property="og:title" content="${esc(t)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:type" content="website"><meta property="og:url" content="${canon}"><meta property="og:image" content="${ogImg}"><meta name="twitter:card" content="summary_large_image"><link rel="manifest" href="${R}manifest.webmanifest"><link rel="icon" href="${R}icon-192.png"><link rel="apple-touch-icon" href="${R}icon-192.png"><link rel="stylesheet" href="${R}style.css?v=__V__">${json ? `<script type="application/ld+json">${JSON.stringify(json).replace(/</g, '\\u003c')}</script>` : ''}<script>try{var t=localStorage.getItem('ei-theme');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}</script></head><body><a class="skip" href="#main">${S.skip}</a><header class="top"><div class="wrap bar"><a class="brand" href="${R}">${BRAND_SVG}<span><b>App Store</b><small>EqualInformation</small></span></a><nav class="main" aria-label="Primary">${navItems}</nav><button class="iconbtn theme" id="theme" type="button" aria-label="${S.theme}">&#9680;</button></div></header><main id="main" class="wrap">${body}</main><footer class="foot"><div class="wrap cols"><span>&copy; EqualInformation. ${S.footerTag}</span><nav aria-label="Footer"><a href="${R}about/">${S.about}</a><a href="${R}developer/">${S.developer}</a><a href="https://equalinformation.com/" rel="noopener">equalinformation.com</a></nav></div></footer><nav class="tabbar" aria-label="Store tabs">${tabs}</nav><script>window.ASK_ENDPOINT=${JSON.stringify(cat.config.askEndpoint || '')};window.NO_RESULTS=${JSON.stringify(S.noResults)};window.WHY=${JSON.stringify(S.why)};window.SHARED=${JSON.stringify(S.shared)}</script><script src="${R}site.js?v=__V__" defer></script></body></html>`;
   return html.replace(/__R__/g, R).replace(/__V__/g, V);
 }
 const storeBtns = a => ['ios', 'android'].map(p => {
@@ -72,7 +87,7 @@ const sortNew = (x, y) => (y.updatedAt + y.releasedAt).localeCompare(x.updatedAt
 const gradFor = a => `--g:linear-gradient(135deg,${a.accent || '#3b2bb8'},#1c5fb0)`;
 function storyCard(s) {
   const first = bySlug[(s.appSlugs || [])[0]];
-  return `<a class="story reveal" style="--g:linear-gradient(135deg,${esc(s.accent || '#26268f')},#1c5fb0)" href="${first ? `__R__app/${first.slug}/` : '__R__'}"><span class="kicker">${esc(s.kicker || '')}</span><h3>${esc(s.title)}</h3><p>${esc(s.subtitle || '')}</p></a>`;
+  return `<a class="story reveal" style="--g:linear-gradient(135deg,${esc(s.accent || '#26268f')},#1c5fb0)" href="${first ? `__R__app/${first.slug}/` : '__R__'}">${first && exists(first.hero) ? img(first.hero, { cls: 'sbg', sizes: '(min-width:700px) 380px, 100vw', widths: [320, 640, 960] }) : ''}<span class="kicker">${esc(s.kicker || '')}</span><h3>${esc(s.title)}</h3><p>${esc(s.subtitle || '')}</p></a>`;
 }
 const appGrid = list => `<div class="results">${list.map(tile).join('')}</div>`;
 const row = list => `<div class="row">${list.map(tile).join('')}</div>`;
@@ -80,13 +95,21 @@ const sec = (title, inner, more) => `<div class="sec-head"><h2>${esc(title)}</h2
 
 // ---- Today ----
 {
-  const feat = bySlug[cat.today.featured] || [...cat.apps].sort(sortNew)[0];
+  // Daily rotation: today.json "rotation" (slugs) or every app with a hero; index = day number since epoch (UTC at build, local day in the browser).
+  const rotation = ((cat.today.rotation && cat.today.rotation.length ? cat.today.rotation : cat.apps.filter(x => exists(x.hero)).map(x => x.slug)).map(x => bySlug[x]).filter(Boolean));
+  const dayNo = Math.floor(Date.now() / 864e5);
+  const feat = rotation.length ? rotation[dayNo % rotation.length] : (bySlug[cat.today.featured] || [...cat.apps].sort(sortNew)[0]);
+  const heroCard = (f, first) => {
+    const heroImg = exists(f.hero) ? img(f.hero, { cls: 'bg', sizes: '(min-width:1180px) 1180px, 100vw', eager: first }) : '';
+    return `<a class="hero-card reveal" style="${gradFor(f)}" href="__R__app/${f.slug}/">${heroImg}<span class="hero-in"><span><span class="kicker">${esc(f.editorial?.headline ? S.today : f.categories[0])}</span><h2>${esc(f.editorial?.headline || f.name)}</h2><p>${esc(f.shortDescription)}</p></span><span class="pill-app">${iconHtml(f, 52, 1)}<span><b>${esc(f.name)}</b><small>${esc(f.subtitle)}</small></span></span></span></a>`;
+  };
   let body = '';
   if (feat) {
-    const heroImg = feat.hero && fs.existsSync(path.join(ROOT, feat.hero)) ? `<img class="bg" src="__R__${esc(feat.hero)}" alt="" fetchpriority="high">` : '';
-    body += `<p class="kicker">${S.featured}</p><a class="hero-card reveal" style="${gradFor(feat)}" href="__R__app/${feat.slug}/">${heroImg}<span class="hero-in"><span><span class="kicker">${esc(feat.editorial?.headline ? S.today : feat.categories[0])}</span><h2>${esc(feat.editorial?.headline || feat.name)}</h2><p>${esc(feat.shortDescription)}</p></span><span class="pill-app">${iconHtml(feat, 52, 1)}<span><b>${esc(feat.name)}</b><small>${esc(feat.subtitle)}</small></span></span></span></a>`;
+    body += `<p class="kicker">${S.featured}</p><div id="featured" data-day="${dayNo}" data-n="${rotation.length}">${heroCard(feat, true)}</div>`;
+    if (rotation.length > 1) body += `<template id="rot">${rotation.map(f => heroCard(f, false)).join('')}</template>`;
   }
-  const stories = [...(cat.today.stories || [])].sort((a, b) => b.date.localeCompare(a.date));
+  const todayIso = new Date().toISOString().slice(0, 10);
+  const stories = [...(cat.today.stories || [])].filter(x => x.date <= todayIso).sort((a, b) => b.date.localeCompare(a.date));
   if (stories.length) body += sec(S.today, `<div class="grid">${stories.map(storyCard).join('')}</div>`);
   for (const c of cat.collections.slice(0, 6)) body += sec(c.title, row(c.appSlugs.map(s => bySlug[s]).filter(Boolean)), `<a href="__R__collection/${c.id}/">${S.allApps}</a>`);
   body += sec(S.newAndUpdated, appGrid([...cat.apps].sort(sortNew).slice(0, 24)));
@@ -112,27 +135,36 @@ function paged(base, title, desc, sub, list, nav) {
 }
 for (const c of cat.categories) paged(`category/${c.id}/`, c.name, `${c.name} apps and games from EqualInformation.`, c.blurb || '', cat.apps.filter(a => a.categories.includes(c.id)).sort(sortNew), c.kind === 'game' ? 'games' : 'apps');
 for (const c of cat.collections) paged(`collection/${c.id}/`, c.title, c.subtitle || c.title, c.subtitle || '', c.appSlugs.map(s => bySlug[s]).filter(Boolean), '');
+// ---- per-app Open Graph images (1200x630 jpg), built from hero + icon + name; cached in .cache/ ----
+const OGS = await ogImages(cat.apps.map(a => ({ key: a.slug, name: a.name, subtitle: a.subtitle, accent: a.accent, heroAbs: exists(a.hero) ? path.join(ROOT, a.hero) : '', iconAbs: exists(a.icon) ? path.join(ROOT, a.icon) : '', siteName: cat.config.siteName })));
+function appOg(a) { const jpg = OGS.get(a.slug); if (!jpg) return undefined; const rel = `og/${a.slug}.jpg`; out(rel, jpg); return rel; }
 // ---- app pages ----
 for (const a of cat.apps) {
   const c0 = catById[a.categories[0]];
   const shots = a.screenshots || [];
-  const shotsHtml = ['phone', 'tablet'].map(dv => { const l = shots.filter(s => s.device === dv); return l.length ? `<div class="shots ${dv}" tabindex="0" role="region" aria-label="${S.screenshots} (${dv})">${l.map(s => `<figure><img src="__R__${esc(s.src)}" alt="${esc(s.caption || a.name)}" loading="lazy" decoding="async">${s.caption ? `<figcaption>${esc(s.caption)}</figcaption>` : ''}</figure>`).join('')}</div>` : ''; }).join('');
-  const hero = a.hero && fs.existsSync(path.join(ROOT, a.hero)) ? `<img class="hero-img" src="__R__${esc(a.hero)}" alt="${esc(a.name)}" fetchpriority="high">` : '';
+  const shotsHtml = ['phone', 'tablet'].map(dv => { const l = shots.filter(s => s.device === dv); return l.length ? `<div class="shots ${dv}" tabindex="0" role="region" aria-label="${S.screenshots} (${dv})">${l.map(s => `<figure>${img(s.src, { alt: s.caption || a.name, widths: [320, 640, 960], sizes: dv === 'tablet' ? '(min-width:700px) 420px, 70vw' : '(min-width:700px) 260px, 60vw' })}${s.caption ? `<figcaption>${esc(s.caption)}</figcaption>` : ''}</figure>`).join('')}</div>` : ''; }).join('');
+  const hero = exists(a.hero) ? img(a.hero, { cls: 'hero-img', alt: a.name, sizes: '(min-width:1180px) 1180px, 100vw', eager: false }) : '';
   const rel = (a.related || []).map(s => bySlug[s]).filter(Boolean);
-  const more = cat.apps.filter(x => x.slug !== a.slug && !rel.includes(x) && x.categories[0] === a.categories[0]).slice(0, 6);
+  // You might also like: curated "related" first, then best tag/category overlap. More from EqualInformation: newest others.
+  const overlap = x => (x.tags || []).filter(t => (a.tags || []).includes(t)).length + x.categories.filter(c => a.categories.includes(c)).length * 2;
+  const like = [...rel, ...cat.apps.filter(x => x.slug !== a.slug && !rel.includes(x)).sort((x, y) => overlap(y) - overlap(x) || sortNew(x, y))].slice(0, 6);
+  const more = cat.apps.filter(x => x.slug !== a.slug && !like.includes(x)).sort(sortNew).slice(0, 8);
+  const soon = a.ios.status !== 'live' && a.android.status !== 'live';
+  const notify = a.ios.status !== 'live' || a.android.status !== 'live' ? `<a class="notify" href="mailto:${esc(cat.config.notifyEmail || 'support@equalinformation.com')}?subject=${encodeURIComponent('Notify me: ' + a.name)}&body=${encodeURIComponent('Please email me when ' + a.name + ' is available on ' + (a.ios.status !== 'live' && a.android.status !== 'live' ? 'iOS and Android' : a.ios.status !== 'live' ? 'iOS' : 'Android') + '.')}">${S.notify}</a>` : '';
+  const share = `<button type="button" class="share" data-title="${esc(a.name)}" data-text="${esc(a.subtitle)}" data-url="${SITE}app/${a.slug}/">${S.share}</button>`;
   const info = [[S.seller, a.developer], [S.price, a.price], [S.category, c0 ? c0.name : ''], [S.age, a.ageRating], [S.released, a.releasedAt], [S.updated, a.updatedAt], a.version ? [S.version, a.version] : null].filter(Boolean).map(([k, v]) => `<div><dt>${k}</dt><dd>${esc(v)}</dd></div>`).join('');
-  const body = `<section class="app-head reveal" style="--a:${esc(a.accent || '#5b4be8')}">${iconHtml(a, 128, 1)}<div><h1>${esc(a.name)}</h1><p class="sub">${esc(a.subtitle)}</p><div class="btns">${storeBtns(a)}</div></div></section>${hero}
+  const body = `<section class="app-head reveal" style="--a:${esc(a.accent || '#5b4be8')}">${iconHtml(a, 128, 1)}<div><h1>${esc(a.name)}</h1><p class="sub">${esc(a.subtitle)}</p><div class="btns">${storeBtns(a)}</div><div class="btns sec2">${notify}${share}</div></div></section>${hero}
   ${shotsHtml ? `<h2>${S.screenshots}</h2>${shotsHtml}` : ''}
   <div class="two"><div class="prose"><h2>${S.description}</h2>${md(a.longDescription)}<p class="callout">${esc(a.monetization)}. ${S.adNote}</p>${a.editorial?.story ? `<h2>${esc(a.editorial.headline || '')}</h2>${md(a.editorial.story)}` : ''}${a.whatsNew ? `<h2>${S.whatsNew}</h2>${md(a.whatsNew)}` : ''}</div>
   <aside><h2>${S.info}</h2><dl class="info">${info}</dl><p>${a.privacyUrl ? `<a href="${esc(a.privacyUrl)}" rel="noopener">${S.privacy}</a>` : ''}${a.supportUrl ? ` &middot; <a href="${esc(a.supportUrl)}" rel="noopener">${S.support}</a>` : ''}</p>${(a.tags || []).length ? `<div class="cats">${a.tags.map(t => `<a class="chip" href="__R__search/?q=${encodeURIComponent(t)}">${esc(t)}</a>`).join('')}</div>` : ''}</aside></div>
-  ${rel.length ? sec(S.related, row(rel)) : ''}${more.length ? sec(S.moreFrom, row(more)) : ''}`;
+  ${like.length ? sec(S.related, row(like)) : ''}${more.length ? sec(S.moreFrom, row(more), `<a href="__R__developer/">${S.allApps}</a>`) : ''}`;
   const ld = { '@context': 'https://schema.org', '@type': 'SoftwareApplication', name: a.name, description: a.shortDescription, applicationCategory: c0 && c0.kind === 'game' ? 'GameApplication' : 'UtilitiesApplication', operatingSystem: [a.ios.status === 'live' ? 'iOS' : null, a.android.status === 'live' ? 'Android' : null].filter(Boolean).join(', ') || 'iOS, Android', offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' }, author: { '@type': 'Organization', name: a.developer, url: cat.config.developerUrl }, datePublished: a.releasedAt, dateModified: a.updatedAt, image: a.icon ? SITE + a.icon : undefined, contentRating: a.ageRating, url: SITE + `app/${a.slug}/` };
-  out(`app/${a.slug}/index.html`, page({ depth: 2, title: `${a.name}: ${a.subtitle}`, desc: a.shortDescription, path: `app/${a.slug}/`, body, nav: kindOf(a) === 'game' ? 'games' : 'apps', json: ld, og: a.hero && fs.existsSync(path.join(ROOT, a.hero)) ? a.hero : undefined }));
+  out(`app/${a.slug}/index.html`, page({ depth: 2, title: `${a.name}: ${a.subtitle}`, desc: a.shortDescription, path: `app/${a.slug}/`, body, nav: kindOf(a) === 'game' ? 'games' : 'apps', json: ld, og: appOg(a) }));
 }
 // ---- search (sharded index) ----
 {
   const SHARD = 500;
-  const recs = cat.apps.map(a => ({ s: a.slug, n: a.name, t: a.subtitle, k: kindOf(a), c: a.categories.map(x => (catById[x] || {}).name || x), g: a.tags || [], d: a.shortDescription, i: a.icon && fs.existsSync(path.join(ROOT, a.icon)) ? a.icon : '', a: a.accent || '' }));
+  const recs = cat.apps.map(a => ({ s: a.slug, n: a.name, t: a.subtitle, k: kindOf(a), c: a.categories.map(x => (catById[x] || {}).name || x), g: a.tags || [], d: a.shortDescription, i: iconUrl(a), a: a.accent || '' }));
   const n = Math.max(1, Math.ceil(recs.length / SHARD));
   for (let i = 0; i < n; i++) out(`search-index-${i}.json`, JSON.stringify(recs.slice(i * SHARD, (i + 1) * SHARD)));
   out('search-index.json', JSON.stringify({ shards: n, count: recs.length, synonyms: cat.synonyms }));
@@ -153,7 +185,7 @@ out('manifest.webmanifest', JSON.stringify({ name: cat.config.siteName, short_na
 out('icon-192.png', png(192, 192, grad)); out('icon-512.png', png(512, 512, grad)); out('og-default.png', png(1200, 630, grad));
 for (const f of ['style.css', 'site.js']) out(f, fs.readFileSync(path.join(ROOT, 'site', f)));
 // assets (copy referenced app assets only)
-function copyDir(src, rel) { if (!fs.existsSync(src)) return; for (const e of fs.readdirSync(src, { withFileTypes: true })) { const s = path.join(src, e.name), r = rel + '/' + e.name; if (e.isDirectory()) copyDir(s, r); else if (!e.name.startsWith('.')) out(r, fs.readFileSync(s)); } }
+function copyDir(src, rel) { if (!fs.existsSync(src)) return; for (const e of fs.readdirSync(src, { withFileTypes: true })) { const s = path.join(src, e.name), r = rel + '/' + e.name; if (e.isDirectory()) copyDir(s, r); else if (!e.name.startsWith('.') && !(HAVE_CWEBP && /\.webp$/i.test(e.name))) out(r, fs.readFileSync(s)); } }
 copyDir(path.join(ROOT, 'assets'), 'assets');
 // version + service worker
 const htmlSig = crypto.createHash('sha1'); for (const f of [...emitted].sort()) { if (f.endsWith('.html') || f.endsWith('.css') || f.endsWith('.js') || f.endsWith('.json')) htmlSig.update(f + fs.readFileSync(path.join(DIST, f)).length); }
