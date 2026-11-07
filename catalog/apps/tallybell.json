@@ -1,0 +1,110 @@
+{
+  "slug": "tallybell",
+  "name": "Tallybell",
+  "subtitle": "Spot renewals, cut waste",
+  "categories": [
+    "finance",
+    "productivity"
+  ],
+  "tags": [
+    "subscription",
+    "tracker",
+    "recurring",
+    "bills",
+    "renewal",
+    "reminder",
+    "budget",
+    "cancel",
+    "trial",
+    "expenses",
+    "monthly",
+    "spending"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Your subscriptions rung up in one calm place. Add them in seconds, get a nudge before each renewal, and sweep out the ones you stopped using.",
+  "longDescription": "Small monthly charges add up quietly. Tallybell is a private notebook for every subscription, membership and recurring bill, with a bell that rings a few days before each one renews.\n\nType in what you pay, how often and when it last hit. Tallybell works out the rest: the next charge, what each plan costs per month and per year, and what lands in the coming weeks. No bank login, no account, no sign-up. Your list lives on your phone.\n\n### What You Get\n- Bells: a clear timeline of what renews this week, later this month and next month, with split bills counted at your share.\n- Month: a calendar where every charge day carries a coloured dot; tap a day to see what lands on it.\n- Reminders: local notifications before renewals and the day before a free trial ends, at the hour you pick.\n- Sweep: review one subscription at a time and swipe Keep, Doubt or Cut. Cut items count toward a running yearly saving.\n- Cancel checklist: a short list of steps for each subscription you decide to drop, so nothing is left to bill you again.\n- Tally: a ring of where the year goes by shelf (watch, listen, learn, move and more), a twelve-month bar chart and your five costliest plans.\n- Spreadsheet friendly: import a CSV, paste rows, or share an export any time.\n- Many currencies: totals use your main currency; others are listed separately and never converted behind your back.\n\n### Private By Design\nTallybell has no server for your entries. Reminders are scheduled by iOS on the device. Delete everything with one button.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-tallybell.html",
+  "supportUrl": "https://equalinformation.com/support-tallybell.html",
+  "releasedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/tallybell/icon-512.png",
+  "hero": "assets/apps/tallybell/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/tallybell/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallybell/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallybell/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallybell/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallybell/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallybell/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallybell/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallybell/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallybell/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallybell/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallybell/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallybell/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.tallybell.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.tallybell.app"
+  },
+  "related": []
+}

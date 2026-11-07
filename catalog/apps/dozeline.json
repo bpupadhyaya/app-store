@@ -1,0 +1,108 @@
+{
+  "slug": "dozeline",
+  "name": "Dozeline",
+  "subtitle": "Feeds, naps, diapers, next nap",
+  "categories": [
+    "lifestyle",
+    "productivity"
+  ],
+  "tags": [
+    "newborn",
+    "infant",
+    "tracker",
+    "wake-window",
+    "bottle",
+    "breastfeeding",
+    "diaper",
+    "routine",
+    "co-parent",
+    "journal"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Three taps log a feed, nap or diaper at 3 a.m. Dozeline learns your baby's rhythm from your own entries and shows when the next sleep window is likely to open.",
+  "longDescription": "Dozeline is a quiet notebook for the first year. Open it, tap what just happened, put the phone down.\n\n### Now\nA night-sky ring counts the time since the last nap and shows how close the next sleep window is. It starts from a typical awake stretch for your baby's age and shifts toward your own baby's recent naps as you log them. Big buttons start a nap, record a feed or note a diaper with one hand.\n\n### Day\nScroll back through any day: every feed, nap and diaper in order, with small totals at the top. Tap an entry to fix it, swipe to delete it, or add something you forgot.\n\n### Patterns\nSeven, fourteen or thirty days of sleep, feeds and diapers as simple bar charts with the average marked, so you can see how this week compares to last without doing any math.\n\n### Share with a Co-Parent\nSend your log as a file by Messages, Mail or AirDrop. When your partner opens it in Dozeline their entries merge with yours, duplicates left out. No account, no server, no sign-in.\n\n### More\nSeveral babies, ounces or milliliters, an optional nudge before a sleep window, a spreadsheet export, and a button that erases everything from the device when you want it gone.\n\n### Your Log Stays on Your Phone\nEntries are stored only on your device. We do not run a cloud copy and cannot read your notes.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-dozeline.html",
+  "supportUrl": "https://equalinformation.com/app-support-dozeline.html",
+  "releasedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/dozeline/icon-512.png",
+  "hero": "assets/apps/dozeline/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/dozeline/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dozeline/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dozeline/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dozeline/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dozeline/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dozeline/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dozeline/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dozeline/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dozeline/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dozeline/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dozeline/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dozeline/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.dozeline.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.dozeline.app"
+  },
+  "related": []
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "tablelark",
+  "name": "Tablelark",
+  "subtitle": "Meal plan and grocery list",
+  "categories": [
+    "productivity"
+  ],
+  "tags": [
+    "meal-planner",
+    "weekly-menu",
+    "grocery-list",
+    "shopping",
+    "aisle",
+    "pantry",
+    "dinner-ideas",
+    "recipes",
+    "household",
+    "staples"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Type your week in plain words and get a grocery list sorted the way you walk through the store. Suggestions come from your own habits, on your device.",
+  "longDescription": "Tablelark plans the week and shops for it.\n\nSay what you are eating, the way you would say it to someone at the counter: \"chili Sunday for 6, oats weekdays for breakfast, pasta with pesto and peas Tuesday lunch.\" Tablelark works out the days, the meal, the headcount and what you will need to buy. All of that reading happens on your phone or tablet.\n\n### The List Writes Itself\nEvery planned meal adds its ingredients. Two cans of tomatoes in one dish and two in another become one line of four. Grams and kilograms, cups and tablespoons, cans and bunches are combined sensibly, and your region decides whether you see metric or US units. Items are grouped by store aisle in the order you actually walk, and you can drag the aisles to match your own supermarket.\n\n### It Learns Your Store\nMove an item to another aisle once and Tablelark remembers. Mark salt, oil or flour as a pantry staple and it stops cluttering the list but stays one tap away under \"already in your pantry\".\n\n### Suggestions From Your Habits\nTap an empty slot and see what fits: the dish you usually make on Fridays, something you have not cooked for three weeks, a quick meal for a busy weeknight, or a way to use up the spinach in the fridge. The ranking is simple arithmetic over your own history. Nothing is uploaded. \"Fill my dinners\" drafts the empty evenings of a week and keeps the proteins varied.\n\n### A Cookbook Written for This App\nThirty-five original dishes with ingredients, timings and short methods, from sheet-pan salmon to coconut dal. Change the number of servings and every amount follows. Add your own dishes by typing ingredients as you would on paper.\n\n### See the Week's Balance\nRhythm shows how many dinners are planned, the mix of proteins, the time you will spend at the stove, and a plain-English read-back such as \"chicken two nights running\".\n\n### Built for a Household\nSend your week to the people you cook with as a small file by Messages, Mail or AirDrop. They open it in Tablelark and the plan, custom dishes and staples merge in. No accounts, no cloud.\n\n### On Iphone and Ipad\niPhone gets a day-by-day planner. iPad gets a full seven-day board with drag and drop between days, the week's shopping summary beside it, and a two-column grocery list.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-tablelark.html",
+  "supportUrl": "https://equalinformation.com/app-support-tablelark.html",
+  "releasedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/tablelark/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/tablelark/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tablelark/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tablelark/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tablelark/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tablelark/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tablelark/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tablelark/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tablelark/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tablelark/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tablelark/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tablelark/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tablelark/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.tablelark.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.tablelark.app"
+  },
+  "related": []
+}

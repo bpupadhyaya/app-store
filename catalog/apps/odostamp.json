@@ -1,0 +1,108 @@
+{
+  "slug": "odostamp",
+  "name": "Odostamp",
+  "subtitle": "Mileage Log for Tax Deductions",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "mileage",
+    "odometer",
+    "trip-log",
+    "deduction",
+    "self-employed",
+    "gig",
+    "driver",
+    "irs",
+    "hmrc",
+    "cra",
+    "ato",
+    "tax"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Stamp each work drive and watch your deduction roll up on a mechanical odometer. Official IRS, CRA, HMRC and ATO rates, with sources shown.",
+  "longDescription": "Odostamp is a mileage log for people who drive for work and want the deduction counted properly: freelancers, couriers, tradespeople, sales reps, rideshare and delivery drivers, and anyone claiming business travel.\n\nEach drive you log is a stamp. Every stamp rolls the odometer counter at the top of the screen, so the estimated allowance for your tax year is always one glance away.\n\n### Log a Drive Your Way\n- Record live: Odostamp adds up the distance while the screen is open, using Location While Using the App. Only the total is kept; the route itself is never saved.\n- Type it in: enter a distance, or the odometer reading at the start and end.\n- Mark the purpose, add places and a note, and fix mistakes later.\n\n### Rates From the Authorities\n- United States: IRS standard mileage rates, including the mid-year 2026 change, with business, charity, medical and military-move rates.\n- Canada: CRA per-kilometre allowance with the first-5,000 km step and the territories bonus.\n- United Kingdom: HMRC simplified-expenses rates by tax year, with the 10,000-mile step and motorcycle rate.\n- Australia: ATO cents-per-kilometre method with the 5,000 km limit flagged.\nThe Rates screen shows the date each rate book was read, its version, and a link to the authority page.\n\n### Made for Your Records\n- A year report with totals by month.\n- CSV export for your accountant or your own spreadsheet.\n- Your drives stay on your phone. No account, no sign-up.",
+  "whatsNew": "First release: live and typed drive logging, rate books for the US, Canada, UK and Australia, year report and CSV export.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-odostamp.html",
+  "supportUrl": "https://equalinformation.com/support-odostamp.html",
+  "releasedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/odostamp/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/odostamp/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/odostamp/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/odostamp/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/odostamp/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/odostamp/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/odostamp/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/odostamp/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/odostamp/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/odostamp/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/odostamp/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/odostamp/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/odostamp/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.odostamp.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.odostamp.app"
+  },
+  "related": []
+}

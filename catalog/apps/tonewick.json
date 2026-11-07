@@ -1,0 +1,110 @@
+{
+  "slug": "tonewick",
+  "name": "Tonewick",
+  "subtitle": "Metronome, tuner and drone",
+  "categories": [
+    "music",
+    "education"
+  ],
+  "tags": [
+    "metronome",
+    "tuner",
+    "drone",
+    "ear-training",
+    "intervals",
+    "pitch",
+    "guitar",
+    "violin",
+    "ukulele",
+    "cello",
+    "singing",
+    "practice"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Steady time, honest pitch, a drone to lean on and short ear drills. Your practice room fits in one pocket, and the microphone never records.",
+  "longDescription": "Tonewick is a small practice room for people who play or sing.\n\n### Beat\nA click that holds its tempo to the sample, from 20 to 300 beats per minute. Turn the big dial or tap the tempo, choose how many beats make a bar, and tap each beat to make it loud, normal or silent. Play straight beats, eighths, triplets or sixteenths with a woodblock, rim shot, pure beep or brush tick. A speed builder can nudge the tempo up every few bars until you reach the ceiling you set.\n\n### Tune\nPick Chromatic, Guitar, Bass, Ukulele, Violin or Cello and play a note. A needle shows how many cents sharp or flat you are, with the nearest note name and frequency. Concert A can sit at 415, 440 or 442 Hz, or anywhere in between.\n\n### Drone\nChoose a root note and let it sustain, then stack a fifth, fourth, third or octave above it. Switch between just ratios, which ring without beating, and equal temperament to hear the difference for yourself. Sing or play against it to settle your intonation.\n\n### Ear\nThree short drills: name the interval, name the note you heard, or sing a note back and see how close you landed. Choose which intervals to practise, ascending, descending or together, and keep an eye on your streak and accuracy.\n\n### Your Audio Stays Put\nTonewick listens only on the Tune screen and the Sing back drill, to find the pitch. Sound is analysed live on your device and is never recorded, stored or sent anywhere. Everything else works without microphone access, and the whole app works offline.",
+  "whatsNew": "First release. Beat, Tune, Drone and Ear in one pocket practice room.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-tonewick.html",
+  "supportUrl": "https://equalinformation.com/app-support-tonewick.html",
+  "releasedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/tonewick/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/tonewick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tonewick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tonewick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tonewick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tonewick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tonewick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tonewick/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tonewick/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tonewick/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tonewick/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tonewick/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tonewick/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/tonewick/id6831895658",
+    "bundleId": "com.equalinformation.tonewick.app",
+    "appleId": "6831895658"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.tonewick.app"
+  },
+  "related": []
+}

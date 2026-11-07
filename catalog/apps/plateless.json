@@ -1,0 +1,97 @@
+{
+  "slug": "plateless",
+  "name": "Plateless",
+  "subtitle": "Sets, rest timer, plate math",
+  "categories": [
+    "sports",
+    "health"
+  ],
+  "tags": [],
+  "developer": "EqualInformation",
+  "shortDescription": "Plateless is a plain, fast logbook for people who lift. Open it, see what is next in your routine, tick sets as you finish them, and let the app handle the…",
+  "longDescription": "Plateless is a plain, fast logbook for people who lift. Open it, see what is next in your routine, tick sets as you finish them, and let the app handle the clock and the arithmetic.\n\n### Routines That Loop\nPick a ready-made routine (Two-Day Strength, Push Pull Legs, Upper Lower, Full Body Three) or build your own from more than forty exercises plus any you add yourself. A routine is a loop of days. The loop only moves forward when you finish a session, so a missed week never leaves you out of step. Skip a day, reorder lifts, change sets and rep ranges whenever you like.\n\n### Log a Set in One Tap\nWeight and reps are pre-filled from your last session. Hit the top of the rep range on every set and the next session starts heavier; fall short and the same weight comes back with one more rep to chase. Tick the circle and you are done. Warm-up sets are marked with a W and never count toward your records. One keyboard bar with a single Done button serves every number field, so the keypad never gets in the way of Finish session.\n\n### A Rest Timer That Keeps Time with the Screen Off\nTicking a working set starts a countdown sized to the lift (heavy squats get more, curls get less). Nudge it by 15 seconds either way. The timer runs on the system clock and rings through a notification and a buzz when rest is over, even if your phone is locked in your pocket. A countdown also shows on the lock screen while you recover.\n\n### Plate Calculator\nEnter the weight on the bar and see exactly which plates go on each side, using only the plates you own. Changing the load? It tells you what to add or strip per side. Barbell lifts get a warm-up ramp of lighter sets leading up to your working weight. Lb and kg are both supported, and every set remembers the unit it was typed in, so switching never rewrites your history.\n\n### Records, Caught As They Happen\nWhen a set beats your best estimated one-rep max or your heaviest weight for that many reps, a gold banner drops in right then. Graphs show estimated one-rep max, top set or total volume per session, with record sessions marked, plus rep bests and eight weeks of volume.\n\n### Private By Design\nA dark, gym-floor look. Everything stays on your device: no account, no cloud. Export every set as a CSV file whenever you want.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-plateless.html",
+  "supportUrl": "https://equalinformation.com/app-support-plateless.html",
+  "releasedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/plateless/icon-512.png",
+  "hero": "assets/apps/plateless/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/plateless/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plateless/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plateless/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plateless/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plateless/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plateless/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plateless/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plateless/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plateless/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plateless/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plateless/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plateless/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.plateless.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.plateless.app"
+  },
+  "related": []
+}

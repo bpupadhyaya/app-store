@@ -1,0 +1,108 @@
+{
+  "slug": "emberhour",
+  "name": "Emberhour",
+  "subtitle": "Fasting Timer and Journal",
+  "categories": [
+    "lifestyle",
+    "health"
+  ],
+  "tags": [
+    "intermittent",
+    "fasting",
+    "16:8",
+    "omad",
+    "timer",
+    "streak",
+    "fast-tracker",
+    "eating-window",
+    "journal",
+    "18:6",
+    "20:4"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Light a ring, pick a rhythm, keep the streak going. A calm fasting timer with a stage ring, a journal and a Lock Screen clock.",
+  "longDescription": "Emberhour is a fasting timer that looks like a slow fire. Start a fast and a glowing ring begins to fill. It is split into six general stages, from digesting your last meal to a long fast, so you can see where you are in the day without doing the sums.\n\n### Pick a Rhythm\n12:12, 14:10, 16:8, 18:6, 20:4 or one meal a day. Or set your own length from 8 to 72 hours. Change it any time, even in the middle of a fast.\n\n### The Ring\n- Live clock, time to goal and the time the next stage begins\n- A bright head on the ring so progress is clear at a glance\n- Started earlier than you tapped Begin? Move the start time\n- Reminders when a stage begins and when you reach your goal, kept on your phone\n\n### Journal\n- Current and best streak in days\n- Hours fasted per day over 7, 14 or 30 days with your goal marked\n- Six-week heat map of the days you reached your goal\n- Add a past fast, tag how you felt, delete what you like\n\n### Lock Screen\nWhile a fast runs, the clock and a progress bar sit on your Lock Screen and in the Dynamic Island.\n\nBUILT FOR iPHONE AND iPAD\nThe iPad gets a roomy layout with a sidebar, a large ring and the full journal.\n\n### Not Medical Advice\nEmberhour is a timer and journal. It gives no medical advice and makes no promise about weight or health. The stages are a general educational guide, not a measurement of your body. Fasting is not suitable for everyone, including people who are pregnant or breastfeeding, under 18, underweight, living with diabetes, on medication, or with a history of an eating disorder. Talk to a doctor first, and stop if you feel unwell.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-emberhour.html",
+  "supportUrl": "https://equalinformation.com/app-support-emberhour.html",
+  "releasedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/emberhour/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/emberhour/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/emberhour/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/emberhour/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/emberhour/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/emberhour/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/emberhour/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/emberhour/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/emberhour/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/emberhour/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/emberhour/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/emberhour/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/emberhour/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.emberhour.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.emberhour.app"
+  },
+  "related": []
+}

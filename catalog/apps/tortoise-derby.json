@@ -1,0 +1,109 @@
+{
+  "slug": "tortoise-derby",
+  "name": "Tortoise Derby",
+  "subtitle": "The slowest tortoise wins",
+  "categories": [
+    "puzzle",
+    "board-strategy"
+  ],
+  "tags": [
+    "tortoise",
+    "slow",
+    "race",
+    "planning",
+    "puzzle",
+    "clay",
+    "brain",
+    "strategy",
+    "cards",
+    "turtle",
+    "relaxing",
+    "daily"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Cheer for last place. Hand out order cards, outwit puddles, mud and wind, and let your gold-caped Champion finish behind everyone. 100 races plus a Daily Race.",
+  "longDescription": "Every other race game rewards the fast one. In Tortoise Derby the prize goes to the tortoise who arrives LAST.\n\nThree or four clay tortoises plod down hand-made terracotta lanes. One wears gold silks: your Champion. Hand out a few order cards, ring the bell, and watch a stop-motion round unfold. If the Champion crosses the line after every rival, you win.\n\n### Order Cards\nHurry adds a step. Nap keeps a tortoise still. Swap trades places with the neighbouring lane. Every card spends from a small purse, and the fewest cards earns three stars.\n\n### Lanes with Character\nPuddles halt a move, spring leaves add a step, mud takes one away, tail and head winds change a whole lane, and token markets pay out an extra card when a move ends on them.\n\n100 RACES IN TEN WORLDS\nFrom Meadow Mile to the Golden Cup, each world adds one twist: twin Champions, relay swaps, token markets and more. Every race is checked by a solver, so a clean win always exists.\n\n### More to Do\nDaily Race: a fresh course every day with a streak bonus. Grand Tour: an endless road that grows harder. The Stable: earn clay and collect 24 clay shells (odds shown in the game).\n\n### Calm By Design\nNo timers, nothing to lose: undo a round or restart whenever you like. Music, haptics and a calm-motion mode can be switched off.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-tortoise-derby.html",
+  "supportUrl": "https://equalinformation.com/support-tortoise-derby.html",
+  "releasedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/tortoise-derby/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/tortoise-derby/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tortoise-derby/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tortoise-derby/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tortoise-derby/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tortoise-derby/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tortoise-derby/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tortoise-derby/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tortoise-derby/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tortoise-derby/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tortoise-derby/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tortoise-derby/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tortoise-derby/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.tortoise-derby.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.tortoise-derby.app"
+  },
+  "related": []
+}

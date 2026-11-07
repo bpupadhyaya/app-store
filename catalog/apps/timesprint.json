@@ -1,0 +1,107 @@
+{
+  "slug": "timesprint",
+  "name": "Timesprint",
+  "subtitle": "Times tables in a minute",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "times-tables",
+    "multiplication",
+    "mental-math",
+    "maths",
+    "practice",
+    "flashcards",
+    "division",
+    "facts",
+    "year-4",
+    "grade-3",
+    "check"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Sixty seconds, one fact at a time. Timesprint finds the times tables your child fumbles and keeps them in the lane until they are fast.",
+  "longDescription": "Timesprint turns times tables into a minute-long race against yourself.\n\nPick a lap: Sprint 60 (as many as you can in a minute), Daily Dash (ten smart questions), Check 25 (twenty-five questions with a six second clock, shaped like the Year 4 tables check in England), or Mental Mix (doubles, halves and bridges to ten and a hundred).\n\nTimesprint remembers every fact. Miss 7 x 8 and it comes back sooner; answer 3 x 4 in under three seconds a few times and it stops nagging. No two sprints feel the same, but the weak spots always get the practice.\n\nThree school orders: United States (fluency to 12 x 12 after Grade 3 facts within 100), United Kingdom (Year 2 to Year 4 table order with the 12 x 12 check) and Australia (twos, fives and tens first). Timesprint is independent and not affiliated with any school system or exam board.\n\nFor grown-ups: a gated report shows a heat map of all the facts, a week of practice, accuracy, speed and a short list of what to work on. Share a text summary with a teacher. Progress stays on the device; there are no accounts.\n\nFree to play, with no ads and no tracking. Sprint 60 and Daily Dash stay free. Timesprint Plus (monthly) adds Check 25, Mental Mix, more than two players and report sharing.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free, no ads, optional monthly subscription",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-timesprint.html",
+  "supportUrl": "https://equalinformation.com/app-support-timesprint.html",
+  "releasedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/timesprint/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/timesprint/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/timesprint/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/timesprint/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/timesprint/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/timesprint/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/timesprint/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/timesprint/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/timesprint/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/timesprint/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/timesprint/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/timesprint/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/timesprint/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.timesprint.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.timesprint.app"
+  },
+  "related": []
+}

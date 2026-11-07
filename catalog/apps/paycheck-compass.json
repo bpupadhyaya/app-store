@@ -1,0 +1,109 @@
+{
+  "slug": "paycheck-compass",
+  "name": "Paycheck Compass",
+  "subtitle": "Take-Home Pay and Tax What-If",
+  "categories": [
+    "finance",
+    "productivity"
+  ],
+  "tags": [
+    "paycheck",
+    "take-home-pay",
+    "net-pay",
+    "salary",
+    "tax-estimator",
+    "withholding",
+    "401k",
+    "bonus",
+    "raise",
+    "freelance",
+    "quarterly-tax"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Raise, bonus, new state or a side gig? Pull a lever and see what lands in your paycheck, with 2026 tax tables for the US, Canada, UK and Australia.",
+  "longDescription": "Your salary is not what lands in your account. Paycheck Compass shows the difference at a glance: a brass compass dial splits every pay period into what you keep and where the rest goes, and a needle points to the share of your next extra dollar that tax and contributions will take.\n\nPick the United States, Canada, the United Kingdom or Australia, then your state, province or home nation. Type a salary or an hourly rate, choose how often you are paid, and the dial updates as you edit. Switch between weekly, every two weeks, twice a month, monthly and yearly views with one tap.\n\n### What-If Lab\nSlide a raise, add a bonus, change your retirement contribution or try a different state or province. The lab shows the change per paycheck and per year, and how much of a bonus survives tax. Save the scenarios worth keeping.\n\n### Side Hustle Set-Aside\nFreelance or gig income? Enter your expected profit and see how much to put aside each quarter, with the typical payment dates for your country.\n\n### Built on Published 2026 Tables\nUnited States: federal brackets, Social Security and Medicare, child tax credit, self-employment tax and all 50 states plus DC. Canada: federal and provincial brackets, CPP or QPP, EI, Ontario surtax and health premium. United Kingdom: income tax for England, Wales, Northern Ireland and Scotland, National Insurance, student loan plans. Australia: resident rates and the Medicare levy. The About screen shows the table version and the date it was checked.\n\n### Private By Design\nYour pay figures never leave your phone. No account, no sign-up.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-paycheck-compass.html",
+  "supportUrl": "https://equalinformation.com/support-paycheck-compass.html",
+  "releasedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/paycheck-compass/icon-512.png",
+  "hero": "assets/apps/paycheck-compass/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/paycheck-compass/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/paycheck-compass/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/paycheck-compass/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/paycheck-compass/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/paycheck-compass/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/paycheck-compass/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/paycheck-compass/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/paycheck-compass/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/paycheck-compass/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/paycheck-compass/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/paycheck-compass/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/paycheck-compass/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.paycheckcompass.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.paycheckcompass.app"
+  },
+  "related": []
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "turnwick",
+  "name": "Turnwick",
+  "subtitle": "Initiative, HP and dice",
+  "categories": [
+    "utilities"
+  ],
+  "tags": [
+    "initiative",
+    "tabletop",
+    "rpg",
+    "dungeon-master",
+    "gm",
+    "dice-roller",
+    "hit-points",
+    "encounter",
+    "combat",
+    "turn-order",
+    "d20",
+    "campaign"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Run the whole table from one screen: turn order, hit points, effects that count down, and a dice tray that understands notation like 2d20kh1+5.",
+  "longDescription": "Turnwick is a game master's companion for the moments when everyone talks at once. It keeps the order of play, the damage, the conditions and the dice in one calm, candle-lit screen, so you can keep your eyes on the story.\n\n### The Table\nAdd your players, allies and foes, give each an initiative number (or let Turnwick roll it for them) and press Next turn. A flame marks whoever acts, the round counter ticks over by itself, and ties can be nudged either way.\n\n### Hit Points Without the Arithmetic\nTap a combatant, type the number, choose Damage or Heal. Temporary buffer points are tracked separately, health bars turn red when someone is in trouble, and defence numbers sit on the card where you need them.\n\n### Effects That Count Themselves\nBurning, frozen, slowed, hidden, blessed and more, or invent your own. Give an effect a number of rounds and Turnwick removes it when time is up.\n\n### A Dice Tray That Reads Your Handwriting\nType 2d6+3, 2d20kh1 (keep highest), 2d20kl1 (keep lowest), 4d6kh3, d% and the roll shows each die as well as the total. Save the rolls you repeat, and scroll back through recent results.\n\n### Undo That Actually Undoes\nEvery change is recorded in a log you can read like a story, and Undo walks it backwards one step at a time, from a mistyped number to a whole round.\n\n### Your Cast and Your Journal\nKeep recurring heroes and favourite monsters in the Cast and seat them with one tap, copies included. Write session notes, pin the important ones and search them later. Several encounters can be kept side by side.\n\n### Built for Both Sizes\nOn iPhone the Table, Dice, Cast and Journal are a thumb-reach away. On iPad the order of play stays beside a dice tray and your notes.\n\nEverything you create stays on your device. There is no account and no sign-in.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-turnwick.html",
+  "supportUrl": "https://equalinformation.com/app-support-turnwick.html",
+  "releasedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/turnwick/icon-512.png",
+  "hero": "assets/apps/turnwick/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/turnwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/turnwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/turnwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/turnwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/turnwick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/turnwick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/turnwick/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/turnwick/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/turnwick/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/turnwick/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/turnwick/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/turnwick/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/turnwick-encounter-tracker/id6831895733",
+    "bundleId": "com.equalinformation.turnwick.app",
+    "appleId": "6831895733"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.turnwick.app"
+  },
+  "related": []
+}

@@ -8,5 +8,7 @@
   {"id":"education","name":"Education","kind":"app","blurb":"Learn something new today.","hue":200},
   {"id":"health","name":"Health & Fitness","kind":"app","blurb":"Feel better, one small step at a time.","hue":10},
   {"id":"utilities","name":"Utilities","kind":"app","blurb":"Everyday tools that just work.","hue":240},
-  {"id":"lifestyle","name":"Lifestyle","kind":"app","blurb":"Everyday life, made simpler.","hue":290}
+  {"id":"lifestyle","name":"Lifestyle","kind":"app","blurb":"Everyday life, made simpler.","hue":290},
+  {"id":"finance","name":"Finance","kind":"app","blurb":"Money tools that do the maths for you.","hue":150},
+  {"id":"productivity","name":"Productivity","kind":"app","blurb":"Get more done with less fuss.","hue":210}
 ]

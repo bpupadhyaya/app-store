@@ -1,0 +1,109 @@
+{
+  "slug": "loanlane",
+  "name": "Loanlane",
+  "subtitle": "Home, car and campus loans",
+  "categories": [
+    "finance",
+    "productivity"
+  ],
+  "tags": [
+    "mortgage",
+    "amortization",
+    "refinance",
+    "extra-payment",
+    "biweekly",
+    "student-loan",
+    "auto-loan",
+    "payoff",
+    "interest",
+    "pmi",
+    "break-even"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "See the date your loan ends, drag one slider to pay it off sooner, and compare two plans side by side. Estimates from your own numbers.",
+  "longDescription": "Loanlane answers one question: when will this loan be gone, and what would it take to get there sooner?\n\nPick Home, Car or Campus. Type the price or balance, the rate and the term. Loanlane works out the payment to the cent, then lays the whole loan out month by month.\n\n### The Payoff Slider\nSlide in extra money each month and watch the debt-free date move. Add one extra payment a year, or choose a repayment style that matches paying half every two weeks. A balance chart shows the plain schedule against your plan; touch it to read any month.\n\n### Three Calculators, Three Sets of Questions\nHome: down payment, property tax, insurance, HOA fees, and the private mortgage insurance that drops away once you owe less than 80 percent of the price.\nCar: trade-in, sales tax, fees and cash due at signing.\nCampus: the balance you carry out of school and what a steady payment does to it.\n\n### Is Refinancing Worth It?\nEnter a new rate, a new term and the closing costs. Loanlane shows the break-even month, so you can see whether you would stay in the loan long enough to come out ahead.\n\n### Pin and Compare\nPin a plan, change a number, pin again, and read the two plans side by side. Pinned plans stay on your device.\n\n### Private By Default\nNo account, no sign-in, no bank connection. Your figures are never sent to us.\n\n### Important\nLoanlane is a planning calculator. It gives estimates from the numbers you enter. It is not financial, tax or legal advice, it does not recommend any lender or product, and it is not an offer of credit. Your lender's figures decide.",
+  "whatsNew": "First release of Loanlane.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-loanlane.html",
+  "supportUrl": "https://equalinformation.com/app-support-loanlane.html",
+  "releasedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/loanlane/icon-512.png",
+  "hero": "assets/apps/loanlane/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/loanlane/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/loanlane/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/loanlane/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/loanlane/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/loanlane/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/loanlane/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/loanlane/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/loanlane/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/loanlane/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/loanlane/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/loanlane/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/loanlane/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.loanlane.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.loanlane.app"
+  },
+  "related": []
+}

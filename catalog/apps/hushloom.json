@@ -1,0 +1,97 @@
+{
+  "slug": "hushloom",
+  "name": "Hushloom",
+  "subtitle": "Sleep Sound Mixer",
+  "categories": [
+    "lifestyle"
+  ],
+  "tags": [],
+  "developer": "EqualInformation",
+  "shortDescription": "Hushloom is a sleep sound mixer built like a loom: every sound is a thread, and you decide how much of each goes into the night.",
+  "longDescription": "Hushloom is a sleep sound mixer built like a loom: every sound is a thread, and you decide how much of each goes into the night.\n\nTwelve threads, all generated live on your device (no recordings, no downloads, no internet needed): steady rain, brown noise, pink noise, a box fan, ocean swell, night wind, summer crickets, a crackling hearth, a bubbling brook, far thunder, a soft heartbeat and a gentle shush. Slide any of them up from silence and blend as many as you like. Each has its own level.\n\n### A Sleep Timer That Fades, Not Cuts\nPick a length from 15 minutes to 8 hours, or choose a bedtime routine. Routines shape the whole night: they ease the sound in, take the brightness off the tone as time passes and fade out at the end, so the room never goes abruptly quiet. A power nap routine wakes you clear after 20 minutes.\n\n### Cradle Mode for Little Ones\nOne tap opens a calm, dim screen with four large buttons (heartbeat, soft shush, rain, box fan). Volume is capped, there are no ads, and you press and hold to leave, so small hands cannot wander off.\n\n### Keep Your Blends\nSave a mix with a name and bring it back with one tap. A few starter mixes are included.\n\n### Plays on When the Screen Goes Dark\nHushloom keeps playing with the phone locked and answers the lock screen play and pause buttons.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-hushloom.html",
+  "supportUrl": "https://equalinformation.com/support-hushloom.html",
+  "releasedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/hushloom/icon-512.png",
+  "hero": "assets/apps/hushloom/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/hushloom/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hushloom/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hushloom/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hushloom/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hushloom/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hushloom/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hushloom/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hushloom/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hushloom/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hushloom/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hushloom/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hushloom/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/hushloom-sleep-sound-mixer/id6831875439",
+    "bundleId": "com.equalinformation.hushloom.app",
+    "appleId": "6831875439"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.hushloom.app"
+  },
+  "related": []
+}
