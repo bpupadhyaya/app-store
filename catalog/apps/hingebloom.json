@@ -1,0 +1,118 @@
+{
+  "slug": "hingebloom",
+  "name": "Hingebloom",
+  "subtitle": "Fold petals, fill gilt pads",
+  "categories": [
+    "puzzle",
+    "board-strategy"
+  ],
+  "tags": [
+    "petals",
+    "flower",
+    "hinge",
+    "folding",
+    "garden",
+    "puzzle",
+    "logic",
+    "brain",
+    "relaxing",
+    "offline",
+    "daily-challenge"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A lacquer-black tray, a chain of enamel petals, and gold pads to cover. Bend the hinges in the right order and the whole bed blooms.",
+  "longDescription": "Hingebloom is a puzzle about folding. Every bed is a black lacquer tray with a gilt grid. A chain of enamel petals lies across it, joined by small brass hinges. Each hinge can rest straight, swing one way, or swing the other. Your job is to bend the chain, hinge by hinge, until its petals cover every gold pad. When the last pad is covered the whole bed blooms.\n\nNothing is timed and nothing is random inside a bed. A hundred hand-balanced beds are each checked by a solver, so there is always a way through and a best possible number of bends to chase for three stars.\n\n### How It Plays\n- Tap a petal, or its numbered chip in the dock, to bend that hinge. Drag a petal to swing it into place.\n- A swinging tail may not cross stones or its own petals, so the order of your bends matters.\n- Undo, redo and restart are free. The lightbulb points to the next useful bend, as often as you like.\n\n### What Makes The Beds Different\n- Ten gardens teach one idea each: plain petals, rockeries with stones, frozen hinges, wide 45-degree bends, mirrored twin chains, and more.\n- A Daily Bloom every day of the year, and a Long Garden of endless beds when the hundred are done.\n- Press a Herbarium bloom with coins you earn by playing. Forty blooms, published odds, nothing to buy.\n\n### Look And Sound\nReal-time 3D lacquer, gold leaf and clear-coat gloss, a living flower on the home screen, and soft plucked strings that follow your bends. Sound and haptics can be switched off in Settings.",
+  "whatsNew": "Version 1.0 launch: 100 hand-balanced beds in ten gardens, a Daily Bloom, the endless Long Garden and a Herbarium of 40 blooms to press with coins you earn.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-hingebloom.html",
+  "releasedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/hingebloom/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/hingebloom/shot-1.webp",
+      "device": "phone",
+      "caption": "Home: the living flower and a lacquer bed"
+    },
+    {
+      "src": "assets/apps/hingebloom/shot-2.webp",
+      "device": "phone",
+      "caption": "Garden Beds: ten gardens, one idea each"
+    },
+    {
+      "src": "assets/apps/hingebloom/shot-3.webp",
+      "device": "phone",
+      "caption": "Bend one petal, fold the whole bed"
+    },
+    {
+      "src": "assets/apps/hingebloom/shot-4.webp",
+      "device": "phone",
+      "caption": "Every gilt pad wants a petal"
+    },
+    {
+      "src": "assets/apps/hingebloom/shot-5.webp",
+      "device": "phone",
+      "caption": "Stones say no: find the other way"
+    },
+    {
+      "src": "assets/apps/hingebloom/shot-6.webp",
+      "device": "phone",
+      "caption": "A hint is always one tap away"
+    },
+    {
+      "src": "assets/apps/hingebloom/shot-7.webp",
+      "device": "phone",
+      "caption": "Watch it bloom"
+    },
+    {
+      "src": "assets/apps/hingebloom/shot-8.webp",
+      "device": "phone",
+      "caption": "One hundred beds, then a garden without end"
+    },
+    {
+      "src": "assets/apps/hingebloom/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hingebloom/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hingebloom/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hingebloom/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/hingebloom/id6831873487",
+    "appleId": "6831873487",
+    "bundleId": "com.equalinformation.hingebloom.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.hingebloom.app"
+  },
+  "related": [
+    "whirrtin",
+    "pondlily",
+    "pebble-shift"
+  ],
+  "accent": "#b0497a",
+  "supportUrl": "https://equalinformation.com/support-hingebloom.html",
+  "editorial": {
+    "headline": "Fold petals, fill gilt pads",
+    "story": "A black lacquer tray, a chain of enamel petals and small brass hinges: bend them in the right order and the bed blooms."
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "wobblade",
+  "name": "Wobblade",
+  "subtitle": "Slice jelly into equal bits",
+  "categories": [
+    "puzzle",
+    "casual"
+  ],
+  "tags": [
+    "jelly",
+    "slicing",
+    "geometry",
+    "precision",
+    "puzzle",
+    "dessert",
+    "relaxing",
+    "daily-challenge",
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Swipe a blade through glossy pastel jelly and share it out fairly. Odd moulds, hidden fruit, sliding slabs and a swaying table.",
+  "longDescription": "Somebody has to cut the cake, and everybody is watching.\n\nWobblade turns a swipe into a blade. Drag across a glazed pastel jelly and it parts along the exact line you drew, the pieces wobble, settle and show their share as a percentage. Cut one portion too fat and you will see it at once: the score is the smallest piece divided by the largest, so only a truly even split earns three stars.\n\n### The Jellies Fight Back\n- Plain Cakes: round and oval jellies teach the swipe.\n- Odd Moulds: hearts, crosses, crescents and peanuts, where one wrong angle leaves a stray crumb.\n- Fruit Tarts: whole strawberries sleep inside. Slice through one and the plate loses a star.\n- Sliding Slabs: every cut pushes the pieces apart, so the next cut has to be planned.\n- Windy Table: the plate sways, and the blade lands where the jelly is when you lift your finger.\n- Banquet Hall: five and six portions, fruit and wobble together.\n\n### More To Serve\n- 108 hand-checked plates. Every one has a known perfect cut, found by the game's own solver.\n- A Daily Cake that is the same jelly for everybody, with a streak.\n- Banquet, an endless service that ends after three dropped plates.\n- A Cabinet of 24 garnishes bought with coins you earn by playing. Coins cannot be bought, and the draw odds are printed on the screen.\n- A free-slice table on the home screen: touch the jelly and just cut.\n\n### Look And Feel\nBright patisserie light, mirror-glaze jelly, a marble table, a music-box tune and soft wet slicing sounds. Landscape and portrait, iPhone and iPad.",
+  "whatsNew": "Version 1.0 launch: 108 hand-checked plates, a Daily Cake with a streak, endless Banquet service and a Cabinet of 24 garnishes to buy with coins you earn.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-wobblade.html",
+  "releasedAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/wobblade/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/wobblade/shot-1.webp",
+      "device": "phone",
+      "caption": "Home table: touch the jelly and just cut"
+    },
+    {
+      "src": "assets/apps/wobblade/shot-2.webp",
+      "device": "phone",
+      "caption": "A cut parting a pastel jelly, shares shown as percentages"
+    },
+    {
+      "src": "assets/apps/wobblade/shot-3.webp",
+      "device": "phone",
+      "caption": "Fruit tarts: slice through a strawberry and lose a star"
+    },
+    {
+      "src": "assets/apps/wobblade/shot-4.webp",
+      "device": "phone",
+      "caption": "Odd moulds such as hearts and crescents"
+    },
+    {
+      "src": "assets/apps/wobblade/shot-5.webp",
+      "device": "phone",
+      "caption": "A windy table that sways the plate"
+    },
+    {
+      "src": "assets/apps/wobblade/shot-6.webp",
+      "device": "phone",
+      "caption": "Plate in play with the cut line drawn"
+    },
+    {
+      "src": "assets/apps/wobblade/shot-7.webp",
+      "device": "phone",
+      "caption": "Daily Cake card and streak"
+    },
+    {
+      "src": "assets/apps/wobblade/shot-8.webp",
+      "device": "phone",
+      "caption": "The journey through the plates"
+    },
+    {
+      "src": "assets/apps/wobblade/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/wobblade/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/wobblade/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/wobblade/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/wobblade/id6831874775",
+    "appleId": "6831874775",
+    "bundleId": "com.equalinformation.wobblade.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.wobblade.app"
+  },
+  "related": [
+    "whirrtin",
+    "pondlily",
+    "pebble-shift"
+  ],
+  "accent": "#e8789a",
+  "supportUrl": "https://equalinformation.com/support-wobblade.html",
+  "editorial": {
+    "headline": "Slice jelly into equal bits",
+    "story": "Somebody has to cut the cake, and everybody is watching."
+  }
+}
