@@ -28,6 +28,7 @@ function md(src = '') {
   const lines = String(src).replace(/\r/g, '').split('\n'); let h = '', list = false, para = [];
   const flush = () => { if (para.length) { h += '<p>' + inline(para.join(' ')) + '</p>'; para = []; } };
   for (const l of lines) {
+    const hm = l.match(/^#{1,4}\s+(.*)$/); if (hm) { flush(); if (list) { h += '</ul>'; list = false; } h += '<h3>' + inline(hm[1]) + '</h3>'; continue; }
     if (/^\s*[-*] /.test(l)) { flush(); if (!list) { h += '<ul>'; list = true; } h += '<li>' + inline(l.replace(/^\s*[-*] /, '')) + '</li>'; continue; }
     if (list) { h += '</ul>'; list = false; }
     if (!l.trim()) flush(); else para.push(l.trim());

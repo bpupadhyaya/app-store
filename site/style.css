@@ -72,5 +72,6 @@ h1{font-size:clamp(1.9rem,4.5vw,3rem);line-height:1.1;margin:.2em 0 .3em;letter-
 .sugg{display:flex;gap:8px;flex-wrap:wrap;margin:6px 0 18px}.sugg button{font:inherit;border:1px solid var(--line);background:var(--card);color:var(--ink);padding:7px 14px;border-radius:999px;cursor:pointer}
 footer.foot{background:var(--hdr);color:#dfe3ff;padding:28px 0;position:relative}
 footer.foot a{color:#fff}footer.foot .cols{display:flex;gap:18px 32px;flex-wrap:wrap;justify-content:space-between;align-items:center}footer.foot nav{display:flex;gap:18px;flex-wrap:wrap}
-.reveal{animation:rise .6s cubic-bezier(.2,.8,.2,1) both}@keyframes rise{from{opacity:0;transform:translateY(14px)}}
+.reveal{animation:rise .6s cubic-bezier(.2,.8,.2,1) both}@keyframes rise{from{transform:translateY(14px)}}
+.two>*,.app-head>*,.grid>*,.results>*,.tile .t{min-width:0}.prose{overflow-wrap:anywhere}.prose h3{margin:1.4em 0 .4em;font-size:1.15rem}html,body{overflow-x:clip}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
