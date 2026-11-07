@@ -9,7 +9,13 @@ import { imageInfo, srcset, ogImages, HAVE_CWEBP, HAVE_OG, dims } from './lib/im
 const sample = process.argv.includes('--sample');
 const cat = loadCatalog({ sample });
 const DIST = path.join(ROOT, 'dist');
-const S = JSON.parse(fs.readFileSync(path.join(ROOT, 'site', 'strings', cat.config.locale + '.json'), 'utf8'));
+// i18n scaffold: `--locale xx` (or LOCALE=xx) merges site/strings/xx.json over English and overlays catalog/i18n/xx/<slug>.json
+// (shortDescription, longDescription, whatsNew, subtitle, screenshot captions) onto each app. Default: config.locale (en).
+const li = process.argv.indexOf('--locale'); const LOCALE = (li > -1 ? process.argv[li + 1] : process.env.LOCALE) || cat.config.locale;
+const rdj = p => { try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch { return {}; } };
+const S = { ...rdj(path.join(ROOT, 'site', 'strings', 'en.json')), ...(LOCALE !== 'en' ? rdj(path.join(ROOT, 'site', 'strings', LOCALE + '.json')) : {}) };
+cat.config.locale = LOCALE;
+if (LOCALE !== 'en') for (const a of cat.apps) { const o = rdj(path.join(ROOT, 'catalog', 'i18n', LOCALE, a.slug + '.json')); for (const k of ['subtitle', 'shortDescription', 'longDescription', 'whatsNew']) if (o[k]) a[k] = o[k]; (o.captions || []).forEach((c, i) => { if (a.screenshots?.[i] && c) a.screenshots[i].caption = c; }); }
 const SITE = cat.config.siteUrl;
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const catById = Object.fromEntries(cat.categories.map(c => [c.id, c]));

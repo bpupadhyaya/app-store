@@ -30,7 +30,7 @@ const fullName = field(/^Name[^`\n]*`([^`]+)`/m) || name;
 const subtitle = field(/^Subtitle[^`\n]*`([^`]+)`/m) || old.subtitle || (fullName.includes(':') ? fullName.split(':')[1].trim() : '');
 const promo = field(/^Promo text[^`\n]*`([^`]+)`/m);
 const keywords = (field(/^Keywords[^`\n]*`([^`]+)`/m) || '').split(',').map(s => s.trim()).filter(Boolean);
-const whatsNew = field(/^What's New[^`\n]*`([^`]+)`/m) || old.whatsNew || '';
+const whatsNew = (flag('refresh-text') ? field(/^What's New[^`\n]*`([^`]+)`/m) : '') || old.whatsNew || field(/^What's New[^`\n]*`([^`]+)`/m) || '';
 const descBlock = (text.match(/^Description[^\n]*\n```\n([\s\S]*?)\n```/m) || [])[1] || '';
 const catLine = field(/^Category:\s*(.+)$/m) || '';
 const MAP = { puzzle: 'puzzle', casual: 'casual', board: 'board-strategy', strategy: 'board-strategy', word: 'word', music: 'music', sports: 'sports', education: 'education', health: 'health', utilities: 'utilities', lifestyle: 'lifestyle' };
@@ -42,8 +42,13 @@ const bundle = opt('bundle') || old.ios?.bundleId || (rowText.match(/bundle (com
 const appleId = opt('apple-id') || old.ios?.appleId || (rowText + text).match(/ASC app (\d{9,10})/)?.[1] || (rowText.match(/\bid(\d{9,10})\b/) || [])[1] || '';
 const privacyUrl = field(/(https:\/\/equalinformation\.com\/privacy-[a-z0-9-]+\.html)/) || old.privacyUrl, supportUrl = field(/(https:\/\/equalinformation\.com\/app-support-[a-z0-9-]+\.html)/) || old.supportUrl;
 // description: keep web-safe markdown, drop store boilerplate sections
-const longDescription = old.longDescription && flag('keep-text') ? old.longDescription : descBlock.split('\n').map(l => /^[A-Z][A-Z0-9 ,&'!-]{5,}$/.test(l.trim()) ? '**' + l.trim().replace(/\b(\w)(\w*)/g, (_, a, b) => a + b.toLowerCase()) + '**' : l).join('\n').trim() || old.longDescription || promo || '';
-const shortDescription = (promo || old.shortDescription || longDescription.split('\n')[0] || '').slice(0, 160);
+// Web copy is owned by the catalog once it exists: re-runs keep it unless --refresh-text is given (new entries derive it from the store text).
+const keepCopy = !!old.longDescription && !flag('refresh-text');
+// drop store-only sections (ads, free-to-play, subscription legalese, privacy, contact) from the web description
+const webSafe = t => t.split(/\n(?=\*\*[^\n]+\*\*\s*(?:\n|$))/).filter(b => !/^\*\*(ads|free to play|optional subscription|subscription|privacy|contact|support|terms)/i.test(b.trim())).join('\n').trim();
+const derivedLong = webSafe( descBlock.split('\n').map(l => /^[A-Z][A-Z0-9 ,&'!-]{5,}$/.test(l.trim()) ? '**' + l.trim().replace(/\b(\w)(\w*)/g, (_, a, b) => a + b.toLowerCase()) + '**' : l).join('\n').trim()) || promo || '';
+const longDescription = keepCopy ? old.longDescription : derivedLong;
+const shortDescription = keepCopy && old.shortDescription ? old.shortDescription : (promo || longDescription.split('\n')[0] || '').slice(0, 160);
 // store status
 let ios = { status: old.ios?.status || (/WAITING|IN_REVIEW|SUBMITTED/i.test(status[9] || '') ? 'review' : 'soon'), url: old.ios?.url || '', appleId, bundleId: bundle };
 let android = { status: old.android?.status || (/SUBMITTED|review/i.test(status[10] || '') ? 'review' : 'soon'), url: old.android?.url || '', package: pkg };
@@ -61,6 +66,7 @@ const find = (sub, re) => { for (const d of storeDirs) { const dir = path.join(s
 const findFile = re => { for (const d of [...storeDirs, '']) { const dir = path.join(srcRoot, d); if (fs.existsSync(dir)) { const f = fs.readdirSync(dir).filter(x => re.test(x)).sort().reverse()[0]; if (f) return path.join(dir, f); } } return null; };
 const cwebp = spawnSync('which', ['cwebp']).status === 0;
 function img(src, dest, w, q = 80) { // writes dest (.webp via cwebp, else resized copy)
+  if (fs.existsSync(dest) && !flag('refresh-images')) return; // idempotent: no binary churn on re-runs
   fs.mkdirSync(path.dirname(dest), { recursive: true });
   if (dest.endsWith('.webp') && cwebp) execFileSync('cwebp', ['-quiet', '-q', String(q), '-resize', String(w), '0', src, '-o', dest]);
   else if (spawnSync('which', ['sips']).status === 0) execFileSync('sips', ['-Z', String(w), src, '--out', dest], { stdio: 'ignore' });
@@ -72,14 +78,15 @@ if (!flag('dry') && storeDirs.length) {
   if (ic) { img(ic, path.join(adir, 'icon-512.png'), 512); icon = `${arel}/icon-512.png`; }
   const fg = findFile(/^feature.*\.(png|jpg)$/); if (fg) { img(fg, path.join(adir, 'hero.webp'), 1600); hero = `${arel}/hero.webp`; }
   const ph = find('iphone', /\.png$/).length ? find('iphone', /\.png$/) : find('phone', /\.png$/), tb = find('ipad', /\.png$/);
-  screenshots = [];
-  ph.slice(0, 8).forEach((s, i) => { img(s, path.join(adir, `shot-${i + 1}.webp`), 640, 78); screenshots.push({ src: `${arel}/shot-${i + 1}.webp`, device: 'phone', caption: old.screenshots?.[i]?.caption || '' }); });
-  tb.slice(0, 4).forEach((s, i) => { img(s, path.join(adir, `tablet-${i + 1}.webp`), 1000, 78); screenshots.push({ src: `${arel}/tablet-${i + 1}.webp`, device: 'tablet', caption: '' }); });
+  const keepShots = old.screenshots?.length && !flag('refresh-shots'); // curated shot list (and captions) survive re-runs
+  if (!keepShots) screenshots = [];
+  if (!keepShots) ph.slice(0, 8).forEach((s, i) => { img(s, path.join(adir, `shot-${i + 1}.webp`), 640, 78); screenshots.push({ src: `${arel}/shot-${i + 1}.webp`, device: 'phone', caption: old.screenshots?.find(x => x.src === `${arel}/shot-${i + 1}.webp`)?.caption || '' }); });
+  if (!keepShots) tb.slice(0, 4).forEach((s, i) => { img(s, path.join(adir, `tablet-${i + 1}.webp`), 1000, 78); screenshots.push({ src: `${arel}/tablet-${i + 1}.webp`, device: 'tablet', caption: old.screenshots?.find(x => x.src === `${arel}/tablet-${i + 1}.webp`)?.caption || '' }); });
 }
 const today = new Date().toISOString().slice(0, 10);
 const entry = {
   slug, name, subtitle, categories, tags: old.tags?.length ? old.tags : [...new Set([...keywords, ...(/offline/i.test(longDescription) ? ['offline'] : [])])].slice(0, 12),
-  developer: 'EqualInformation', shortDescription, longDescription, whatsNew, price: 'Free', monetization: 'Free with ads, optional monthly ad-free', ageRating,
+  developer: 'EqualInformation', shortDescription, longDescription, whatsNew, price: 'Free', monetization: old.monetization || (/subscription|ad-?free/i.test(text + packet + rowText) ? 'Free with ads, optional monthly ad-free' : 'Free with ads'), ageRating,
   ...(privacyUrl && { privacyUrl }), ...(supportUrl && { supportUrl }), releasedAt: old.releasedAt || today, updatedAt: today, version: old.version || '1.0.0',
   icon: icon || `${arel}/icon-512.png`, ...(hero && { hero }), ...(old.accent && { accent: old.accent }), screenshots, ios, android,
   related: old.related || [], ...(old.editorial && { editorial: old.editorial }),
