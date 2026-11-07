@@ -1,0 +1,89 @@
+{
+  "slug": "bobwave",
+  "name": "Bobwave",
+  "subtitle": "Swinging wave music puzzle",
+  "categories": [
+    "puzzle",
+    "music"
+  ],
+  "tags": [
+    "puzzle",
+    "physics",
+    "music",
+    "relaxing",
+    "brain",
+    "chime",
+    "pendulum",
+    "offline",
+    "daily-challenge",
+    "no-timers"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Pull the strings to different lengths, let go, and watch a row of glowing bobs braid into a wave that rings like a wind chime.",
+  "longDescription": "Pull the strings to different lengths, let go, and watch a row of glowing bobs braid into a wave that rings like a wind chime.\n\nBobwave is a calm, clever physics puzzle with real music in it. Every level shows ghost rings. Set how long each string is, tap Release, and at the snap moment time freezes: every bob that sits inside its ghost ring chimes. Read the pattern, retune, and release again until the whole wave locks into a chord.\n\n### Why You Will Keep Playing\n- Easy to learn in seconds, hard to master: shorter strings swing faster, and the skill is reading the ripple.\n- [LEVELS] hand-tuned levels, checked by a solver so every one can be solved, from two bobs to a dozen.\n- A new Daily Wave every day, the same for everyone, with a result you can share.\n- A Sandbox where twelve bobs play a generative melody you can loop.\n- Three stars per level reward clean, thoughtful solutions. No timers, no lives, no penalty for trying again.\n- Hints when you are stuck.\n- Beautiful 3D visuals and glass-bell sound, with haptic ticks as you tune.\n- Plays offline. No account needed.\n- Accessibility: reduced motion, VoiceOver support, and nine languages.\n\n### Free To Play, Your Way\nBobwave is free to play with short ads: a banner on the menu and a full-screen ad after a completed level. You choose how to enjoy it:\n- Play for free with ads.\n- Earn ad-free play each month by watching short optional videos. Your progress is shown, and it refills at the start of each month.\n- Or go ad-free every month with Ad-free, monthly.\n\n### Subscription Information\nAd-free, monthly: removes ads for one month at a time. The price is shown in the app before you buy. Payment is charged to your Apple ID account at confirmation of purchase. The subscription renews automatically each month unless it is cancelled at least 24 hours before the end of the current period. Your account is charged for renewal within 24 hours before the end of the current period. You can manage or cancel your subscription in your Apple ID account settings (Settings > your name > Subscriptions) at any time after purchase.",
+  "whatsNew": "First release: Bobwave, a chiming wave puzzle. Set the strings, release the bobs and match the ghost rings.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-bobwave.html",
+  "supportUrl": "https://equalinformation.com/app-support-bobwave.html",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "version": "1.0.0",
+  "icon": "assets/apps/bobwave/icon-512.png",
+  "hero": "assets/apps/bobwave/hero.webp",
+  "accent": "#3a4f7c",
+  "screenshots": [
+    {
+      "src": "assets/apps/bobwave/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bobwave/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bobwave/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bobwave/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bobwave/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bobwave/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "6830949571",
+    "bundleId": "com.equalinformation.bobwave.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.bobwave.app"
+  },
+  "related": [
+    "pebble-shift",
+    "millwhirl",
+    "pondlily",
+    "sluiceway"
+  ],
+  "editorial": {
+    "headline": "Swinging wave music puzzle",
+    "story": "Pull the strings to different lengths, let go, and watch a row of glowing bobs braid into a wave that rings like a wind chime."
+  }
+}

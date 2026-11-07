@@ -1,0 +1,89 @@
+{
+  "slug": "pebble-shift",
+  "name": "Pebble Shift",
+  "subtitle": "Level the beam, stone by stone",
+  "categories": [
+    "puzzle",
+    "board-strategy"
+  ],
+  "tags": [
+    "balance",
+    "scale",
+    "weight",
+    "stone",
+    "puzzle",
+    "logic",
+    "brain",
+    "offline",
+    "daily-challenge",
+    "no-timers"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A brass scale sits on a velvet-covered cabinet. Around its base runs a ring of slots, and in some of those slots rest polished stones, each one stamped with...",
+  "longDescription": "A brass scale sits on a velvet-covered cabinet. Around its base runs a ring of slots, and in some of those slots rest polished stones, each one stamped with a weight. The two pans of the scale hang uneven. Your job is quiet and exact: slide the stones around the ring, one step at a time into an empty neighbouring slot, until the beam swings level.\n\nPebble Shift is a calm balancing puzzle with no timers and no lives. The right half of the ring feeds the right pan and the left half feeds the left, so every slide moves weight from one side to the other. Lift a stone, tap a glowing dish, and watch the beam answer with a real spring and a small swing in each pan. Undo and restart are always free. Finish in the fewest slides and you earn all three pebbles.\n\n### Eleven Worlds, 120 Plates\nThe first plates teach the idea on a ring of six slots. Rings then grow to eight, ten and twelve, and the stones get heavier. Later worlds change the rules. Bolted stones are fixed in their dishes: they never move, but they still weigh, so you must balance around them. Counterweights shift the target, so the beam has to settle with one pan heavier by a set amount. Both ideas meet in the last world, the Grand Assay. Every plate was checked by a solver before release, and the stored best score for each one is the true minimum number of slides.\n\n### A New Plate Every Day, And Plates That Never End\nThe Daily plate is made on your device from the date, so everyone who plays today meets the same puzzle; its difficulty rises through the week and your streak counts the days in a row. Free bench is an endless run of fresh plates that grows harder the longer you keep going, and it remembers your longest streak of cleared plates.\n\n### Agate, Brass And Velvet\nThe cabinet is modelled in real 3D: cut-agate stones with engraved weights, a chamfered stone ring with brass inlay, a velvet top lit by one warm lamp, and a brass scale that sways as the weight changes. Sound is soft and made on the device, there is a gentle ambient bed, sound and reduced motion can be switched off, and the game works offline with no account.\n\n### Ads, And How To Turn Them Off\nPebble Shift is free to download and shows Google AdMob ads: a strip on the home screen, a strip below the scale while you play, and an occasional full-screen ad after a finished plate, never in the middle of one. A short optional video gives you a hint, and enough videos in a month switch ads off until it ends. On iPhone and iPad the app asks once, through Apple's tracking prompt, whether it may use your advertising identifier. Say no and nothing about play changes.",
+  "whatsNew": "Welcome to Pebble Shift: the first release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-pebbleshift.html",
+  "supportUrl": "https://equalinformation.com/app-support-pebbleshift.html",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "version": "1.0.0",
+  "icon": "assets/apps/pebble-shift/icon-512.png",
+  "hero": "assets/apps/pebble-shift/hero.webp",
+  "accent": "#da901b",
+  "screenshots": [
+    {
+      "src": "assets/apps/pebble-shift/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pebble-shift/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pebble-shift/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pebble-shift/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pebble-shift/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pebble-shift/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/pebble-shift-scale-puzzle/id6831378353",
+    "appleId": "6831378353",
+    "bundleId": "com.equalinformation.pebble-shift.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.pebble_shift.app"
+  },
+  "related": [
+    "sluiceway",
+    "skyferry",
+    "taffytwirl",
+    "hillside-hum"
+  ],
+  "editorial": {
+    "headline": "Level the beam, stone by stone",
+    "story": "A brass scale sits on a velvet-covered cabinet. Around its base runs a ring of slots, and in some of those slots rest polished stones, each one stamped with a weight. The two pans of the scale hang uneven. Your job is quiet and exact: slide the stones around the ring, one step at a time into an empty neighbouring slot, until the beam swings level."
+  }
+}

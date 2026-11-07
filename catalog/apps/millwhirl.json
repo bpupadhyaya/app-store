@@ -1,0 +1,89 @@
+{
+  "slug": "millwhirl",
+  "name": "Millwhirl",
+  "subtitle": "Turn the sails, steer the wind",
+  "categories": [
+    "puzzle",
+    "casual"
+  ],
+  "tags": [
+    "windmill",
+    "wind",
+    "puzzle",
+    "tulip",
+    "dutch",
+    "polder",
+    "mill",
+    "offline",
+    "daily-challenge",
+    "no-timers"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A breeze crosses a polder at first light, and every windmill is facing the wrong way. Tap a mill and its sails swing a quarter turn. Line them up so the...",
+  "longDescription": "A breeze crosses a polder at first light, and every windmill is facing the wrong way. Tap a mill and its sails swing a quarter turn. Line them up so the wind from each weather vane reaches the sails, and the whole valley starts to grind.\n\nEach valley is a small, solvable riddle. Wind runs straight through open meadow and stops at boulders, vanes and the edge of the map. A straight mill hands the wind on. A split mill sends it out to both sides. Plan the chain, make your taps, and watch the sails catch one after another. Finish in the fewest taps for three stars. There are no timers and no lives, and undo, redo and restart are always free.\n\n### Eight Worlds, 84 Valleys\nMeadow Breeze teaches the first turns. Splitting Hills adds mills that fork the wind. Brook & Boulders puts stones in the way. Three Winds brings several vanes at once. Then it gets stranger: in Reed Screens you flip woven screens that bend the wind round a corner, in Pegged Mills some mills are fixed in place and the wind has to be routed to them, and Crossed Winds and the Grand Valley mix everything on boards up to seven by seven. The reed-screen and pegged-mill valleys were checked by a solver, so each one has an answer and a true minimum.\n\n### More To Come Back To\nDaily Mill: one new valley every day, with a streak that counts consecutive days. Endless Valleys: a never-ending run of fresh boards that grow harder. The Pantry: twenty-four flours and grains that open as you collect stars, free and with no luck involved.\n\n### Made To Be Looked At\nA dawn-lit polder of tulip rows, dark furrowed soil, white-washed stone frames edged in Delft blue, and real 3D windmills with sails that glow warm when they catch the wind. Soft wind, creaking timber and a quiet bell. Works offline, no account needed.\n\n### Ads And The Optional Pass\nMillwhirl is free and shows ads from Google AdMob: a banner on the home screen and under the valley, and a full-screen ad now and then after you finish a valley (never at the start of one). You can watch short optional videos to fill the Miller's Ledger: 100 videos in a calendar month make the rest of that month ad-free. Or subscribe to Ad-free Monthly, billed to your Apple Account every month until you cancel (cancel any time in Settings > Apple Account > Subscriptions, at least 24 hours before renewal). Nothing that changes a puzzle is ever sold.",
+  "whatsNew": "Welcome to Millwhirl: the first release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-millwhirl.html",
+  "supportUrl": "https://equalinformation.com/app-support-millwhirl.html",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "version": "1.0.0",
+  "icon": "assets/apps/millwhirl/icon-512.png",
+  "hero": "assets/apps/millwhirl/hero.webp",
+  "accent": "#b3747d",
+  "screenshots": [
+    {
+      "src": "assets/apps/millwhirl/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/millwhirl/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/millwhirl/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/millwhirl/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/millwhirl/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/millwhirl/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/millwhirl-windmill-puzzle/id6831360950",
+    "appleId": "6831360950",
+    "bundleId": "com.equalinformation.millwhirl.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.millwhirl.app"
+  },
+  "related": [
+    "pondlily",
+    "cranklet",
+    "fieldmouse-post",
+    "goatstep"
+  ],
+  "editorial": {
+    "headline": "Turn the sails, steer the wind",
+    "story": "A breeze crosses a polder at first light, and every windmill is facing the wrong way. Tap a mill and its sails swing a quarter turn. Line them up so the wind from each weather vane reaches the sails, and the whole valley starts to grind."
+  }
+}

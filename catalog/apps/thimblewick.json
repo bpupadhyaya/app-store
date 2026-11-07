@@ -1,0 +1,89 @@
+{
+  "slug": "thimblewick",
+  "name": "Thimblewick",
+  "subtitle": "Stitch every seam once",
+  "categories": [
+    "puzzle",
+    "casual"
+  ],
+  "tags": [
+    "sewing",
+    "stitch",
+    "thread",
+    "needle",
+    "fabric",
+    "puzzle",
+    "seam",
+    "offline",
+    "daily-challenge",
+    "relaxing"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Thread the needle and stitch every dotted seam exactly once. 100 patterns in ten twist worlds, a Daily cloth and an endless Long Thread.",
+  "longDescription": "Thread the needle, take a breath, and sew.\n\nThimblewick is a calm sewing puzzle played on a real-looking 3D tailor's desk. A cloth of eyelets lies under the lamp, dotted guides show the seams, and your job is simple to say and lovely to solve: stitch every dotted seam exactly once, in one unbroken thread, without crossing your own stitches.\n\n### Ten Twist Worlds, 100 Patterns\nEvery world bends the rule in a new way. Hem Row teaches the basics. Bias Bay allows diagonal seams that must never cross. Backstitch Lane has double seams that need two passes. Selvage Street adds brass arrows: sew those seams one way only. Eyelet Court has grommets you may pass through just once. Anchor Wharf wants you to finish on the red wax seal. Button Row asks for numbered buttons in order. Fold Fair mirrors blue stitches across the cloth. Sampler Hall and Grand Embroidery mix everything. Every pattern has been checked by a solver, so a clean solution always exists.\n\n### More Ways To Sew\n- Daily cloth: a fresh pattern every day, with a streak to keep.\n- Long Thread: an endless run of patterns with snips to cut a bad stitch and a second wind when you tangle.\n- Button Box: earn spools by finishing patterns and choose from 30 buttons for your desk, all free.\n\n### Made For Relaxing\nNo timers, no lives, no pressure. Undo, redo, a gentle hint and a snip tool are always in reach. Soft procedural sounds, warm light, glossy twisted thread and a brass needle make every seam feel good. Works fully offline.",
+  "whatsNew": "Welcome to Thimblewick: the first release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-thimblewick.html",
+  "supportUrl": "https://equalinformation.com/app-support-thimblewick.html",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "version": "1.0.0",
+  "icon": "assets/apps/thimblewick/icon-512.png",
+  "hero": "assets/apps/thimblewick/hero.webp",
+  "accent": "#ad2919",
+  "screenshots": [
+    {
+      "src": "assets/apps/thimblewick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/thimblewick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/thimblewick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/thimblewick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/thimblewick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/thimblewick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "6831460336",
+    "bundleId": "com.equalinformation.thimblewick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.thimblewick.app"
+  },
+  "related": [
+    "millwhirl",
+    "pondlily",
+    "cranklet",
+    "fieldmouse-post"
+  ],
+  "editorial": {
+    "headline": "Stitch every seam once",
+    "story": "Thread the needle, take a breath, and sew."
+  }
+}

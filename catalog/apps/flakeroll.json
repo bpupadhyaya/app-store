@@ -1,0 +1,88 @@
+{
+  "slug": "flakeroll",
+  "name": "Flakeroll",
+  "subtitle": "Roll snow, stack the snowman",
+  "categories": [
+    "puzzle",
+    "casual"
+  ],
+  "tags": [
+    "snowball",
+    "snowman",
+    "winter",
+    "snow",
+    "roll",
+    "stack",
+    "sliding",
+    "daily-challenge",
+    "no-timers"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Roll a snowball to exactly the right size, stack the snowman, and meet a new rule in every one of ten worlds.",
+  "longDescription": "Flakeroll is a snowball puzzle about exact sizes. Put a finger anywhere in a toy-village yard and drag: the snowball follows, swelling over every patch of fresh snow and shrinking in bare mud. At the far end a ghost snowman shows the size of each piece. Roll a ball of exactly that size onto the wooden plinth and it stacks, then a new little ball appears on the red rug for the next piece.\n\n### 100 Yards In Ten Worlds\nEvery world teaches one new rule, so the puzzle keeps changing shape:\n- First Frost and Mudflats: snow adds one, mud takes one away.\n- Frozen Pond: ice sends the ball sliding until something stops it.\n- Deep Powder: powder drifts add two.\n- Sunny Slope: sun slush shrinks the ball by two.\n- Garden Gates: small gates let only little balls through.\n- Plow Lanes: one-way lanes can be entered only the way the arrow points.\n- Gusty Hollow: gusts shove you one more cell.\n- Snow Tunnels: tunnel mouths come in pairs.\n- Grand Parade: every rule at once.\n\n### More To Roll\n- Daily Yard: a fresh yard every day, the same for everyone, with a streak.\n- Blizzard Run: chain up to twelve yards on six flames; every undo or restart burns one.\n- Wardrobe: spend free coins from stars and Daily Yards on hats and scarves for the finished snowman. No random boxes, no coin packs.\n- Path hint: golden footprints show one way home when you are stuck.\n\n### Calm By Design\nNo timers, no lives, unlimited undo and restart. Warm music-box lullaby, soft crunchy sound effects, optional haptics, a calm-motion setting, and big touch targets on iPhone and iPad.",
+  "whatsNew": "Welcome to Flakeroll: the first release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-flakeroll.html",
+  "supportUrl": "https://equalinformation.com/app-support-flakeroll.html",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "version": "1.0.0",
+  "icon": "assets/apps/flakeroll/icon-512.png",
+  "hero": "assets/apps/flakeroll/hero.webp",
+  "accent": "#9ea2bb",
+  "screenshots": [
+    {
+      "src": "assets/apps/flakeroll/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/flakeroll/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/flakeroll/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/flakeroll/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/flakeroll/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/flakeroll/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/flakeroll-snowman-puzzle/id6831407086",
+    "appleId": "6831407086",
+    "bundleId": "com.equalinformation.flakeroll.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.flakeroll.app"
+  },
+  "related": [
+    "goatstep",
+    "mapleshift",
+    "millwhirl",
+    "pondlily"
+  ],
+  "editorial": {
+    "headline": "Roll snow, stack the snowman",
+    "story": "Flakeroll is a snowball puzzle about exact sizes. Put a finger anywhere in a toy-village yard and drag: the snowball follows, swelling over every patch of fresh snow and shrinking in bare mud. At the far end a ghost snowman shows the size of each piece. Roll a ball of exactly that size onto the wooden plinth and it stacks, then a new little ball appears on the red rug for the next piece."
+  }
+}

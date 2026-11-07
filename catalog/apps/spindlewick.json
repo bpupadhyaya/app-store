@@ -1,0 +1,89 @@
+{
+  "slug": "spindlewick",
+  "name": "Spindlewick",
+  "subtitle": "Circle, twist, dye, weave",
+  "categories": [
+    "music",
+    "casual"
+  ],
+  "tags": [
+    "yarn",
+    "spindle",
+    "wool",
+    "knitting",
+    "rhythm",
+    "craft",
+    "calm",
+    "offline",
+    "daily-challenge",
+    "3d"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Spin glowing yarn by lamplight with one finger. Circle faster to twist, widen to thin, and follow the golden dot through 100 skeins.",
+  "longDescription": "A drop spindle, a cloud of wool and a lamp that never goes out. Spindlewick is a rhythm game for one finger: put it on the round spin pad and circle.\n\n### How It Works\nThe speed of your circling is the twist. The width of your circle is the tension. A golden dot runs around a dotted ring to show what the skein wants right now, and the yarn on the 3D spindle thickens, tightens and glows as you match it. Stop whenever you like: the yarn only grows while you do what the pattern asks, and nothing is ever lost.\n\n### 100 Skeins In Ten Worlds\nCarding Room teaches the circle. Drift Meadow glides the twist like weather. Heartbeat Hall pulses it. Quiet Hours asks you to rest and start again. Turnabout Lane makes you reverse direction. Slub Alley, Double Ply, Night Market, Dye Vats and the Grand Weave mix everything with tighter tolerances. Every skein was checked by our own tracker: a steady finger can reach three stars on all of them.\n\n### A Skein Each Day, And Long Warp\nThe Daily Skein is the same for everyone on that date and keeps a streak. Long Warp never ends: the strain bar climbs when you drift and eases when you are right, and your best time is kept.\n\n### Dyes, Woods And A Tapestry\nCoins come only from playing. Spend them on eighteen dyes and six spindle woods on your Dye Shelf, and watch a hundred-square Tapestry fill with a woven swatch for every skein you clear. No random boxes, nothing to buy with money.\n\n### Look And Sound\nA lamplit atelier in 3D: brass, walnut, jars of dye, drifting fibre and a soft generative score that breathes with your hands. Sound, haptics and a calm-motion setting are in Settings. Works offline.\n\n### Free To Play\nSpindlewick is free, with ads: a banner on the menu, a banner under the spin pad and a short break after some skeins. Watch optional videos to earn a quiet month, or subscribe to Quiet Mill for a monthly price shown in the store. The subscription renews automatically until you cancel it in your App Store account settings.",
+  "whatsNew": "Welcome to Spindlewick: the first release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-spindlewick.html",
+  "supportUrl": "https://equalinformation.com/app-support-spindlewick.html",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/spindlewick/icon-512.png",
+  "hero": "assets/apps/spindlewick/hero.webp",
+  "accent": "#975d4c",
+  "screenshots": [
+    {
+      "src": "assets/apps/spindlewick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/spindlewick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/spindlewick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/spindlewick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/spindlewick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/spindlewick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/spindlewick-yarn-spin-rhythm/id6831456166",
+    "appleId": "6831456166",
+    "bundleId": "com.equalinformation.spindlewick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.spindlewick.app"
+  },
+  "related": [
+    "scarecrow-lane",
+    "stiltfern",
+    "tidepool-keeper",
+    "globloom"
+  ],
+  "editorial": {
+    "headline": "Circle, twist, dye, weave",
+    "story": "A drop spindle, a cloud of wool and a lamp that never goes out. Spindlewick is a rhythm game for one finger: put it on the round spin pad and circle."
+  }
+}

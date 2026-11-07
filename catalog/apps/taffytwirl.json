@@ -1,0 +1,89 @@
+{
+  "slug": "taffytwirl",
+  "name": "Taffytwirl",
+  "subtitle": "Pull taffy, match the stripes",
+  "categories": [
+    "puzzle",
+    "board-strategy"
+  ],
+  "tags": [
+    "taffy",
+    "candy",
+    "puzzle",
+    "fold",
+    "stripes",
+    "pattern",
+    "logic",
+    "offline",
+    "daily-challenge",
+    "no-timers"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A customer wants a taffy pull in a very particular order of stripes. You have a long, glossy strand, a marble counter and a handful of folding tricks...",
+  "longDescription": "A customer wants a taffy pull in a very particular order of stripes. You have a long, glossy strand, a marble counter and a handful of folding tricks. Stretch it, fold it, and make the stripes line up.\n\nTaffytwirl is a calm candy-shop puzzle in real 3D. Every order shows the stripe pattern the customer wants. Pull the taffy to one side and let go to fold it with the tool you have picked, or tap the strand for the quick fold. The stripes rewrite themselves in the way that tool works, and the glossy taffy stretches, snaps back and swirls as you go. Undo and restart are free, so you can think out loud.\n\n### Eight Fold Tools, Each With Its Own Rule\n- Hook folds the strand back onto itself, mirrored.\n- Echo repeats the whole strand.\n- Braid weaves the stripes together from both ends.\n- Snip keeps the first half and bites off the rest.\n- Twist rolls the first stripe round to the back.\n- Swap trades the two ends.\n- Dye turns every stripe into the next flavour.\n- Cut keeps exactly as many stripes as you pull, so how far you pull matters.\nNew tools arrive world by world, and from the Twist Lane onward some tools have a limited number of uses per order, so the order in which you fold becomes the puzzle.\n\n### 132 Orders In Six Shop Worlds\nSugar Counter, Snip Alley, Twist Lane, Swap Shop, Dye House and the Grand Confectionery, 22 orders each. The last order of every world is a two-tier wedding cake: finish the bottom tier, and the top tier starts from the taffy you just made. Every order is checked by a solver, so there is always an answer, and the star target is the true shortest number of folds.\n\n### A Shop That Grows With You\nEach order comes with a customer and a small story. Every cleared order adds a swirl to your Swirl Album, shiny from Common up to Legendary according to your stars (no random loot, no boxes). Earn Sugar Coins by playing and spend them in the Shop on twelve decorations that appear on your counter: bunting, a jar shelf, a brass scale, a neon sign, a shop cat and more.\n\n### Every Day, And Endlessly\nA fresh Daily Order, the same for everyone, with a streak. An endless Candy Shop that keeps handing you new orders. A short Watch and Learn lesson at the start. No lives, no timers, nothing is ever unwinnable. Plays offline, no account.\n\n### Free To Play, Your Way\nTaffytwirl is free and supported by ads from Google AdMob: a banner on the home screen, a banner below the counter that never covers the tools, and a full-screen ad after some completed orders, never while you are folding. Optional short videos give you a hint or double coins, and watching enough of them earns ad-free play for the month. On iPhone and iPad the app asks once whether it may use your device identifier for ads (Apple's App Tracking Transparency); you can say no and play exactly the same.\n\nSUBSCRIPTION: GO AD-FREE (OPTIONAL)\n\"Taffytwirl Ad-free Monthly\" removes banner and full-screen ads for as long as it is active. The price per month is shown in the app and in the store before you buy. Payment is charged to your Apple Account at confirmation of purchase. The subscription renews automatically every month unless you cancel it at least 24 hours before the end of the current period. You can manage or cancel it any time in Settings > your name > Subscriptions. It does not unlock any orders: every order is free to play. Restore Purchases is in the Go ad-free sheet.",
+  "whatsNew": "First release. Fill 132 orders in six candy-shop worlds, master eight fold tools, take on the wedding-cake bosses, collect the Swirl Album and play the Daily Order.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-taffytwirl.html",
+  "supportUrl": "https://equalinformation.com/app-support-taffytwirl.html",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "version": "1.0.0",
+  "icon": "assets/apps/taffytwirl/icon-512.png",
+  "hero": "assets/apps/taffytwirl/hero.webp",
+  "accent": "#703c34",
+  "screenshots": [
+    {
+      "src": "assets/apps/taffytwirl/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/taffytwirl/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/taffytwirl/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/taffytwirl/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/taffytwirl/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/taffytwirl/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "6831052039",
+    "bundleId": "com.equalinformation.taffytwirl.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.taffytwirl.app"
+  },
+  "related": [
+    "pebble-shift",
+    "skyferry",
+    "sluiceway",
+    "hillside-hum"
+  ],
+  "editorial": {
+    "headline": "Pull taffy, match the stripes",
+    "story": "A customer wants a taffy pull in a very particular order of stripes. You have a long, glossy strand, a marble counter and a handful of folding tricks. Stretch it, fold it, and make the stripes line up."
+  }
+}

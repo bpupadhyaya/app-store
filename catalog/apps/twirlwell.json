@@ -1,0 +1,88 @@
+{
+  "slug": "twirlwell",
+  "name": "Twirlwell",
+  "subtitle": "Spin the stone, fall through",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "ball",
+    "drop",
+    "tower",
+    "spin",
+    "fall",
+    "helix",
+    "rings",
+    "offline",
+    "daily-challenge",
+    "no-timers"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "You are the well-sinker. Below you is a shaft of old stone, a brass pole down the middle and a ball that never stops bouncing. Your only tool is one finger...",
+  "longDescription": "You are the well-sinker. Below you is a shaft of old stone, a brass pole down the middle and a ball that never stops bouncing. Your only tool is one finger, and all it can do is turn the well.\n\nTwirlwell is a one-finger falling-ball game set inside a sunlit stone well. Drag left or right to spin the rings under the ball. Line a gap up beneath it and the ball drops through to the next ring, landing with a squash and a ripple of light. Stone bounces you. Dark ember segments pop you softly back up and cost a star. Fall through three rings in a row without a bounce and the ball blazes: the next ring it meets is smashed into bright shards.\n\nIt is easy to start and hard to put down. Gaps are wide at the top of a well and shrink the deeper you go, so the last rings ask for a steady hand and a little foresight. There are no timers and no lives in the levels, and the first level teaches itself with a short Watch and Learn demo you can skip or replay.\n\n### Sixty Wells, Six Stone Worlds\nSandstone, rose granite, blue slate, mossy limestone, terracotta and white marble. Every ten wells the stone, the light and the brickwork of the shaft change, and the rings grow from six to thirty-two. Three stars for a clean fall, two for one pop, one for the rest.\n\n### More Ways To Fall\nThe Daily tower is one shared well per day, the same for everyone, with your best depth saved. Deep dive is an endless descent that never repeats: the stone changes as you sink, you have three chances, and you chase your deepest run. Six ball skins, from lapis blue to gold, unlock as you clear wells.\n\n### Look And Sound\nThe well is modelled in real 3D: dressed stone blocks, polished brass, a clear-coat ball and soft daylight with real shadows. Every bounce plays a note of a calm pentatonic scale, smashes crash, and the finish lands with a chord. Haptics, sound and motion effects can each be turned down in Settings, there is an assist option that widens the gaps, and the game works offline with no sign-in.\n\n### Ads, And How To Turn Them Off\nTwirlwell is free to download and shows Google AdMob ads: a strip on the home screen, a strip below the well while you play, and an occasional full-screen ad after a won level, never in your first minutes and never mid-fall. An optional short video gives you a second wind in Deep dive, and enough videos in the Fathom Count switch ads off until the end of the month. On iPhone and iPad the app asks once, through Apple's tracking prompt, whether it may use your advertising identifier. Say no and nothing about play changes.\n\n### Optional Subscription\n\"Twirlwell Quiet Well\" removes banners and full-screen ads while it is active. The price is shown in the app and in the store before you confirm. Your Apple Account is charged when you confirm and the plan renews every month unless you turn it off at least 24 hours before the period ends. Manage or cancel it under Settings > your name > Subscriptions. Nothing in the game is locked behind it, and the Quiet Well sheet also offers Restore Purchases.",
+  "whatsNew": "First release: 60 stone wells in six worlds, a Daily tower, an endless Deep dive and six ball skins to unlock.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-twirlwell.html",
+  "supportUrl": "https://equalinformation.com/app-support-twirlwell.html",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "version": "1.0.0",
+  "icon": "assets/apps/twirlwell/icon-512.png",
+  "hero": "assets/apps/twirlwell/hero.webp",
+  "accent": "#dacd86",
+  "screenshots": [
+    {
+      "src": "assets/apps/twirlwell/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/twirlwell/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/twirlwell/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/twirlwell/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/twirlwell/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/twirlwell/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "6831473672",
+    "bundleId": "com.equalinformation.twirlwell.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.twirlwell.app"
+  },
+  "related": [
+    "goatstep",
+    "mapleshift",
+    "millwhirl",
+    "pondlily"
+  ],
+  "editorial": {
+    "headline": "Spin the stone, fall through",
+    "story": "You are the well-sinker. Below you is a shaft of old stone, a brass pole down the middle and a ball that never stops bouncing. Your only tool is one finger, and all it can do is turn the well."
+  }
+}

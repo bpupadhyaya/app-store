@@ -1,0 +1,89 @@
+{
+  "slug": "topplo",
+  "name": "Topplo",
+  "subtitle": "Lay glass, flick the wave",
+  "categories": [
+    "puzzle",
+    "casual"
+  ],
+  "tags": [
+    "domino",
+    "chain",
+    "reaction",
+    "glass",
+    "topple",
+    "flick",
+    "rainbow",
+    "offline",
+    "daily-challenge",
+    "no-timers"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Fill the gaps with glass dominoes, flick the first, and watch a rainbow wave race across the table. 100 levels, a daily layout and an endless Rush.",
+  "longDescription": "A table of sunlit glass, a chain of dominoes with holes in it, and one piece waiting to be flicked. Touch the table and drag to lay dominoes into the gaps, then tap the glowing start piece and listen to the whole chain clack down in a wave of colour.\n\nA domino pushes the next one only if it is close enough and roughly in line, so every gap has to be bridged properly. You get a limited number of pieces; use no more than par plus one for three stars. Undo, redo and clear are always one tap away. If the wave stops short the table simply stands up again. There are no timers and no lives.\n\n### 100 Levels In Ten Worlds\nPrism Row teaches the flick. Bend Street adds curves, Pillar Park puts glass posts in your way, Fork Court splits the chain so several gold goal pieces must fall. Spring pieces push farther, stout pieces push a shorter way, and later worlds trim the piece budget to the bone. Every layout is checked by our own solver: it can be won, and every piece you are given is needed.\n\n### A New Layout Every Day, And Rush\nThe Daily layout is the same for everyone on that date and keeps a streak. Rush is endless: clear layout after layout, each one harder, until a wave runs dry. Your best run is kept.\n\n### The Glass Cabinet\nWinning levels earns free coins, only by playing, and coins unlock 12 colour sets for your dominoes: Sea Glass, Rosewater, Lilac Hour, Peacock, Aurora and more. No random boxes, nothing to buy.\n\n### Light And Sound\nWarm window light, porcelain, brass and jewel-coloured glass with soft shadows. Wooden clacks climb a musical scale as the wave runs, and a bell rings for every goal. Sound, haptics and a calm-motion setting are all in Settings. Works offline.\n\n### Free To Play\nTopplo is free, with ads: a banner on the menu, a banner beneath the play field and a short break after some levels. Watch optional videos to earn a month without ads, or subscribe to Clear Glass for a monthly price shown in the store. The subscription renews automatically until you cancel it in your App Store account settings.",
+  "whatsNew": "Welcome to Topplo: the first release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-topplo.html",
+  "supportUrl": "https://equalinformation.com/app-support-topplo.html",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "version": "1.0.0",
+  "icon": "assets/apps/topplo/icon-512.png",
+  "hero": "assets/apps/topplo/hero.webp",
+  "accent": "#9ed961",
+  "screenshots": [
+    {
+      "src": "assets/apps/topplo/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/topplo/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/topplo/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/topplo/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/topplo/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/topplo/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/topplo-glass-domino-chain/id6831405829",
+    "appleId": "6831405829",
+    "bundleId": "com.equalinformation.topplo.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.topplo.app"
+  },
+  "related": [
+    "goatstep",
+    "mapleshift",
+    "millwhirl",
+    "pondlily"
+  ],
+  "editorial": {
+    "headline": "Lay glass, flick the wave",
+    "story": "A table of sunlit glass, a chain of dominoes with holes in it, and one piece waiting to be flicked. Touch the table and drag to lay dominoes into the gaps, then tap the glowing start piece and listen to the whole chain clack down in a wave of colour."
+  }
+}

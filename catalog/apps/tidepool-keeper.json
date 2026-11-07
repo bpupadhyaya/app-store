@@ -1,0 +1,89 @@
+{
+  "slug": "tidepool-keeper",
+  "name": "Tidepool Keeper",
+  "subtitle": "Grow a living tide pool",
+  "categories": [
+    "puzzle",
+    "casual"
+  ],
+  "tags": [
+    "tide-pool",
+    "rock-pool",
+    "kelp",
+    "starfish",
+    "anemone",
+    "limpet",
+    "sea-life",
+    "offline",
+    "daily-challenge",
+    "3d"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "73 rock pools in eight worlds, plus a new Daily pool every day. Tune the light, the current and the food, then watch the tide pool come alive.",
+  "longDescription": "A tide pool is a tiny world that runs on its own rules. You are its keeper.\n\nIn Tidepool Keeper you never move a creature. You set three things: how much sunlight reaches the water, which way and how hard the current pushes, and where each bit of plankton food lands. Then you watch. Kelp takes hold and sways. Limpets follow the kelp and graze. Anemones open where limpets settle. Starfish arrive last, where anemones and limpets meet. Fill the goals shown at the top of the pool and life emerges, for one to three stars.\n\n### What You Do\n- Drop plankton beside what is already alive. Life spreads from what you feed.\n- Turn the Light dial from dim to dazzling to speed growth.\n- Set the Current to carry plankton along its heading, around rocks and into corners.\n- Read the pool, then wait. Some pools reward patience more than taps.\n\n### What Is Inside\n- 73 pools in eight worlds on the shore, each world adding a twist: a capped light dial, a current that only runs one way, scarce plankton, pools you must hold steady for several tides.\n- Tide of the Day: a fresh Daily pool every day, with a streak to keep.\n- Free Pool: a sandbox where you grow whatever you like.\n- Tint Cabinet: eight water colours, from Clear Teal and Seaglass to Amber Tannin and Deep Ink, bought with pearls you earn by playing.\n- A rock pool built as a real 3D diorama with wet stone, rippling water, drifting caustic light and creatures that sway.\n- Gentle generative sound, haptics, Reduce Motion, works fully offline.\n\n### Free To Play\nTidepool Keeper is free and supported by ads. Optional rewarded videos give bonus plankton or double your pearls. If you would rather play without ads, Quiet Tide is an optional auto-renewing subscription at $2.99 per month (price may vary by region) that removes banners and full-screen ads; you can also earn ad-free time by watching videos. Payment is charged to your Apple Account at confirmation. The subscription renews automatically each month unless cancelled at least 24 hours before the end of the period. Manage or cancel in Settings > your name > Subscriptions. Nothing that affects the puzzles is ever for sale.",
+  "whatsNew": "Welcome to Tidepool Keeper: the first release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-tidepoolkeeper.html",
+  "supportUrl": "https://equalinformation.com/app-support-tidepoolkeeper.html",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/tidepool-keeper/icon-512.png",
+  "hero": "assets/apps/tidepool-keeper/hero.webp",
+  "accent": "#488c8e",
+  "screenshots": [
+    {
+      "src": "assets/apps/tidepool-keeper/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tidepool-keeper/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tidepool-keeper/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tidepool-keeper/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tidepool-keeper/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tidepool-keeper/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/tidepool-keeper-rock-pool/id6831461853",
+    "appleId": "6831461853",
+    "bundleId": "com.equalinformation.tidepoolkeeper.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.tidepoolkeeper.app"
+  },
+  "related": [
+    "scarecrow-lane",
+    "globloom",
+    "goatstep",
+    "mapleshift"
+  ],
+  "editorial": {
+    "headline": "Grow a living tide pool",
+    "story": "A tide pool is a tiny world that runs on its own rules. You are its keeper."
+  }
+}

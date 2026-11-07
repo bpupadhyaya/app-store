@@ -1,0 +1,89 @@
+{
+  "slug": "soapsail",
+  "name": "Soapsail",
+  "subtitle": "Blow, aim, float to the ring",
+  "categories": [
+    "puzzle",
+    "casual"
+  ],
+  "tags": [
+    "bubble",
+    "soap",
+    "float",
+    "arcade",
+    "wind",
+    "one-touch",
+    "sky",
+    "offline",
+    "no-timers",
+    "3d"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Hold to blow a soap bubble, slide to aim, let go and ride the breeze to the golden ring. 100 skies in ten worlds, a new sky every morning and an endless climb.",
+  "longDescription": "Up on a sunny rooftop a copper wand stands in a bowl of suds. Press and hold anywhere to blow a bubble, slide your finger to move the wand, then let go and watch the breeze carry your bubble up toward the golden ring.\n\nSize is speed. A tiny bubble darts upward but every gust shoves it hard; a big bubble drifts slowly, shrugs off the wind, and bumps into burrs far more easily. Pop on a burr and you simply blow another one. A faint trail of your last try stays in the sky, so each attempt teaches the next. There are no timers and no lives.\n\n### 100 Skies In Ten Worlds\nDew Meadow is just burrs. Whisper Hill adds soft drafts, Fan Orchard brings copper pinwheels, Swaying Thistles swing on their stems. Dandelion Bumpers bounce you away, Spider Silk slows everything down, Pulse Gusts breathe in and out, Blossom Gates swallow your bubble in one flower and release it from its twin, and Firefly Marsh tugs you toward its glow. The Grand Ascent mixes it all with a ring that slides along its rail. Every sky is checked by our own solver: it can be won, and by a margin a human finger can hit.\n\n### Morning Breeze And Skyward\nMorning Breeze is one hand-picked sky a day, the same for everyone, with a streak to keep. Skyward is an endless climb through mixed skies; your best depth is kept.\n\n### The Film Shelf\nStars and clears earn free coins, only by playing. Spend them on 12 bubble films: Pearl, Peach Sorbet, Lagoon Teal, Saffron Silk and more. Nothing random, nothing to buy with money.\n\n### Look And Sound\nA sunlit harbour village, sailboats on the sea, cumulus clouds and a soap film that shimmers in 3D. Soft blubs rise in pitch as you blow, a glassy pop, a bell for the ring. Sound, haptics and reduced motion are in Settings. Works offline, no account.\n\n### Free To Play\nSoapsail is free with ads: a banner on the menu, a banner beneath the sky and a short break after some skies. Watch optional videos for a hint or to double a win, or earn a month without ads, or subscribe to Calm Sky for a monthly price shown in the store. The subscription renews automatically until you cancel it in your App Store account settings.",
+  "whatsNew": "Welcome to Soapsail: the first release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-soapsail.html",
+  "supportUrl": "https://equalinformation.com/app-support-soapsail.html",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/soapsail/icon-512.png",
+  "hero": "assets/apps/soapsail/hero.webp",
+  "accent": "#7cb5ca",
+  "screenshots": [
+    {
+      "src": "assets/apps/soapsail/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/soapsail/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/soapsail/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/soapsail/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/soapsail/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/soapsail/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/soapsail-bubble-float-arcade/id6831433583",
+    "appleId": "6831433583",
+    "bundleId": "com.equalinformation.soapsail.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.soapsail.app"
+  },
+  "related": [
+    "millwhirl",
+    "goatstep",
+    "mapleshift",
+    "pondlily"
+  ],
+  "editorial": {
+    "headline": "Blow, aim, float to the ring",
+    "story": "Up on a sunny rooftop a copper wand stands in a bowl of suds. Press and hold anywhere to blow a bubble, slide your finger to move the wand, then let go and watch the breeze carry your bubble up toward the golden ring."
+  }
+}

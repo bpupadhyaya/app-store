@@ -1,0 +1,89 @@
+{
+  "slug": "scarecrow-lane",
+  "name": "Scarecrow Lane",
+  "subtitle": "Guard the blossom orchard",
+  "categories": [
+    "puzzle",
+    "casual"
+  ],
+  "tags": [
+    "scarecrow",
+    "birds",
+    "orchard",
+    "garden",
+    "defense",
+    "lane",
+    "chimes",
+    "offline",
+    "daily-challenge",
+    "3d"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Eight orchards, one scarecrow rule: sparrows leave after one startle, crows after two. Today's Daily Lane is waiting.",
+  "longDescription": "The cherries are ripe, the crows have noticed, and the only thing between them and your orchard is you.\n\nBirds drift down five lanes toward the trees. Plant a scarecrow (2 seeds) to startle whatever reaches it, hang a wind chime (3 seeds) to slow every bird nearby, and keep fruit on the branches until the last wing has gone. Seeds grow back on their own, so you never wait on a timer and you never lose a life.\n\n### Eight Orchards, 120 Levels\nSeedling Row teaches the lane. Crow Hill brings birds that dig in. Windy Terrace shoves them sideways between lanes. Haystack Market blocks tiles with hay bales. Frosty Dawn thins your straw and slows your seeds. Magpie Court sends thieves that carry off a scarecrow. Heron Pond ends with a very patient grey boss. Grand Harvest mixes it all. Every level can be won, and each was checked with a scripted keeper.\n\n### Every Day, Every Way\nDaily Lane: a fresh lane from the same 90-day table for everybody, with a streak. Evergreen: an endless orchard that gets busier the longer you hold it. Almanac: 30 pages (bird field notes, orchard varieties and 12 scarecrow outfits) that you buy with free coins earned from stars, bosses and the Daily Lane. Fixed prices, no random draws, nothing to buy with real money.\n\n### Look And Feel\nA sunny blossom orchard in real-time 3D: indigo scarecrows in yellow straw hats, turquoise wind chimes, birds with feathered wings, petals on the breeze. Plays offline, no account, works on iPhone and iPad.",
+  "whatsNew": "First release: 120 levels in eight orchards, Daily Lane, Evergreen and the Almanac.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-scarecrow-lane.html",
+  "supportUrl": "https://equalinformation.com/app-support-scarecrow-lane.html",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "version": "1.0.0",
+  "icon": "assets/apps/scarecrow-lane/icon-512.png",
+  "hero": "assets/apps/scarecrow-lane/hero.webp",
+  "accent": "#bdcca2",
+  "screenshots": [
+    {
+      "src": "assets/apps/scarecrow-lane/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/scarecrow-lane/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/scarecrow-lane/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/scarecrow-lane/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/scarecrow-lane/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/scarecrow-lane/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/scarecrow-lane-bird-defence/id6831381569",
+    "appleId": "6831381569",
+    "bundleId": "com.equalinformation.scarecrow-lane.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.scarecrow_lane.app"
+  },
+  "related": [
+    "mapleshift",
+    "tidepool-keeper",
+    "globloom",
+    "goatstep"
+  ],
+  "editorial": {
+    "headline": "Guard the blossom orchard",
+    "story": "The cherries are ripe, the crows have noticed, and the only thing between them and your orchard is you."
+  }
+}

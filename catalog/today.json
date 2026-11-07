@@ -1,1 +1,78 @@
-{"featured":"","stories":[]}
+{
+  "featured": "tidepool-keeper",
+  "stories": [
+    {
+      "id": "2026-11-06-arrivals",
+      "date": "2026-11-06",
+      "kicker": "Now on the App Store",
+      "title": "Fourteen small games, all new",
+      "subtitle": "Hand-built puzzles from EqualInformation are arriving on the App Store.",
+      "body": "Each one is free to play, supported by ads, with an optional monthly ad-free plan. They share a promise rather than a template: every game has its own rule, its own look and its own pace. Frogs on lily pads, windmills on a Dutch polder, a goat on a rope bridge, a rock pool you garden. Pick the one that sounds like your kind of quiet.\n\nAndroid versions are on the way; until then the Android buttons read Coming soon.",
+      "appSlugs": [
+        "pebble-shift",
+        "pondlily",
+        "millwhirl",
+        "scarecrow-lane",
+        "skyferry",
+        "topplo",
+        "flakeroll",
+        "mapleshift",
+        "goatstep",
+        "soapsail",
+        "hillside-hum",
+        "stiltfern",
+        "spindlewick",
+        "tidepool-keeper"
+      ],
+      "accent": "#31d481"
+    },
+    {
+      "id": "2026-11-06-tidepool",
+      "date": "2026-11-06",
+      "kicker": "Now playing",
+      "title": "A tide pool you garden instead of fight",
+      "subtitle": "In Tidepool Keeper you set the light, the current and the food, then watch life take hold.",
+      "body": "A tide pool is a tiny world that runs on its own rules. You are its keeper.\n\nThere are 73 pools in eight worlds, a new Daily pool each day, and it works fully offline.",
+      "appSlugs": [
+        "tidepool-keeper"
+      ],
+      "accent": "#488c8e"
+    },
+    {
+      "id": "2026-11-06-scarecrow",
+      "date": "2026-11-06",
+      "kicker": "Now playing",
+      "title": "Guard the cherries, one lane at a time",
+      "subtitle": "Scarecrow Lane is a bright orchard defence with 120 levels in eight orchards.",
+      "body": "Birds drift down five lanes toward the trees. Plant a scarecrow to startle them, hang a wind chime to slow them, and keep the fruit on the branches. Sparrows leave after one startle, crows after two. There is a Daily Lane, an endless Evergreen mode and an Almanac of bird field notes.",
+      "appSlugs": [
+        "scarecrow-lane"
+      ],
+      "accent": "#bdcca2"
+    },
+    {
+      "id": "2026-11-06-flakeroll",
+      "date": "2026-11-06",
+      "kicker": "Now playing",
+      "title": "Roll the snow to exactly the right size",
+      "subtitle": "Flakeroll turns snowman building into a tidy little logic puzzle.",
+      "body": "Drag a snowball across a toy-village yard: it grows on fresh snow and shrinks in mud, and a ghost snowman shows the size you need. Across ten worlds, ice, powder, slush, gates and wind each change the rule. There are 100 yards, a Daily Yard and the Blizzard Run.",
+      "appSlugs": [
+        "flakeroll"
+      ],
+      "accent": "#9ea2bb"
+    },
+    {
+      "id": "2026-11-06-pebble",
+      "date": "2026-11-06",
+      "kicker": "Now playing",
+      "title": "Level the beam, stone by stone",
+      "subtitle": "Pebble Shift is a balance puzzle on a brass scale.",
+      "body": "A brass scale sits on a velvet-covered cabinet. Around its base runs a ring of slots, and in some of those slots rest polished stones, each one stamped with a weight. The two pans of the scale hang uneven. Your job is quiet and exact: slide the stones around the ring, one step at a time into an empty neighbouring slot, until the beam swings level.",
+      "appSlugs": [
+        "pebble-shift"
+      ],
+      "accent": "#da901b"
+    }
+  ]
+}

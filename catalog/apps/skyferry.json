@@ -1,0 +1,89 @@
+{
+  "slug": "skyferry",
+  "name": "Skyferry",
+  "subtitle": "Plan hops through the storms",
+  "categories": [
+    "puzzle",
+    "board-strategy"
+  ],
+  "tags": [
+    "ferry",
+    "sky",
+    "island",
+    "route",
+    "planner",
+    "logic",
+    "lantern",
+    "offline",
+    "daily-challenge",
+    "no-timers"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Read the forecast, hop between floating isles and bring every guest home before the lanterns dim. 100 charts in ten worlds, a Daily Run and open-ended Open Sky.",
+  "longDescription": "You are the harbour master of a small paper-lantern ferry that sails between floating isles at dusk. Each turn you do one thing: hop along a sky lane to a neighbouring isle, or drop anchor and wait. Board every guest, deliver every crate, and bring the ferry back to its home berth in as few turns as you can.\n\n### The Weather Is Part Of The Puzzle\nEvery lane shows its forecast as a row of small pips. A storm pip closes the lane on that turn, a wind arrow makes it one-way, and the pattern repeats. Sometimes the best move is to wait. Finish in par turns for three stars; the par is the true shortest plan, worked out by our own solver, and every chart is verified winnable. Undo is unlimited and there are no timers and no lives.\n\n### 100 Charts In Ten Worlds\nEach world adds a new twist. Meadow Moorings teaches the basics, Squall Reach brings storms, Tailwind Straits one-way winds, Priority Pier guests with gold ribbons who must board in order 1, 2, 3, and Cargo Cove crates to carry between isles with a limited hold. In Twin Wake you steer two ferries that share the same lanes, and Gale Season, Merchant Run, Convoy Lanes and Skyfall Archipelago combine everything.\n\n### A Run Every Day, And Open Sky\nThe Daily Run is the same chart for everyone on that date, with a streak that counts the days you finish it. Open Sky serves an endless, shuffled run through the whole chart pool when you just want to keep going.\n\n### The Hangar\nEarn lantern coins from the stars you win and spend them in the Hangar on ferry skins and flags. Nothing is random and nothing is for sale.\n\n### Light And Calm\nA dusk sky in indigo and persimmon, paper-cut isles with golden lanterns, soft bells and a reduce-motion switch. Works offline.\n\n### Free To Play\nSkyferry is free, with ads: a banner on the menus, a banner below the chart and a short break after some charts. Watch an optional video for a hint, or earn ad-free play for the month by watching rewarded videos. You can also subscribe to Skyferry Ad-free for a monthly price shown in the store; it renews automatically until you cancel it in your App Store account settings.",
+  "whatsNew": "Welcome to Skyferry: the first release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-skyferry.html",
+  "supportUrl": "https://equalinformation.com/app-support-skyferry.html",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "version": "1.0.0",
+  "icon": "assets/apps/skyferry/icon-512.png",
+  "hero": "assets/apps/skyferry/hero.webp",
+  "accent": "#a6777d",
+  "screenshots": [
+    {
+      "src": "assets/apps/skyferry/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skyferry/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skyferry/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skyferry/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skyferry/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skyferry/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/skyferry-sky-route-puzzle/id6831389653",
+    "appleId": "6831389653",
+    "bundleId": "com.equalinformation.skyferry.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.skyferry.app"
+  },
+  "related": [
+    "pebble-shift",
+    "sluiceway",
+    "taffytwirl",
+    "hillside-hum"
+  ],
+  "editorial": {
+    "headline": "Plan hops through the storms",
+    "story": "You are the harbour master of a small paper-lantern ferry that sails between floating isles at dusk. Each turn you do one thing: hop along a sky lane to a neighbouring isle, or drop anchor and wait. Board every guest, deliver every crate, and bring the ferry back to its home berth in as few turns as you can."
+  }
+}

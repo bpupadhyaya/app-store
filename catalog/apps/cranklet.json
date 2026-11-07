@@ -1,0 +1,89 @@
+{
+  "slug": "cranklet",
+  "name": "Cranklet",
+  "subtitle": "Capsule machine puzzle game",
+  "categories": [
+    "puzzle",
+    "casual"
+  ],
+  "tags": [
+    "capsule",
+    "toy",
+    "collect",
+    "machine",
+    "crank",
+    "puzzle",
+    "merge",
+    "offline",
+    "daily-challenge",
+    "no-timers"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Turn the brass crank, watch a glossy capsule drop, and crack it open to meet your next toy.",
+  "longDescription": "Turn the brass crank, watch a glossy capsule drop, and crack it open to meet your next toy.\n\nCranklet is a cheerful collecting-and-puzzle game built around one big glass capsule machine. Behind the machine is a real game: 60 levels in six worlds, each with its own look and its own toys, and seven different kinds of boards that keep asking something new of you.\n\n### Play, Solve, Collect\n- Steer a capsule down a chute of pegs, bumpers and sweepers into the bin.\n- Merge matching chips on a shelf into bigger and bigger ones.\n- Sort a shelf so every row is a single colour, in as few swaps as you can.\n- Plan which of three machines to crank when every coin counts.\n- Serve customers who each want a particular toy before the cranks run out.\n- Keep the crank in the green on tempo levels, then face a boss machine that mixes it all together.\n- Six Encore levels remix the world bosses for people who want a harder test.\n\n### 120 Toys On A Glass Shelf\nEvery toy you crack open goes onto a 3D glass shelf: six albums of twenty, from critters and bots to sweets, stars, tides and charms. Missing toys show as silhouettes. Own the same toy three times and it gets a gilded ring. The Workshop lets you spend coins on permanent upgrades such as a lucky dial that leans toward toys you do not own yet.\n\n### Coins Are Always Free\nYou earn coins only by playing: level rewards, a daily gift and streaks, or by watching an optional short video. Coins and capsules cannot be bought with real money, and there is no loot box. The exact drop rates are published in the game on the Drop rates page (Common 60%, Uncommon 25%, Rare 10%, Epic 3.5%, Legendary 1.5%), together with how duplicates refund coins.\n\n### More Ways To Play\n- Daily: one fresh seeded challenge every day, the same for everyone, with a streak.\n- Rush: 90-second chained mini-rounds, three lives, chase your best score.\n- A short Watch and Learn demo shows you the ropes, and every new kind of board starts with a one-line hint you can skip.\n- No lives, no timers in the campaign, and failing never costs you anything. If you get stuck, the game quietly gives you a little extra margin.\n- Plays offline. No account, no sign-in.\n- Accessibility: calm motion option, haptics and sound toggles, VoiceOver labels, and an assist mode for the steering and tempo boards.\n\n### Free To Play, Your Way\nCranklet is free and supported by ads from Google AdMob: a banner on the menu, a banner below the play field that never covers your controls, and a full-screen ad after some completed levels. Ads are never shown while you are playing a level. You choose how to play:\n- Play free with ads.\n- Watch optional short videos for a hint, a double reward or a free capsule, and earn ad-free time each month. A progress bar shows how many videos you have watched and the date it resets.\n- Or go ad-free with the optional subscription below.\nOn iPhone and iPad the app asks once whether it may use your device identifier for ads (Apple's App Tracking Transparency); you can say no and play exactly the same.\n\nSUBSCRIPTION: GO AD-FREE (OPTIONAL)\n\"Cranklet Ad-free Monthly\" removes banner and full-screen ads for as long as it is active. The price per month is shown in the app and in the store before you buy. Payment is charged to your Apple Account at confirmation of purchase. The subscription renews automatically every month unless you cancel it at least 24 hours before the end of the current period. You can manage or cancel it any time in Settings > your name > Subscriptions. It does not unlock any levels or toys: everything is free to play. Restore Purchases is in the Go ad-free sheet.",
+  "whatsNew": "First release. Play 60 levels in six worlds, crank the capsule machine, collect all 120 toys, try the Daily challenge and chase a high score in Rush.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-cranklet.html",
+  "supportUrl": "https://equalinformation.com/app-support-cranklet.html",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "version": "1.0.0",
+  "icon": "assets/apps/cranklet/icon-512.png",
+  "hero": "assets/apps/cranklet/hero.webp",
+  "accent": "#aa9e95",
+  "screenshots": [
+    {
+      "src": "assets/apps/cranklet/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cranklet/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cranklet/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cranklet/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cranklet/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cranklet/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "6831044217",
+    "bundleId": "com.equalinformation.cranklet.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.cranklet.app"
+  },
+  "related": [
+    "millwhirl",
+    "pondlily",
+    "fieldmouse-post",
+    "globloom"
+  ],
+  "editorial": {
+    "headline": "Capsule machine puzzle game",
+    "story": "Turn the brass crank, watch a glossy capsule drop, and crack it open to meet your next toy."
+  }
+}

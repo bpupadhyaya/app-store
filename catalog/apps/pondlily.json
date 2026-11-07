@@ -1,0 +1,89 @@
+{
+  "slug": "pondlily",
+  "name": "Pondlily",
+  "subtitle": "Grow pads, guide the frog",
+  "categories": [
+    "puzzle",
+    "casual"
+  ],
+  "tags": [
+    "lily",
+    "pad",
+    "frog",
+    "pond",
+    "lotus",
+    "water",
+    "puzzle",
+    "offline",
+    "daily-challenge",
+    "no-timers"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Tap the water to grow lily pads, press Hop, and watch the frog cross a glowing pond to its lotus. 100 ponds, a Daily Pond and an endless drift.",
+  "longDescription": "A small frog sits on a start pad at the bottom of a glowing pond. Its lotus waits at the top. Tap the water to grow lily pads, then press Hop and the frog follows your chain of pads across.\n\nEvery pad costs a seed and every pond gives you only so many. Plant no more than par for three stars. Tap one of your own pads to lift it and get the seed back, so you can rethink the route as often as you like. If the chain is broken the frog hops as far as it can, looks around, and returns to the start. Nothing is lost. There are no timers and no lives.\n\n### 100 Ponds In Ten Glowing Worlds\nStart in the Dawn Shallows and cross Pebble Run, Leap Shore, Deep Pools, Mirror Bend, Long Leap, Reed Maze, the Sunken Garden and Moonlit Lake on the way to the Grand Marsh. Worlds add rocks, ready-made pads, a two-cell leap that clears a rock, and deep water that costs two seeds to plant, so the cheapest chain is never the obvious one.\n\n### A Pond Every Day\nThe Daily Pond is the same puzzle for everyone on that date, with a streak that counts the days you cross it. When you want more, Endless Drift serves a rising run of 60 ponds with the leanest seed budgets.\n\n### The Pond Journal\nWin ponds to collect dewdrops, free in-game coins that you earn only by playing, and spend them on 40 pond-life cards: dragonflies, koi, herons, newts and their night-time cousins. There are no random drops and nothing to buy.\n\n### Light, Sound And Calm\nThe pond glows after dusk: luminous water, a low moon, fireflies and a frog you will want to hug. Gentle chimes and plips can be switched off, and a calm-motion setting removes the ripples and hops for players who prefer stillness. Works offline.\n\n### Free To Play\nPondlily is free, with ads: a banner on the menus, a banner beneath the pond and a short break after some ponds. Watch optional videos to earn ad-free play for the month, or subscribe to Pondlily Ad-free for a monthly price shown in the store. The subscription renews automatically until you cancel it in your App Store account settings.",
+  "whatsNew": "Welcome to Pondlily: the first release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-pondlily.html",
+  "supportUrl": "https://equalinformation.com/app-support-pondlily.html",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "version": "1.0.0",
+  "icon": "assets/apps/pondlily/icon-512.png",
+  "hero": "assets/apps/pondlily/hero.webp",
+  "accent": "#31d481",
+  "screenshots": [
+    {
+      "src": "assets/apps/pondlily/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pondlily/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pondlily/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pondlily/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pondlily/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pondlily/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/pondlily-frog-lotus-puzzle/id6831381873",
+    "appleId": "6831381873",
+    "bundleId": "com.equalinformation.pondlily.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.pondlily.app"
+  },
+  "related": [
+    "millwhirl",
+    "cranklet",
+    "fieldmouse-post",
+    "goatstep"
+  ],
+  "editorial": {
+    "headline": "Grow pads, guide the frog",
+    "story": "A small frog sits on a start pad at the bottom of a glowing pond. Its lotus waits at the top. Tap the water to grow lily pads, then press Hop and the frog follows your chain of pads across."
+  }
+}

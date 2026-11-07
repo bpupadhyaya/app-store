@@ -1,0 +1,89 @@
+{
+  "slug": "goatstep",
+  "name": "Goatstep",
+  "subtitle": "One tap. Ropes, wind, glass.",
+  "categories": [
+    "puzzle",
+    "casual"
+  ],
+  "tags": [
+    "goat",
+    "mountain",
+    "climb",
+    "timing",
+    "hop",
+    "one-tap",
+    "rope",
+    "offline",
+    "daily-challenge",
+    "no-timers"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Tap to hop a goat up the mountain. Ropes swing, wind bends your reach, glass flickers, shelves crumble. 100 climbs, a daily ridge and endless Ridge Rush.",
+  "longDescription": "A small goat, a big mountain and exactly one control. Tap anywhere and the goat hops to the next hold, but only if that hold is within reach at that very moment. A golden ring tells you when it is. Miss and the goat slips with a wobble; it never falls, there are no lives and no timers, so you simply try again.\n\n### Ten Worlds, Ten Twists\nFoothills start with a single swinging rope. Terraces add gliding ledges, Switchbacks chain them into rhythms, Icefall puts moving holds side by side and Summit Ridge skews their timing. Then the mountain gets strange. In Gust Pass the wind stretches and shrinks your reach. Glass Ridge holds are solid only while they glow. On Shaky Shelf the stone gives way if you linger. In Lift Gorge platforms rise and fall on cables. Grand Ascent throws every twist at you at once. 100 climbs in all, each one checked by our own solver so a clean, zero-slip route always exists.\n\n### Daily Climb And Ridge Rush\nA new ridge appears every day with its own twist of the day, the same for everyone, and keeps a streak. Ridge Rush is endless: climb pitch after pitch with three slips for the whole run and see how many holds you can reach.\n\n### The Tack Room\nStars, Daily climbs and Rush runs earn free trail coins. Spend them on twelve scarves for your goat, from Trail Red to Summit Gold. No random boxes, nothing to buy with money.\n\n### Look And Feel\nEvery world has its own sky, light and rock: cerulean mornings, red canyon sunsets, glass-purple dusk and a starry golden summit. Soft shadows, drifting mist and a plush 3D goat. Quiet bell-like sounds, gentle haptics and a reduce-motion setting. Works offline.\n\n### Free To Play\nGoatstep is free, with ads: a banner on the menu and the map, a banner beneath the climb and a short break after some climbs. Watch optional videos to earn a month without ads, or subscribe to Summit Pass for a monthly price shown in the store. The subscription renews automatically until you cancel it in your App Store account settings.",
+  "whatsNew": "Welcome to Goatstep: the first release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-goatstep.html",
+  "supportUrl": "https://equalinformation.com/app-support-goatstep.html",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
+  "version": "1.0.0",
+  "icon": "assets/apps/goatstep/icon-512.png",
+  "hero": "assets/apps/goatstep/hero.webp",
+  "accent": "#9c72bb",
+  "screenshots": [
+    {
+      "src": "assets/apps/goatstep/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/goatstep/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/goatstep/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/goatstep/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/goatstep/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/goatstep/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/goatstep-mountain-hop-climb/id6831430364",
+    "appleId": "6831430364",
+    "bundleId": "com.equalinformation.goatstep.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.goatstep.app"
+  },
+  "related": [
+    "mapleshift",
+    "millwhirl",
+    "pondlily",
+    "topplo"
+  ],
+  "editorial": {
+    "headline": "One tap. Ropes, wind, glass.",
+    "story": "A small goat, a big mountain and exactly one control. Tap anywhere and the goat hops to the next hold, but only if that hold is within reach at that very moment. A golden ring tells you when it is. Miss and the goat slips with a wobble; it never falls, there are no lives and no timers, so you simply try again."
+  }
+}
