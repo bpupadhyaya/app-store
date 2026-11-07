@@ -1,0 +1,46 @@
+{
+  "slug": "sample-boards",
+  "name": "Sample Boards",
+  "subtitle": "Classic board strategy",
+  "categories": [
+    "board-strategy"
+  ],
+  "tags": [
+    "strategy",
+    "two-player",
+    "offline"
+  ],
+  "shortDescription": "A placeholder board game used to test the store build.",
+  "longDescription": "Think three moves ahead.\n\nPlay a friend or the computer.",
+  "whatsNew": "Better AI.",
+  "releasedAt": "2026-10-20",
+  "updatedAt": "2026-11-01",
+  "accent": "#1c5fb0",
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": ""
+  },
+  "related": [
+    "sample-pebbles"
+  ],
+  "editorial": {
+    "headline": "Old boards, new tricks",
+    "story": "Sample story."
+  },
+  "developer": "EqualInformation",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy.html",
+  "supportUrl": "https://equalinformation.com/support.html",
+  "version": "1.0.0",
+  "icon": "assets/apps/sample-boards/icon-512.png",
+  "screenshots": []
+}

@@ -1,0 +1,15 @@
+{
+  "relax": ["calm","chill","zen","soothing","relaxing","peaceful","unwind"],
+  "brain": ["brain-training","think","logic","smart","mind","thinking"],
+  "offline": ["no-wifi","no-internet","airplane","plane","travel"],
+  "kids": ["children","child","family","toddler","kid-friendly"],
+  "quick": ["short","fast","snack","five-minute","brief"],
+  "puzzle": ["puzzles","riddle","brainteaser"],
+  "board": ["tabletop","boardgame","strategy"],
+  "word": ["words","letters","vocabulary","spelling"],
+  "music": ["rhythm","instrument","sound","songs"],
+  "sports": ["sport","athletic","match"],
+  "health": ["wellness","fitness","wellbeing"],
+  "free": ["no-cost","gratis"],
+  "new": ["latest","recent","fresh"]
+}

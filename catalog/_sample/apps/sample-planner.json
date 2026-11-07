@@ -1,0 +1,44 @@
+{
+  "slug": "sample-planner",
+  "name": "Sample Planner",
+  "subtitle": "Plan your day in plain words",
+  "categories": [
+    "utilities",
+    "lifestyle"
+  ],
+  "tags": [
+    "productivity",
+    "simple"
+  ],
+  "shortDescription": "A placeholder utility used to test the store build.",
+  "longDescription": "Type what you need to do. Done.",
+  "whatsNew": "",
+  "releasedAt": "2026-09-01",
+  "updatedAt": "2026-10-15",
+  "accent": "#0f8f8a",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "appleId": "",
+    "bundleId": ""
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.example.sample3",
+    "package": "com.example.sample3"
+  },
+  "related": [],
+  "editorial": {
+    "headline": "Plans without the paperwork",
+    "story": "Sample story."
+  },
+  "developer": "EqualInformation",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy.html",
+  "supportUrl": "https://equalinformation.com/support.html",
+  "version": "1.0.0",
+  "icon": "assets/apps/sample-planner/icon-512.png",
+  "screenshots": []
+}

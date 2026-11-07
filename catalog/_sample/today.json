@@ -1,0 +1,29 @@
+{
+  "featured": "sample-pebbles",
+  "stories": [
+    {
+      "id": "2026-11-06-pebbles",
+      "date": "2026-11-06",
+      "kicker": "Now playing",
+      "title": "A pebble garden in your pocket",
+      "subtitle": "Slide, settle, breathe.",
+      "body": "Sample **story** body.\n\nSecond paragraph.",
+      "appSlugs": [
+        "sample-pebbles"
+      ],
+      "accent": "#6a45f2"
+    },
+    {
+      "id": "2026-11-05-boards",
+      "date": "2026-11-05",
+      "kicker": "Classics",
+      "title": "Old boards, new tricks",
+      "subtitle": "Strategy for two.",
+      "body": "Sample body.",
+      "appSlugs": [
+        "sample-boards"
+      ],
+      "accent": "#1c5fb0"
+    }
+  ]
+}

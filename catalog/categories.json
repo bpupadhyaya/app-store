@@ -1,0 +1,12 @@
+[
+  {"id":"puzzle","name":"Puzzle","kind":"game","blurb":"Slide, match and think it through.","hue":262},
+  {"id":"board-strategy","name":"Board & Strategy","kind":"game","blurb":"Classic boards and clever tactics.","hue":222},
+  {"id":"casual","name":"Casual","kind":"game","blurb":"Easy to start, hard to put down.","hue":172},
+  {"id":"word","name":"Word","kind":"game","blurb":"Letters, lexicons and language.","hue":38},
+  {"id":"music","name":"Music","kind":"game","blurb":"Play, tap and make sound.","hue":320},
+  {"id":"sports","name":"Sports","kind":"game","blurb":"Quick matches from around the world.","hue":142},
+  {"id":"education","name":"Education","kind":"app","blurb":"Learn something new today.","hue":200},
+  {"id":"health","name":"Health & Fitness","kind":"app","blurb":"Feel better, one small step at a time.","hue":10},
+  {"id":"utilities","name":"Utilities","kind":"app","blurb":"Everyday tools that just work.","hue":240},
+  {"id":"lifestyle","name":"Lifestyle","kind":"app","blurb":"Everyday life, made simpler.","hue":290}
+]

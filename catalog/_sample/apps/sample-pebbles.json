@@ -1,0 +1,47 @@
+{
+  "slug": "sample-pebbles",
+  "name": "Sample Pebbles",
+  "subtitle": "Slide stones, calm your mind",
+  "categories": [
+    "puzzle",
+    "casual"
+  ],
+  "tags": [
+    "relaxing",
+    "offline",
+    "brain-training"
+  ],
+  "shortDescription": "A placeholder puzzle used to test the store build.",
+  "longDescription": "A calm sliding puzzle.\n\n- Hundreds of levels\n- Plays **offline**\n- No account needed",
+  "whatsNew": "First release.",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "accent": "#6a45f2",
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/app/id0000000000",
+    "appleId": "0000000000",
+    "bundleId": "com.example.sample1"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.example.sample1"
+  },
+  "related": [
+    "sample-boards"
+  ],
+  "editorial": {
+    "headline": "A pebble garden in your pocket",
+    "story": "Sample story text for the editorial card."
+  },
+  "developer": "EqualInformation",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy.html",
+  "supportUrl": "https://equalinformation.com/support.html",
+  "version": "1.0.0",
+  "icon": "assets/apps/sample-pebbles/icon-512.png",
+  "screenshots": []
+}

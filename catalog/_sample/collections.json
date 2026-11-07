@@ -1,0 +1,20 @@
+[
+  {
+    "id": "new-this-week",
+    "title": "New this week",
+    "subtitle": "Fresh from the workshop",
+    "appSlugs": [
+      "sample-pebbles",
+      "sample-boards"
+    ]
+  },
+  {
+    "id": "play-offline",
+    "title": "Play offline",
+    "subtitle": "No connection needed",
+    "appSlugs": [
+      "sample-pebbles",
+      "sample-boards"
+    ]
+  }
+]
