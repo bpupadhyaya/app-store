@@ -1,0 +1,109 @@
+{
+  "slug": "ebbmark",
+  "name": "Ebbmark",
+  "subtitle": "Spaced-repetition study slips",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "tags": [
+    "memorize",
+    "recall",
+    "quiz",
+    "exam",
+    "vocabulary",
+    "language",
+    "medical",
+    "school",
+    "cloze",
+    "csv",
+    "revision",
+    "learn"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Paste your notes, get ready-made questions, and let Ebbmark pick the day each one comes back. Private by design: no account, nothing uploaded.",
+  "longDescription": "Ebbmark helps you remember what you study. It keeps a small stack of \"slips\" (a question and an answer, a sentence with a hidden word, or a picture with covered labels) and brings each one back right as you are about to forget it.\n\nEverything happens on your iPhone or iPad. There is no account to make, nothing is uploaded, and your slips work on a plane.\n\n### Turn Notes Into Slips\nPaste a paragraph from a textbook, a lecture transcript or your own notes. Ebbmark reads it on the device and proposes slips: \"What is ...?\" questions from definitions, fill-the-gap sentences built around dates, numbers and names, \"term: meaning\" lines, and lists. Untick what you do not want, edit the wording, add them to a shelf.\n\n### Hide Any Word\nWrite a sentence and tap the words to hide. Each hidden word becomes its own slip, so one sentence can teach you several things.\n\n### Veil Any Picture\nPick a diagram, a slide or a photo of your notes. The text in it is found with Apple's Vision framework and every label becomes a tap target. Cover the ones you want to learn and guess them back. Draw your own box over anything that is not text.\n\n### A Schedule That Learns You\nEach slip carries its own memory estimate: how long it should last, how hard it is for you, and your chance of recalling it right now. Ebbmark asks again when that chance reaches your target. After about 60 spaced reviews it compares what you actually remembered with what the model predicted and stretches or shortens your gaps to match.\nThe four answer buttons show exactly when each choice would bring the slip back, from ten minutes to years.\n\n### See the Weeks Ahead\nThe Outlook tab plays the schedule forward and charts how many slips and how many minutes each coming day needs. Tell it how long you want to study each day and the new-slip advisor works out how many new slips you can add without any day getting out of hand. Another chart shows how your recall would fade if you stopped today.\n\n### Bring Your Decks, Take Them Back\nImport CSV, tab-separated files and plain-text note exports. Header rows, tag and shelf columns, HTML line breaks and {{c1::gap}} markers are understood. Export everything again as CSV or plain text whenever you like.\n\n### Stay on Track\nA daily goal ring, streaks, a study-day calendar and an optional reminder at the hour you choose. Type your answers if you want to be tested harder; Ebbmark forgives small spelling slips.\n\n### Built for Both Screens\nOn iPhone, a focused study view and tabs. On iPad, a sidebar, wider boards and hardware-keyboard shortcuts: space to reveal, 1 to 4 to answer, Command-Z to undo.",
+  "whatsNew": "First release: notes to slips, fill-the-gap and picture slips, a schedule that adapts to you, workload forecast, CSV and note-text import and export.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-ebbmark.html",
+  "supportUrl": "https://equalinformation.com/app-support-ebbmark.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/ebbmark/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/ebbmark/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ebbmark/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ebbmark/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ebbmark/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ebbmark/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ebbmark/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ebbmark/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ebbmark/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ebbmark/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ebbmark/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ebbmark/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ebbmark/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.ebbmark.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.ebbmark.app"
+  },
+  "related": []
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "dipwick",
+  "name": "Dipwick",
+  "subtitle": "Service reminders & fuel log",
+  "categories": [
+    "utilities",
+    "lifestyle"
+  ],
+  "tags": [
+    "car",
+    "maintenance",
+    "oil-change",
+    "mileage",
+    "fuel",
+    "mpg",
+    "service",
+    "reminder",
+    "vehicle",
+    "logbook",
+    "garage",
+    "odometer"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Say \"oil change 52,300 mi $89\" and it is logged. Dipwick learns how you drive, tells you what is due, and forecasts what the year will cost.",
+  "longDescription": "Your car asks for attention in small ways: an oil change that slipped, tires that never got rotated, a registration tag that expires next week. Dipwick keeps all of it in one calm logbook and speaks up before anything is late.\n\n### Just Say What You Did\nType or dictate a sentence such as \"oil change 52,300 mi $89 yesterday at Joe's\" or \"filled 12.4 gal $46\". Dipwick works out the type of job, the odometer, the cost, the date and the shop, and fills in the form for you to check. It is read on your phone, not sent anywhere.\n\n### Snap the Receipt\nPhotograph a receipt or pick one from your library. Text recognition on the device pulls out the total, date, fuel quantity and odometer when they are printed. The photo stays with the entry, on your phone only.\n\n### A Plan That Fits Your Car\nPick drivetrain, year and mileage and Dipwick proposes a service plan from a curated table of typical intervals, then adjusts it: older, higher-mileage cars get shorter fluid intervals, turbo engines get shorter oil intervals, hard use is allowed for, and hybrids and electric cars skip what they do not need. If you log the same job a few times, the plan follows your own habit. Every line explains why, lists its sources, and reminds you to check your owner's manual, which always wins.\n\n### Due By Date and By Mileage\nEach service line has a dipstick gauge that fills as the interval is used up. Dipwick learns how far you drive each month, so a mileage deadline becomes a calendar date, and reminders arrive on the day it is due and a week before.\n\n### Fuel Economy, Cost Per Mile, Forecast\nFill-ups give you miles per gallon or litres per 100 km, spending by month, and cost per mile or kilometre. The cost outlook adds up planned services, fuel at your usual rate and an allowance for surprises, so next year's bill is no surprise.\n\n### Several Vehicles, One App\nCars, trucks, hybrids and electric vehicles, each with its own colour, units and history. On iPad the garage opens up into a full workspace with a sidebar.\n\n### Yours to Keep\nExport any vehicle to CSV or a tidy PDF service history, handy for selling a car. No account, no server: everything lives on your device.",
+  "whatsNew": "First release: plain-language logging, on-device receipt reading, a smart service plan with reminders, fuel economy, cost per mile, a twelve-month cost outlook, CSV and PDF export, iPhone and iPad.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-dipwick.html",
+  "supportUrl": "https://equalinformation.com/app-support-dipwick.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/dipwick/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/dipwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dipwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dipwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dipwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dipwick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dipwick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dipwick/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dipwick/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dipwick/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dipwick/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dipwick/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dipwick/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.dipwick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.dipwick.app"
+  },
+  "related": []
+}

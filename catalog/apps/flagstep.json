@@ -1,0 +1,107 @@
+{
+  "slug": "flagstep",
+  "name": "Flagstep",
+  "subtitle": "Civics questions, spoken aloud",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "naturalization",
+    "n-400",
+    "us-civics",
+    "100-questions",
+    "128-questions",
+    "flashcards",
+    "interview",
+    "immigration",
+    "green-card",
+    "oath"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Both official civics lists, read aloud, with flashcards that come back when you are about to forget and a practice interview that stops when the result is…",
+  "longDescription": "Flagstep helps you rehearse the civics part of the U.S. naturalization interview without feeling like you are cramming.\n\nThe official questions, both lists\nEvery question and accepted answer from the 2025 civics test (128 questions) and the earlier 2008 test (100 questions) is inside, in the wording published by the government. Switch between them with one tap. Not sure which one applies to you? The Today screen shows which filing dates use which list.\n\nPractice the way you will be asked\n- Flashcards: the card flips, you rate yourself, and missed cards come back today while known ones return after 1, 3, 7 and 16 days.\n- Listen: a hands-free drill that reads the question, gives you time to answer out loud, then reads the accepted answer. Good for a walk or a commute.\n- Mock interview: a random panel of 20 questions (10 for the 2008 list) in the officer's rhythm. It ends as soon as you have enough correct answers, or can no longer reach them, and lists the questions to revisit.\n- 65/20 option: study only the 20 starred questions if that special consideration applies to you.\n- All questions: browse by topic, search by any word, see what you have already mastered.\n\nAnswers that change\nSome answers depend on who holds an office or where you live. Flagstep marks those questions, keeps a dated list of current national officeholders, refreshes it from a small update file and with each release, and lets you type your own governor, senators and representative. It always points you to the official page to confirm before your interview.\n\nPrivate by design\nThere is no account and no sign-in. Your progress and your typed answers stay on your device, and the app never asks for your name or any immigration detail. Questions are read with the voices built into your phone.\n\nFree to use, with ads\nFlagstep shows ads. Remove them with an optional monthly subscription, or earn ad-free time by watching short videos.\n\nFlagstep is an independent study aid. It is not affiliated with, endorsed by or sponsored by U.S. Citizenship and Immigration Services (USCIS), the Department of Homeland Security or any government agency, and it is not legal advice. Question text comes from free public USCIS publications (2025 version M-1778 09/25; 2008 version rev. 01/19). Official information: uscis.gov/citizenship.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-flagstep.html",
+  "supportUrl": "https://equalinformation.com/app-support-flagstep.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/flagstep/icon-512.png",
+  "hero": "assets/apps/flagstep/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/flagstep/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/flagstep/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/flagstep/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/flagstep/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/flagstep/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/flagstep/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/flagstep/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/flagstep/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/flagstep/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/flagstep/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/flagstep/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/flagstep/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.flagstep.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.flagstep.app"
+  },
+  "related": []
+}

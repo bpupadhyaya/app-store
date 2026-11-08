@@ -1,0 +1,109 @@
+{
+  "slug": "quillcase",
+  "name": "Quillcase",
+  "subtitle": "Seating-chart mystery puzzles",
+  "categories": [
+    "puzzle",
+    "board-strategy"
+  ],
+  "tags": [
+    "logic",
+    "deduction",
+    "mystery",
+    "riddle",
+    "brain",
+    "detective",
+    "clue",
+    "daily",
+    "whodunit",
+    "seating",
+    "reasoning",
+    "zebra"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Three fresh case files every morning, the same for everyone that day. Read the evidence, pencil the seats, stamp the proof. One answer, no guessing.",
+  "longDescription": "Someone is sitting in the wrong seat, and only the evidence can say who.\n\nEvery Quillcase case file seats a small crowd in a row of numbered chairs: market traders, harbour captains, night-train riders, stargazers. Each person has a handful of details (a stall, a scale, a hat, a snack), and a stack of paper slips tells you how they relate. \"Hana is immediately left of Kit.\" \"Whoever uses the oak scale sits somewhere left of the owner of the magpie.\" You decide who sits where.\n\n### How It Plays\n- Tap a cell on the lineup board and stamp the entry you know, or cross out the ones that cannot be. Pencil marks show what is still possible in every cell.\n- Every case has exactly one answer, and it can always be reached by reasoning. Cases are checked by a solver before you ever see them, so you never need to guess.\n- Stuck? The hint ladder first points at the slip to reread, then names what it settles. A short video (or the Ad-free plan) reveals the stamp itself.\n- Check tells you whether every stamp so far still fits the evidence, and Undo takes back any move.\n\n### A Case for Every Mood\n- Brief: 4 seats, 3 kinds of detail. A coffee-break puzzle.\n- Standard: 5 seats, 4 kinds. The evening classic.\n- Grand: 6 seats, 5 kinds. Bring a pencil and patience.\n- Three new daily case files at midnight, identical for everyone on that date, plus an archive that never runs dry.\n- Close a daily case to keep your wax-seal streak and earn up to three stars.\n\n### Built for the Ipad Too\nThe board grows with your screen: big cells, readable pencil marks and the evidence slips laid out beside or beneath it.",
+  "whatsNew": "First release. Three daily case files, an archive, hints, streaks and an iPad layout.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-quillcase.html",
+  "supportUrl": "https://equalinformation.com/app-support-quillcase.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/quillcase/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/quillcase/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quillcase/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quillcase/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quillcase/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quillcase/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quillcase/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quillcase/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quillcase/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quillcase/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quillcase/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quillcase/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quillcase/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.quillcase.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.quillcase.app"
+  },
+  "related": []
+}

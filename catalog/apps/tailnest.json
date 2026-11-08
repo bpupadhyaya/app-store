@@ -1,0 +1,110 @@
+{
+  "slug": "tailnest",
+  "name": "Tailnest",
+  "subtitle": "Pet records, doses and shots",
+  "categories": [
+    "lifestyle",
+    "productivity",
+    "health"
+  ],
+  "tags": [
+    "pet",
+    "vet",
+    "vaccine",
+    "dog",
+    "cat",
+    "medication",
+    "weight",
+    "feeding",
+    "reminder",
+    "puppy",
+    "kitten",
+    "rabbit"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Log a shot, a dose or a weigh-in by typing it like a text. Tailnest keeps every pet on one timeline and nudges you only when you have confirmed the schedule.",
+  "longDescription": "Tailnest is a calm home for everything your pets need tracked: shots, medicine, weigh-ins, meals, vet visits and photos, for one pet or the whole household.\n\n### Type It, Don't Tap It\nWrite \"Biscuit rabies shot today\", \"Luna weighed 9 lb yesterday\" or \"Give Mochi 1 tablet twice a day for 10 days\". Tailnest works out the pet, the kind of entry, the date, the amount and the schedule, shows you what it understood, and saves it when you say so. The reading happens on your device.\n\n### One Timeline for Every Pet\nSee what happened and what is coming next, side by side, with a colour for each companion. Filter to one pet when you want to.\n\n### Reminders From Your Own Entries\nTailnest does not guess a vaccine schedule for you. When you log a shot it shows a general published interval, names where it comes from, and reminds you to ask your vet. You confirm the interval, or choose your own, and only then does a booster reminder exist. Medicine doses follow the schedule you enter and can be ticked off, and a refill nudge appears before a supply you counted runs out. Weigh-in nudges follow the rhythm you actually keep.\n\n### Weight, with the Trend\nA clean chart of every weigh-in, the change over 30 days, and a simple projection of where the recent pace leads. A shaded band shows a general adult range, or the range your own vet gave you. Hints are general guidance, never a diagnosis.\n\n### Meals\nSet a feeding schedule for each pet. Meals show up on Today, tick them off, and the meal is logged.\n\n### Photo Timeline\nAdd photos and see them by month, each labelled with how old your pet was that day. Photos stay on your phone.\n\n### A Vet Record in One Tap\nMake a tidy PDF of shots, medicine, visits and weight with a chart, receipts included, ready to hand over or email. Share a household file with family and the two phones merge.\n\n### Widgets\nHome Screen and Lock Screen widgets show the next thing coming up for your pets. They read a small list shared privately with the app, with no account.\n\n### Private By Design\nNo sign-in and no Tailnest server. Your records, notes and photos are stored on your device.",
+  "whatsNew": "Welcome to Tailnest.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-tailnest.html",
+  "supportUrl": "https://equalinformation.com/app-support-tailnest.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/tailnest/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/tailnest/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tailnest/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tailnest/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tailnest/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tailnest/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tailnest/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tailnest/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tailnest/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tailnest/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tailnest/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tailnest/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tailnest/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.tailnest.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.tailnest.app"
+  },
+  "related": []
+}

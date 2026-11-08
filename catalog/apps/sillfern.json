@@ -1,0 +1,109 @@
+{
+  "slug": "sillfern",
+  "name": "Sillfern",
+  "subtitle": "Care timed to your windows",
+  "categories": [
+    "lifestyle",
+    "productivity"
+  ],
+  "tags": [
+    "houseplant",
+    "watering",
+    "reminder",
+    "succulent",
+    "monstera",
+    "fern",
+    "pothos",
+    "repot",
+    "indoor",
+    "garden",
+    "leaf",
+    "light"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Tell Sillfern which way your windows face and it times every drink, feed and repot for you, showing its reasoning. 63 plants, no account.",
+  "longDescription": "Most plant apps give every plant the same calendar. Sillfern works out each plant's rhythm from four things that really change how fast a pot dries: the species, the pot, the window it sits by, and the time of year. Then it shows its working, so you can disagree with it.\n\n### What You Do\nAdd your rooms and tell Sillfern which way each window faces. Add a plant from the library of 63 common houseplants and say where it sits and what it lives in. From then on the Today screen lists only what needs attention, grouped by room, so one lap of the house is one list.\n\n### A Schedule That Reads Your Home\n- Window direction, distance from the glass and a sheer curtain give each spot a light score, and every plant has the range it likes.\n- Pot width, material (terracotta dries faster than glazed ceramic) and drainage change the pace.\n- Day length at your latitude slows drinking in the dark months and pauses feeding. No location permission is used; you choose a latitude.\n- Say the soil was still damp or bone dry and the rhythm shifts a little, within limits.\n- Open any plant and read Why this rhythm: each factor, its effect, and the public guide behind it.\n\n### Calm By Design\n- Water rounds by room with one Round done button, and an Undo.\n- No streaks, no scores, no guilt. A late plant is just \"a little late\".\n- One quiet summary reminder on days something is due, plus a few pot checks. Notifications are scheduled on your device.\n- A Home Screen and Lock Screen widget shows today's plants by room.\n\n### A Photo Timeline\nAdd photos to any plant and see its growth beside the watering, feeding and repotting you logged. Photos stay on your device.\n\n### Sourced, with Honest Limits\nCare guidance rests on named university extension guides, and each fact links to its source. The numbers per species are Sillfern's own starting estimates, and conditions vary: check your plant. Pet notes summarise ASPCA listings with a vet-or-poison-control reminder. Sillfern does not identify plants from photos and gives no medical or veterinary advice.\n\nFOR iPHONE AND iPAD\nBuilt for both: a sidebar and two-column plant pages on iPad, a tab bar on iPhone.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-sillfern.html",
+  "supportUrl": "https://equalinformation.com/app-support-sillfern.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/sillfern/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/sillfern/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sillfern/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sillfern/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sillfern/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sillfern/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sillfern/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sillfern/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sillfern/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sillfern/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sillfern/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sillfern/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sillfern/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.sillfern.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.sillfern.app"
+  },
+  "related": []
+}

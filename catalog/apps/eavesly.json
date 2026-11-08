@@ -1,0 +1,108 @@
+{
+  "slug": "eavesly",
+  "name": "Eavesly",
+  "subtitle": "Home upkeep and warranty vault",
+  "categories": [
+    "lifestyle",
+    "utilities"
+  ],
+  "tags": [
+    "home-maintenance",
+    "homeowner",
+    "house",
+    "checklist",
+    "warranty",
+    "appliance",
+    "receipts",
+    "manuals",
+    "hvac",
+    "filter",
+    "binder"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Tell Eavesly about your house and get a dated, sourced schedule for the year, plus a vault for every receipt, manual and warranty. Free, with optional ad-free.",
+  "longDescription": "Your house has a hundred small jobs and a dozen warranties, and nobody keeps track of either. Eavesly does.\n\nStart with a minute of setup: the year the house was built, where it is, and what it has. Eavesly builds a seasonal schedule from that profile. A forced-air furnace gets a pre-winter service, a cold climate gets ice-dam and hose-bib reminders, a sump pump gets a regular test, a condo skips the gutters. Every job names the public source behind its interval (for example the U.S. Department of Energy, the EPA, NFPA and the Chimney Safety Institute) and carries a reminder to check your manufacturer's manual, which always wins.\n\n### What You Can Do\n- See Today at a glance: a home health score, what is overdue, what is next, and warranties about to end.\n- Browse the Seasons: spring, summer, autumn and winter, each with the jobs that fit your home, filterable by area.\n- Say it in plain words: \"Had Tri-County Heating service the furnace yesterday for $149\". Eavesly finds the date, cost, contractor and the matching job on your device, logs it and reschedules the next one.\n- Scan receipts, manuals and labels. On-device text recognition reads the total, date, model, serial and warranty length, files a PDF, and can add the item to your equipment register.\n- Keep an equipment register with age against typical service life, warranty end dates and attached documents. Warranty alerts arrive 30 and 7 days before cover ends.\n- Look ahead: a twelve-month cost outlook for routine upkeep and a monthly replacement reserve, using editable, indicative US cost ranges.\n- Keep a service history and contractor notes: who did what, when, and what it cost.\n- Export a home binder PDF with your profile, equipment, history, maintenance programme and scanned documents, ready for a buyer, an agent, an insurer or a new tenant.\n\n### Private By Design\nYour records stay on your iPhone or iPad. There is no account and no Eavesly server. Reading scans and sentences happens on the device.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-eavesly.html",
+  "supportUrl": "https://equalinformation.com/app-support-eavesly.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/eavesly/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/eavesly/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eavesly/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eavesly/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eavesly/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eavesly/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eavesly/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eavesly/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eavesly/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eavesly/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eavesly/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eavesly/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eavesly/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.eavesly.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.eavesly.app"
+  },
+  "related": []
+}

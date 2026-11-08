@@ -1,0 +1,109 @@
+{
+  "slug": "teeloft",
+  "name": "Teeloft",
+  "subtitle": "Handicap estimate and stats",
+  "categories": [
+    "sports",
+    "utilities"
+  ],
+  "tags": [
+    "golf",
+    "handicap",
+    "scorecard",
+    "tracker",
+    "index",
+    "putts",
+    "fairway",
+    "birdie",
+    "round",
+    "course",
+    "stats",
+    "caddie"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Score a round with big taps, or just say \"birdie on 4, bogey on 5\". Watch your estimated handicap index move, with every step of the maths shown.",
+  "longDescription": "Teeloft is the scorecard you keep in your pocket for every round, and a handicap estimate you can actually check.\n\n### Score Without Fuss\nOne hole at a time, one hand. Tap Birdie, Par or Bogey and the count is filled in for that hole's par. Add putts, fairway and green with a tap each. Or open Say it and type or dictate a sentence: \"par on 1 through 3, double bogey on 7, two putts on 8, par the rest\". Teeloft shows what it understood and you confirm before anything changes. It all runs on the phone, so it works with no signal.\n\n### An Estimate with the Working Shown\nTeeloft estimates a handicap index using the World Handicap System calculation: net double bogey caps, the (113 / slope) differential, best 8 of your last 20, nine-hole rounds, the soft and hard caps and the exceptional score reduction. Open any round to see how it counted. A planning card tells you which adjusted score would lower your index on the course you pick.\nThis is an estimate for your own tracking. It is not an official Handicap Index and is not issued or endorsed by any golf association.\n\n### Your Courses, Your Way\nThere is no course database to trust or fix. Enter the rating, slope, pars and stroke index from the scorecard once, or import a CSV. Each tee set keeps its own numbers, and past rounds are never rewritten if you edit a course later.\n\n### See Where the Strokes Go\nScorecards in proper golf notation. Charts of your index, scores, putts, fairways and greens. A heat strip of how you play each hole of a course. After every round, a short written recap built only from your own numbers: best stretch, front against back, putting against your recent average, what moved your index. Share it as a picture.\n\n### Private By Design\nNo account, no sign-in. Your rounds stay on your device. Export everything as CSV or JSON any time.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-teeloft.html",
+  "supportUrl": "https://equalinformation.com/app-support-teeloft.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/teeloft/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/teeloft/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/teeloft/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/teeloft/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/teeloft/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/teeloft/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/teeloft/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/teeloft/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/teeloft/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/teeloft/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/teeloft/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/teeloft/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/teeloft/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.teeloft.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.teeloft.app"
+  },
+  "related": []
+}
