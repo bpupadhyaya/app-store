@@ -28,7 +28,7 @@
   "privacyUrl": "https://equalinformation.com/privacy-dozeline.html",
   "supportUrl": "https://equalinformation.com/app-support-dozeline.html",
   "releasedAt": "2026-11-07",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
   "version": "1.0.0",
   "icon": "assets/apps/dozeline/icon-512.png",
   "hero": "assets/apps/dozeline/hero.webp",
@@ -95,9 +95,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.dozeline.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/dozeline-baby-log-nap-times/id6831895538",
+    "bundleId": "com.equalinformation.dozeline.app",
+    "appleId": "6831895538"
   },
   "android": {
     "status": "soon",
