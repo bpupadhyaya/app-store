@@ -1,0 +1,108 @@
+{
+  "slug": "eosinwell",
+  "name": "Eosinwell",
+  "subtitle": "Histology slides and stains",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "histology",
+    "microscope",
+    "tissue",
+    "slides",
+    "cells",
+    "stain",
+    "h&e",
+    "anatomy",
+    "lab",
+    "biology",
+    "med-school",
+    "nursing"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Slide in a brass-and-glass microscope: zoom 4x to 100x, change stains, lose and regain focus, then test yourself.",
+  "longDescription": "Eosinwell turns your phone or tablet into a virtual microscope for learning histology.\n\nEvery slide is a physically based simulation drawn by the app in real micrometres. Pinch from 4x to 100x oil, nudge the fine focus, and watch the depth of field, lens colour and stain absorption behave the way a bright-field microscope does. Switch stains and the same tissue changes colour: H&E, Masson trichrome, PAS, Verhoeff-van Gieson, reticulin silver, Oil Red O, Wright-Giemsa, Nissl with Luxol blue, and Picrosirius red under crossed polarisers where collagen glows (Maltese crosses in bone, crimp bands in tendon).\n\n### Learn\n- 21 slides and 9 stains across epithelia, connective tissue, muscle, nervous tissue, blood and organs\n- Tap any structure to see its name, what it does and how to recognise it\n- Guided tours with landmark views, a measuring ruler in real micrometres, and an eyepiece view\n- Notes with dated sources on every slide\n- Slide of the day\n\n### Test Yourself\n- Practical: a prompt names a structure, you tap it on a freshly rendered view\n- Name the tissue: mystery fields at random places, stains and powers\n- Review: structures you missed return on a spaced schedule\n- Timed practical with no ads\n- A- / A+ text size on every screen, on top of your system text size\n\n### 3D Cells\n- Five cell-level reconstructions (intestinal villus, skeletal muscle fibre, neuron, osteon, alveolus) with peel-away layers and labelled parts\n\nWorks fully offline. Free with ads; an optional monthly Ad-Free subscription removes them, or earn ad-free time by watching a short video.\n\nEosinwell is a study aid. Images are simulated teaching renderings, not patient material. It is not for diagnosis, treatment or clinical decisions.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-eosinwell.html",
+  "supportUrl": "https://equalinformation.com/app-support-eosinwell.html",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
+  "version": "1.0.0",
+  "icon": "assets/apps/eosinwell/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/eosinwell/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eosinwell/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eosinwell/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eosinwell/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eosinwell/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eosinwell/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eosinwell/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eosinwell/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eosinwell/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eosinwell/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eosinwell/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/eosinwell/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.eosinwell.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.eosinwell.app"
+  },
+  "related": []
+}
