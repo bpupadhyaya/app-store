@@ -98,7 +98,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.dimeglow.app"
+    "bundleId": "com.equalinformation.dimeglow.app",
+    "appleId": "6832080960"
   },
   "android": {
     "status": "soon",

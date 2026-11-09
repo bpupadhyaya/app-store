@@ -97,7 +97,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.heapmerge.app"
+    "bundleId": "com.equalinformation.heapmerge.app",
+    "appleId": "6832097272"
   },
   "android": {
     "status": "soon",

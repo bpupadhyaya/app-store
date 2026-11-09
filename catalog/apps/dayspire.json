@@ -96,7 +96,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.dayspire.app"
+    "bundleId": "com.equalinformation.dayspire.app",
+    "appleId": "6831921405"
   },
   "android": {
     "status": "soon",

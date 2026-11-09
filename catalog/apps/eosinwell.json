@@ -25,7 +25,7 @@
   "whatsNew": "First release.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
-  "ageRating": "4+",
+  "ageRating": "12+",
   "privacyUrl": "https://equalinformation.com/privacy-eosinwell.html",
   "supportUrl": "https://equalinformation.com/app-support-eosinwell.html",
   "releasedAt": "2026-11-09",
@@ -97,7 +97,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.eosinwell.app"
+    "bundleId": "com.equalinformation.eosinwell.app",
+    "appleId": "6832419810"
   },
   "android": {
     "status": "soon",

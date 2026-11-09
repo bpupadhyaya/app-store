@@ -86,7 +86,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.plateless.app"
+    "bundleId": "com.equalinformation.plateless.app",
+    "appleId": "6831887528"
   },
   "android": {
     "status": "soon",

@@ -98,7 +98,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.fretnook.app"
+    "bundleId": "com.equalinformation.fretnook.app",
+    "appleId": "6831952763"
   },
   "android": {
     "status": "soon",

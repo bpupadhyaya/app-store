@@ -1,0 +1,109 @@
+{
+  "slug": "rotawick",
+  "name": "Rotawick",
+  "subtitle": "Shifts, swaps, hours, overtime",
+  "categories": [
+    "productivity"
+  ],
+  "tags": [
+    "planner",
+    "rota",
+    "roster",
+    "work",
+    "calendar",
+    "staff",
+    "team",
+    "timetable",
+    "employee",
+    "week",
+    "ics",
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Plan the week in seconds. See every shift on a lit 3D board, catch overtime early, swap in two taps, and share to any calendar. No account.",
+  "longDescription": "Rotawick is a weekly rota for people who work shifts and the small teams that run on them. Put the whole week on one board, see who is working when, and spot a problem before it becomes a missed shift or an unplanned overtime bill.\n\n### See the Week At a Glance\nDays across, people down, coloured by person. Early, day, late and night shifts are one tap to add, and open shifts nobody has picked up yet sit in their own row. Prefer depth? The 3D Board turns the same week into a lit board where taller blocks are longer shifts and an amber marker flags the ones to check. Drag to turn it, tap a block for the details.\n\n### Hours and Overtime You Can Trust\nWeekly hours for everyone, with the limit marked on a bar and anything over it in amber. Warnings for long shifts, short rest between shifts and overlapping shifts. Set your own limits, or start from dated notes for the United States, Canada, the United Kingdom or Australia, each with a link to the official source. Add an optional hourly rate for a rough pay estimate.\n\n### Swaps Without the Group Chat\nGive a shift to someone else, trade two shifts, or hand a shift back as open. Rotawick shows each person's hours after the change before you confirm, and keeps a swap history.\n\n### Built for Real Rosters\nRepeating patterns such as 5 on 2 off, 4 on 4 off, 3 on 3 off and 2-2-3. Copy last week into this week. Your own shift types. Optional reminders before your shifts.\n\n### Share to Any Calendar\nExport the week, or the next four weeks, as a standard calendar file and open it in Apple Calendar, Google Calendar or any other calendar app. Export only your own shifts if you like.\n\n### Private and Offline\nNo account, no sign-in, and your rota stays on your device. Rotawick works without a connection.\n\n### Made to Read\nA- and A+ text size on every screen, on top of your iPhone's own text size. A full iPad layout with a sidebar.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-rotawick.html",
+  "supportUrl": "https://equalinformation.com/app-support-rotawick.html",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
+  "version": "1.0.0",
+  "icon": "assets/apps/rotawick/icon-512.png",
+  "hero": "assets/apps/rotawick/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/rotawick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rotawick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rotawick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rotawick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rotawick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rotawick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rotawick/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rotawick/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rotawick/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rotawick/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rotawick/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rotawick/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.rotawick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.rotawick.app"
+  },
+  "related": []
+}

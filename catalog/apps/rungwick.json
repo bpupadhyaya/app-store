@@ -96,7 +96,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.rungwick.app"
+    "bundleId": "com.equalinformation.rungwick.app",
+    "appleId": "6832139601"
   },
   "android": {
     "status": "soon",

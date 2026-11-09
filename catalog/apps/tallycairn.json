@@ -98,7 +98,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.tallycairn.app"
+    "bundleId": "com.equalinformation.tallycairn.app",
+    "appleId": "6831952674"
   },
   "android": {
     "status": "soon",

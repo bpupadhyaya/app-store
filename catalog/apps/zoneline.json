@@ -96,7 +96,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.zoneline.app"
+    "bundleId": "com.equalinformation.zoneline.app",
+    "appleId": "6832129483"
   },
   "android": {
     "status": "soon",

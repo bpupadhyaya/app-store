@@ -98,7 +98,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.pockline.app"
+    "bundleId": "com.equalinformation.pockline.app",
+    "appleId": "6831936329"
   },
   "android": {
     "status": "soon",

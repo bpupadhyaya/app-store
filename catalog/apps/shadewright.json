@@ -97,7 +97,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.shadewright.app"
+    "bundleId": "com.equalinformation.shadewright.app",
+    "appleId": "6831874500"
   },
   "android": {
     "status": "soon",

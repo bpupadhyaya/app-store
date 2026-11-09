@@ -96,7 +96,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.timesprint.app"
+    "bundleId": "com.equalinformation.timesprint.app",
+    "appleId": "6831882808"
   },
   "android": {
     "status": "soon",

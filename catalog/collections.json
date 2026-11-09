@@ -139,5 +139,21 @@
       "kettlesong",
       "globloom"
     ]
+  },
+  {
+    "id": "medical-anatomy-study",
+    "title": "New: medical and anatomy study apps",
+    "subtitle": "3D anatomy, cell biology, molecular and microbiology labs for students. Education only, not medical advice. Coming soon: in App Store review.",
+    "appSlugs": [
+      "osteowell",
+      "corpolume",
+      "cytowell",
+      "helixwick",
+      "zymewell",
+      "epitopewell",
+      "petrilume",
+      "eosinwell",
+      "bindwell"
+    ]
   }
 ]

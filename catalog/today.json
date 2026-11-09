@@ -2,6 +2,26 @@
   "featured": "tidepool-keeper",
   "stories": [
     {
+      "id": "2026-11-09-study-3d",
+      "date": "2026-11-09",
+      "kicker": "Coming soon",
+      "title": "Study the body, cell and molecule in 3D",
+      "subtitle": "Nine education apps for medical and science students are in App Store review.",
+      "body": "Osteowell (bones), Corpolume (organ systems), Cytowell (the cell), Helixwick (DNA), Zymewell (enzymes), Epitopewell (vaccines and antibodies), Petrilume (microbiology), Eosinwell (virtual microscope) and Bindwell (pharmacology) turn textbook diagrams into things you can rotate, cut open and test yourself on.\n\nThey are study aids that work offline, are free with ads and have an optional monthly ad-free plan. They do not diagnose or treat anything and are not medical advice. None is on the App Store yet: the buttons stay at Coming soon until Apple releases each one.",
+      "appSlugs": [
+        "osteowell",
+        "corpolume",
+        "cytowell",
+        "helixwick",
+        "zymewell",
+        "epitopewell",
+        "petrilume",
+        "eosinwell",
+        "bindwell"
+      ],
+      "accent": "#2f80ed"
+    },
+    {
       "id": "2026-11-06-arrivals",
       "date": "2026-11-06",
       "kicker": "Now on the App Store",

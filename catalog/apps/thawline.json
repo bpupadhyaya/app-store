@@ -97,7 +97,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.thawline.app"
+    "bundleId": "com.equalinformation.thawline.app",
+    "appleId": "6831875985"
   },
   "android": {
     "status": "soon",

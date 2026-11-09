@@ -26,8 +26,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-flagstep.html",
   "supportUrl": "https://equalinformation.com/app-support-flagstep.html",
-  "releasedAt": "2026-11-08",
-  "updatedAt": "2026-11-08",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
   "version": "1.0.0",
   "icon": "assets/apps/flagstep/icon-512.png",
   "hero": "assets/apps/flagstep/hero.webp",
@@ -94,9 +94,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.flagstep.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/flagstep-citizenship-test/id6831882806",
+    "bundleId": "com.equalinformation.flagstep.app",
+    "appleId": "6831882806"
   },
   "android": {
     "status": "soon",

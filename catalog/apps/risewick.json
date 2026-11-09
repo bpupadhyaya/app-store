@@ -98,7 +98,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.risewick.app"
+    "bundleId": "com.equalinformation.risewick.app",
+    "appleId": "6832083687"
   },
   "android": {
     "status": "soon",

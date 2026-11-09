@@ -98,7 +98,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.jotwren.app"
+    "bundleId": "com.equalinformation.jotwren.app",
+    "appleId": "6832097886"
   },
   "android": {
     "status": "soon",

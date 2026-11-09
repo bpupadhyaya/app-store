@@ -98,7 +98,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.idlehive.app"
+    "bundleId": "com.equalinformation.idlehive.app",
+    "appleId": "6832101138"
   },
   "android": {
     "status": "soon",

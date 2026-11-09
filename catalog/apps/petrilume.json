@@ -24,7 +24,7 @@
   "whatsNew": "First release.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
-  "ageRating": "4+",
+  "ageRating": "12+",
   "privacyUrl": "https://equalinformation.com/privacy-petrilume.html",
   "supportUrl": "https://equalinformation.com/app-support-petrilume.html",
   "releasedAt": "2026-11-08",
@@ -96,7 +96,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.petrilume.app"
+    "bundleId": "com.equalinformation.petrilume.app",
+    "appleId": "6832141020"
   },
   "android": {
     "status": "soon",

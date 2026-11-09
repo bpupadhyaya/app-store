@@ -98,7 +98,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.quillcase.app"
+    "bundleId": "com.equalinformation.quillcase.app",
+    "appleId": "6831908828"
   },
   "android": {
     "status": "soon",

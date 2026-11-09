@@ -1,0 +1,109 @@
+{
+  "slug": "zymewell",
+  "name": "Zymewell",
+  "subtitle": "Kinetics, inhibitors, 3D drugs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "michaelis",
+    "menten",
+    "lineweaver",
+    "burk",
+    "protein",
+    "pdb",
+    "pharmacology",
+    "mcat",
+    "usmle",
+    "medical",
+    "student",
+    "quiz"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Turn real enzyme structures in 3D, replay a drug binding its pocket, and bend the kinetics with live sliders.",
+  "longDescription": "Zymewell turns enzyme biochemistry into something you can hold, turn and break.\n\nFifteen clinically important enzymes are drawn in real time 3D from real crystal structures: HIV protease, ACE, HMG-CoA reductase, DHFR, carbonic anhydrase, acetylcholinesterase, thrombin, trypsin, TEM-1 beta-lactamase, neuraminidase, PDE5, COX-2, DPP-4, lactate dehydrogenase and aldose reductase. Each one is shown with the drug or inhibitor that binds it.\n\n### See the Structure\n- Rotate, zoom and pan physically lit ribbons, translucent surfaces coloured by charge and polarity, and ball-and-stick ligands\n- Replay the inhibitor docking into the pocket: play, pause, scrub and change speed\n- Tap any pocket residue or ligand for its name and distance, or use Find it in 3D to test yourself\n- Colour-blind safe palette and billboard labels that follow the molecule\n\n### Break the Kinetics\n- Sliders for Vmax, Km, substrate and inhibitor concentration\n- Michaelis-Menten rate curve and Lineweaver-Burk plot update together for competitive, uncompetitive, noncompetitive and mixed inhibition\n- A molecular bench simulation: eighteen enzyme molecules bind substrate and inhibitor with the rate constants you set, so you can watch the model and the bench agree\n- Fit challenge: find hidden Km and Vmax from noisy readings\n\n### Study a Little Every Day\n- Daily set of ten questions: enzyme facts, plots to identify and kinetics calculations\n- Clinical cards: drugs, why it matters, a study pearl for each enzyme\n- Streaks, points and mastery per enzyme\n\n### Built for Reading\n- A- and A+ text size on every screen, plus full support for your device text size\n- Works completely offline: no account, nothing to download\n- Free to use with ads. Zymewell Plus ($2.99 per month) removes them, or earn an ad-free month by watching videos.\n\nStructures come from the RCSB Protein Data Bank (wwPDB, CC0) with credits in the app. Zymewell is for education only. It is not medical advice and does not diagnose or treat any condition.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "12+",
+  "privacyUrl": "https://equalinformation.com/privacy-zymewell.html",
+  "supportUrl": "https://equalinformation.com/app-support-zymewell.html",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
+  "version": "1.0.0",
+  "icon": "assets/apps/zymewell/icon-512.png",
+  "hero": "assets/apps/zymewell/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/zymewell/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zymewell/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zymewell/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zymewell/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zymewell/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zymewell/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zymewell/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zymewell/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zymewell/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zymewell/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zymewell/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zymewell/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.zymewell.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.zymewell.app"
+  },
+  "related": []
+}

@@ -26,8 +26,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-tablelark.html",
   "supportUrl": "https://equalinformation.com/app-support-tablelark.html",
-  "releasedAt": "2026-11-07",
-  "updatedAt": "2026-11-07",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
   "version": "1.0.0",
   "icon": "assets/apps/tablelark/icon-512.png",
   "screenshots": [
@@ -93,9 +93,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.tablelark.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/tablelark/id6831908954",
+    "bundleId": "com.equalinformation.tablelark.app",
+    "appleId": "6831908954"
   },
   "android": {
     "status": "soon",

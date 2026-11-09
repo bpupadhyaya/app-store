@@ -1,0 +1,108 @@
+{
+  "slug": "quarterwick",
+  "name": "Quarterwick",
+  "subtitle": "Quarterly estimated taxes",
+  "categories": [
+    "finance"
+  ],
+  "tags": [
+    "1099",
+    "self-employed",
+    "gig",
+    "contractor",
+    "deductions",
+    "mileage",
+    "irs",
+    "set-aside",
+    "jar",
+    "income-log",
+    "estimate",
+    "1040-es"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Know what to set aside from every payment. Watch a glass jar fill toward your next IRS due date. No account, no bank link, works offline.",
+  "longDescription": "Freelancing is great until the tax bill lands. Quarterwick turns the guesswork into one simple picture: a glass jar that fills with the money you have set aside, aiming at your next quarterly due date.\n\nLog a payment in ten seconds. Quarterwick works out your self-employment tax, income tax and (if you like) a state rate, then tells you how much of that payment belongs in the jar. Drop it in, watch the coins settle, and know exactly how far you are from the next installment.\n\n### What You Get\n- A 3D set-aside jar that fills toward your next payment, with the due date and a day count\n- Quarterly estimates for 2026 spread across the dates still ahead: April 15, June 15, September 15 and January 15\n- A personal set-aside rate, so you know what share of every payment to keep\n- Income and expense log with 17 business categories that point to the Schedule C line\n- Mileage priced at the IRS business rate for each trip date (72.5 cents to June 30, 76 cents from July 1, 2026), home office by the simplified method, meals counted at 50 percent\n- A safe harbor guide that shows the lower of 90 percent of this year's tax and your prior-year rule, less withholding\n- An Accuracy and sources page listing every rate and threshold with its official link, tax year and last-checked date, plus a Report an error link\n- Record the payments you actually made and mark each quarter paid\n- CSV export of your whole log for your accountant or your own spreadsheet\n- A- and A+ buttons on every screen, plus full Dynamic Type support\n- Works fully offline. No sign-up and no bank linking. Your numbers stay on your device.\n\n### Honest Numbers\nEvery figure comes from IRS tax year 2026 tables (brackets, standard deduction, Social Security wage base, mileage rate) with the source and date shown in the app. Quarterwick gives estimates only and is not tax, legal or accounting advice. It does not model the 0.9 percent Additional Medicare tax, the qualified business income phase-in range, credits, itemized deductions or state rules; IRS rates such as mileage can change during the year. Confirm your payments with Form 1040-ES or a tax professional.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-fin-freelance-tax.html",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
+  "version": "1.0.0",
+  "icon": "assets/apps/quarterwick/icon-512.png",
+  "hero": "assets/apps/quarterwick/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/quarterwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quarterwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quarterwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quarterwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quarterwick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quarterwick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quarterwick/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quarterwick/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quarterwick/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quarterwick/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quarterwick/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/quarterwick/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.finfreelancetax.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.finfreelancetax.app"
+  },
+  "related": []
+}

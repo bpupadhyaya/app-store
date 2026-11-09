@@ -98,7 +98,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.calcwick.app"
+    "bundleId": "com.equalinformation.calcwick.app",
+    "appleId": "6832091259"
   },
   "android": {
     "status": "soon",

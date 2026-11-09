@@ -97,7 +97,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.roadwren.app"
+    "bundleId": "com.equalinformation.roadwren.app",
+    "appleId": "6831932137"
   },
   "android": {
     "status": "soon",

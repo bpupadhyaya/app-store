@@ -1,0 +1,108 @@
+{
+  "slug": "osteowell",
+  "name": "Osteowell",
+  "subtitle": "Skeleton, joints, fractures",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "osteology",
+    "skull",
+    "spine",
+    "femur",
+    "pelvis",
+    "ribs",
+    "vertebrae",
+    "landmarks",
+    "quiz",
+    "flashcards",
+    "medical",
+    "student"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A real 3D skeleton to rotate, peel apart and quiz yourself on: 198 bones, landmarks, moving joints and fracture patterns. Works offline.",
+  "longDescription": "Learn the skeleton the way it really looks. Osteowell puts 198 separately selectable bones in real-time 3D that you can spin, zoom, peel apart and cut open, then tests you until the names stick.\n\n### Explore in 3D\n- Rotate and zoom an adult skeleton with realistic bone materials and soft lighting.\n- Tap any bone to see its name, type, landmarks and neighbours.\n- Explode the skeleton region by region, isolate one bone, or slide a cutting plane through the body to open bones: spongy bone in the ends and vertebrae, the hollow marrow canal in long-bone shafts.\n- Show or hide the skull, spine, ribs, arm, forearm and hand, pelvis and thigh, and leg and foot. Show only the left or right side.\n\n### Zoom In\n- Zoom from the whole skeleton into a thigh bone cut across the shaft, with a live scale bar, and see the thick ring of compact bone around the marrow canal.\n\n### Landmarks That You Can See\n- Pins mark the greater trochanter, the olecranon, the acromion, the mastoid process and many more, placed on the 3D bone itself.\n- Every bone has a clear summary, key features, articulations and study notes.\n\n### Joints in Motion\n- Move the shoulder, elbow, wrist, hip, knee and ankle with a slider or press Play, and see typical ranges of motion.\n- Read how each joint is classified, which movements it allows and what stabilises it.\n\n### Fractures in 3D\n- Break a real bone mesh and slide from reduced to displaced. Adjust angulation, twist and shortening to learn the words used to describe a fracture.\n- 28 fracture patterns and named fractures: transverse, spiral, comminuted, greenstick, Colles, scaphoid, Jones, Jefferson and more.\n- Scrub a healing timeline from haematoma to callus to remodelling.\n\n### Quiz By Region\n- Name the highlighted bone, find a bone by tapping it in 3D, name the landmark pin, recognise a fracture pattern or name a joint.\n- Spaced repetition brings weak bones back sooner. Daily goal, streak and mastery by region.\n\n### Built for Study\n- Works offline, no account needed.\n- A- and A+ buttons make text bigger on every reading screen, and the app follows your system text size.\n- iPhone and iPad layouts.\n- An Accuracy and sources page lists the references and known simplifications, and every screen has a Report an error link.\n\n### Education Only\nOsteowell is a study aid. It does not diagnose, treat or give medical advice. Anatomy varies between people.\n\n### Credits\n3D bone models adapted from BodyParts3D, © The Database Center for Life Science, licensed under Creative Commons Attribution 4.0 International (https://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html).",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "12+",
+  "privacyUrl": "https://equalinformation.com/privacy-anatomy-bones.html",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
+  "version": "1.0.0",
+  "icon": "assets/apps/osteowell/icon-512.png",
+  "hero": "assets/apps/osteowell/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/osteowell/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/osteowell/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/osteowell/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/osteowell/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/osteowell/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/osteowell/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/osteowell/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/osteowell/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/osteowell/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/osteowell/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/osteowell/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/osteowell/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.anatomy-bones.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.anatomy-bones.app"
+  },
+  "related": []
+}

@@ -99,7 +99,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.tallybell.app"
+    "bundleId": "com.equalinformation.tallybell.app",
+    "appleId": "6831876734"
   },
   "android": {
     "status": "soon",

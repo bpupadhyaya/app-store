@@ -1,0 +1,109 @@
+{
+  "slug": "helixwick",
+  "name": "Helixwick",
+  "subtitle": "Replication, PCR, CRISPR, RNA",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "genetics",
+    "biology",
+    "gene",
+    "mutation",
+    "transcription",
+    "translation",
+    "codon",
+    "ribosome",
+    "genome",
+    "nucleotide",
+    "study",
+    "quiz"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "See DNA replicate, RNA polymerase transcribe and ribosomes translate in real-time 3D built from real PDB structures.",
+  "longDescription": "Helixwick is a hands-on way to learn how DNA works. Watch the molecules that copy, read and decode the genome move in real-time 3D, then test what you understand.\n\n### See the Machinery\n- DNA replication: a replication fork opens in front of you. Helicase unzips the helix, polymerase copies the leading strand, and RNA primers start Okazaki fragments on the lagging strand.\n- Transcription: RNA polymerase II opens a bubble and builds RNA from the template strand.\n- Translation: a ribosome reads mRNA codon by codon while tRNA delivers amino acids to a growing protein.\n- Scrub the timeline, pause, slow it down, and orbit or zoom to any part.\n\n### Real Structures, Not Cartoons\n- Atom-level B-DNA, tRNA, Taq polymerase, RNA polymerase II, Cas9 with its guide RNA, hemoglobin, the sliding clamp and a helicase, rendered with physically based lighting.\n- Coordinates come from the RCSB Protein Data Bank (CC0). Every entry is cited in the app.\n- Every DNA strand in the animations is built from the real base-pair geometry of a crystal structure.\n\n### Labs You Can Change\n- PCR lab: run a thermocycler, design forward and reverse primers, see melting temperature, product length and how many copies you make.\n- CRISPR lab: explore the real Cas9 complex, find NGG PAM sites, choose a guide, add mismatches and compare repair outcomes.\n- Mutation lab: edit bases and watch silent, missense, nonsense, in-frame and frameshift effects appear in the protein, including the sickle-cell change in beta-globin.\n\n### Learn By Tapping\n- Tap any enzyme to see its name and job. Try Find it: the app names a part and you tap it in the scene.\n- 75 original quiz questions with explanations, spaced review of what you missed, a daily question, streaks and 40 flashcards.\n\n### Built for Studying\n- Works fully offline.\n- A- and A+ text zoom on every screen, plus support for your system text size.\n- Made for biology, biochemistry, genetics, pre-med and AP biology students, and anyone curious about molecular biology.\n\nHelixwick is for education and study only. It is not medical advice and must not be used to diagnose or treat any condition.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "12+",
+  "privacyUrl": "https://equalinformation.com/privacy-helixwick.html",
+  "supportUrl": "https://equalinformation.com/app-support-helixwick.html",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
+  "version": "1.0.0",
+  "icon": "assets/apps/helixwick/icon-512.png",
+  "hero": "assets/apps/helixwick/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/helixwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/helixwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/helixwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/helixwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/helixwick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/helixwick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/helixwick/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/helixwick/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/helixwick/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/helixwick/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/helixwick/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/helixwick/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.helixwick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.helixwick.app"
+  },
+  "related": []
+}

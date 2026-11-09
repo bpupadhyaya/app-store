@@ -96,7 +96,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.fellwick.app"
+    "bundleId": "com.equalinformation.fellwick.app",
+    "appleId": "6832083563"
   },
   "android": {
     "status": "soon",

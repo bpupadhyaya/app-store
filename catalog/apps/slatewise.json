@@ -96,7 +96,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.slatewise.app"
+    "bundleId": "com.equalinformation.slatewise.app",
+    "appleId": "6831952684"
   },
   "android": {
     "status": "soon",

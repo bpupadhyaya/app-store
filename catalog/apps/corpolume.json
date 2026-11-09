@@ -1,0 +1,109 @@
+{
+  "slug": "corpolume",
+  "name": "Corpolume",
+  "subtitle": "Beating heart, lungs and eye",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "physiology",
+    "medical",
+    "student",
+    "nursing",
+    "atlas",
+    "body",
+    "organs",
+    "cardiac",
+    "breathing",
+    "biology",
+    "study",
+    "vision"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A beating heart you can cut open, lungs that breathe, vessels, nerves and lymph in motion, and an eye that focuses. Free, works offline.",
+  "longDescription": "Corpolume is a living 3D anatomy atlas. The organs move the way they do in a real body, and you can reach in, peel layers back and open them up.\n\n### Beating Heart\nA detailed teaching heart with both atria and their appendages, ventricles with an apex, the apex pointing down and to the left, the great vessels, the coronary arteries and cardiac veins, epicardial fat and the pericardium. Watch the atria contract first, then the ventricles with a twisting squeeze, while a pulse wave travels along the aorta. Cut the heart open to see the chambers, the four valves opening and closing in time, trabeculae, papillary muscles and chordae (the interior is schematic). Change the heart rate from 40 to 180 beats per minute; systole stays about 0.3 s while diastole shortens, as in life.\n\n### Breathing Chest\nTwelve pairs of ribs with costal cartilage, the sternum and spine form a chest wall you can fade out. Lungs with their lobes, fissures and cardiac notch expand as the diaphragm flattens, and the heart shifts with every breath. See the trachea and bronchial tree, pulmonary arteries and veins that follow the airways, the vagus and phrenic nerves with moving impulses, the thoracic duct and lymph nodes, and the oesophagus with swallowing waves.\n\n### Eye\nThe eye shows the pupil reflex, the lens focusing near and far (the ciliary muscle contracts and the zonules slacken), eye muscles turning the globe, blinking, and how a long or short eye blurs the image.\n\n### Study Tools\n- Tap any structure for its name and function; Labels shows names that follow the objects.\n- Layer peel, cross-section cut plane, X-ray mode, play, pause, slow motion and a scrubbable timeline.\n- Quizzes inside the 3D scene: tap the named structure, name it from its function, answer a fact.\n- A- and A+ text zoom on every screen and support for your system text size.\n- A colour-blind safe palette and a colour legend.\n- Accuracy and sources page, and a Report an error link.\n- Works fully offline.\n- Honest labels: simplified parts are marked schematic, and the Accuracy page lists the references.\n\n### Education Only\nCorpolume is for education only. It shows simplified teaching models, is not patient-specific, and does not diagnose or treat any condition. It is not a substitute for professional training or clinical judgement.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "12+",
+  "privacyUrl": "https://equalinformation.com/privacy-anatomy-atlas-living.html",
+  "supportUrl": "https://equalinformation.com/app-support-anatomy-atlas-living.html",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
+  "version": "1.0.0",
+  "icon": "assets/apps/corpolume/icon-512.png",
+  "hero": "assets/apps/corpolume/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/corpolume/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/corpolume/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/corpolume/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/corpolume/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/corpolume/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/corpolume/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/corpolume/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/corpolume/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/corpolume/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/corpolume/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/corpolume/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/corpolume/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.anatomy-atlas-living.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.anatomy-atlas-living.app"
+  },
+  "related": []
+}

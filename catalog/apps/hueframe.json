@@ -97,7 +97,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.hueframe.app"
+    "bundleId": "com.equalinformation.hueframe.app",
+    "appleId": "6832129868"
   },
   "android": {
     "status": "soon",

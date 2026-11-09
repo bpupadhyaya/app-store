@@ -1,0 +1,109 @@
+{
+  "slug": "epitopewell",
+  "name": "Epitopewell",
+  "subtitle": "Antibodies, vaccines, binding (29 chars)",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "immune",
+    "epitope",
+    "antigen",
+    "pdb",
+    "protein",
+    "structure",
+    "b-cell",
+    "t-cell",
+    "mrna",
+    "igg",
+    "receptor",
+    "mhc"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "See how antibodies grip antigens in real 3D protein structures, compare vaccine platforms, and watch an immune response unfold day by day.",
+  "longDescription": "Study immunology the way it actually looks. Epitopewell turns antibody, receptor and vaccine biology into lit, interactive 3D you can orbit, tap and question.\n\n### Real Protein Structures\nExplore seven experimentally determined structures from the RCSB Protein Data Bank: a whole IgG antibody, an antibody Fab gripping lysozyme, an antibody on the SARS-CoV-2 spike receptor-binding domain, the spike bound to ACE2, a T-cell receptor reading a peptide on HLA-A2, influenza hemagglutinin and the full spike trimer. Switch colouring by chain, secondary structure or interface, show the contact atoms and polar contacts, and tap any residue to see what it is. Every structure cites its original paper.\n\n### Zoom Journey\nDive from a germinal centre of B cells to a single B cell, to an antibody, to the atoms where it grips its antigen, in one continuous, to-scale camera move with a live scale bar.\n\n### Antibody Classes in 3D\nRotate IgG, IgM, IgA, IgE and IgD models built from the real IgG structure, with labels that follow the molecule. Tap the Fab arms, hinge, Fc stem and binding site to learn what each part does, then test yourself with a tap-the-part challenge.\n\n### How Vaccines Work\nSeven vaccine platforms, each with its own 3D model and step-by-step mechanism: mRNA in lipid nanoparticles, protein subunit with adjuvant, viral vector, inactivated, live attenuated, polysaccharide conjugate and toxoid.\n\n### Simulations You Can Change\nThe Binding Lab is a live 3D particle simulation of antibody and antigen: change the affinity (Kd), antibody concentration and off-rate and watch binding approach the equilibrium predicted by the law of mass action. The Response Timeline lets you scrub through days after a first dose and a booster to see IgM, IgG, antigen and memory B cells rise and fall, compare with a single dose, and see what the adjuvant changes.\n\n### Study Tools\n64 original quiz questions with explanations across antibodies, binding and structure, vaccine types, immune response and T cells. Missed questions return first. Question of the day and streaks keep you coming back.\n\n### Made for Reading\nLarge, clear A- and A+ text controls on every screen, plus full support for your iPhone or iPad text size. Designed for both iPhone and iPad, and it works completely offline.\n\n### Education Only\nEpitopewell is a study aid. It is not medical advice and does not recommend or schedule any vaccination. Simulations are illustrative teaching models. An Accuracy and sources page lists where every structure and value comes from, and you can report an error from any screen.",
+  "whatsNew": "First release of Epitopewell: Immunology 3D.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "12+",
+  "privacyUrl": "https://equalinformation.com/privacy-immunology-vaccines.html",
+  "supportUrl": "https://equalinformation.com/app-support-immunology-vaccines.html",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
+  "version": "1.0.0",
+  "icon": "assets/apps/epitopewell/icon-512.png",
+  "hero": "assets/apps/epitopewell/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/epitopewell/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/epitopewell/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/epitopewell/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/epitopewell/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/epitopewell/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/epitopewell/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/epitopewell/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/epitopewell/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/epitopewell/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/epitopewell/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/epitopewell/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/epitopewell/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.immunology-vaccines.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.immunology-vaccines.app"
+  },
+  "related": []
+}

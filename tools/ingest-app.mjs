@@ -30,7 +30,7 @@ const norm = s => s.toLowerCase().replace(/[^a-z0-9]/g, '');
 const outFile = path.join(ROOT, 'catalog/apps', slug + '.json');
 const old = fs.existsSync(outFile) ? JSON.parse(rd(outFile)) : {};
 const listDir = d => fs.existsSync(d) ? fs.readdirSync(d).map(f => path.join(d, f)).filter(f => fs.statSync(f).isFile()) : [];
-const textCands = [...listDir(path.join(T, slug)), ...listDir(T)].filter(f => /STORE-?TEXT/i.test(path.basename(f)) && /\.md$/.test(f) && !/play|deluxe/i.test(path.basename(f)) &&
+const textCands = [...listDir(path.join(T, slug)), ...listDir(T), ...listDir(path.join(T, 'app100'))].filter(f => /STORE-?TEXT/i.test(path.basename(f)) && /\.md$/.test(f) && !/play|deluxe/i.test(path.basename(f)) &&
   (path.dirname(f) === path.join(T, slug) || norm(path.basename(f)).startsWith(norm(slug)))).sort((x, y) => x.length - y.length);
 const textFile = opt('text') || textCands[0];
 const text = rd(textFile || ''), packet = rd(path.join(PP, 'play-packets', slug + '.md'));
@@ -103,6 +103,9 @@ if (!flag('dry')) {
   if (!ph.length && !LK?.screenshotUrls?.length) { // last resort: our own Android store screenshots (same UI)
     const pl = sub => { const d = path.join(srcRoot, 'play', sub); return fs.existsSync(d) ? fs.readdirSync(d).filter(x => /\.png$/.test(x)).sort((a, b) => a.localeCompare(b, undefined, { numeric: true })).map(x => path.join(d, x)) : []; };
     ph = pl('phone'); tb = pl('tablet10'); if (!tb.length) tb = pl('tab10'); if (ph.length) console.log('NOTE: no iPhone art found; using the Android store screenshots from play/.');
+  }
+  if (!hero && !fg && tb.length) { // no feature graphic: centre-crop the first iPad shot (our own store art) to 16:9
+    const t16 = path.join(TMP, 'hero.png'); try { execFileSync('sips', ['--cropToHeightWidth', '1152', '2048', tb[0], '--out', t16], { stdio: 'ignore' }); img(t16, path.join(adir, 'hero.webp'), 1600); hero = `${arel}/hero.webp`; } catch {}
   }
   const keepShots = old.screenshots?.length && !flag('refresh-shots'); // curated shot list (and captions) survive re-runs
   if (!keepShots) screenshots = [];

@@ -29,8 +29,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-teeloft.html",
   "supportUrl": "https://equalinformation.com/app-support-teeloft.html",
-  "releasedAt": "2026-11-08",
-  "updatedAt": "2026-11-08",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
   "version": "1.0.0",
   "icon": "assets/apps/teeloft/icon-512.png",
   "screenshots": [
@@ -96,9 +96,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.teeloft.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/teeloft-golf-scorecard/id6831921180",
+    "bundleId": "com.equalinformation.teeloft.app",
+    "appleId": "6831921180"
   },
   "android": {
     "status": "soon",

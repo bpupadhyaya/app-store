@@ -97,7 +97,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.odostamp.app"
+    "bundleId": "com.equalinformation.odostamp.app",
+    "appleId": "6831877177"
   },
   "android": {
     "status": "soon",

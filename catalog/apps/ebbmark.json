@@ -29,8 +29,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-ebbmark.html",
   "supportUrl": "https://equalinformation.com/app-support-ebbmark.html",
-  "releasedAt": "2026-11-08",
-  "updatedAt": "2026-11-08",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
   "version": "1.0.0",
   "icon": "assets/apps/ebbmark/icon-512.png",
   "screenshots": [
@@ -96,9 +96,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.ebbmark.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/ebbmark-smart-study-cards/id6831932684",
+    "bundleId": "com.equalinformation.ebbmark.app",
+    "appleId": "6831932684"
   },
   "android": {
     "status": "soon",

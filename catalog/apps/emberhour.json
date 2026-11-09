@@ -97,7 +97,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.emberhour.app"
+    "bundleId": "com.equalinformation.emberhour.app",
+    "appleId": "6831882426"
   },
   "android": {
     "status": "soon",

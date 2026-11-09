@@ -98,7 +98,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.paycheckcompass.app"
+    "bundleId": "com.equalinformation.paycheckcompass.app",
+    "appleId": "6831876085"
   },
   "android": {
     "status": "soon",

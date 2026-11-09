@@ -98,7 +98,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.rillwick.app"
+    "bundleId": "com.equalinformation.rillwick.app",
+    "appleId": "6832134727"
   },
   "android": {
     "status": "soon",

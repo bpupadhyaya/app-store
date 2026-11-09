@@ -29,8 +29,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-sillfern.html",
   "supportUrl": "https://equalinformation.com/app-support-sillfern.html",
-  "releasedAt": "2026-11-08",
-  "updatedAt": "2026-11-08",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
   "version": "1.0.0",
   "icon": "assets/apps/sillfern/icon-512.png",
   "screenshots": [
@@ -96,9 +96,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.sillfern.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/sillfern-houseplant-care/id6831952838",
+    "bundleId": "com.equalinformation.sillfern.app",
+    "appleId": "6831952838"
   },
   "android": {
     "status": "soon",

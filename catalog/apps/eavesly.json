@@ -28,8 +28,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-eavesly.html",
   "supportUrl": "https://equalinformation.com/app-support-eavesly.html",
-  "releasedAt": "2026-11-08",
-  "updatedAt": "2026-11-08",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
   "version": "1.0.0",
   "icon": "assets/apps/eavesly/icon-512.png",
   "screenshots": [
@@ -95,9 +95,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.eavesly.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/eavesly/id6831932480",
+    "bundleId": "com.equalinformation.eavesly.app",
+    "appleId": "6831932480"
   },
   "android": {
     "status": "soon",

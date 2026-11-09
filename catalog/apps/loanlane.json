@@ -98,7 +98,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.loanlane.app"
+    "bundleId": "com.equalinformation.loanlane.app",
+    "appleId": "6831875428"
   },
   "android": {
     "status": "soon",

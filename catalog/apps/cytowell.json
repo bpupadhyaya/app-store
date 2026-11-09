@@ -1,0 +1,109 @@
+{
+  "slug": "cytowell",
+  "name": "Cytowell",
+  "subtitle": "Organelles, mitosis, membranes",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "meiosis",
+    "osmosis",
+    "signaling",
+    "cytology",
+    "nucleus",
+    "mitochondria",
+    "quiz",
+    "flashcards",
+    "ribosome",
+    "biochem",
+    "plant",
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Fly through a living 3D cell, watch real random motion cross a membrane, and scrub through mitosis and meiosis.",
+  "longDescription": "Cytowell turns cell biology into something you can fly through, poke and watch happen.\n\n### Explore a Living 3D Cell\nOrbit an animal cell and tap the nucleus, nucleolus, rough and smooth ER, Golgi, mitochondria, lysosomes, peroxisomes, centrosome, cytoskeleton and transport vesicles. Every structure is a real-time 3D model with physically based materials, and every one opens notes on its function, structure, size, key facts and why it matters in medicine. Switch to a plant cell with chloroplasts, a central vacuole and a cell wall. Take the guided fly-through, open a cutaway, turn on floating labels, and read the live scale bar as you dive in.\n\n### Watch Membrane Transport Happen\nParticles take random Brownian steps and can cross the membrane only the way real molecules can. Try simple diffusion, ion channels with a gate you can close, saturable carriers, ATP-powered pumps that build a gradient (and lose it when you cut the ATP), and osmosis. Change the temperature and the starting gradient and see the counts and the graph respond.\n\n### Scrub Through Mitosis and Meiosis\nThree chromosome pairs, rose for maternal and teal for paternal, move through every stage with spindle fibres, kinetochores and crossing over. Play, pause, slow down or drag the timeline back and forth.\n\n### Follow a Cell Signal\nRelease a ligand and follow the receptor, G protein, adenylyl cyclase, cAMP and protein kinase A as a live model. Compare a normal cell with cholera toxin, a blocked PDE or an antagonist on the same graph.\n\n### Study with Confidence\nQuizzes by topic, a tap-the-organelle challenge in 3D, put-the-stages-in-order drills, and spaced-repetition flashcards, with streaks and history. Everything works offline.\n\n### Made to Be Readable\nA- and A+ text zoom on every screen, plus full support for your system text size. Designed for iPhone and iPad.\n\nCytowell is for study and education. It does not give medical advice.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "12+",
+  "privacyUrl": "https://equalinformation.com/privacy-cytowell.html",
+  "supportUrl": "https://equalinformation.com/app-support-cytowell.html",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
+  "version": "1.0.0",
+  "icon": "assets/apps/cytowell/icon-512.png",
+  "hero": "assets/apps/cytowell/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/cytowell/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cytowell/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cytowell/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cytowell/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cytowell/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cytowell/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cytowell/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cytowell/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cytowell/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cytowell/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cytowell/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cytowell/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.cytowell.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.cytowell.app"
+  },
+  "related": []
+}

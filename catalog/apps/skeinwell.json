@@ -98,7 +98,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.skeinwell.app"
+    "bundleId": "com.equalinformation.skeinwell.app",
+    "appleId": "6831936374"
   },
   "android": {
     "status": "soon",

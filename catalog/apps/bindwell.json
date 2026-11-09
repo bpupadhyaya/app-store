@@ -22,7 +22,7 @@
   "whatsNew": "First release.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
-  "ageRating": "4+",
+  "ageRating": "12+",
   "privacyUrl": "https://equalinformation.com/privacy-bindwell.html",
   "supportUrl": "https://equalinformation.com/app-support-bindwell.html",
   "releasedAt": "2026-11-08",
@@ -94,7 +94,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.bindwell.app"
+    "bundleId": "com.equalinformation.bindwell.app",
+    "appleId": "6832144498"
   },
   "android": {
     "status": "soon",

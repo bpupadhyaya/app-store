@@ -1,0 +1,110 @@
+{
+  "slug": "breathwick",
+  "name": "Breathwick",
+  "subtitle": "Box, 4-7-8 & coherent pacing",
+  "categories": [
+    "health",
+    "lifestyle"
+  ],
+  "tags": [
+    "breathwork",
+    "relax",
+    "calm",
+    "meditation",
+    "pranayama",
+    "sleep",
+    "focus",
+    "inhale",
+    "exhale",
+    "timer",
+    "haptic",
+    "mindful"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Follow a glowing 3D orb or lotus that swells as you breathe in and settles as you breathe out. Five guided rhythms, haptics, streaks. Free, works offline.",
+  "longDescription": "Breathe with something you can see and feel.\n\nBreathwick is a guided breathing trainer built around a real-time 3D visual. A glass-like orb (or an opening lotus) grows while you breathe in, rests while you hold and softens while you breathe out. Glowing particles drift inward on the in-breath and outward on the out-breath, so you can keep your rhythm with your eyes, your fingertips or both.\n\n### Five Guided Rhythms\n- Box breathing, an even four-count square\n- 4-7-8 wind-down, with a long out-breath\n- Coherent breathing, smooth waves of about five breaths a minute\n- Pursed-lip pacing, short in and twice as long out\n- Long exhale, gentle in and extended out\n- Your own rhythm: set every count from 2 to 12 seconds\n\n### See It, Feel It, Hear It\n- Physically based 3D rendering with soft glow, depth and floating particles\n- Two visuals (Orb and Lotus) and four colour palettes: Tide, Dawn, Ember, Moss\n- Haptics that swell and fade with each breath (on iPhones with a Taptic Engine)\n- Optional soft tone that rises and falls with your breath, generated live, no downloads\n- Keep your eyes closed and follow the vibration alone\n\n### A Habit That Sticks\n- Start in seconds: pick a rhythm, pick 1, 3, 5 or 10 minutes, tap Start\n- Daily goal ring, day streaks and a 12-week calendar\n- Weekly minutes, time by rhythm and milestone badges\n- Optional daily reminder at the time you choose\n\n### Made to Be Read\n- A- and A+ text zoom on every screen, up to about 200%, on top of iOS Dynamic Type\n- Designed for iPhone and iPad, with a roomy side-by-side layout on iPad\n\n### Private and Offline\n- Works fully offline from the first launch\n- No account, no sign-up. Your sessions stay on your device\n- No health sensors, no HealthKit, no camera, no microphone\n\n### Education Only\nBreathwick is for relaxation and general wellness. It is not a medical device and does not diagnose, treat, cure or prevent any condition or give medical advice. If you feel dizzy or uncomfortable, stop and breathe normally.",
+  "whatsNew": "First release of Breathwick: five guided rhythms, a 3D orb and lotus, haptics, streaks and A-/A+ text zoom.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "12+",
+  "privacyUrl": "https://equalinformation.com/privacy-breathwick.html",
+  "supportUrl": "https://equalinformation.com/app-support-breathwick.html",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
+  "version": "1.0.0",
+  "icon": "assets/apps/breathwick/icon-512.png",
+  "hero": "assets/apps/breathwick/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/breathwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/breathwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/breathwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/breathwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/breathwick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/breathwick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/breathwick/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/breathwick/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/breathwick/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/breathwick/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/breathwick/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/breathwick/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.breathwick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.breathwick.app"
+  },
+  "related": []
+}

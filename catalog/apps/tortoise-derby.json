@@ -98,7 +98,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.tortoise-derby.app"
+    "bundleId": "com.equalinformation.tortoise-derby.app",
+    "appleId": "6831874072"
   },
   "android": {
     "status": "soon",

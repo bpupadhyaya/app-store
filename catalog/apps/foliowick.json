@@ -98,7 +98,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.foliowick.app"
+    "bundleId": "com.equalinformation.foliowick.app",
+    "appleId": "6832107155"
   },
   "android": {
     "status": "soon",
