@@ -1,0 +1,107 @@
+{
+  "slug": "fellwick",
+  "name": "Fellwick",
+  "subtitle": "Habits as trails you walk",
+  "categories": [
+    "lifestyle",
+    "productivity"
+  ],
+  "tags": [
+    "habit-tracker",
+    "daily-habits",
+    "routine",
+    "widget",
+    "reminder",
+    "goals",
+    "checklist",
+    "self-care",
+    "tracker",
+    "streak"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Each habit becomes a footpath on its own map. Log a step in one tap, rest at camp on a quiet day, and read a plain-words weekly report.",
+  "longDescription": "Fellwick turns every habit into a footpath on a hand-contoured map. Each day you log is one step along it. A quiet day is a detour you can rejoin, and rest is a camp, not a failure.\n\n### Log a Step in One Tap\nOpen the app and tap Take a step. Or do it from the Home Screen or Lock Screen widget without opening anything. A soft double-tap on the haptics tells you it landed.\n\n### Rest Without Losing Your Place\nEvery six steps on a trail earns a camp, up to three. If a due day goes quiet you have three days to pitch a camp on it and your stretch carries on. Total distance only grows; nothing resets to zero.\n\n### Your Month As a Route\nThe 28 days of a leg are waymarks along a winding path through meadow, moor, ridge, tarn and summit. One look shows the shape of your month: inked marks for steps, tents for camps, dotted gaps for detours, fog over the days ahead.\n\n### Any Rhythm\nEvery day, chosen weekdays, or a few times a week. Count several steps in a day, such as glasses of water.\n\n### Trail Notes\nA weekly field report in plain words, worked out on your device: how many steps, which weekday is steepest, and when you usually step so you can move a reminder to match.\n\n### Widgets and Live Activity\nHome and Lock Screen widgets with a one-tap Step button, a map widget of your trail, and a Today's leg Live Activity.\n\n### Gentle and Private\nNo account. Your trails stay on your device. Reminders are quiet, and are skipped once you have logged.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-fellwick.html",
+  "supportUrl": "https://equalinformation.com/app-support-fellwick.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/fellwick/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/fellwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fellwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fellwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fellwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fellwick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fellwick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fellwick/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fellwick/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fellwick/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fellwick/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fellwick/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fellwick/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.fellwick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.fellwick.app"
+  },
+  "related": []
+}

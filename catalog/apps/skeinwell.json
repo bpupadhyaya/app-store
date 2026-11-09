@@ -1,0 +1,109 @@
+{
+  "slug": "skeinwell",
+  "name": "Skeinwell",
+  "subtitle": "Knit & crochet row tracker",
+  "categories": [
+    "lifestyle",
+    "productivity"
+  ],
+  "tags": [
+    "knitting",
+    "crochet",
+    "row-counter",
+    "stitch",
+    "yarn",
+    "stash",
+    "gauge",
+    "chart",
+    "project",
+    "tracker",
+    "needle",
+    "hook"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Count rows by tap or voice, link repeats and increases, follow your chart with a row highlighter, and learn if your yarn will last. Free, and on your device.",
+  "longDescription": "Skeinwell keeps your place while your hands stay busy.\n\n### Count Your Way\nTap anywhere on the big number, press space on an iPad keyboard, or just say \"next\". Voice counting uses on-device speech recognition, so nothing you say leaves your phone. Haptics tell you something happened without looking.\n\n### Counters That Talk to Each Other\nAdd as many counters as a project needs. Link them: \"repeat 8 rows, 12 times\" gives you a repeat counter that moves by itself every eighth row; \"increase every 6th row, 10 times\" buzzes and shows a banner on the right row. Type the instruction the way a pattern writes it and Skeinwell builds the counters.\n\n### Follow Your Own Chart\nOpen a photo, screenshot or PDF of a chart you own. Skeinwell reads the row numbers in the margin on your device, then slides a highlighter band down the chart as you count. Charts that repeat start again at row 1 automatically. If the numbers cannot be read, drag two lines to align it yourself.\n\n### Yarn That Knows Its Length\nLog yarn in your stash once. Put a skein on a kitchen scale and Skeinwell turns grams into yards from the label. Reserve yarn for a piece and see a straight answer: enough, or short by how many yards, based on the rows you have done and the rows to go.\n\n### Calculators with the Workings Shown\nGauge to cast-on counts, pattern stitch counts adjusted to your own tension, yardage from a weighed swatch, a pattern's yardage rescaled to your gauge, and an even-shaping planner that spreads increases or decreases across a round.\n\n### See Where the Project Is Going\nA timeline of notes, photos, goals reached and timed work sessions. A pace chart and a finish-date forecast that gets better as you knit. Turn any project into a share card.\n\n### Private By Design\nNo account. Projects, charts, photos and notes stay on your device.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-skeinwell.html",
+  "supportUrl": "https://equalinformation.com/app-support-skeinwell.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/skeinwell/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/skeinwell/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skeinwell/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skeinwell/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skeinwell/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skeinwell/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skeinwell/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skeinwell/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skeinwell/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skeinwell/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skeinwell/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skeinwell/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skeinwell/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.skeinwell.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.skeinwell.app"
+  },
+  "related": []
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "zoneline",
+  "name": "Zoneline",
+  "subtitle": "Find a time that suits all",
+  "categories": [
+    "utilities",
+    "productivity"
+  ],
+  "tags": [
+    "time-zone",
+    "world-clock",
+    "meeting-planner",
+    "converter",
+    "timezone",
+    "call",
+    "remote-team",
+    "overlap",
+    "daylight-saving",
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "See who is awake, pick the hour that works for everyone, and share it as a clean card. Free, and it works offline.",
+  "longDescription": "Zoneline is for anyone who keeps asking \"what time is it for them?\"\n\nAdd the cities of the people you talk to. Zoneline draws one coloured lane per place across the same day, so you can see at a glance who is working, free, up early or asleep. Drag the beam along the rail to move through the day. Gold on the rail shows the hours when everybody is awake.\n\nWhat you can do\n- Compare up to twelve places and name them after the people who live there.\n- See the best times of the next week for a work call or a chat with friends and family, ranked and ready to tap.\n- When nobody is free at once, get honest fallback times that wake the fewest people, with the sleepers marked.\n- Make a card of the chosen time and share it as a picture or as plain text.\n- Get an early note when a daylight-saving change is about to shift the gap between two places.\n- Set each person's sleeping and working hours. Weekends follow each country's own calendar, so Friday and Saturday weekends are respected.\n- Show dates in the Hijri, Hebrew, Buddhist, Japanese, Chinese or Persian calendar if you prefer.\n\nWorks offline. Time zone rules come from your device, and your places are stored only on your phone. There is no account and no sign-in.\n\nFree to use with ads. You can watch short clips to earn ad-free time, or subscribe monthly to remove ads. The subscription renews each month until you cancel it in your Apple Account settings.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-zoneline.html",
+  "supportUrl": "https://equalinformation.com/app-support-zoneline.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/zoneline/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/zoneline/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zoneline/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zoneline/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zoneline/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zoneline/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zoneline/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zoneline/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zoneline/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zoneline/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zoneline/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zoneline/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zoneline/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.zoneline.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.zoneline.app"
+  },
+  "related": []
+}

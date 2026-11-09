@@ -1,0 +1,109 @@
+{
+  "slug": "jotwren",
+  "name": "Jotwren",
+  "subtitle": "One sentence becomes a plan",
+  "categories": [
+    "productivity",
+    "lifestyle"
+  ],
+  "tags": [
+    "reminder",
+    "to-do",
+    "quick-note",
+    "voice",
+    "capture",
+    "list",
+    "task",
+    "schedule",
+    "widget",
+    "planner",
+    "shopping",
+    "natural-language"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Type or dictate one sentence. Jotwren shows how it understood it, then files it as a reminder, to-do, event or list item. No account, nothing leaves your phone.",
+  "longDescription": "Most to-do apps ask you to fill in a form. Jotwren asks for one sentence.\n\nType or dictate \"dentist next Tuesday 3pm at Smile Studio\" with your keyboard's microphone and Jotwren shows you what it understood, with the day, time, place and people picked out in colour, before anything is saved. Wrong guess? One tap fixes the day, the kind or the list.\n\n### What It Understands\n- Days and times: tomorrow, next Friday, the 1st, in two hours, half past three\n- Repeats: every Sunday, every other week, every 3 days\n- Lists: \"milk, eggs and bread\" becomes three items on a Groceries list\n- Events with a length: \"lunch with Sarah Friday 12:30 for an hour\"\n- Ideas: start with \"idea:\" and it is kept without a date\n\n### A Calm Way to Keep Up\n- Coming up shows today, tomorrow, this week and later, with no red overdue alarms\n- Sweep sorts anything without a date, one card at a time, in a single tap each\n- Look back is a gentle weekly picture of what you jotted and finished\n- Jot from the Lock Screen, a Home Screen widget, the Action button or by asking Siri\n\n### Yours Alone\n- You never sign in or create an account\n- Sentences are understood on your device; your jots never leave it\n- Optional: add new items to Apple Reminders and Calendar (off until you switch it on, add-only)\n- Export everything as text, or erase it all, any time",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-jotwren.html",
+  "supportUrl": "https://equalinformation.com/app-support-jotwren.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/jotwren/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/jotwren/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jotwren/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jotwren/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jotwren/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jotwren/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jotwren/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jotwren/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jotwren/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jotwren/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jotwren/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jotwren/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jotwren/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.jotwren.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.jotwren.app"
+  },
+  "related": []
+}

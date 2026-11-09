@@ -1,0 +1,105 @@
+{
+  "slug": "bindwell",
+  "name": "Bindwell",
+  "subtitle": "Pharmacology receptor lab",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "pharmacology",
+    "receptor",
+    "pharmacokinetics",
+    "half-life",
+    "agonist",
+    "antagonist",
+    "drug-classes",
+    "ion-channel",
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Watch a drug find its receptor in 3D, then watch it move through the body. A study lab for pharmacology students, free to use.",
+  "longDescription": "Bindwell turns the two big ideas of pharmacology into things you can see and move: how a drug binds its target, and how the body handles it afterwards.\n\n### See Binding Happen\nFive 3D scenes put one real-looking target in front of you: a G protein-coupled receptor, a ligand-gated channel, an enzyme, a reuptake pump and a voltage-gated sodium channel. Drag the sliders for agonists, antagonists, blockers or inhibitors and watch a crowd of 240 virtual receptors respond, while a live readout sets the simulation beside the textbook prediction.\n\n### Watch a Drug Travel\nThe kinetics lab is a glass-tank model of gut, blood, tissue, liver and kidney. Pick one of six fictional model drugs, change the route, repeat the dose, weaken the liver or kidney, and see peak, time to peak, half-life, first-pass loss and exposure move on the curve.\n\n### Draw the Dose-Response Curve\nMove efficacy, steepness and a competitive or non-competitive antagonist and see the curve shift, flatten or lose its ceiling. A safety-margin view shows how two curves separate.\n\n### Learn the Classes\nForty-two drug classes, each with its target, mechanism, effects, typical adverse-effect patterns and example generic names, and a dated reference to an open medical source. The autonomic map links every organ response to its receptor.\n\n### Practise\nA daily set of ten mixed questions, a streak, and drills for naming a class from its side effects, its mechanism, or two generic names, plus an autonomic receptor drill.\n\n### Works Offline\nEverything runs on your device with no account. Ads, if shown, and the subscription are the only things that use the network.\n\n### For Education Only\nBindwell teaches mechanisms with fictional model drugs and invented numbers. It gives no doses, has no patient calculators and does not check interactions. It is not medical advice and must not be used for patient care.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-bindwell.html",
+  "supportUrl": "https://equalinformation.com/app-support-bindwell.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/bindwell/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/bindwell/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bindwell/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bindwell/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bindwell/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bindwell/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bindwell/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bindwell/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bindwell/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bindwell/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bindwell/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bindwell/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bindwell/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.bindwell.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.bindwell.app"
+  },
+  "related": []
+}

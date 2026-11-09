@@ -1,0 +1,107 @@
+{
+  "slug": "petrilume",
+  "name": "Petrilume",
+  "subtitle": "Microbiology & immunology lab",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "microbiology",
+    "immunology",
+    "bacteria",
+    "virus",
+    "gram-stain",
+    "pathogen",
+    "medical-student",
+    "antibiotic",
+    "culture",
+    "fungi",
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Turn a bacterium, slice a virus, stain a smear, watch an immune response unfold. Real-time 3D, offline.",
+  "longDescription": "Petrilume is a hands-on 3D laboratory for microbiology and immunology.\n\n### Examine\nSixteen bacteria, viruses, fungi and parasites, each built in real-time 3D. Slide a section plane through the cell, isolate the capsule, wall, membrane, nucleoid or capsid, tap any structure to name it, and read dated facts with their sources.\n\n### Experiment\n- Growth curve lab: watch a flask turn cloudy through lag, log, stationary and decline phases. Change the inoculum, temperature and lag, add an antimicrobial in a concept demo, and see resistant cells take over.\n- Susceptibility plate: read zones of inhibition on a 3D Petri dish and a microdilution row for four teaching isolates.\n- Replication cycles: follow SARS-CoV-2, influenza A, HIV-1 and the T4 phage step by step inside their host cells.\n- Immune response simulator: neutrophils hunt pathogens while antibodies, complement and cytokines rise. Tune the load, neutrophils, complement, antibody production and prior immunity, then scrub through two weeks.\n\n### Practise\n- Gram stain trainer: focus the microscope, stain a mixed smear and learn why decolorizer timing decides the result.\n- Culture reading: inspect blood, MacConkey and chocolate plates and name the unknown isolate.\n- Original quiz questions with explanations, an organism-to-disease map, daily specimen, streak and progress.\n\nEverything works offline. There is no account.\n\n### Education Only\nPetrilume is a study aid. It does not diagnose, treat or advise on any condition and must not be used to choose a medicine or dose. Simulations are simplified teaching models; every fact cites a dated source (OpenStax, NIH/NLM, CDC).",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-petrilume.html",
+  "supportUrl": "https://equalinformation.com/app-support-petrilume.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/petrilume/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/petrilume/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/petrilume/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/petrilume/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/petrilume/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/petrilume/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/petrilume/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/petrilume/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/petrilume/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/petrilume/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/petrilume/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/petrilume/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/petrilume/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.petrilume.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.petrilume.app"
+  },
+  "related": []
+}

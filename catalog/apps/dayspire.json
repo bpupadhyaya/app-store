@@ -1,0 +1,107 @@
+{
+  "slug": "dayspire",
+  "name": "Dayspire",
+  "subtitle": "Countdown widgets and scenes",
+  "categories": [
+    "lifestyle",
+    "productivity"
+  ],
+  "tags": [
+    "countdown",
+    "days-until",
+    "widget",
+    "trip",
+    "baby-due-date",
+    "wedding",
+    "retirement",
+    "exam",
+    "birthday",
+    "anniversary"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Count down to trips, babies, weddings and exams. Each wait gets its own animated sky, a story in plain words, and widgets for your Home and Lock Screen.",
+  "longDescription": "Dayspire turns the days you are waiting for into small worlds.\n\nType \"Lisbon trip June 14\" or \"baby due March 22\" and Dayspire reads the date, picks the right scene and starts counting. A trip gets a plane crossing a dotted route. A new baby gets a moon and a swaying mobile. A wedding gets drifting petals, an exam gets a desk lamp and a ticking clock, retirement gets a slow sunset.\n\n### The Wait, Told As a Story\nNumbers are only half of waiting. Dayspire also says it in human terms: sleeps to go, weekends in between, working days left, the full moons that will rise first, the season you will walk into. For a due date it can tell you which week of pregnancy you will be in. For retirement it counts paydays.\n\n### Widgets for Every Spot\nSmall, medium and large Home Screen widgets show the real scene behind your number. Lock Screen widgets (circular, rectangular, inline) keep the days in view. Each widget can follow a countdown you choose, or simply the next one coming up.\n\n### Live on the Day\nWhen the event is today or tomorrow, a Live Activity on the Lock Screen and Dynamic Island counts the hours, minutes and seconds.\n\n### More\n- Add by typing a sentence, or pick events from your Calendar (you choose which ones).\n- Anniversaries and repeats: yearly, monthly or weekly, with the anniversary number.\n- Reminders one week before, the day before and on the day.\n- Share any countdown as a picture.\n- Made for both iPhone and iPad, with a wide layout on iPad.\n- Your countdowns stay on your device.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-dayspire.html",
+  "supportUrl": "https://equalinformation.com/app-support-dayspire.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/dayspire/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/dayspire/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dayspire/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dayspire/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dayspire/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dayspire/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dayspire/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dayspire/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dayspire/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dayspire/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dayspire/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dayspire/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dayspire/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.dayspire.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.dayspire.app"
+  },
+  "related": []
+}

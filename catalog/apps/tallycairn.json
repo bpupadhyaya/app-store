@@ -1,0 +1,109 @@
+{
+  "slug": "tallycairn",
+  "name": "Tallycairn",
+  "subtitle": "Score card and dice nights",
+  "categories": [
+    "utilities",
+    "casual"
+  ],
+  "tags": [
+    "scorekeeper",
+    "score-pad",
+    "hearts",
+    "spades",
+    "cribbage",
+    "rummy",
+    "dice",
+    "tally",
+    "game-night",
+    "family",
+    "card-scores",
+    "pegging"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Put the pencil down. Tallycairn tallies every hand, calls the dealer, spots slips in the arithmetic and remembers who won the night.",
+  "longDescription": "Game night should be about the table, not the arithmetic. Tallycairn is the scorekeeper that sits beside the cards and does the sums.\n\nPick a game, add the players, and enter each round with big thumb-sized keys. Totals, who is ahead, who deals next and roughly how many hands are left update the moment you save. A gentle check box points out entries that cannot be right, such as hearts that add up to 14, but it never changes your numbers behind your back.\n\n### What It Keeps Score For\n- Hearts: penalty points, the queen of spades, shooting the moon, first to the limit loses.\n- Spades: partner teams, bids, nils, bags and the ten-bag penalty.\n- Cribbage: a pegging board that moves as you score, with skunk and double-skunk results.\n- Rummy points race: one winner per deal, losers add their hand, play to your target.\n- Five dice: a full thirteen-line sheet with the upper bonus and extra five-alike counter.\n- Card golf: lowest total wins over the rounds you choose.\n- Bid and tricks: contract-style scoring for the family games that do not fit anywhere else.\n- Your own game: set the target, direction and fields once, and keep it for next time.\n\n### Made for One Hand\nTap a cell, tap the keys, press Next. Or tap the microphone and say \"Maya twelve, Theo eight\". Speech is turned into numbers on your device and is not sent anywhere.\n\n### A Night, Not Just a Game\nEvery finished game lands in Nights, with who took the evening. People shows wins, best totals and head-to-head records for the regulars. Share a clean recap card in one tap, or press Rematch to deal the same table again.\n\n### Plain Words, No Account\nShort rule cards for each game live inside the app, with public sources listed. There is no sign-in, nothing to sync and nothing leaves your phone except what the ads below need.\n\nBUILT FOR iPHONE AND iPAD\nOn iPad the board and the round-by-round table sit side by side, and Two boards lets you run a second game at the same time.\n\n### Tallycairn Is Free\nTallycairn only keeps score. It does not deal cards, play against you or involve any money, and it is not affiliated with any game publisher or brand.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-tallycairn.html",
+  "supportUrl": "https://equalinformation.com/app-support-tallycairn.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/tallycairn/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/tallycairn/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallycairn/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallycairn/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallycairn/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallycairn/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallycairn/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallycairn/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallycairn/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallycairn/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallycairn/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallycairn/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tallycairn/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.tallycairn.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.tallycairn.app"
+  },
+  "related": []
+}

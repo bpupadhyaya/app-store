@@ -1,0 +1,109 @@
+{
+  "slug": "foliowick",
+  "name": "Foliowick",
+  "subtitle": "Scan to searchable PDF",
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
+  "tags": [
+    "scanner",
+    "pdf",
+    "ocr",
+    "sign",
+    "merge",
+    "receipt",
+    "paper",
+    "document",
+    "redact",
+    "compress",
+    "scan",
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Turn paper into a searchable PDF in a few taps. Text is read on your phone, nothing is uploaded, and there is never a watermark.",
+  "longDescription": "Foliowick turns the paper on your desk into tidy, searchable PDFs, and keeps everything on your device.\n\nPoint the camera at a page. Foliowick finds the edges, straightens the page, reads the words and gives the scan a name you would actually choose, such as \"Electric bill, Nov\". Open the library later and search for a word you remember from inside the document.\n\n### Nothing Leaves Your Device\nPage edges and text are found with Apple's on-device frameworks. There is no account and no cloud copy. You decide where a file goes when you share it.\n\n### No Watermark, Ever\nEvery export is clean. No page limits on the free app, and no trial that expires.\n\n### The Tools People Pay for Elsewhere, Free\n- Sign: draw your signature once, drop it on any page, drag and resize.\n- Redact: black out private details. The boxes are burned into the shared file and the hidden words are removed from the text layer too.\n- Merge documents, split pages into a new file, drag pages into order.\n- Compress: see the real file size of Crisp, Balanced and Small before you send.\n- Copy the recognised text, or export it as plain text.\n- Receipts are spotted and can be exported together as a spreadsheet (CSV).\n\n### Easy First, Deep Later\nScan your first page in one tap and share it in three. As your library grows, use binders, search across the text of every page, and re-open any scan to change the look: Original, Clean, Mono or Vivid.\n\n### Plain Pricing\nFoliowick is free and supported by ads that stay out of the way while you scan, sign or redact. An optional monthly plan removes them. Cancel any time in Settings. You can also earn 30 minutes of ad-free time by watching an optional video.\n\n### Works Offline\nNo connection needed to scan, read, sign or export.\n\nText recognition can make mistakes, so check important figures against the original. Foliowick does not verify identity documents and does not give legal, tax or financial advice.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-foliowick.html",
+  "supportUrl": "https://equalinformation.com/app-support-foliowick.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/foliowick/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/foliowick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/foliowick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/foliowick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/foliowick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/foliowick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/foliowick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/foliowick/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/foliowick/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/foliowick/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/foliowick/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/foliowick/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/foliowick/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.foliowick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.foliowick.app"
+  },
+  "related": []
+}

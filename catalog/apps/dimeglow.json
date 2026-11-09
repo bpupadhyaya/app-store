@@ -1,0 +1,109 @@
+{
+  "slug": "dimeglow",
+  "name": "Dimeglow",
+  "subtitle": "Log spending in one sentence",
+  "categories": [
+    "finance",
+    "productivity"
+  ],
+  "tags": [
+    "budget",
+    "expense",
+    "spending",
+    "money",
+    "tracker",
+    "widget",
+    "csv",
+    "limit",
+    "bills",
+    "coffee",
+    "wallet",
+    "cash"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Type \"lunch 12 with Sam\" and you are done. See today, this week and this month on your Lock Screen.",
+  "longDescription": "You already know roughly what you spent today. Dimeglow makes it a number you can see.\n\n### Log It in a Sentence\nType what you bought: \"coffee 4.50\", \"uber 23.40 yesterday\", \"lunch 12 with Sam\". Dimeglow reads the amount, the date and a category, and shows what it understood before you save. Fix a category once and it remembers your way of naming things. That learning happens on your phone.\n\n### A Glance, Not a Spreadsheet\nA glowing ring shows how much is left this week. Three tiles show today, this week and this month. Add a Home Screen or Lock Screen widget and the answer is there before you unlock anything.\n\n### Gentle Limits\nSet a monthly limit, a weekly one, or limits for single categories. Nothing locks and nothing scolds. If you drift past a limit, the app simply says so and offers a fresh week.\n\n### Finds Your Repeating Payments\nSubscriptions and steady bills are spotted from your own entries. Confirm one and it shows up under \"Coming up\", and in the month-end estimate. The estimate is built from your last four weeks and only appears once you have enough history.\n\n### Bring in Your Bank's Export\nDownload a CSV from your bank and import it. Dimeglow reads the columns on your phone, skips money coming in, and switches off anything you already logged. No bank login, no upload.\n\n### Travel with Your Own Rates\nLog in euros, pounds or yen and type the exchange rates yourself, so totals match what your card really charged.\n\n### See Where It Goes\nDay-by-day bars, a category ring, habits that add up, and your usual week.\n\n### Private By Design\nNo account. No cloud. No bank link. Your purchases live in one file on your device. Erase them any time.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-dimeglow.html",
+  "supportUrl": "https://equalinformation.com/app-support-dimeglow.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/dimeglow/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/dimeglow/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dimeglow/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dimeglow/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dimeglow/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dimeglow/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dimeglow/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dimeglow/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dimeglow/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dimeglow/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dimeglow/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dimeglow/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dimeglow/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.dimeglow.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.dimeglow.app"
+  },
+  "related": []
+}

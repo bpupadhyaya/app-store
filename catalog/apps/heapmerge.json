@@ -1,0 +1,108 @@
+{
+  "slug": "heapmerge",
+  "name": "Heapmerge",
+  "subtitle": "Turn rings, fuse the gems",
+  "categories": [
+    "puzzle",
+    "casual"
+  ],
+  "tags": [
+    "hex",
+    "puzzle",
+    "gems",
+    "merge",
+    "rings",
+    "brain",
+    "logic",
+    "daily-puzzle",
+    "offline",
+    "relaxing",
+    "crystals"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Turn a ring of gems, fuse equal pairs, forge the target. 120 hand-proven levels, a puzzle every day, no energy limits.",
+  "longDescription": "Heapmerge is a hex puzzle about turning, not dragging. Tap any ring centre and the six gems around it turn one step. When two equal gems end up side by side they fuse into the next gem up, and fusions can chain. Forge the target gem before your turns run out.\n- 120 levels in six worlds, each proven solvable with a known best score (par) and three-star ratings\n- A new puzzle of the day, a calendar of your solves, monthly charms\n- Rock blocks, bigger boards, two-gem goals as worlds progress\n- Hints, free undo, extra turns from a short optional clip\n- Board looks to unlock with coins; a vault of every gem you forge\n- Plays fully offline; no account; no energy timer\n- Made for iPhone and iPad\nFree with ads. An optional monthly ad-free pass ($2.99) removes banners and interstitials; or watch 100 clips in a month to keep ads off until month end.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-heapmerge.html",
+  "supportUrl": "https://equalinformation.com/app-support-heapmerge.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/heapmerge/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/heapmerge/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/heapmerge/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/heapmerge/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/heapmerge/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/heapmerge/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/heapmerge/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/heapmerge/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/heapmerge/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/heapmerge/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/heapmerge/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/heapmerge/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/heapmerge/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.heapmerge.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.heapmerge.app"
+  },
+  "related": []
+}

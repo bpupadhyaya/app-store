@@ -1,0 +1,109 @@
+{
+  "slug": "fretnook",
+  "name": "Fretnook",
+  "subtitle": "Chord finder, songbook, strum",
+  "categories": [
+    "music",
+    "education"
+  ],
+  "tags": [
+    "ukulele",
+    "guitar",
+    "chords",
+    "fretboard",
+    "strumming",
+    "capo",
+    "transpose",
+    "songbook",
+    "baritone",
+    "bass",
+    "practice",
+    "diagram"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Type a chord, see the exact shape for your tuning, hear it, and drop it into your own songbook. Free, with ads you can remove.",
+  "longDescription": "Fretnook shows you the chord you are after, drawn exactly for the instrument in your hands.\n\nPick ukulele, baritone ukulele, guitar or bass, choose your tuning (low-G ukulele, drop D, DADGAD, open tunings and more) and Fretnook works the shapes out from the string notes. Every diagram has fingers, barres, muted and open strings marked, and a lit 3D neck you can turn and zoom. Left-handed? One switch mirrors everything.\n\n### Chords You Can Say\nType \"Bb minor 7\" or \"F#m\" and go. Slide through other shapes up the neck, tap a fretboard to ask what chord you are holding, and hear any shape strummed.\n\n### Play the Changes\nChoose a classic progression or build your own, set the key and tempo, pick a strum or picking pattern and press play. The sound is made on your device, string by string.\n\n### Strum Trainer\nA scrolling beat guide carries each stroke to the line. Tap in time, see how early or late you are, and let the tempo climb as you improve.\n\n### Capo and Key Helper\nTranspose a progression or song a semitone at a time, and see which capo position gives the friendliest shapes for your instrument.\n\n### Your Songbook\nWrite your own chord sheets in plain text, with chords in brackets or above the words. Fretnook lines them up for you, transposes, shares as text and plays the changes. Only what you type is in it: no lyrics are included.\n\n### Practice Log\nTime your sessions, drill chord changes against the clock, keep a streak and see your week at a glance. Fretnook suggests chords from your songs that you have not drilled yet.\n\nLISTEN CHECK (BETA)\nStrum a chord and see which of its tones ring, using the microphone only while that sheet is open. Best on plain major, minor and suspended chords.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-fretnook.html",
+  "supportUrl": "https://equalinformation.com/app-support-fretnook.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/fretnook/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/fretnook/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fretnook/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fretnook/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fretnook/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fretnook/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fretnook/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fretnook/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fretnook/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fretnook/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fretnook/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fretnook/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fretnook/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.fretnook.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.fretnook.app"
+  },
+  "related": []
+}

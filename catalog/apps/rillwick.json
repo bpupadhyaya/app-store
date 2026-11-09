@@ -1,0 +1,109 @@
+{
+  "slug": "rillwick",
+  "name": "Rillwick",
+  "subtitle": "Water and caffeine tracker",
+  "categories": [
+    "lifestyle",
+    "productivity"
+  ],
+  "tags": [
+    "hydration",
+    "water",
+    "drink",
+    "intake",
+    "caffeine",
+    "coffee",
+    "tea",
+    "sip",
+    "goal",
+    "reminder",
+    "log",
+    "daily"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Fill a glass as you drink through the day. Log water, tea or coffee in one tap, see your week at a glance, and plan your last coffee. Works fully offline.",
+  "longDescription": "Rillwick is a calm little drink log. Tap a size, watch the glass rise, and get on with your day.\n\n### Tap, Sip, Done\nQuick-log buttons put your usual cup sizes one tap away. Made a mistake? Undo it from the confirmation, or edit any entry later. Choose millilitres or fluid ounces, and the cup sizes follow your region.\n\n### A Goal That Fits Your Day\nEnter your weight and activity and Rillwick suggests an everyday daily target. Mark a warm or active day and it nudges the figure up a little. Prefer your own number? Switch the suggestion off and set it yourself.\n\n### The Caffeine Clock\nCoffee, tea, soda and energy drinks add their usual caffeine. Rillwick shows when to have your last cup before bed, draws a rough curve of the next 24 hours, and lets you try \"what if I have one now?\" before you pour it. You can edit the milligrams for any drink.\n\n### See How You Are Doing\nSeven, thirty and ninety day charts, a streak, your best day and a short weekly note on patterns such as how much you drink before noon.\n\n### Gentle Reminders, Only When You Want Them\nPick your hours and how often. Logging a drink pushes the next nudge back, and once you reach your goal the rest of the day stays quiet.\n\n### Built to Stay Out of the Way\n- Works completely offline, from the first launch\n- No account, no sign-up\n- Your log stays on your device, with CSV export when you want a copy\n- Light and dark appearance, Dynamic Type, and a roomy layout on iPad\n- Siri and Shortcuts: \"Log a glass in Rillwick\"",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-rillwick.html",
+  "supportUrl": "https://equalinformation.com/app-support-rillwick.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/rillwick/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/rillwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rillwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rillwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rillwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rillwick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rillwick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rillwick/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rillwick/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rillwick/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rillwick/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rillwick/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rillwick/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.rillwick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.rillwick.app"
+  },
+  "related": []
+}

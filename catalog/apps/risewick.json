@@ -1,0 +1,109 @@
+{
+  "slug": "risewick",
+  "name": "Risewick",
+  "subtitle": "Gentle rise, quick mission",
+  "categories": [
+    "lifestyle",
+    "productivity"
+  ],
+  "tags": [
+    "alarm",
+    "wake-up",
+    "morning",
+    "snooze",
+    "bedtime",
+    "routine",
+    "math",
+    "puzzle",
+    "rise",
+    "clock",
+    "gentle",
+    "early"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Wake up to a tone that climbs from a whisper, then prove you are up with a ten-second puzzle. No account, no camera, no clutter.",
+  "longDescription": "Mornings go better when the alarm starts gently and ends with you actually awake.\n\nRisewick rings with a sound that begins almost silent and swells over about half a minute. Silence it whenever you like: the Stop button is never blocked. Then comes a short wake-up mission to show you are up. Do the sums, repeat a light sequence, find the odd tile, hold the phone steady or shake it awake. If you drift back to sleep, the alarm checks on you again a few minutes later.\n\n### Alarms, with Honest Limits\n- On iOS 26 and later, alarms use the system alarm service (AlarmKit), which iOS designs to ring even when the app is closed. Check how it behaves on your own phone with the built-in test ring.\n- On earlier versions Risewick uses sound notifications and tells you exactly what that means.\n- A one-minute test ring lets you check your own phone before you rely on it. Keep a backup alarm for anything critical.\n\nWAKE-UP MISSIONS (NO CAMERA, NO SCANNING)\n- Quick sums on a big keypad\n- Light sequence memory\n- Odd tile out\n- Steady hand and Shake (use the motion sensors)\n- Difficulty adapts to how quickly you have been getting up\n\n### Snooze on Your Terms\nChoose no snooze, or one to three, and how long each lasts.\n\n### Wind-Down\nSet how long you want in bed and Risewick works backwards from your alarm to a lights-out time, with two quiet reminders if you want them.\n\n### Your Week\nSee when you actually got up each day, how steady that has been, snoozes and weekend drift. It uses only when your alarms rang and when you got up. It is not a sleep measurement and offers no health advice.\n\n### Private By Design\nNo account. Alarms and history stay on your device.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-risewick.html",
+  "supportUrl": "https://equalinformation.com/app-support-risewick.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/risewick/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/risewick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/risewick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/risewick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/risewick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/risewick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/risewick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/risewick/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/risewick/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/risewick/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/risewick/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/risewick/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/risewick/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.risewick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.risewick.app"
+  },
+  "related": []
+}

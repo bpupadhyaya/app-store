@@ -1,0 +1,108 @@
+{
+  "slug": "roadwren",
+  "name": "Roadwren",
+  "subtitle": "Learner permit practice",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "permit",
+    "dmv",
+    "driving-test",
+    "drivers-ed",
+    "road-signs",
+    "learner",
+    "written-test",
+    "traffic",
+    "license",
+    "ca",
+    "tx",
+    "fl"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "See your odds of passing before you walk into the DMV. Roadwren learns from every answer and tells you which topics are about to cost you points.",
+  "longDescription": "Roadwren is a study coach for the written learner's permit test.\n\nIt does not just keep score. After every answer it re-estimates your chance of passing a 30-question practice exam, shows the topics most likely to cost you points, and builds each day's session from questions you are about to forget plus fresh ones from your weak spots. If you enter your test date, it also tells you when you are on pace to reach 85 percent.\n\n### What You Get\n- A live pass-chance gauge, rebuilt after every session\n- A smart session that mixes due reviews with new questions\n- Full practice exams: 30 questions, 24 to pass, feedback at the end like a real sitting\n- Topic drills: right of way, speed and space, lanes and passing, parking, safe driving, alcohol and drugs, sharing the road, conditions, emergencies and licensing rules\n- A library of 26 road signs drawn from scratch, with a sign quiz that shows each one in context\n- A plain-language reason behind every answer\n- Questions read aloud with the voice built into your iPhone or iPad\n- Missed questions return on a spaced schedule until they stick\n- Works offline, no account, and your progress stays on your device\n\n### States\nCalifornia, Texas, Florida, New York and Pennsylvania are ready now. Each state has about 190 questions written for that state's rules. Every state page shows the handbook edition we used and the date we last checked it. More states are added only after their questions are checked against their own handbook.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free, no ads, optional monthly subscription",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-roadwren.html",
+  "supportUrl": "https://equalinformation.com/app-support-roadwren.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/roadwren/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/roadwren/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/roadwren/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/roadwren/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/roadwren/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/roadwren/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/roadwren/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/roadwren/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/roadwren/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/roadwren/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/roadwren/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/roadwren/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/roadwren/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.roadwren.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.roadwren.app"
+  },
+  "related": []
+}

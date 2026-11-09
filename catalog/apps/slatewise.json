@@ -1,0 +1,107 @@
+{
+  "slug": "slatewise",
+  "name": "Slatewise",
+  "subtitle": "Plan your day in time blocks",
+  "categories": [
+    "productivity",
+    "lifestyle"
+  ],
+  "tags": [
+    "time-blocking",
+    "day-planner",
+    "schedule",
+    "timeline",
+    "focus-timer",
+    "daily-planner",
+    "agenda",
+    "to-do",
+    "routine",
+    "calendar"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Type \"gym 6pm for 45 min\" and it lands on your timeline. Slide blocks with your thumb, roll unfinished work forward, and close each day with a score.",
+  "longDescription": "Slatewise is a day planner built around one idea: give every task a block of time, then see the day as it will really unfold.\n\n### Type It, Don't Fill in Forms\nWrite what you want the way you would say it: \"call Mum 8pm\", \"deep work tomorrow 9 to 11\", \"study spanish 45 min\". Slatewise reads the time and length and drops a block on the timeline. Leave the time out and it offers a few slots based on when you usually do that kind of thing. The learning happens on your phone, from your own history.\n\n### A Timeline You Can Shape\nPress and hold a block, slide it, and its edges snap to your chosen step and to the blocks around it. Drag the bottom edge to stretch it. Blocks are colour-coded, and a thin line marks the present moment.\n\n### Nothing Falls Off the Day\nUnfinished blocks are kept, not lost. A banner offers to roll them into today's open time, push them to tomorrow, mark them done or drop them. The inbox holds loose tasks until you press \"Fill free time\".\n\n### Focus When It Starts\nStart any block as a countdown. It shows on the Lock Screen and in the Dynamic Island as a Live Activity, with pause and +10 minutes.\n\n### Close the Day\nThe evening review shows a day score, what is still open, hours planned versus finished, and time spent in focus. Record how the day felt and leave one line for tomorrow's you. A week view charts the trend.\n\nYOUR CALENDAR, QUIETLY (OPTIONAL)\nTurn on the calendar overlay and events appear as faint hatching on the timeline so planned blocks and suggestions steer clear of them. Events are only read on your device.\n\n### Widgets for the Home and Lock Screen\nSee the current block and what is next without opening the app.\n\n### Made for Iphone and Ipad\nOn iPad, a sidebar keeps today's score, the next block and the free windows in view, and a seven-day board shows the whole week.\n\n### Private\nNo account. Blocks, tasks and notes stay on your device.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-slatewise.html",
+  "supportUrl": "https://equalinformation.com/app-support-slatewise.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/slatewise/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/slatewise/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slatewise/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slatewise/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slatewise/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slatewise/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slatewise/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slatewise/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slatewise/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slatewise/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slatewise/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slatewise/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slatewise/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.slatewise.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.slatewise.app"
+  },
+  "related": []
+}

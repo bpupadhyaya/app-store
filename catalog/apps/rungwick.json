@@ -1,0 +1,107 @@
+{
+  "slug": "rungwick",
+  "name": "Rungwick",
+  "subtitle": "Climb a word ladder daily",
+  "categories": [
+    "word",
+    "puzzle"
+  ],
+  "tags": [
+    "word-ladder",
+    "doublets",
+    "letter-change",
+    "daily-puzzle",
+    "word-chain",
+    "brain",
+    "streak",
+    "vocabulary",
+    "spelling",
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A new ladder every morning. Change one letter at a time, reach the target word, and see how close you got to par.",
+  "longDescription": "Every morning Rungwick sets one ladder. You get a start word and a target word, and you climb between them by changing a single letter at a time. Every rung has to be a real word.\n\n### Why It Feels Different\nYou can build from the top, from the bottom, or from both ends at once, and the ladder is done the moment the two chains are one letter apart. There is no wrong place to begin, so a stuck puzzle is never a dead end: undo a rung and try the other side.\n\n### A Ladder for Everyone, Every Day\nEveryone gets the same ladder on the same date, so you can compare notes. Mondays are short three-letter hops; Sundays are long five-letter climbs. Par is the shortest route through everyday words. Find a shorter bridge using a rarer word and you finish under par.\n\n### Keep a Streak, or Look Back\nTrack your streak and best run, see four weeks of results at a glance, and replay any earlier ladder from the archive. Miss a day after a good run and you can mend the streak once a week.\n\n### Practice Whenever You Like\nPick three, four or five letters and an easy, medium or hard ladder. Practice never touches your streak.\n\n### Works Offline\nAll words and ladders are inside the app. Play on a plane, on the subway, anywhere. No account, no sign-in.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-rungwick.html",
+  "supportUrl": "https://equalinformation.com/app-support-rungwick.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/rungwick/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/rungwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rungwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rungwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rungwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rungwick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rungwick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rungwick/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rungwick/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rungwick/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rungwick/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rungwick/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rungwick/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.rungwick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.rungwick.app"
+  },
+  "related": []
+}

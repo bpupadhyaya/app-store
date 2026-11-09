@@ -1,0 +1,109 @@
+{
+  "slug": "pockline",
+  "name": "Pockline",
+  "subtitle": "Scores, ladders and rec queue",
+  "categories": [
+    "sports",
+    "utilities"
+  ],
+  "tags": [
+    "scoreboard",
+    "scorekeeper",
+    "round-robin",
+    "ladder",
+    "rec-play",
+    "queue",
+    "doubles",
+    "league",
+    "dink",
+    "serve",
+    "rally",
+    "paddle"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Tap once per rally and Pockline tracks the server, the court side and the score call. Plan fair round robins, run the open-play line, share the scoreboard.",
+  "longDescription": "Pockline is a scorekeeper for people who play a lot of pickleball and are tired of arguing about who serves.\n\n### Courtside Scoring\nTwo huge panels, one tap per rally. Tap the side that won the rally and Pockline moves the score, the server and the court sides for you. Side-out and rally scoring, singles and doubles, games to 11, 15 or 21, one game or best of three or five. Doubles starts at 0-0-2, the first server is the player in the right court after a side out, partners swap only when the serving side scores, and the app shows the call, for example \"7 - 3 - 2\", along with a small court showing who stands where. Every rule is listed with its rulebook number inside the app. Undo is exact, back to the first serve. Spoken score calls, haptic taps, end-change and one-minute time-out reminders.\n\n### Round Robins with the Maths Shown\nPick your players, courts and rounds. Pockline builds rotating-partner doubles, fixed-team and singles schedules. With rotating partners it uses the circle method where it can, so every pair partners exactly once, and a balanced-rest builder when the field does not divide evenly, so everyone plays the same number of games, plus or minus one. The Fairness tab lists the measured partner repeats, sit-outs and opponent spread for your exact schedule. Enter scores or score the game live, then see standings.\n\n### Court Ladders\nWin and move up a court, lose and move down. Partners are chosen to avoid repeats and byes rotate when the group is not a multiple of four.\n\n### Open Play Queue\nRun the courts at a rec session: everyone joins one line, the next four take a free court, and partners are split if they just played together. Each court has a timer, winners can stay on for a set number of games, and wait times are estimated from the real length of this session's games.\n\n### Roster, Notes and Season Stats\nKeep your regulars, jot rating notes (with your own level estimate), and watch records, point difference, best partners and a form trend build up over a season. The form number is an in-app estimate from your own recorded games, not an official rating.\n\n### Share\nTurn any finished match into a clean score card image.\n\n### Private By Default\nNo account. Your roster, scores and notes stay on your device.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-pockline.html",
+  "supportUrl": "https://equalinformation.com/app-support-pockline.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/pockline/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/pockline/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pockline/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pockline/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pockline/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pockline/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pockline/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pockline/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pockline/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pockline/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pockline/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pockline/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pockline/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.pockline.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.pockline.app"
+  },
+  "related": []
+}

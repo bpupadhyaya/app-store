@@ -1,0 +1,109 @@
+{
+  "slug": "calcwick",
+  "name": "Calcwick",
+  "subtitle": "Units, money, tips and dates",
+  "categories": [
+    "utilities",
+    "productivity"
+  ],
+  "tags": [
+    "calculator",
+    "converter",
+    "unit",
+    "currency",
+    "tip",
+    "percent",
+    "split",
+    "loan",
+    "date",
+    "recipe",
+    "cups",
+    "tape"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Type it the way you would say it: 18% tip on 64.50 split 3, 2 cups in ml, 250 usd to eur. Calcwick answers on a paper tape and shows how it read you.",
+  "longDescription": "A calculator that reads sentences. Type \"18% tip on 64.50 split 3\" and the answer lands on a paper tape, with the reading shown underneath so a misunderstanding is easy to spot.\n\n### Try These\n- Tips, tax and splits: 18% tip on 64.50 split 3, vat 20% on 80, 20% off 59.99\n- Units: 2 cups in ml, 5 km in miles, 100 f in c, 70 kg in lb\n- Money: usd 250 to eur, eur 100 to gbp, with the date of the rates beside every answer\n- Dates and countdowns: 30 days from 3 jan, 3 weeks in days\n- Loans and interest: loan 20000 at 6% for 5 years\n- Plain sums with names: rent = 1450, then rent * 12\n\n### The Tape Is Yours\n- Tap any line to edit it in place; every answer after it updates\n- Favourites keep the conversions you use all the time, and a Home Screen widget shows them\n- Library holds your variables, pinned lines, custom units (1 smoot = 1.7018 m) and a cookbook of ready phrases\n- History keeps every cleared tape so you can bring one back\n- Share any answer as a clean card\n\n### Built for Where You Live\nCups, gallons and tablespoons follow your region. 1,5 and 1.5 are both understood, and dates, currency and number formats follow your device settings. Works offline with saved rates; refresh them when you like from the European Central Bank daily reference rates.\n\n### Quiet and Private\nNo sign-in, no cloud copy of what you type. Ads never appear before your first answer or while you type.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-calcwick.html",
+  "supportUrl": "https://equalinformation.com/app-support-calcwick.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/calcwick/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/calcwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/calcwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/calcwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/calcwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/calcwick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/calcwick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/calcwick/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/calcwick/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/calcwick/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/calcwick/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/calcwick/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/calcwick/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.calcwick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.calcwick.app"
+  },
+  "related": []
+}

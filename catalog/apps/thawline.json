@@ -1,0 +1,108 @@
+{
+  "slug": "thawline",
+  "name": "Thawline",
+  "subtitle": "Snowball and avalanche plans",
+  "categories": [
+    "finance",
+    "productivity"
+  ],
+  "tags": [
+    "debt",
+    "payoff",
+    "snowball",
+    "avalanche",
+    "loan",
+    "credit-card",
+    "budget",
+    "interest",
+    "planner",
+    "calculator",
+    "freedom"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Pick snowball or avalanche, enter what you owe, and see the month your last balance reaches zero. Your numbers never leave your phone.",
+  "longDescription": "Thawline turns a pile of balances into a date you can circle on the calendar.\n\nType in each debt: what you owe, the yearly interest rate and the minimum payment. Say how much you can put toward debt every month. Thawline runs the whole payoff month by month and tells you when you will be debt free, how much interest it will cost, and which debt your extra money should hit first.\n\n### Choose How You Attack It\n- Snowball: smallest balance first, so debts disappear quickly and keep you motivated.\n- Avalanche: highest rate first, usually the least interest.\n- Your own order: drag the list the way you want it.\nSide-by-side numbers show what each way costs, so you decide with the facts.\n\n### See What a Little Extra Does\nSlide the \"what if\" bar to add $10 to $500 a month and watch the date move. Plan a bonus or tax refund as a one-off payment and see the finish line jump closer.\n\n### Watch the Snowball Melt\nThe home screen shows a real snowball that shrinks as you pay, a puddle that grows, and a sun that climbs. Log a payment and the picture changes. Celebrate at 25, 50 and 75 percent, and every time a debt closes.\n\n### Built to Be Private\nEverything you type stays in one file on your own device. There is no account, no sign-up and no bank connection. Share a progress picture if you like: it shows a percentage and a date, never your balances. Export your payment log as a CSV whenever you want it.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-thawline.html",
+  "supportUrl": "https://equalinformation.com/app-support-thawline.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/thawline/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/thawline/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/thawline/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/thawline/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/thawline/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/thawline/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/thawline/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/thawline/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/thawline/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/thawline/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/thawline/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/thawline/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/thawline/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.thawline.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.thawline.app"
+  },
+  "related": []
+}

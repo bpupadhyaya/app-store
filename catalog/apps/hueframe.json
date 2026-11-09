@@ -1,0 +1,108 @@
+{
+  "slug": "hueframe",
+  "name": "Hueframe",
+  "subtitle": "Make widgets, paint wallpapers",
+  "categories": [
+    "lifestyle",
+    "utilities"
+  ],
+  "tags": [
+    "widget",
+    "wallpaper",
+    "lock-screen",
+    "home-screen",
+    "clock",
+    "countdown",
+    "photo-frame",
+    "aesthetic",
+    "themes",
+    "color",
+    "gradient"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Paint a new wallpaper in seconds, then build the widgets that match it. Works offline, no account.",
+  "longDescription": "Hueframe is a small studio for your Home Screen and Lock Screen.\n\nPaint wallpapers. Pick one of six procedural styles (Aurora, Contour, Dunes, Facets, Ripples, Bokeh), choose a colour story, nudge detail, glow and grain, and shuffle until it feels right. Every wallpaper is drawn on your device, so no two are alike, and each one comes as a matched light and dark pair.\n\nDesign widgets. Build a clock, date, countdown, note, photo frame or year ring. Choose colours, a surface (gradient, solid, glass, outline) and a typeface, then add it to your Home Screen or Lock Screen from the widget gallery. Widgets update on their own and need no internet.\n\nSee it before you save it. Preview any wallpaper on a lock screen or home screen mock-up with your own widgets on top, light and dark side by side.\n\nKeep sets. A set holds one wallpaper, its dark twin and the widgets that go with it.\n\nMade to be calm. No account. No sign-up. Your frames, photos and sets stay on your device.\n\nNote: iOS does not let apps set the wallpaper directly. Hueframe saves the image through the share sheet and shows the steps.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-hueframe.html",
+  "supportUrl": "https://equalinformation.com/app-support-hueframe.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/hueframe/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/hueframe/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hueframe/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hueframe/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hueframe/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hueframe/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hueframe/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hueframe/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hueframe/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hueframe/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hueframe/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hueframe/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hueframe/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.hueframe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.hueframe.app"
+  },
+  "related": []
+}

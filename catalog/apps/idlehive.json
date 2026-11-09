@@ -1,0 +1,109 @@
+{
+  "slug": "idlehive",
+  "name": "Idlehive",
+  "subtitle": "Moths glow while you sleep",
+  "categories": [
+    "casual",
+    "puzzle"
+  ],
+  "tags": [
+    "idle",
+    "incremental",
+    "clicker",
+    "prestige",
+    "moth",
+    "garden",
+    "night",
+    "offline",
+    "relaxing",
+    "cozy",
+    "tycoon",
+    "lantern"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A calm night-garden idle game. Build roosts, collect glow, take flight, and come back to a colony that kept working.",
+  "longDescription": "Lanterns are lit one moth at a time.\n\nIdlehive is a quiet idle game set in a night garden. Tap Hum to gather your first glow, build roosts that glow on their own, and watch a small 3D comb of glowing towers rise while moths drift around it.\n\n### What You Do\n- Build eight kinds of roost, from a shy Moth Perch to the deep Starfall Hive.\n- Buy charms that make each roost shine harder; every roost doubles its glow at milestone counts.\n- Take flight when growth slows. You restart the night but earn lumen, a permanent glow bonus, and spend it on wing perks.\n- Collect a nightly gift, finish three small errands a day, and unlock 24 achievements.\n- Play through seasons: calendar events such as Firefly Weeks and Harvest Moon change how the garden glows.\n\n### Made for Real Life\n- Fully offline. No account, no connection needed.\n- Away earnings are honest and capped: your colony glows at half rate for up to four hours while the app is closed, and charms and perks raise both numbers.\n- Nothing to buy to progress. No energy bars, no waiting walls.\n- Works on iPhone and iPad, with a wide layout on iPad.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-idlehive.html",
+  "supportUrl": "https://equalinformation.com/app-support-idlehive.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "version": "1.0.0",
+  "icon": "assets/apps/idlehive/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/idlehive/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/idlehive/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/idlehive/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/idlehive/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/idlehive/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/idlehive/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/idlehive/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/idlehive/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/idlehive/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/idlehive/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/idlehive/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/idlehive/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.idlehive.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.idlehive.app"
+  },
+  "related": []
+}
