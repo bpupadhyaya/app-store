@@ -1,0 +1,108 @@
+{
+  "slug": "shadewright",
+  "name": "Shadewright",
+  "subtitle": "Shadow-puppet stencil puzzles",
+  "categories": [
+    "puzzle"
+  ],
+  "tags": [
+    "shadow",
+    "silhouette",
+    "stencil",
+    "lamp",
+    "rotate",
+    "3d",
+    "cube",
+    "wooden",
+    "theatre",
+    "puppet",
+    "brain",
+    "logic"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Step into a puppet theatre: turn a wooden solid under a tungsten lamp until its shadow fits the amber stencil. 100 acts, a new Daily Silhouette every day.",
+  "longDescription": "The house lights drop. A hand-turned wooden solid hangs under a lamp, and on the linen screen behind it waits an amber stencil, cut by hand. Your job is simple to say and sly to do: turn the solid until the shadow it throws fills the stencil exactly.\n\nThree glowing rings are your controls. The red ring tips the solid toward you or away, the green ring spins it, the blue ring rolls it. Tap an arrow, or just swipe the stage. Every turn is a clean quarter turn, there is no timer, and undo and restart cost nothing.\n\nTen acts teach the theatre one trick at a time:\n- Overture and Tip the Cube: one axis, then two.\n- Full Turn and Tall Order: all three axes, then bigger four-by-four solids.\n- Side Lamp and Two Lamps, Tall: a second lamp throws a second shadow on the side wall, and both must match at once.\n- Swinging Lamp: the lamp changes sides after every turn, so plan two walls ahead.\n- Mirror Wall: the wall doubles every shadow in a mirror.\n- Gel Glass: red and blue glass cells only block light of the other colour; flip the gel on the lamp and the shadow changes.\n- Grand Premiere: the tricks mix.\n\nMore to play: a Daily Silhouette with a streak, the endless Matinee, a Gallery that frames the cut-out of every riddle you solve, and six wood finishes (beech to ebony) you buy with coins earned by playing. Stars come from beating par, the fewest possible turns, which the game works out exactly.\n\nShadewright is free to play with banner and full-screen ads and optional rewarded videos for hints. An optional monthly subscription removes ads; you can also earn the rest of a month ad-free by watching 100 videos. Subscription renews automatically until cancelled in your Apple ID settings. Privacy policy: https://equalinformation.com/privacy-shadewright.html",
+  "whatsNew": "Opening night. Ten acts, the Daily Silhouette, the Matinee and the Gallery.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-shadewright.html",
+  "supportUrl": "https://equalinformation.com/app-support-shadewright.html",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
+  "version": "1.0.0",
+  "icon": "assets/apps/shadewright/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/shadewright/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shadewright/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shadewright/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shadewright/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shadewright/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shadewright/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shadewright/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shadewright/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shadewright/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shadewright/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shadewright/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shadewright/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.shadewright.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.shadewright.app"
+  },
+  "related": []
+}
