@@ -1,0 +1,109 @@
+{
+  "slug": "pilotwick",
+  "name": "Pilotwick",
+  "subtitle": "Written test and 3D airspace",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "faa",
+    "ppl",
+    "aviation",
+    "exam",
+    "flight",
+    "airspace",
+    "e6b",
+    "weather",
+    "ground",
+    "study",
+    "quiz",
+    "airman"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Fly the study route: eight knowledge legs, an interactive instrument trainer, a 3D airspace model, a METAR lab and a flight computer. Study offline.",
+  "longDescription": "Studying for the private pilot written test usually means a wall of flat questions. Pilotwick turns it into a route you can see: eight legs, one for each knowledge area, each with a gauge that fills as you master it.\n\nStudy the way pilots actually think\n- Route: Regulations, Airspace, Weather, Performance, Systems, Navigation, Human factors and Airport operations, each with key-point cards and its own drill.\n- 200 original questions, each checked against the published FAA text, with a plain explanation and two exact citations (document, chapter or paragraph, page) after every answer.\n- Missed pile: wrong answers come back until you get them right. Questions you have not seen yet and ones you just missed are asked more often.\n- Daily sortie: five questions from five different legs, the same set all day, with a streak.\n- Mock written test: 60 questions, 2 hours 30 minutes, flag and review, scored by leg against a 70 percent pass mark.\n- A written test readiness gauge and a trend line show where you stand against the 70 percent pass mark.\n\nSkills a question list cannot teach\n- Instrument trainer: a six-dial panel with a three-hand altimeter, attitude indicator, airspeed arcs, turn coordinator, heading indicator and vertical speed. Read it, then answer. Or fly free and move every dial yourself.\n- Airspace in 3D: spin a model of a large hub, a busy towered airport and a small towered field, then slide your airplane in distance and altitude to see which class you are in and what visibility, cloud clearance, entry and equipment apply, by day or night.\n- METAR lab: practice reports with tap-to-decode groups, flight category drills (VFR, MVFR, IFR, LIFR), and a decoder for any report you paste.\n- Flight computer: wind triangle with a drawn vector diagram, runway headwind and crosswind, density altitude and true airspeed, time and fuel with reserves, and weight and balance with a plotted envelope for a practice airplane.\n\nBuilt for long study\n- A- and A+ buttons make every screen larger or smaller, on top of your system text size.\n- All study features work offline from the first launch; ads need a connection. No account, no sign-in. Progress stays on your device.\n- Same quality on iPhone and iPad, with a side key rail on the iPad.\n\nPilotwick is an independent study aid based on public FAA publications and the Code of Federal Regulations. It is not a substitute for instruction from a certificated flight instructor or for official FAA material, and it is not affiliated with or endorsed by the FAA, and the weight and balance sheet, instrument dials and airspace model are for practice only, never for flight.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-exam-faa-ppl.html",
+  "supportUrl": "https://equalinformation.com/app-support-exam-faa-ppl.html",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
+  "version": "1.0.0",
+  "icon": "assets/apps/pilotwick/icon-512.png",
+  "hero": "assets/apps/pilotwick/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/pilotwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pilotwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pilotwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pilotwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pilotwick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pilotwick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pilotwick/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pilotwick/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pilotwick/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pilotwick/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pilotwick/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pilotwick/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.exam-faa-ppl.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.exam-faa-ppl.app"
+  },
+  "related": []
+}

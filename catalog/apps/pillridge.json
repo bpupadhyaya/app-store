@@ -1,0 +1,109 @@
+{
+  "slug": "pillridge",
+  "name": "Pillridge",
+  "subtitle": "Pharmacology stems and classes",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "flashcards",
+    "nursing",
+    "pharmacy",
+    "pharmacist",
+    "suffix",
+    "mechanism",
+    "receptor",
+    "study",
+    "quiz",
+    "medication",
+    "3d",
+    "molecule"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Spot the stem, name the class, then explore experimental protein structures with a ligand in the pocket. Free, offline, made for pharmacy and nursing students.",
+  "longDescription": "Learn drug classes the way they stick. Pillridge turns the patterns behind drug names into quick flashcards, drills and 3D protein structures from the Protein Data Bank, so -pril, -olol, -vastatin and 40+ more stems stop being a memorisation chore.\n\n### See the Target\nMost apps show you a diagram. Pillridge renders experimental structures from the Protein Data Bank with a ligand in its binding pocket: lisinopril in human ACE, atorvastatin in human HMG-CoA reductase, rivaroxaban in human factor Xa and 18 more. The ligand, species and resolution are shown for each, and where a structure is a research compound, a metabolite, a model enzyme or a different species, the app says so. Rotate, zoom, switch the backbone, pocket and drug shell on and off, then jump into the close-up of the binding site.\n\n### Learn the Stems\nEvery class lists its stem and what it means, with the stem lit up inside drug names. Spot a new drug and you already know the family.\n\n### Spaced Repetition That Fits a Busy Day\nOver 400 cards cover stems, drugs, mechanisms and class facts. Grade each card Again, Hard, Good or Easy and the next review lands days ahead, longer each time you remember. A daily limit of new cards keeps it calm.\n\n### Drills That Teach the Difference\n- Stem Spotter: a drug name with its stem highlighted, pick the class.\n- Class Compare: a fact about one of two look-alike classes (ACE inhibitors versus ARBs, thiazides versus loops, penicillins versus cephalosporins).\n- Pocket Match: an experimental structure with a ligand in the pocket, name the ligand's class.\n- Mechanism Match: how it works in one sentence, name the class.\n- Daily Rounds: ten mixed questions, the same for everyone today.\n\n### Built for Reading\nA-/A+ text zoom on every screen plus full Dynamic Type support, made for iPhone and iPad with a layout designed for each.\n\n### Works Offline\nEverything is inside the app: cards, drills and 3D structures. No account.\n\n### Accuracy You Can Check\nStems follow the WHO INN Stem Book; mechanisms and class facts are checked against FDA drug labels and ChEMBL; structures come from the Protein Data Bank with species and resolution shown. The Accuracy and sources page lists every simplification, and Report an error is one tap away.\n\n### Education Only\nPillridge is a study aid for students. It contains no dosing, does not diagnose or treat, and is not a substitute for official drug references or professional judgment.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-pillridge.html",
+  "supportUrl": "https://equalinformation.com/app-support-pillridge.html",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
+  "version": "1.0.0",
+  "icon": "assets/apps/pillridge/icon-512.png",
+  "hero": "assets/apps/pillridge/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/pillridge/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pillridge/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pillridge/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pillridge/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pillridge/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pillridge/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pillridge/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pillridge/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pillridge/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pillridge/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pillridge/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pillridge/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.pharmacy-drug-classes.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.pharmacy-drug-classes.app"
+  },
+  "related": []
+}

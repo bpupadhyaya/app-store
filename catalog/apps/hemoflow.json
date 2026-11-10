@@ -1,0 +1,108 @@
+{
+  "slug": "hemoflow",
+  "name": "Hemoflow",
+  "subtitle": "Blood flow, pressure, shear",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "poiseuille",
+    "stenosis",
+    "aneurysm",
+    "windkessel",
+    "murray",
+    "viscosity",
+    "circulation",
+    "vascular",
+    "reynolds",
+    "laplace",
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Narrow a vessel and watch the flow collapse. Seven hands-on labs for blood-flow physics, fully offline.",
+  "longDescription": "Pull a vessel narrower and watch the flow collapse. Hemoflow is a hands-on lab for the physics of blood circulation, built for physiology and medical students and for anyone who wants to feel why radius matters so much.\n\nSeven labs, one idea: change a number, see the whole system respond.\n- Wall layers: cut open an aorta, artery, arteriole, capillary, vein with valve or vena cava, drawn to scale from published wall dimensions.\n- Poiseuille bench: set radius, length, pressure drop and haematocrit. Resistance, flow, mean velocity, wall shear stress and Reynolds number update live while cells stream through a 3D vessel.\n- Stenosis and aneurysm: narrow a vessel or let it bulge. See the pressure drop, the throat jet, the shear, the wall tension, and how tissue demand changes what a lesion costs.\n- Pulse wave: drive an aortic arch with heart rate, stroke volume, peripheral resistance and arterial stiffness. The pressure wave, mean pressure and pulse pressure come from a Windkessel model.\n- Murray branching: grow an arterial tree with the minimum-work rule and bend the exponent to see wall shear drift.\n- The whole circuit: pressure, total area, velocity and organ shares of cardiac output, from rest to hard exercise.\n- Predict: five new questions every day, built from the same engine as the labs, with a streak and a mastery map.\n\nSave any setup to your notebook and add your own notes. Everything works offline.\n\nAccuracy matters in training, so every formula and number is listed in the in-app Accuracy and sources page with two references and known simplifications. Anything schematic is labelled on screen, and a Report an error link goes straight to us.\n\nEducation only. Hemoflow is not medical advice and is not for judging any patient or scan.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-physiology-vascular.html",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-09",
+  "version": "1.0.0",
+  "icon": "assets/apps/hemoflow/icon-512.png",
+  "hero": "assets/apps/hemoflow/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/hemoflow/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hemoflow/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hemoflow/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hemoflow/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hemoflow/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hemoflow/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hemoflow/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hemoflow/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hemoflow/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hemoflow/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hemoflow/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hemoflow/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.physiology-vascular.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.physiology-vascular.app"
+  },
+  "related": [],
+  "supportUrl": "https://equalinformation.com/app-support-physiology-vascular.html"
+}
