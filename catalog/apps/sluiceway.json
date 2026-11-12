@@ -72,8 +72,8 @@
     "bundleId": "com.equalinformation.sluiceway.app"
   },
   "android": {
-    "status": "soon",
-    "url": "",
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.sluiceway.app",
     "package": "com.equalinformation.sluiceway.app"
   },
   "related": [

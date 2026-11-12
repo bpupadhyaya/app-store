@@ -72,8 +72,8 @@
     "bundleId": "com.equalinformation.orbitwick.app"
   },
   "android": {
-    "status": "soon",
-    "url": "",
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.orbitwick.app",
     "package": "com.equalinformation.orbitwick.app"
   },
   "related": [
