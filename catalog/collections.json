@@ -182,7 +182,10 @@
       "solitaire-deluxe",
       "sudoku-deluxe",
       "tiger-and-goat",
-      "word-game-deluxe"
+      "word-game-deluxe",
+      "minesweeper-deluxe",
+      "shogi-deluxe",
+      "xiangqi-deluxe"
     ]
   }
 ]

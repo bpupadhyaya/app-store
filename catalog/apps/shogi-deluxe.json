@@ -1,0 +1,79 @@
+{
+  "slug": "shogi-deluxe",
+  "name": "Shogi Deluxe",
+  "subtitle": "3D Japanese chess",
+  "categories": [
+    "board-strategy"
+  ],
+  "tags": [
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Arcforge Shogi Deluxe is Japanese chess made carefully: a real-time 3D board with wedge-shaped wooden pieces, a computer opponent you can trust, and everything…",
+  "longDescription": "Arcforge Shogi Deluxe is Japanese chess made carefully: a real-time 3D board with wedge-shaped wooden pieces, a computer opponent you can trust, and everything you need to learn the game and get better.\n\n### Play\n- Eight computer levels from first-timer to a strong amateur, plus an Adaptive level that follows your results.\n- Choose Black or White, add a handicap (lance, bishop, rook and more) and an optional clock.\n- Minishogi: the quick 5x5 board for short games and training.\n- Two players on one device, with the board turning to face whoever moves.\n- Watch & Learn: two engines play while every move is explained. Pause, step, change the speed.\n- Full rules done right: drops, promotion, nifu, no pawn-drop mate, repetition, perpetual check and the impasse declaration.\n\n### Learn\n- Sixteen hands-on lessons: you make every move. Meet each piece one at a time, then promotion, drops, check, checkmate and your first tactics.\n- 190 tsume (mating puzzles) in nine packs, from mate in one to mate in seven, each proven by the app's own solver. A new daily puzzle with a streak.\n- Castle trainer: build Mino, Yagura and Anaguma move by move, and drill six opening lines with the reason for every move.\n- A coach rates each move and draws the better one. Ask Think for a hint with a plain-English reason.\n- Game review with an evaluation graph and a button that jumps to your mistakes. Copy any game as a KIF record.\n\n### Beautiful\n- A warm 3D room: kaya board on turned legs, lacquered grid, lantern light and shadows.\n- Piece faces in traditional brush kanji, or movement symbols that beginners can read at once.\n- Five piece woods (boxwood, ebony, cherry, ivory, jade) and four boards (kaya, shin-kaya, cedar, black lacquer).\n- Piece sounds synthesised on the device: the click of wood on kaya.\n- Smooth portrait and landscape on phones and tablets. Text zoom up to 300% on every reading page.\n\n### Yours\n- Works fully offline. Free to play with ads (one purchase removes them), no account.\n- Achievements, statistics and your tsume rating stay on your device.\n\nFree to play with ads; one purchase removes them for good. No subscription.\n\nShogi is also known as Japanese chess.",
+  "whatsNew": "Ad-free options: watch a video for ad-free time or subscribe monthly. Smoother play.",
+  "price": "Free",
+  "monetization": "Free with ads",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-shogideluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-shogideluxe.html",
+  "releasedAt": "2026-11-02",
+  "updatedAt": "2026-11-12",
+  "version": "1.0.0",
+  "icon": "assets/apps/shogi-deluxe/icon-512.png",
+  "hero": "assets/apps/shogi-deluxe/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/shogi-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shogi-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shogi-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shogi-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shogi-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shogi-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shogi-deluxe/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shogi-deluxe/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/shogi-deluxe/id6823714733",
+    "bundleId": "com.equalinformation.shogideluxe.app",
+    "appleId": "6823714733"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.shogideluxe.app"
+  },
+  "related": []
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "minesweeper-deluxe",
+  "name": "Minesweeper Deluxe",
+  "subtitle": "3D Logic",
+  "categories": [
+    "puzzle",
+    "casual"
+  ],
+  "tags": [
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Arcforge Minesweeper Deluxe is minesweeper rebuilt as a premium 3D puzzle for your phone and tablet.",
+  "longDescription": "Arcforge Minesweeper Deluxe is minesweeper rebuilt as a premium 3D puzzle for your phone and tablet. Press real beveled tiles that sink with a spring, watch numbers glow on the plates beneath, plant flags that snap into place, and clear boards that never ask you to guess.\n\n### Fair Boards, Explained\nEvery board can be cleared by logic alone. A built-in deduction engine forges each board around your first tap and proves it solvable before you play. Choose Gentle, Standard or Master boards by the kind of reasoning they need. Stuck? Ask the coach: it highlights the numbers it used in blue, the safe tiles in green and the mines in red, and explains why in plain words. Direct, overlap, case-by-case and mine-counting reasoning are all taught. If a flag of yours is provably wrong, it tells you.\n\n### Five Grids\nSquare, hexagon, triangle, octagon mosaic and a wrap-around grid with no edges. Every grid has Beginner, Intermediate, Expert and Giant sizes tuned to feel the same, and Custom boards up to 2,000 tiles. Press a tile and its neighbours light up so you always see which ones count.\n\n### Built for Small Screens and Big Boards\nPinch to zoom, drag to move, double tap to fit. Giant boards stay smooth and tiles stay easy to hit. Tap to open, touch and hold to flag, tap a number to chord. A tool button, left-handed layout, undo and a pause that hides the board are all there. Mouse and keyboard work too.\n\n### Deduction Academy\nSixty-one puzzles in ten chapters with the layout fixed from the start. Learn the one-two-one edge, overlaps, case analysis and counting, then carry it over to hexagons, triangles, octagons and the wrap-around grid. Earn up to three stars on each: no hints and no mistakes.\n\nAUTO PLAY (WATCH AND LEARN)\nWatch the engine play a board for you, one explained step at a time, with Pause, Step and speed control. Press Think to see the next move and why, or Take over to play the board yourself from where it stands.\n\n### Daily Challenge\nOne board for everyone each day, on a different grid, with the opening already made. Build a streak.\n\n### Records, Trophies and Themes\nBest times for every grid, size and mode, statistics, twenty-five trophies, and six themes: Slate and Brass, Porcelain and Cobalt, Jade Garden, Copper Foundry, Midnight Neon, and Sand and Terracotta.\n\n### Made to Be Used By Everyone\nColour-blind palette and number marks that add a shape behind every number, text zoom up to 300 percent on every reading page, calm mode, separate sound and haptics switches, portrait and landscape.\n\nEverything stays on your device. Free to play with short ads between games, and a rewarded option to earn a quiet hour. A one-time purchase, Remove Ads, takes the ads away for good. No account is needed, your progress stays on your device, and the game works offline. You choose whether personalised ads are allowed.",
+  "whatsNew": "Ad-free options: watch a video for ad-free time or subscribe monthly. Smoother play.",
+  "price": "Free",
+  "monetization": "Free with ads",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-minesweeperdeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-minesweeperdeluxe.html",
+  "releasedAt": "2026-11-02",
+  "updatedAt": "2026-11-12",
+  "version": "1.0.0",
+  "icon": "assets/apps/minesweeper-deluxe/icon-512.png",
+  "hero": "assets/apps/minesweeper-deluxe/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/minesweeper-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/minesweeper-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/minesweeper-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/minesweeper-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/minesweeper-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/minesweeper-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/minesweeper-deluxe/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/minesweeper-deluxe/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/minesweeper-deluxe-3d-logic/id6823714516",
+    "bundleId": "com.equalinformation.minesweeperdeluxe.app",
+    "appleId": "6823714516"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.minesweeperdeluxe.app"
+  },
+  "related": []
+}
