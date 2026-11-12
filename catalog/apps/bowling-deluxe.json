@@ -1,0 +1,67 @@
+{
+  "slug": "bowling-deluxe",
+  "name": "Pinfall League: 3D Bowling",
+  "subtitle": "Physics bowling, oil and hook",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Physics bowling: oil, hook and pin action. Ten-pin, candlepin, nine-pin.",
+  "longDescription": "Roll it the way the lane wants it rolled. Pinfall League is a bowling game built on a physics engine: the ball skids on oil, bites on dry wood and hooks into the pocket, and the pins lean, topple, slide and knock each other over.\n\nTHREE GAMES, ONE LANE\nTen-pin with true scoring: strikes, spares and the tenth frame, up to a perfect 300. Candlepin, the New England game: a small ball with no finger holes, three balls a box, and fallen wood that stays in play. Classic nine-pin Kegeln: the diamond of nine pins, in die Vollen and Abraeumen, 30 throws a game.\n\n### A Lane That Changes\nSix oil patterns, from the forgiving House Blend to the unforgiving Tight Ridge. Switch on the oil view and see where the ball will skid and where it will turn. Every ball you roll carries oil down the lane, so the lane you finish on is not the one you started on. Choose from plastic, urethane, reactive and hybrid balls, each with its own grip.\n\n### A Swipe That Feels Right\nSlide your stance, drag the aim ring onto the arrows, set the hook, then flick up the pad. Flick speed is ball speed; a curved finish adds spin. A dotted guide shows the path your ball will take, and a pin-deck window keeps the leave in view. Casual, Standard and Pro swipe assists, right- or left-handed, portrait or landscape.\n\n### Rivals With Style\nTwelve bowlers, each with a way of playing: the straight-baller, the metronome, the big-rev hooker, the spare specialist, the power player who wobbles under pressure, the lane reader who adapts as the oil wears. They plan every shot by trying it on a copy of the lane.\n\nSEASONS, CUPS AND CHALLENGES\nA league of three divisions with a table, a different lane pattern each week and promotion. Seven cups across all three games. Forty trick-pin setups, from the lone seven to the 7-10 bedposts, each worth up to three stars. Eight guided lessons. A daily challenge of five leaves with a streak. Practice, Auto Play (Watch & Learn: the computer plays, Think explains each ball before it rolls, Take over lets you bowl), and up to four players on one device.\n\n### Stats And Trophies\nAverages, first-ball pins, spare conversion, split conversion, personal bests for each game, and 34 trophies, all kept on your device.\n\n### The Details\nReal-time 3D with a neon-lit alley, three alley looks, synthesised sound, slow-motion on impact and text zoom up to 300 percent on every text page. There are no people on screen: just the lane, the ball and the pins.\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/bowling-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-bowlingdeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-bowlingdeluxe.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/bowling-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Pinfall League: 3D Bowling"
+    },
+    {
+      "src": "assets/apps/bowling-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Pinfall League: 3D Bowling"
+    },
+    {
+      "src": "assets/apps/bowling-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Pinfall League: 3D Bowling"
+    },
+    {
+      "src": "assets/apps/bowling-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Pinfall League: 3D Bowling"
+    },
+    {
+      "src": "assets/apps/bowling-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Pinfall League: 3D Bowling"
+    },
+    {
+      "src": "assets/apps/bowling-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": "Pinfall League: 3D Bowling"
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": "com.equalinformation.bowlingdeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.bowlingdeluxe.app",
+    "package": "com.equalinformation.bowlingdeluxe.app"
+  }
+}

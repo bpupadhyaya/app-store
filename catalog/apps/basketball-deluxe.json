@@ -1,0 +1,67 @@
+{
+  "slug": "basketball-deluxe",
+  "name": "Swish Circuit: Hoop Shots",
+  "subtitle": "Flick hoops on eight courts",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Flick real hoops on eight courts: swish, bank, beat the wind and the rivals.",
+  "longDescription": "You are standing on a painted line with a ball in your hands and a hoop that does not care how you feel. Press, drag up, let go. The ball leaves your fingers with real spin, climbs, turns over and either whispers through the net or clangs off the iron. Swish Circuit is all of that and nothing else: a basketball shooting game built around one gesture and a ball that behaves.\n\n### The Flick\nOne thumb is the whole controller. How far you drag sets the power, the angle of your drag steers the shot, and three arc buttons choose a flat flight or a high lob. A glowing rail at the edge of the screen shows what you are asking for. Turn the assist up while you learn, down to nothing when you are good. Tap the lamp and a coach draws the arc it would throw.\n\n### Eight Courts\nPlay a driveway garage hoop at dusk, a chain-net blacktop, a windy harbour rooftop, a sunset boardwalk pier, a neon cage with fence walls in play, a hardwood gym, a packed arena and a snowy floodlit court. Each has its own light, sound, floor bounce and weather, and every one is drawn in real-time 3D with real shadows.\n\n### A Campaign That Asks Something\nForty stages: a sixty-second Shootout, the Three-Point Contest with money balls, Around the Court, a trick shot with a twist, and a H-O-R-S-E showdown with the court's boss. Three stars each. Stars open the next court.\n\n### H-O-R-S-E Against People With Habits\nSeven rivals shoot through the same physics as you, which means they miss the way people miss. Deadeye hates touching iron. Glass would bank a shot from the parking lot. Wildfire is magnificent or terrible. The Professor never takes a bad shot. Big Tolu owns the paint. Rookie is learning. Coach Bell quietly matches your level. Set the shot, call it a swish or a bank, and make your rival match it. Play to PIG, HORSE or ELEPHANT.\n\nSHOOTOUTS, CONTESTS AND TRICKS\nShootout and Rapid Fire reward streaks: three in a row sets you on fire and every basket counts double. Free Throw Frenzy and Ten Quick are pure rhythm. Twenty-four trick-shot levels bend the rules: bank-only glass, swish-only nets, crosswinds, sliding and bobbing hoops, hovering plates, posts and beams in the lane, low ceilings, moon gravity and a bouncy ball.\n\nEVERY DAY, TEN SHOTS\nThe Daily Gauntlet gives everyone the same court, the same twist and the same five spots. Keep your streak alive.\n\nPLAY TOGETHER, LEARN ALONE\nPass one phone between two players in any game. Swish School teaches the flick in seven short lessons, and Auto Play (Watch & Learn) lets a champion shoot a whole contest while explaining every shot, with a real Pause, a Think button that shows the planned shot, and a Take over button when you want to shoot the rest yourself.\n\n### Built To Feel Right\nSlow motion at the rim, a net that moves, glass that rings, a crowd that gets louder as you do. Portrait or landscape on phone and tablet, text that zooms to 300 percent, left-handed layout, reduced motion, and haptics you can switch off.\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/basketball-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-basketballdeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-basketballdeluxe.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/basketball-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Swish Circuit: Hoop Shots"
+    },
+    {
+      "src": "assets/apps/basketball-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Swish Circuit: Hoop Shots"
+    },
+    {
+      "src": "assets/apps/basketball-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Swish Circuit: Hoop Shots"
+    },
+    {
+      "src": "assets/apps/basketball-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Swish Circuit: Hoop Shots"
+    },
+    {
+      "src": "assets/apps/basketball-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Swish Circuit: Hoop Shots"
+    },
+    {
+      "src": "assets/apps/basketball-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": "Swish Circuit: Hoop Shots"
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": "com.equalinformation.basketballdeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.basketballdeluxe.app",
+    "package": "com.equalinformation.basketballdeluxe.app"
+  }
+}

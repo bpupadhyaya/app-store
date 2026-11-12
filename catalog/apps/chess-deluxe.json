@@ -1,0 +1,67 @@
+{
+  "slug": "chess-deluxe",
+  "name": "Arcforge Chess Deluxe",
+  "subtitle": "Chess with a coach and lessons",
+  "categories": [
+    "board-strategy"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Beautiful chess with a strong engine, coach, lessons and puzzles.",
+  "longDescription": "Chess Deluxe is chess made carefully: a polished wooden board with glossy hand-drawn pieces, a computer opponent you can trust, and a coach that helps you improve.\n\n### Play\n- Ten computer levels from curious beginner to a strong club player, plus an adaptive mode that follows your rating.\n- Pass & Play for two people on one device.\n- Watch & Learn: two computers play while a commentary explains each move in plain words.\n- Clocks with increments, undo, hints and an evaluation bar.\n- Full rules: castling, en passant, promotion, stalemate, threefold repetition, the fifty-move rule and insufficient material.\n\n### Learn\n- A coach comments on every move you make, explains mistakes and draws the better move on the board.\n- 36 lessons from how the pieces move to forks, pins, mating patterns, endgames and eight classic openings.\n- Hundreds of puzzles with ratings, themed sets, rated mode and a daily puzzle with a streak.\n- Game review with an engine score at every move, a graph of the game and accuracy for both sides.\n- More than a hundred opening names recognised as you play.\n\n### Beautiful\n- Six boards: maple and walnut, walnut and honey, Carrara and Nero marble, emerald, frosted glass and a classic tournament board.\n- Six piece sets: chestnut and caramel, ivory and ebony, boxwood and rosewood, marble, crystal, and gold and silver.\n- Smooth portrait and landscape on phones and tablets, text zoom up to 300% on every reading page.\n\n### Yours\n- Copy and paste games and positions as PGN and FEN.\n- Achievements, statistics and ratings stored on your device.\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-10-21",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/chess-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-chessdeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-chessdeluxe.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/chess-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Arcforge Chess Deluxe"
+    },
+    {
+      "src": "assets/apps/chess-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Arcforge Chess Deluxe"
+    },
+    {
+      "src": "assets/apps/chess-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Arcforge Chess Deluxe"
+    },
+    {
+      "src": "assets/apps/chess-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Arcforge Chess Deluxe"
+    },
+    {
+      "src": "assets/apps/chess-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Arcforge Chess Deluxe"
+    },
+    {
+      "src": "assets/apps/chess-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": "Arcforge Chess Deluxe"
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": "com.equalinformation.chessdeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.chessdeluxe.app",
+    "package": "com.equalinformation.chessdeluxe.app"
+  }
+}

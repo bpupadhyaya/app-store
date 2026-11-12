@@ -1,0 +1,67 @@
+{
+  "slug": "tiger-and-goat",
+  "name": "Bagh-Chal: Tiger & Goat",
+  "subtitle": "Nepal's tiger and goat game",
+  "categories": [
+    "board-strategy"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Nepal's tiger and goat board game. 44 puzzles, 14 lessons. Works offline.",
+  "longDescription": "Bagh-Chal is the traditional tiger and goat board game of Nepal, in a complete edition with a carved three-dimensional board and real tiger and goat portraits.\n\nFour tigers face twenty goats on a square board of twenty-five points. The goats try to trap the tigers so none can move. The tigers try to capture enough goats to win. It takes a minute to learn and a long time to master.\n\n### Play Your Way\n- Play as the goats or as the tigers against the computer, with five levels: Easy, Medium, Hard, Master and Adaptive.\n- Two players on one device: pass it across the table.\n- Auto Play: watch the computer play both sides, pause at any time, and compare with your own guess.\n- A coach, hints and take-back to help you learn.\n- A Daily challenge.\n- Works in portrait and landscape.\n\n### Learn The Game\n- Campaign: 44 puzzles in four chapters. Each has one winning first move; earn stars for no wrong try and no hint.\n- Academy: 14 short, hands-on lessons, from the basics to strategy. Nothing is timed.\n- Heritage: 6 short chapters on the game, its name and its family.\n- Rules: the full rules, with text size up to 300 percent.\n\n### Collect And Customise\n- Meet 12 tiger and goat breeds, with what is well established about each animal.\n- Unlock new tigers and goats as you play.\n- Choose your board and scenery.\n- 18 achievements and statistics kept on your device.\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/tiger-and-goat/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-tigerandgoat.html",
+  "supportUrl": "https://equalinformation.com/app-support-tigerandgoat.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/tiger-and-goat/shot-1.webp",
+      "device": "phone",
+      "caption": "Bagh-Chal: Tiger & Goat"
+    },
+    {
+      "src": "assets/apps/tiger-and-goat/shot-2.webp",
+      "device": "phone",
+      "caption": "Bagh-Chal: Tiger & Goat"
+    },
+    {
+      "src": "assets/apps/tiger-and-goat/shot-3.webp",
+      "device": "phone",
+      "caption": "Bagh-Chal: Tiger & Goat"
+    },
+    {
+      "src": "assets/apps/tiger-and-goat/shot-4.webp",
+      "device": "phone",
+      "caption": "Bagh-Chal: Tiger & Goat"
+    },
+    {
+      "src": "assets/apps/tiger-and-goat/shot-5.webp",
+      "device": "phone",
+      "caption": "Bagh-Chal: Tiger & Goat"
+    },
+    {
+      "src": "assets/apps/tiger-and-goat/shot-6.webp",
+      "device": "phone",
+      "caption": "Bagh-Chal: Tiger & Goat"
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/bagh-chal-tiger-goat/id6818936256",
+    "appleId": "6818936256",
+    "bundleId": "com.equalinformation.tigerandgoat.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.tigerandgoat.app",
+    "package": "com.equalinformation.tigerandgoat.app"
+  }
+}

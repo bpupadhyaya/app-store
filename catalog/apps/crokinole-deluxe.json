@@ -1,0 +1,68 @@
+{
+  "slug": "crokinole-deluxe",
+  "name": "Maple Ring Crokinole",
+  "subtitle": "Flick discs on a maple board",
+  "categories": [
+    "board-strategy",
+    "sports"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Flick discs across a 3D maple board. Real physics, a campaign, daily puzzles.",
+  "longDescription": "Pull back, let go, and listen to the clack.\n\nMaple Ring is crokinole for the phone in your hand: a round maple board, eight brass pegs, and a small dark hole in the middle that is worth twenty. You flick wooden discs across the lacquer, knock your rival's discs into the ditch, and try to leave your own sitting pretty on the rings.\n\n### The Flick\nSlide your disc along your edge, put a thumb anywhere on the screen and pull back like a slingshot. The longer the pull, the harder the flick. A dotted line shows where your disc will first touch something, and a soft cross shows where it would stop. Prefer to take your time? Switch to steady aim and press Flick when you are ready.\n\n### A Board That Behaves\nEvery disc has weight. They collide, rebound off the pegs, glance off the rim and slow down on the wax the way real ones do. A disc crawling over the hole drops in; a fast one skips across. The board comes in three speeds, from waxed slow to tournament fast, and a given flick always plays out the same way.\n\n### Real Rules\nTwelve discs each. If a disc is on the board your flick must hit one, or your disc is lost and the board is put back. Discs that finish in the ditch are removed. Highest ring completely inside counts, a disc touching a line counts for the lower ring, and each round only the side with more points scores the difference. Play a quick round, four rounds, first to 50 or the traditional first to 100, with the hit-any-disc rule or the stricter rival-disc rule.\n\n### Who You Play\nSix computer levels, from Rookie to Grandmaster, plus an Adaptive opponent that follows your results. They weigh dozens of flicks, allow for their own shaky hands, and the strongest ones plan a reply ahead. Or hand the phone across the table: two players on one device, or two against two with partners opposite, the board turning to face whoever is shooting.\n\n### The Ridge Circuit\nFour stops, twenty matches, twenty characters: from a village hall with a long table to the Maple Ring Open and the Keeper of the Ring. Each match has three stars to win, and a doubles match waits at Birchwood.\n\nTRICK SHOTS, LESSONS AND A DAILY BOARD\nA cabinet of thirty-six trick shots in four drawers: banks off the pegs, shielded discs, double takeouts and a few that look impossible. Every one was solved on the same physics before it was put in the app. Eight short lessons teach the flick, power, the hit rule, the rings, pegs, the twenty and guards. A fresh Daily Board arrives every day: five flicks, the same position for everyone. Practice on a table of your own, or sit back with Auto Play (Watch & Learn): let two computers play and explain their thinking, then tap Take over to play the game on yourself.\n\n### Made To Be Looked At\nReal-time 3D with lamp light, lacquered maple, soft shadows, turned discs and brass pegs, in portrait or landscape on phone and tablet. Pick the board and the discs, make the text as large as three times normal on every reading screen, and turn on a calmer camera. Sounds are made on your device: wood, brass and a little bell.\n\nTwenty-eight trophies and full statistics. Everything stays on your device: no account, no tracking, and it works offline (ads need a connection).\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/crokinole-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-crokinoledeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-crokinoledeluxe.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/crokinole-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Maple Ring Crokinole"
+    },
+    {
+      "src": "assets/apps/crokinole-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Maple Ring Crokinole"
+    },
+    {
+      "src": "assets/apps/crokinole-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Maple Ring Crokinole"
+    },
+    {
+      "src": "assets/apps/crokinole-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Maple Ring Crokinole"
+    },
+    {
+      "src": "assets/apps/crokinole-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Maple Ring Crokinole"
+    },
+    {
+      "src": "assets/apps/crokinole-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": "Maple Ring Crokinole"
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": "com.equalinformation.crokinoledeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.crokinoledeluxe.app",
+    "package": "com.equalinformation.crokinoledeluxe.app"
+  }
+}

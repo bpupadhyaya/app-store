@@ -1,0 +1,68 @@
+{
+  "slug": "ludo-deluxe",
+  "name": "Arcforge Ludo Deluxe",
+  "subtitle": "3D Ludo, Pachisi, Royal Cross",
+  "categories": [
+    "board-strategy",
+    "casual"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Calm, beautiful 3D Ludo, Pachisi and Royal Cross. Smart rivals. Free with ads.",
+  "longDescription": "Ludo Deluxe is a calm, beautiful home for the cross-and-circle race games of the world. Roll real dice that tumble out of a leather cup onto a lit 3D board, race your glossy tokens around the cross, capture rivals and bring every token home.\n\nThree games in one app. Ludo is the classic race: roll a 6 to leave the yard, throw again on a 6, capture on plain squares, rest on safe stars and race up your home lane. Pachisi, the royal game of India, is played with six cowrie shells, graces and castle squares. Royal Cross is the two-dice cross game with blockades, safe squares, a 20-point bonus for a capture and 10 for coming home.\n\nMake the rules yours. Choose Quick, Classic or Long games for two, three or four players, play against the computer or pass the device to friends, and switch house rules on or off: six to start, safe stars, doubling and exact home.\n\nComputer players with character. Four levels from Rookie to Master, plus an Adaptive level that follows how you are playing. Rani races, Kabir hunts, Mei guards, Leo lays traps and Sofia balances. Tap Hint to see what the strongest player would do and why, see the percent chance that a token is captured, and take back a move.\n\nLearn by doing. Nine short interactive lessons teach every rule on the real board. Watch & Learn lets four computer players play while each move is explained in plain words, with a real Pause.\n\nPlay for the long run. Enter the Cup, a knockout of eight players. Play a League season of six tables. Solve the Daily Challenge: three positions, the same for everyone, rated up to three stars, with a streak. Collect 28 trophies and follow your statistics by game and by opponent level.\n\nA board you will want to look at. Marble, wood and jewel boards, four sets of tokens, three kinds of dice, three tables, soft shadows, sparkles and sounds. Portrait and landscape on phones and tablets, text zoom up to 300%, colour-blind badge shapes on every token, reduced motion and haptics options.\n\nRules help: Ludo, Pachisi and Royal Cross each have a full rules page with how to play, history and the names the game goes by around the world.\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/ludo-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-ludodeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-ludodeluxe.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/ludo-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Arcforge Ludo Deluxe"
+    },
+    {
+      "src": "assets/apps/ludo-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Arcforge Ludo Deluxe"
+    },
+    {
+      "src": "assets/apps/ludo-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Arcforge Ludo Deluxe"
+    },
+    {
+      "src": "assets/apps/ludo-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Arcforge Ludo Deluxe"
+    },
+    {
+      "src": "assets/apps/ludo-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Arcforge Ludo Deluxe"
+    },
+    {
+      "src": "assets/apps/ludo-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": "Arcforge Ludo Deluxe"
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": "com.equalinformation.ludodeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.ludodeluxe.app",
+    "package": "com.equalinformation.ludodeluxe.app"
+  }
+}

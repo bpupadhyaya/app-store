@@ -1,0 +1,68 @@
+{
+  "slug": "four-in-a-row-deluxe",
+  "name": "Rackline: Four in a Row",
+  "subtitle": "3D four in a row with lessons",
+  "categories": [
+    "board-strategy",
+    "casual"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Glossy 3D four in a row with a grandmaster solver, lessons, puzzles and review.",
+  "longDescription": "Rackline is the classic game of dropping stones into a standing rack to line up four, made with real care: a real-time 3D rack, a computer opponent you can trust, and a full set of ways to learn.\n\n### Play\n- Eight computer levels from Sprout to Grandmaster, plus an Adaptive opponent that follows your rating. The strongest levels search deeply and then solve the ending perfectly.\n- Three racks: Junior (6 by 5), Classic (7 by 6) and Grand (8 by 6). Play first or second.\n- Two players on one device, pass and play.\n- Auto Play, Watch & Learn: the computer plays both sides while you watch. Pause for real, change the speed, tap Think to hear in plain words what the side to move is planning, or take over and play one side yourself.\n- Hints that explain themselves, take-backs, a coach that grades each move (Best, Good, Inaccuracy, Mistake, Blunder) and an evaluation bar.\n\n### Learn\n- Twelve interactive lessons on the board: gravity, the centre, threats, blocking, double threats, thinking ahead, the square above, odd and even rows, spare moves and defence.\n- 90 puzzles in six chapters, from \"win with this move\" to long forced wins. Every answer was solved exactly by a computer, so the best move is a fact, not an opinion.\n- Game review: step through any saved game with an evaluation graph, a grade for every move, the better move at each mistake and an accuracy score. Play on from any position.\n- A daily challenge: a puzzle of the day that keeps your streak, and a shared opening of the day to play against the computer.\n\n### Climb\n- The Tour: twelve opponents in four leagues, each with their own style and stars to earn. Stars unlock new racks and stone sets.\n- Rating, statistics by level and 24 trophies, all stored on your device.\n\n### Beautiful\n- Glossy stones that drop with real weight, bounce once and settle, with soft shadows, a mirrored floor and light that follows the action. Winning fours glow.\n- Four racks (Walnut and Brass, Smoked Glass, Maple and Ink, Rose Marble) and five stone sets (Ruby and Pearl, Cobalt and Amber, Jade and Obsidian, Copper and Steel, Magenta and Lime). The two sides are also told apart by shape, ringed and dotted.\n- Fluid portrait and landscape on phones and tablets, text size up to 300% on every reading page, and sounds synthesised on your device.\n\n### Yours\n- Works fully offline.\n- Your games, ratings and trophies stay on your device.\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/four-in-a-row-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-fourinarowdeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-fourinarowdeluxe.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/four-in-a-row-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Rackline: Four in a Row"
+    },
+    {
+      "src": "assets/apps/four-in-a-row-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Rackline: Four in a Row"
+    },
+    {
+      "src": "assets/apps/four-in-a-row-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Rackline: Four in a Row"
+    },
+    {
+      "src": "assets/apps/four-in-a-row-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Rackline: Four in a Row"
+    },
+    {
+      "src": "assets/apps/four-in-a-row-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Rackline: Four in a Row"
+    },
+    {
+      "src": "assets/apps/four-in-a-row-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": "Rackline: Four in a Row"
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": "com.equalinformation.fourinarowdeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.fourinarowdeluxe.app",
+    "package": "com.equalinformation.fourinarowdeluxe.app"
+  }
+}

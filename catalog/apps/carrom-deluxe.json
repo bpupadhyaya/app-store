@@ -1,0 +1,68 @@
+{
+  "slug": "carrom-deluxe",
+  "name": "Arcforge Carrom Deluxe",
+  "subtitle": "3D carrom with real physics",
+  "categories": [
+    "board-strategy",
+    "sports"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Premium 3D carrom with real physics, full rules, lessons and a campaign.",
+  "longDescription": "Carrom Deluxe is a premium, offline carrom game with a real-time 3D board and a physics engine written from scratch. Every coin, the striker and the cushions are simulated disc by disc, with powder friction, rebounds and spin, so every stroke behaves the way it should and no two boards play alike.\n\nSlide the striker along your baseline, pull back anywhere like a catapult, and release. A guide shows where the striker meets the first coin and where each will go. Set English on the spin dial to bend the striker round trouble. Prefer to be precise? Switch to Aim, then Fire and nudge the aim a quarter of a degree at a time.\n\nFull international rules are built in: pocket your coins, take the queen and cover her, return coins after a foul, settle a due, and the last coin may not drop before the queen. Singles, Doubles with partners opposite, and Pass and Play, where the board turns to face whoever is shooting.\n\nThe computer players think by playing out hundreds of strokes on a copy of the same board before they choose one. Pick Novice, Club, Skilled, Expert or Master, or Adaptive to follow your form. Watch and Learn lets two strong players play a whole board with commentary, and you can pause and ask Think at any time.\n\nLearn properly. Twenty set lessons in four chapters (first strokes, angles and rebounds, spin and finesse, the queen) give three stars each, with Free Practice, Undo and a Hint that finds the stroke for you. A ten stage Campaign takes you from a courtyard table to the Deluxe Invitational. A new Daily Challenge gives everyone the same scatter each day.\n\nMake the table yours. Six wooden boards, three powders that change how far coins glide, four coin sets and four strikers unlock as you play. Replay your last stroke at full or half speed. Collect twenty two achievements and watch your statistics grow.\n\nBuilt with care: portrait and landscape on phones and tablets, text zoom to 300 percent on every reading page, reduced motion, synthesized sound and gentle vibration. Your progress stays on your device. No account needed, and it works offline (ads need a connection).\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/carrom-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-carromdeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-carromdeluxe.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/carrom-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Arcforge Carrom Deluxe"
+    },
+    {
+      "src": "assets/apps/carrom-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Arcforge Carrom Deluxe"
+    },
+    {
+      "src": "assets/apps/carrom-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Arcforge Carrom Deluxe"
+    },
+    {
+      "src": "assets/apps/carrom-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Arcforge Carrom Deluxe"
+    },
+    {
+      "src": "assets/apps/carrom-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Arcforge Carrom Deluxe"
+    },
+    {
+      "src": "assets/apps/carrom-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": "Arcforge Carrom Deluxe"
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": "com.equalinformation.carromdeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.carromdeluxe.app",
+    "package": "com.equalinformation.carromdeluxe.app"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "dominoes-deluxe",
+  "name": "Arcforge Dominoes Deluxe",
+  "subtitle": "Six domino games in 3D",
+  "categories": [
+    "board-strategy"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Cuban, Block, Draw, All Fives, Mexican Train and Chicken Foot in real 3D.",
+  "longDescription": "Dominoes Deluxe puts seven classic domino games on one beautiful table, played against computer opponents that remember every tile.\n\n### The Games\n- Cuban Partners (double-six) and Doble Nueve (double-nine): four players in two teams. Your partner and the opponents read every pass.\n- Block: no drawing, first to empty the hand.\n- Draw: draw from the boneyard until a tile fits.\n- All Fives: score whenever the open ends add up to a multiple of five.\n- Mexican Train: your own train, a public train, markers and doubles that must be answered. Double-nine or double-twelve.\n- Chicken Foot: every double grows three branches.\nEach game has its own exhaustive Rules page with text size up to 300 percent, and it follows the real rules of the table.\n\n### A Computer That Plays Like A Person\nFive levels from Rookie to Grandmaster, plus Adaptive, which rises and falls with your results. The stronger levels keep track of every tile played, infer what each seat holds from its passes, imagine the hidden hands and play them out before choosing. Ask for a Hint any time and the reason is explained in plain words. Turn on the Live coach for a short tip when a clearly stronger play existed.\n\nREAL 3D\nIvory, ebony or rosewood tiles on green felt, walnut or café marble, lit and shadowed in real time. Tiles fly from your hand and land with a clack; drag a tile to a glowing ring or tap twice. Portrait and landscape on phone and tablet, full screen.\n\n### Learn And Practise\nTen short lessons teach matching, doubles, reading passes, scoring in All Fives, drawing, Mexican Train and Chicken Foot, counting tiles, partner play and the endgame. Watch & Learn plays a whole deal for you with every hand face up and a comment on every play; pause it any time. A daily challenge gives everyone the same deal with a small goal and a streak.\n\n### Match Modes And Stats\nFirst to the target score, or a set number of rounds. A scoreboard records every deal. Undo, if you want it. Statistics by game, achievements, and a saved match that waits for you.\n\n### Made For Peace And Quiet\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/dominoes-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-dominoesdeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-dominoesdeluxe.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/dominoes-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Arcforge Dominoes Deluxe"
+    },
+    {
+      "src": "assets/apps/dominoes-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Arcforge Dominoes Deluxe"
+    },
+    {
+      "src": "assets/apps/dominoes-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Arcforge Dominoes Deluxe"
+    },
+    {
+      "src": "assets/apps/dominoes-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Arcforge Dominoes Deluxe"
+    },
+    {
+      "src": "assets/apps/dominoes-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Arcforge Dominoes Deluxe"
+    },
+    {
+      "src": "assets/apps/dominoes-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": "Arcforge Dominoes Deluxe"
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": "com.equalinformation.dominoesdeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.dominoesdeluxe.app",
+    "package": "com.equalinformation.dominoesdeluxe.app"
+  }
+}

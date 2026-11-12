@@ -1,0 +1,68 @@
+{
+  "slug": "word-game-deluxe",
+  "name": "Word Game Deluxe",
+  "subtitle": "Dictionary and 70+ word puzzles",
+  "categories": [
+    "word",
+    "puzzle"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Offline dictionary and thesaurus, 70+ word puzzles, Auto Play. All ages.",
+  "longDescription": "Word Game Deluxe is a word adventure for every age. Start with the alphabet read aloud, then sail a chart of seven lands from first words to professional vocabulary.\n\nOver seventy different puzzles keep every minute fresh, including sound, spelling, grammar and meaning games and a mini crossword. The first ones: unscramble letters in Letter Tide, climb one letter at a time in Rope Ladder, trace hidden words in Reef Search, spell what you hear in Echo Spell, and pick the right word, meaning, partner word or tone in four quick-choice puzzles. Each land has a boss, and a Daily Challenge gives everyone the same words each day.\n\nChoose the words you want to learn: contexts from first words to professional, attributes such as high frequency or scientific, how many words to study, and how fast to play, from a calm no-timer pace to exam pace.\n\nExplore any word: meanings in plain or dictionary wording, how it sounds (syllables, stress, rhymes, sound-alikes), the parts it is built from, a family tree of broader words, a web of synonyms by closeness and typed opposites, partner words, phrases and often-mixed-up pairs. Synonym and opposite play is the heart of the game. Build a bridge of opposites and cast a net for words that mean the same, each with 30 levels, bosses and a daily challenge. Sail words into the right harbour, order words on a tide gauge of strength, and load kinds into cargo crates. Watch & Learn plays any puzzle for you, step by step, with a Pause and a Think button. Read short passages for every level and tap any word for its meaning. Browse lists by age, grade or topic and keep your favourites.\n\nLook up any word, offline. A built-in dictionary and thesaurus opens from any word you see, with plain meanings, synonyms and opposites by closeness, and ways to say it more strongly or more gently. Choose an age group and a learning level and every list, puzzle and daily challenge follows it. New analogy puzzles train word relations, and your own word lists can be kept for test prep, general practice or just for fun. Every lookup leads to play, and every missed word leads back to a lookup.\n\nEvery word you meet grows a plant in your Word Garden and returns for review just when it is due. The Speech Lab offers a teleprompter, outlines for talks, a question drill and a report on pace and filler words.\n\nBeginners are welcome (and so are grandparents and grandchildren):  a Start Here path takes you from hearing and tracing letters through picture words, numbers and greetings to your first 100 words. Families can add players, and a child's profile shows only vetted words. Check your progress with a level check, a vocabulary-size estimate and mock tests, and earn achievements and a certificate.\n\nLearn it, remember it. Word Cards show a picture and say the word, ask you to think of the meaning first, then turn over to a meaning, a sentence, a memory hook and, for hundreds of words, where the word comes from. Rate how well you knew it and the card returns just as it starts to fade, sooner for stubborn words and later for easy ones. A Word of the Day, a Picture Dictionary of about five hundred everyday things, and a collection of cards framed from New to Bronze, Silver, Gold and Oxford keep you coming back.\n\nMore to play and learn: a full crossword, word chains, a Thesaurus Workout that ranks words by strength, memory hooks, sentence-sense puzzles, Greek and Latin root decks, and British and American spellings. In the Speech Lab you can record a talk and see your pauses, volume and pitch. Drag around a 3D library hall and observatory, take a narrated tour, and see a word list beside its detail on a tablet. English first: the whole game is in English.\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/word-game-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-wordgamedeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-wordgamedeluxe.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/word-game-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Word Game Deluxe"
+    },
+    {
+      "src": "assets/apps/word-game-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Word Game Deluxe"
+    },
+    {
+      "src": "assets/apps/word-game-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Word Game Deluxe"
+    },
+    {
+      "src": "assets/apps/word-game-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Word Game Deluxe"
+    },
+    {
+      "src": "assets/apps/word-game-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Word Game Deluxe"
+    },
+    {
+      "src": "assets/apps/word-game-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": "Word Game Deluxe"
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": "com.equalinformation.wordgamedeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.wordgamedeluxe.app",
+    "package": "com.equalinformation.wordgamedeluxe.app"
+  }
+}

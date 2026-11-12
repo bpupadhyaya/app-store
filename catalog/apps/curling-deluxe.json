@@ -1,0 +1,67 @@
+{
+  "slug": "curling-deluxe",
+  "name": "Pebble & Broom Curling",
+  "subtitle": "Aim, throw, sweep",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Real-time 3D curling: aim, throw, then scrub to sweep. Skips that think.",
+  "longDescription": "Walk onto the ice. Pebble & Broom is a curling game built around the two things that make the sport: the line and weight you choose, and the sweeping that rescues it.\n\n### The Ice Is The Game\nStones slide on pebbled ice, slow down, and curl more as they die. Brushing warms the pebble: a swept stone runs further and straighter. Every stone carries its own tiny quirk, so no two throws match. You see it all in real-time 3D, from a chase camera behind the stone to a top view of the house.\n\nAIM, THROW, SWEEP\nDrag a target onto the ice, pick draw, guard, freeze, tap back, raise, hit and roll, takeout or peel, choose clockwise or anticlockwise, nudge the weight, and throw. Then scrub the pad as hard as you can while the skip calls SWEEP, HARD or WHOA.\n\n### Real Rules\nHog line, free guard zone, last stone advantage, blank ends, steals, extra ends. Play Classic Fours, Short Fours or Mixed Doubles over four, six or eight ends, on club, fast, keen or heavy ice.\n\n### Skips That Plan\nFive levels and an Adaptive skip. They list every sensible shot, rehearse each one on a copy of the ice with their own shaky hand, and think a reply ahead. Ask Think for a second opinion, or sit back with Auto Play (Watch & Learn): the computer plays, Think explains each plan before the stone is thrown, and Take over hands you the red skip's stones.\n\nLEARN IT, THEN BEAT IT\nTen short lessons, twenty shot challenges every one proven solvable, a new Daily End each day, and a campaign of 24 stops across three chapters with star goals. Keep your stats by shot type and collect 32 trophies.\n\n### Built For Phone And Tablet\nPortrait or landscape, text up to 300 percent on every reading page, steady hand and guide settings, haptics on every clash.\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/curling-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-curlingdeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-curlingdeluxe.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/curling-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Pebble & Broom Curling"
+    },
+    {
+      "src": "assets/apps/curling-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Pebble & Broom Curling"
+    },
+    {
+      "src": "assets/apps/curling-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Pebble & Broom Curling"
+    },
+    {
+      "src": "assets/apps/curling-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Pebble & Broom Curling"
+    },
+    {
+      "src": "assets/apps/curling-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Pebble & Broom Curling"
+    },
+    {
+      "src": "assets/apps/curling-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": "Pebble & Broom Curling"
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": "com.equalinformation.curlingdeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.curlingdeluxe.app",
+    "package": "com.equalinformation.curlingdeluxe.app"
+  }
+}

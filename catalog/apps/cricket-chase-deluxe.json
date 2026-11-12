@@ -1,0 +1,67 @@
+{
+  "slug": "cricket-chase-deluxe",
+  "name": "Cricket Chase Deluxe",
+  "subtitle": "Floodlit cricket chases",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Floodlit cricket chases with real ball physics. Bat, bowl, set the field.",
+  "longDescription": "Cricket Chase Deluxe puts you in the closing overs of a floodlit match. A number on the board, a handful of balls, wickets in hand: can you get there?\n\nFace real bowling. The ball swings in the air, grips and turns off the pitch, nips off the seam and leans on the wind, on pitches from a flat deck to a dusty turner. Read the length and line, put your finger on the ground map where you want the ball to go, choose ground, lofted or defensive, and lift your finger as the timing ring closes. Perfect timing and a shot that suits the ball send it through the gaps or over the rope. Mistime it and the field is waiting.\n\nThen decide: run or hold? A live meter shows the fielder's pickup and throw against your run, and a direct hit while you are short is a run out.\n\nTHE CHASE TABLE: six chapters of ten situations, from Floodlight Nets to the Grand Final, each with its own pitch, weather, wind and bowling attack. Earn up to three stars on each.\nBOWL AND SET THE FIELD: defend a total. Choose your bowler each over, tap where the ball should pitch and see its path after swing or turn, pick a delivery and your effort, release cleanly, and place nine fielders within the circle limits.\nDAILY CHASE: one shared situation every day, with a streak.\nNIGHT CUP: an eight-team knockout with invented teams.\nSUPER OVER: six balls, two wickets, one decider.\nQUICK MATCH: set the overs, the ask, the pitch and the sky yourself.\nNETS AND LESSONS: six short drills on timing, aim, lofting, running, reading movement and short balls.\nWATCH AND LEARN: a coach plays a chase and explains every shot. Ask for a hint and the next ball slows down with the best shot shown.\n\nBuilt to look the part: a real-time 3D stadium with floodlights, stands, boards and a lit crowd, a camera that follows the ball, replays of every ball, and sound made on the fly, from the crack of the bat to the roar of the crowd.\n\nMade for everyone: five difficulty levels plus Adaptive, a calm pace, slow motion, reduced motion, left or right hand, portrait and landscape, and text that enlarges to 300 percent on every reading page. Career statistics with a scoring wheel and 23 trophies are kept on your device.\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-12",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/cricket-chase-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-cricketchasedeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-cricketchasedeluxe.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/cricket-chase-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Cricket Chase Deluxe"
+    },
+    {
+      "src": "assets/apps/cricket-chase-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Cricket Chase Deluxe"
+    },
+    {
+      "src": "assets/apps/cricket-chase-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Cricket Chase Deluxe"
+    },
+    {
+      "src": "assets/apps/cricket-chase-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Cricket Chase Deluxe"
+    },
+    {
+      "src": "assets/apps/cricket-chase-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Cricket Chase Deluxe"
+    },
+    {
+      "src": "assets/apps/cricket-chase-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": "Cricket Chase Deluxe"
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": "com.equalinformation.cricketchasedeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.cricketchasedeluxe.app",
+    "package": "com.equalinformation.cricketchasedeluxe.app"
+  }
+}

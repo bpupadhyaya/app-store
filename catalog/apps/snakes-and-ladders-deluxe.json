@@ -1,0 +1,68 @@
+{
+  "slug": "snakes-and-ladders-deluxe",
+  "name": "Serpent and Ladder Dice Race",
+  "subtitle": "3D dice race with charms",
+  "categories": [
+    "board-strategy",
+    "casual"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Real 3D snakes and ladders: tumbling dice, slithering snakes, charms, races",
+  "longDescription": "Serpent and Ladder Dice Race turns the world's favourite dice race into a tabletop you can almost touch. Real dice tumble across a felt tray. Pawns hop square by square. Ladders gleam and snakes slither across a beautifully lit board.\n\n### Six Ways To Race\nOne die or two. Exact finish, bounce back from the end, or win by passing it. Bonus throws on sixes or doubles. Friendly bumping. Charms and mystery squares. Pick a ready-made rule set (Family, Classic, Party, Speedway, Rebound, Duel) or mix your own, every option explained in the Rules.\n\n### Boards Of Every Shape\nEight named boards from a thirty-six square Sprint to the one-hundred-and-forty-four square Grand Tour, including wide and tall boards that suit landscape and portrait, plus a fresh fair board every game and a Board of the Day. Five looks: Sunlit Maple, Jade Garden, Midnight Lacquer, Candy Arcade and Parchment Cloth.\n\n### Play With Everyone\nTwo to six players on one device, any mix of people and computer players. Six computer personalities, each with its own style: cheerful Clementine, impulsive Bolt, patient Sage, playful Mischief, nervous Rook and number-crunching Nova. Three levels plus Adaptive.\n\n### Charms And Mystery\nStar squares give you a Nudge, a Shield or a Reroll. Spend them wisely: that is a real decision in a game of luck. Purple squares draw cards such as Tailwind, Swap and Scramble.\n\n### See The Maths\nEvery player card shows an exact chance of winning. The odds lens paints where your next throw can land. Hint explains the best choice in plain words.\n\n### Things To Do\nJourney: twelve tabletops with their own rivals and rewards. Daily Race: the same board and dice for everyone, with a streak. Trials: foresight puzzles where you can see the next throws. Six guided Lessons. Watch & Learn: the computers play a whole game while you study. 24 medals and full statistics.\n\n### The Story\nThe Almanac tells the history of the game, from a teaching game of old India to Victorian parlours and today, with the mathematics inside it.\n\n### Made To Be Comfortable\nPortrait and landscape on phone and tablet. Text size up to 300 percent on every reading screen, large board numbers, calm motion, auto roll, and screen-reader captions for every event.\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-02",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/snakes-and-ladders-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-snakesladdersdeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-snakesladdersdeluxe.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/snakes-and-ladders-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Serpent and Ladder Dice Race"
+    },
+    {
+      "src": "assets/apps/snakes-and-ladders-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Serpent and Ladder Dice Race"
+    },
+    {
+      "src": "assets/apps/snakes-and-ladders-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Serpent and Ladder Dice Race"
+    },
+    {
+      "src": "assets/apps/snakes-and-ladders-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Serpent and Ladder Dice Race"
+    },
+    {
+      "src": "assets/apps/snakes-and-ladders-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Serpent and Ladder Dice Race"
+    },
+    {
+      "src": "assets/apps/snakes-and-ladders-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": "Serpent and Ladder Dice Race"
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/serpent-and-ladder-dice-race/id6823715029",
+    "appleId": "6823715029",
+    "bundleId": "com.equalinformation.snakesladdersdeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.snakesladdersdeluxe.app",
+    "package": "com.equalinformation.snakesladdersdeluxe.app"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "go-deluxe",
+  "name": "Go Stone Studio",
+  "subtitle": "Learn and play Go",
+  "categories": [
+    "board-strategy"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Play and learn Go on a lit 3D board with lessons, puzzles and review.",
+  "longDescription": "Go Stone Studio is a calm, beautiful way to learn and play Go, the board game of surrounding space. Play on a lit 3D kaya board with slate and shell stones that drop with a soft clack, and let the game teach you as you go.\n\n### Play\nBoards of 9x9, 13x13 and 19x19. Japanese territory scoring or Chinese area scoring, handicap stones, adjustable komi and superko. A computer opponent in ten steps, from Seedling to Kaya, plus an Adaptive setting that follows your results. Pass-and-play for two on one device, and Watch & Learn to see two computer players with a real Pause.\n\n### Learn\nTwelve short interactive lessons take you from your first liberty to capture, atari, ko, eyes, territory, scoring, handicap and life and death. Hint shows the moves the computer likes, Territory tints the board by influence, Try opens a private board to test an idea, and Undo takes a move back.\n\n### Practise\nOver 150 life-and-death problems with ratings, a puzzle rating that moves as you solve, and a daily problem with a streak.\n\n### Review\nAfter a game, review it move by move with a win-rate graph, marked mistakes and better-move suggestions. Share or import games as SGF.\n\n### Look And Feel\nThree woods, slate and shell or glass stones, tilted or overhead camera, coordinates, move numbers, shape marks and reduced motion. Text zoom up to 300% on every reading page. Portrait and landscape on phone and tablet.\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/go-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-godeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-godeluxe.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/go-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Go Stone Studio"
+    },
+    {
+      "src": "assets/apps/go-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Go Stone Studio"
+    },
+    {
+      "src": "assets/apps/go-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Go Stone Studio"
+    },
+    {
+      "src": "assets/apps/go-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Go Stone Studio"
+    },
+    {
+      "src": "assets/apps/go-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Go Stone Studio"
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": "com.equalinformation.godeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.godeluxe.app",
+    "package": "com.equalinformation.godeluxe.app"
+  }
+}

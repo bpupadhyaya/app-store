@@ -1,0 +1,68 @@
+{
+  "slug": "solitaire-deluxe",
+  "name": "Arcforge Solitaire Deluxe",
+  "subtitle": "Six winnable solitaire games",
+  "categories": [
+    "casual",
+    "puzzle"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Klondike, Spider, FreeCell, Pyramid, TriPeaks and Golf with winnable deals.",
+  "longDescription": "Solitaire Deluxe is the most comfortable and beautiful way to play patience on a phone or tablet.\n\nSIX GAMES, NINE WAYS TO PLAY\nKlondike (draw 1 or draw 3), Spider (one, two or four suits), FreeCell, Pyramid, TriPeaks and Golf. Every game has full, exhaustive rules inside the app.\n\nREAL 3D CARDS\nCards have thickness, cast soft shadows and fly, flip and cascade across the table. Six tables (green felt, blue baize, burgundy felt, cream linen, walnut wood, midnight slate) and six card backs. Every card face, court emblem and card back is drawn by the app.\n\n### Plays Your Way\nTap a card to send it where it fits best, or drag it. Unlimited undo and redo. Hints that explain what a move is for. Auto-complete when a game is won. Winnable deals: each deal can be checked by a built-in solver before it is dealt. Watch & Learn plays a whole game for you, step by step, with a real Pause.\n\n### Daily Deals And Progress\nA fresh deal for every game each day, the same for everyone, with a streak. Statistics for every game and 18 achievements. Everything is stored on your device.\n\n### Built For Comfort\nBig print and extra large print cards, high contrast, four-colour suits, a left-handed layout, a one-hand layout that brings every pile within reach of your thumb, reduced motion and text size up to 300 percent. Portrait and landscape on phones and tablets.\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/solitaire-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-solitairedeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-solitairedeluxe.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/solitaire-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Arcforge Solitaire Deluxe"
+    },
+    {
+      "src": "assets/apps/solitaire-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Arcforge Solitaire Deluxe"
+    },
+    {
+      "src": "assets/apps/solitaire-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Arcforge Solitaire Deluxe"
+    },
+    {
+      "src": "assets/apps/solitaire-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Arcforge Solitaire Deluxe"
+    },
+    {
+      "src": "assets/apps/solitaire-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Arcforge Solitaire Deluxe"
+    },
+    {
+      "src": "assets/apps/solitaire-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": "Arcforge Solitaire Deluxe"
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": "com.equalinformation.solitairedeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.solitairedeluxe.app",
+    "package": "com.equalinformation.solitairedeluxe.app"
+  }
+}

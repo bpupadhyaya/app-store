@@ -157,5 +157,32 @@
       "hemoflow",
       "pillridge"
     ]
+  },
+  {
+    "id": "deluxe-games",
+    "title": "Deluxe games",
+    "subtitle": "Classic board, card and sports games in polished 3D. Free with ads, ad-free on request.",
+    "appSlugs": [
+      "backgammon-deluxe",
+      "basketball-deluxe",
+      "bowling-deluxe",
+      "carrom-deluxe",
+      "chess-deluxe",
+      "cricket-chase-deluxe",
+      "crokinole-deluxe",
+      "curling-deluxe",
+      "dominoes-deluxe",
+      "football-deluxe",
+      "four-in-a-row-deluxe",
+      "go-deluxe",
+      "harvest-sling-deluxe",
+      "ludo-deluxe",
+      "mahjong-deluxe",
+      "snakes-and-ladders-deluxe",
+      "solitaire-deluxe",
+      "sudoku-deluxe",
+      "tiger-and-goat",
+      "word-game-deluxe"
+    ]
   }
 ]

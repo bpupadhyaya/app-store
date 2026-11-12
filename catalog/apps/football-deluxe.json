@@ -1,0 +1,67 @@
+{
+  "slug": "football-deluxe",
+  "name": "Top Bins: Free Kick Deluxe",
+  "subtitle": "Curl free kicks over the wall",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Swipe to curl real-physics free kicks over the wall. Cups, daily, duel.",
+  "longDescription": "Top Bins is a real-time 3D free kick and penalty game for your phone and tablet. Put a finger on the screen, swipe up, and bend the ball over the wall, past the keeper and into the top corner.\n\n### The Ball Flies Like A Ball\nGravity, air drag and spin are simulated. Swipe in an arc to curl it, drag the strike dot for top spin that dips or back spin that floats, set the loft with a slider, and hit it hard with no spin for a wobbling knuckle ball. A dotted line shows where the kick will go before you let go.\n\nNO PEOPLE, JUST THE PROBLEM\nThe wall is foam panels, cones or turning boards that open and close gaps. The keeper is a shaded shield on the goal mouth: its glow shows how far he can reach in the time your kick takes, so every save is fair and every gap is readable. Eight keeper levels, from Park to Legend.\n\nSIX CUPS, THIRTY-SIX STAGES\nScore goals, light rings the ball must fly through, rattle the crossbar, hit the top corners, string goals together, score from range or score knuckle balls. Earn up to three stars on each stage, unlock six stadiums from dawn park to floodlit final, new balls and trails.\n\n### Penalty Shootouts\nShoot with a swipe, and defend by choosing where to dive before the kicker strikes. Read his faint lean and the pattern of his earlier shots. Best of five, then sudden death.\n\nDAILY, DUEL, SCHOOL AND CHALLENGES\nA new five-kick Daily Challenge every day with a streak. Duel a friend on one phone, in free kicks or penalties, or play the computer. Eight short lessons teach the swipe, curl, loft, dip, knuckle ball and reading the keeper. Six challenges: Crossbar, Top Bins, Ring Run, Long Range, Knuckle Lab and Endless Streak.\n\nAUTO PLAY: WATCH AND LEARN\nOne tap on the home screen and the computer plays. Pause, change speed, tap Think to hear the plan in plain words, or take over and kick yourself.\n\n### Look And Feel\nReal-time 3D stadiums with floodlights, crowds, ad boards, nets that ripple, confetti, slow motion on the big moments and replays from the side. Sound is made on your phone as you play. Portrait and landscape, text zoom up to 300 percent, calm mode and an aim line you can turn off.\n\nEverything stays on your device: no account, no tracking, and it works offline (ads need a connection). School, Auto Play and the guide are always free.\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/football-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-footballdeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-footballdeluxe.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/football-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Top Bins: Free Kick Deluxe"
+    },
+    {
+      "src": "assets/apps/football-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Top Bins: Free Kick Deluxe"
+    },
+    {
+      "src": "assets/apps/football-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Top Bins: Free Kick Deluxe"
+    },
+    {
+      "src": "assets/apps/football-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Top Bins: Free Kick Deluxe"
+    },
+    {
+      "src": "assets/apps/football-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Top Bins: Free Kick Deluxe"
+    },
+    {
+      "src": "assets/apps/football-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": "Top Bins: Free Kick Deluxe"
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": "com.equalinformation.footballdeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.footballdeluxe.app",
+    "package": "com.equalinformation.footballdeluxe.app"
+  }
+}

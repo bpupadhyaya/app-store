@@ -1,0 +1,67 @@
+{
+  "slug": "backgammon-deluxe",
+  "name": "Backgammon Table: Tavla 3D",
+  "subtitle": "3D backgammon with a coach",
+  "categories": [
+    "board-strategy"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Real 3D backgammon: strong opponent, coach, lessons and Greek variants.",
+  "longDescription": "Backgammon Deluxe is a polished 3D backgammon table for your phone and tablet. Roll real dice in a felt tray, click your checkers home over a walnut, leather or stone board, and play against an opponent that thinks.\n\n### Five Games On One Board\nBackgammon with the doubling cube, the Crawford rule and matches to 1, 3, 5, 7 or 9 points, or unlimited money play with the Jacoby rule. Tavla, the Turkish coffeehouse game. Portes, the classic Greek game. Plakoto, where a lone checker is pinned under yours. Fevga, the Greek running game of blocks and walls. Every rule set is explained in full in the Rules pages.\n\n### A Strong Opponent\nSix levels from Apprentice to Grandmaster, plus Adaptive, which follows your results. The computer evaluates positions with a trained neural network and looks one roll ahead at every reply. It also plays the cube: it doubles, takes and drops with the match score in mind. Prefer a friend? Play two players on one device.\n\n### A Coach That Explains\nA win-chance bar shows how the position looks. Tap Hint for the engine's choice with arrows on the board. After each turn the coach tells you if a clearly better play existed and how much it cost. Statistics track your best-play rate and your average loss per turn.\n\n### Learn At Your Own Pace\nTwelve hands-on lessons cover moving, hitting, entering from the bar, making points, doubles, bearing off, the cube, pins in Plakoto, running in Fevga and the best opening plays. Puzzles give you a real position and a roll and grade your move. A new Position of the Day arrives for everyone every day. Watch and Learn plays a whole game for you with a line of commentary for every turn, with a real Pause. After any game you can review it turn by turn.\n\n### World Tour\nTravel to eight tables: an Istanbul coffeehouse, a kafeneio in Thessaloniki, a harbour cafe in Chania, Plaka in Athens, a cafe in Beirut, a London club, a Geneva salon and the Grand Match. Win matches to earn stars and unlock new boards, checker sets and dice.\n\n### Built For Your Hands\nPortrait or landscape, phone or tablet. In portrait the board turns so it fills the screen with your home board under your thumb. Tap a checker and a gold ring, or drag it. Undo until you finish your turn. Point numbers, text size up to 300 percent, automatic rolling and forced-move play are in Settings.\n\n### Details That Matter\nLathe-turned checkers, ivory dice with painted pips, a gold doubling cube, brass hinges, soft shadows, wooden clacks, a dice rattle and optional vibration on every move. Six boards, four checker sets and three dice sets. Twenty-two trophies.\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-12",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/backgammon-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-backgammondeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-backgammondeluxe.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/backgammon-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Backgammon Table: Tavla 3D"
+    },
+    {
+      "src": "assets/apps/backgammon-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Backgammon Table: Tavla 3D"
+    },
+    {
+      "src": "assets/apps/backgammon-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Backgammon Table: Tavla 3D"
+    },
+    {
+      "src": "assets/apps/backgammon-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Backgammon Table: Tavla 3D"
+    },
+    {
+      "src": "assets/apps/backgammon-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Backgammon Table: Tavla 3D"
+    },
+    {
+      "src": "assets/apps/backgammon-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": "Backgammon Table: Tavla 3D"
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": "com.equalinformation.backgammondeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.backgammondeluxe.app",
+    "package": "com.equalinformation.backgammondeluxe.app"
+  }
+}

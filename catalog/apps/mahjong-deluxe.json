@@ -1,0 +1,68 @@
+{
+  "slug": "mahjong-deluxe",
+  "name": "Arcforge Mahjong Deluxe",
+  "subtitle": "3D Riichi and Hong Kong mahjong",
+  "categories": [
+    "board-strategy",
+    "puzzle"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Real-time 3D mahjong with Riichi and Hong Kong rules, a coach and lessons.",
+  "longDescription": "Mahjong Deluxe is a complete four-player mahjong table for your phone or tablet, played with real 3D tiles under real-time lighting. Pick Riichi (the Japanese game) or Hong Kong rules, sit down with three computer players and play whole matches, with the wall built, the dice rolled and the tiles dealt in front of you.\n\nTWO RULE SETS, PLAYED PROPERLY\nRiichi: 136 tiles, riichi and ippatsu, dora, ura dora and red fives, furiten, every standard yaku and yakuman, fu and han scoring, honba and riichi sticks, abortive draws and nagashi mangan. Hong Kong: 144 tiles with flowers and seasons, a faan minimum you choose (1, 2 or 3), limit hands and the doubling points table.\n\n### Computer Players That Play The Game\nFour levels: Beginner, Club, Expert and Master, plus an Adaptive setting that follows your results. Master reads the table, counts the tiles that are left, weighs value against risk and folds when it should.\n\n### A Coach That Explains\nEvery discard you make is graded as good, a slip or a mistake, with a plain-language reason: shanten, which tiles improve your hand, which waits you leave, and which tiles are dangerous against a riichi. Hint shows what the Master would discard. Select a tile to see what you would be waiting on. After each win the score sheet lists every yaku or faan and how the points were made.\n\n### Learn At Your Own Pace\nSixteen lessons from the tiles to tile efficiency, defence, dora, fu and han, furiten and Hong Kong faan. A new Daily Hand every day, the same for everyone, with a streak. Unlimited practice puzzles for best discard, finding waits and scoring a finished hand. A scoring Calculator for any hand you build, and a Fan and Yaku reference with an example hand for every pattern.\n\nWATCH, REPLAY, REVIEW\nWatch and Learn lets four Masters play with comments on every discard, with a real Pause. Replay your last match turn by turn with every hand face up. Statistics, a coach report and sixteen achievements stay on your device.\n\n### Built To Be Comfortable\nPortrait and landscape on phones and tablets, text zoom up to 300 percent on every reading screen, four tile sets and four table colours, reduced motion, and tile faces drawn with traditional characters. Works offline.\n\nPlayed for points only. There is no money, betting or gambling of any kind in this game.\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-12",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/mahjong-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-mahjongdeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-mahjongdeluxe.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/mahjong-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Arcforge Mahjong Deluxe"
+    },
+    {
+      "src": "assets/apps/mahjong-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Arcforge Mahjong Deluxe"
+    },
+    {
+      "src": "assets/apps/mahjong-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Arcforge Mahjong Deluxe"
+    },
+    {
+      "src": "assets/apps/mahjong-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Arcforge Mahjong Deluxe"
+    },
+    {
+      "src": "assets/apps/mahjong-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Arcforge Mahjong Deluxe"
+    },
+    {
+      "src": "assets/apps/mahjong-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": "Arcforge Mahjong Deluxe"
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": "com.equalinformation.mahjongdeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.mahjongdeluxe.app",
+    "package": "com.equalinformation.mahjongdeluxe.app"
+  }
+}

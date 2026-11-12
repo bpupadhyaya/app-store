@@ -1,0 +1,67 @@
+{
+  "slug": "harvest-sling-deluxe",
+  "name": "Golden Sling Deluxe",
+  "subtitle": "Guard the harvest with a sling",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "offline",
+    "no-account"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Pull, aim, release: guard the harvest through four seasons. Free, with ads.",
+  "longDescription": "Pull back the sling, read the wind and scare the flock off the crop.\n\nPLAY 32 FIELDS IN FOUR SEASONS\nSpring blossom terraces, monsoon rice fields, golden harvest orchards and frozen winter brooks. Every field has its own birds, its own wind and its own light.\n\n### Face The Four Guardians\nA guardian waits at the end of every season. Learn its pattern, aim your shot and win the season.\n\n### Collect Every Bird\nThe Harvest Journal opens a page for every bird you meet: 12 birds, each with its real size, a short note about life in the field and what it does in the game. Sparrows, starlings, pigeons, parakeets, ducks, swallows, crows, ravens, goldfinches, sunbirds, the barn owl you must spare and more. Falcons and hawks may hunt the flock and help you: spare them.\n\n### Many Ways To Play\n- Four Seasons campaign with medals and guardians\n- Daily Hunt: one field for everyone, every day\n- Timed Harvest: ninety seconds, a busy field\n- Precision Trials: fixed stones, bronze, silver and gold\n- Endless: level after level until a run ends\n- Zen: no pressure, endless stones\n- Scenic View: watch a field in any season and light, with no score and no controls\n\n### Upgrade Your Sling\nEarn stone skins, woods, bands and trails with achievements and stars. Looks only, never the play.\n\n### Made To Be Easy On You\nAuto Play shows how a shot is made. Calm mode, colour-blind safe marks, text size and a full in-app Rules page. Play on any phone or tablet, in portrait or landscape.\n\nFree to play with ads. An optional monthly subscription removes ads, or you can watch a short video to play ad-free for a while.",
+  "whatsNew": "Ad-free options on the About page: watch a short video, or subscribe monthly. Banner and level-break ads only in the free version.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-06",
+  "updatedAt": "2026-11-12",
+  "icon": "assets/apps/harvest-sling-deluxe/icon-512.png",
+  "privacyUrl": "https://equalinformation.com/privacy-goldensling.html",
+  "supportUrl": "https://equalinformation.com/app-support-goldensling.html",
+  "screenshots": [
+    {
+      "src": "assets/apps/harvest-sling-deluxe/shot-1.webp",
+      "device": "phone",
+      "caption": "Golden Sling Deluxe"
+    },
+    {
+      "src": "assets/apps/harvest-sling-deluxe/shot-2.webp",
+      "device": "phone",
+      "caption": "Golden Sling Deluxe"
+    },
+    {
+      "src": "assets/apps/harvest-sling-deluxe/shot-3.webp",
+      "device": "phone",
+      "caption": "Golden Sling Deluxe"
+    },
+    {
+      "src": "assets/apps/harvest-sling-deluxe/shot-4.webp",
+      "device": "phone",
+      "caption": "Golden Sling Deluxe"
+    },
+    {
+      "src": "assets/apps/harvest-sling-deluxe/shot-5.webp",
+      "device": "phone",
+      "caption": "Golden Sling Deluxe"
+    },
+    {
+      "src": "assets/apps/harvest-sling-deluxe/shot-6.webp",
+      "device": "phone",
+      "caption": "Golden Sling Deluxe"
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "appleId": "",
+    "bundleId": "com.equalinformation.goldensling.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.goldensling.app",
+    "package": "com.equalinformation.goldensling.app"
+  }
+}
