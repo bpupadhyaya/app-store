@@ -1,0 +1,108 @@
+{
+  "slug": "signaro",
+  "name": "Driving Theory Test: Signaro",
+  "subtitle": "UK Highway Code practice",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "mock",
+    "quiz",
+    "road",
+    "signs",
+    "flashcards",
+    "roundabout",
+    "stopping",
+    "distance",
+    "learner",
+    "car",
+    "licence",
+    "exam"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Practise the UK car theory test in minutes: Highway Code questions with rule numbers, 50-question timed mocks, road-sign flashcards and 3D roundabouts.",
+  "longDescription": "Driving theory test practice for the UK car theory test, built around the Highway Code. Open the app, tap Quick 10 and you are answering practice questions in seconds. No account, no sign-up, works offline.\n\n### Uk Theory Test Practice\n75 original multiple-choice questions across eight topics: alertness and attitude, safety margins, vulnerable road users, rules of the road, road and traffic signs, motorway rules, vehicle and documents, and incidents and emergencies. Practise by topic, or ten mixed questions at a time.\n\n### Mock Tests That Feel Like the Real Thing\nTimed 50-question mocks with a 57-minute clock, scored against the 43-out-of-50 pass mark the official test uses. Your results and a readiness estimate build up as you answer.\n\n### Every Answer Explained\nEach question explains why the answer is right and names the Highway Code rule or official source, so you learn the rule and not just the answer. Review your mistakes in one tap.\n\n### Road Signs That Stick\nFlashcards for UK road signs with spaced repetition, so the signs you miss come back sooner, plus a browse-all view with plain-English meanings.\n\n### See It in 3d\nRoundabout priority animated step by step, and a stopping-distance scene where you change speed and road surface and watch thinking and braking distance grow. Drag to look around.\n\n### Made to Be Easy to Use\nA- and A+ text size on every screen, iPhone and iPad layouts, offline use.\n\n### Good to Know\nThe real UK theory test also includes a hazard perception part; Signaro covers the multiple-choice questions only. Questions are original and written for this app. Signaro is not affiliated with any government agency and is not an official app. The real test can differ, so always check the current Highway Code and official guidance.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-exam-driving-theory.html",
+  "releasedAt": "2026-11-14",
+  "updatedAt": "2026-11-14",
+  "version": "1.0.0",
+  "icon": "assets/apps/signaro/icon-512.png",
+  "hero": "assets/apps/signaro/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/signaro/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/signaro/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/signaro/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/signaro/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/signaro/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/signaro/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/signaro/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/signaro/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/signaro/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/signaro/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/signaro/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/signaro/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.examdrivingtheory.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.examdrivingtheory.app"
+  },
+  "related": []
+}
