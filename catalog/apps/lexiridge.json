@@ -1,0 +1,109 @@
+{
+  "slug": "lexiridge",
+  "name": "Lexiridge",
+  "subtitle": "Academic words, band 6 to 8",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "vocabulary",
+    "flashcards",
+    "quiz",
+    "collocations",
+    "synonyms",
+    "spaced",
+    "repetition",
+    "english",
+    "exam",
+    "prep",
+    "esl",
+    "writing"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "IELTS and TOEFL vocabulary in two minutes a day: flashcards, four quiz types and a 3D word sky. Works offline, no account.",
+  "longDescription": "IELTS vocabulary and TOEFL vocabulary flashcards: learn 145 academic words with spaced repetition, four quiz types and a 3D word sky. Study for two minutes a day to build the academic English you need for reading, listening, writing and speaking. Works offline, no account.\n\n### Learn\n- Spaced-repetition flashcards with a card that flips in 3D, your own daily goal and a streak.\n- Hear every word with your device's offline voices.\n- 145 academic words in three \"ridges\", our own grouping for band 6, 7 and 8 targets (not an official list or score). Each word has a plain-English meaning, an example sentence, a common collocation and a synonym.\n- Explanations and example translations in Portuguese (Brazil), Spanish, Hindi, Arabic and Simplified Chinese (machine-drafted and marked as such).\n\n### Practise\n- Quizzes in four styles: meaning, collocation, fill in the blank and synonym.\n- Missed words come back for review automatically.\n- A progress dashboard: last 7 days, mastery, quiz accuracy and best streak.\n\n### See Your Progress\n- Your words become a real-time 3D constellation. Brighter stars are stronger memories, each colour is a topic, and lines join the words you know. Tap a star to see the word.\n\n### Works Anywhere\n- No account, no sign-up, fully offline. iPhone and iPad layouts, A- and A+ text size on every screen.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-exam-ielts-vocab.html",
+  "supportUrl": "https://equalinformation.com/app-support-exam-ielts-vocab.html",
+  "releasedAt": "2026-11-14",
+  "updatedAt": "2026-11-14",
+  "version": "1.0.0",
+  "icon": "assets/apps/lexiridge/icon-512.png",
+  "hero": "assets/apps/lexiridge/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/lexiridge/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiridge/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiridge/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiridge/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiridge/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiridge/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiridge/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiridge/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiridge/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiridge/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiridge/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiridge/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.examieltsvocab.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.examieltsvocab.app"
+  },
+  "related": []
+}

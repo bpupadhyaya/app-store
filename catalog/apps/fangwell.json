@@ -1,0 +1,108 @@
+{
+  "slug": "fangwell",
+  "name": "Fangwell",
+  "subtitle": "Animal, snake & insect bites",
+  "categories": [
+    "health"
+  ],
+  "tags": [
+    "spider",
+    "scorpion",
+    "sting",
+    "dog",
+    "cat",
+    "jellyfish",
+    "bee",
+    "wasp",
+    "rabies",
+    "antivenom",
+    "emergency",
+    "handover"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Offline bite and sting first aid: snake, spider, scorpion, dog, cat, insect and marine animal. Calm, cited steps with a call button always in reach.",
+  "longDescription": "Bite First Aid Guide: Fangwell is an offline first aid guide for animal bites, snake bites, spider bites, scorpion stings, insect stings and marine animal stings. Pick what happened, tap the call button for your region's emergency number, then follow calm, numbered steps while you wait for help. No account, no sign-in, no internet needed.\n\n### What You Get\n- Guides for snake bites, spider bites, scorpion stings, dog, cat and wild animal bites, insect bites and stings, and marine animal stings (jellyfish and similar).\n- Call-now panel and call buttons on every guide screen, using the emergency number for the region you choose.\n- One step at a time, or all steps at once. Big, clear text with A- and A+ on every screen.\n- What NOT to do: plain warnings about cutting, sucking, tourniquets, ice and other first aid myths, each with the reason.\n- Warning signs to watch for while you wait for help.\n- Hospital handover note: bite time with a running clock, symptoms, first aid given, allergies. Share it with the ambulance crew. It stays on your device.\n- Region guidance for the United States and Australia, because first aid advice differs by country.\n- Learn before you need it: quiz rounds, spaced-repetition flashcards and a bite myths vs facts list.\n\n### Cited Sources\nEach step links to a named public source with its edition and the date it was read: ANZCOR first aid guidelines, MedlinePlus (U.S. National Library of Medicine), the NHS, the CDC and World Health Organization fact sheets. Anything not checked is marked as such in the Sources screen.\n\n### Private and Offline\nEverything runs on your device. Your handover note is never uploaded. Safety guidance is always free and never shows ads.\n\n### Not Medical Advice\nFangwell gives general first aid information only. It does not diagnose, does not identify animals, and is not a substitute for a doctor or emergency services. If someone has been bitten or stung and you are worried, call your local emergency number first.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-safety-bite-guide.html",
+  "releasedAt": "2026-11-14",
+  "updatedAt": "2026-11-14",
+  "version": "1.0.0",
+  "icon": "assets/apps/fangwell/icon-512.png",
+  "hero": "assets/apps/fangwell/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/fangwell/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fangwell/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fangwell/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fangwell/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fangwell/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fangwell/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fangwell/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fangwell/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fangwell/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fangwell/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fangwell/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/fangwell/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": ""
+  },
+  "related": []
+}

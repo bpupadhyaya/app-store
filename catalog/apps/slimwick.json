@@ -1,0 +1,108 @@
+{
+  "slug": "slimwick",
+  "name": "Slimwick",
+  "subtitle": "Resize & Shrink Photos, KB/MB",
+  "categories": [
+    "utilities"
+  ],
+  "tags": [
+    "compress",
+    "photo",
+    "picture",
+    "reduce",
+    "size",
+    "jpeg",
+    "heic",
+    "png",
+    "exif",
+    "metadata",
+    "batch",
+    "upload"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Image compressor and photo resizer: shrink pictures to 100 KB, 200 KB, 1 MB or any size. Batch compress JPEG, HEIC and PNG, strip location.",
+  "longDescription": "Image compressor and photo resizer for iPhone and iPad: reduce image size to a file size you choose (100 KB, 200 KB, 1 MB or any number), resize photos by pixels, and compress pictures in a batch. Everything runs on your device, with no account and no upload.\n\nForms and portals often want a photo under 100 KB or 200 KB, or no more than 1600 pixels wide, while your camera makes several megabytes. Slimwick closes that gap in a few taps. It searches for the best quality that still fits your limit, and tells you plainly when a limit cannot be met.\n\n### Compress and Resize Photos\n- Reduce image size to a target file size in KB or MB: 50 KB, 100 KB, 200 KB, 500 KB, 1 MB, or type your own.\n- Resize by pixels: set the longest side, or set the quality yourself with a slider.\n- Compress up to 30 photos at once and save them together.\n- Output as JPEG, HEIC or PNG (PNG is lossless).\n- Open photos from your library or from the Files app.\n\n### See the Result Before You Save\n- Original size, new size and percentage saved for every photo.\n- Drag a slider to compare before and after, and pinch to zoom into the detail.\n\n### Presets for Common Uploads\n- One-tap presets for typical limits: under 50 KB, 100 KB, 200 KB, 500 KB, 1 MB and 2 MB, social and web pixel sizes, and combined size-and-pixel limits. Each preset list is dated. They are common limits, not official rules: always check the notice for your own form.\n\n### Save and Share\n- Save to Photos or Files, or share straight from the app.\n- Make the text bigger with A+ and A-. Light design, iPhone and iPad layouts.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-util-image-compress.html",
+  "releasedAt": "2026-11-14",
+  "updatedAt": "2026-11-14",
+  "version": "1.0.0",
+  "icon": "assets/apps/slimwick/icon-512.png",
+  "hero": "assets/apps/slimwick/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/slimwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slimwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slimwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slimwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slimwick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slimwick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slimwick/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slimwick/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slimwick/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slimwick/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slimwick/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/slimwick/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.utilimagecompress.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.utilimagecompress.app"
+  },
+  "related": []
+}

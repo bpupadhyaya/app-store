@@ -1,0 +1,108 @@
+{
+  "slug": "portlume",
+  "name": "Portlume",
+  "subtitle": "Visa, ID, 2x2 & 35x45 Photos",
+  "categories": [
+    "utilities"
+  ],
+  "tags": [
+    "headshot",
+    "biometric",
+    "booth",
+    "background",
+    "remover",
+    "white",
+    "license",
+    "size",
+    "crop",
+    "print",
+    "4x6",
+    "online"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Passport photo app for passport, visa and ID photos: 39 countries and areas. Frame it, white background, digital upload file or print sheet. On your phone.",
+  "longDescription": "Passport photo maker and passport photo app for 39 countries and areas: make passport size photos, visa photos and ID photos (2x2 inch, 35x45 mm and more) on your phone, no studio, no queue, no account. Pick the document, choose or take a portrait, and get a correctly sized photo, a digital upload file and a print sheet in minutes. Everything runs on your device, works offline, and your pictures are never uploaded.\n\n### Passport, Visa and Id Photo Sizes\n45 official size rules (passport, visa, ID, online upload) for the United States, United Kingdom, Canada, Australia, Schengen and EU, India, Japan, China, Singapore, Brazil and many more, each with the official source link and the date it was checked. Country not listed? Create and save a custom size (mm, inch or px, head range, eye line, background, upload size limit).\n\n### How It Works\n1. Pick the document and country.\n2. Choose a photo or take one. Portlume finds the face, levels the eyes and frames the head to the size range.\n3. Replace the background with white, off-white, light grey or light blue, and balance the light on the face.\n4. Check the live guides and plain-language checklist: head size, eye line, centring, tilt, sharpness and lighting.\n5. Export: a print-size JPEG at the right pixel size and DPI, a digital upload JPEG at the exact pixel size under the authority's file-size limit (pass or fail shown), or a print sheet (4x6 in, 5x7 in, 10x15 cm, A4, US Letter) as JPEG or PDF with as many copies as fit.\n\n### Private By Design\nNo account and no uploads. Face detection and background cleanup run on your device with Apple's built-in vision tools. Works offline.\n\n### Made for Everyone\nA- and A+ text size buttons on every screen, Dynamic Type, dark mode, iPhone and iPad layouts. English, Spanish, Portuguese (Brazil) and Hindi.\n\n### Built to Be Honest\nPhoto rules differ by country and change over time. Portlume is advisory only: the issuing authority decides, and we cannot guarantee any photo will be accepted. Always check the official requirements before you submit or print.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-util-passport-photo.html",
+  "releasedAt": "2026-11-14",
+  "updatedAt": "2026-11-14",
+  "version": "1.0.0",
+  "icon": "assets/apps/portlume/icon-512.png",
+  "hero": "assets/apps/portlume/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/portlume/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/portlume/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/portlume/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/portlume/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/portlume/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/portlume/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/portlume/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/portlume/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/portlume/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/portlume/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/portlume/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/portlume/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.utilpassportphoto.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.utilpassportphoto.app"
+  },
+  "related": []
+}

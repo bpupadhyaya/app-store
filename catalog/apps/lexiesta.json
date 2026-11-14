@@ -1,0 +1,108 @@
+{
+  "slug": "lexiesta",
+  "name": "Lexiesta",
+  "subtitle": "Offline words, audio & quizzes",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "learn",
+    "vocabulary",
+    "language",
+    "phrases",
+    "spaced",
+    "repetition",
+    "travel",
+    "study",
+    "beginner",
+    "espanol",
+    "pronunciation",
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Learn Spanish words a few minutes a day. Original flashcards with example sentences, a 3D card deck, quizzes and audio. Works offline, no account needed.",
+  "longDescription": "Spanish flashcards and vocabulary trainer for English speakers: learn Spanish words and phrases a few minutes a day with spaced repetition, example sentences, spoken audio and quizzes. Everything works offline, with no account and no sign-in. Open the app and you are studying in seconds.\n\n### Spanish Flashcards in a Real 3d Deck\nYour cards sit in a lit, three-dimensional stack. Tap to flip a card, grade yourself Again, Good or Easy, and watch it fly off the deck. Your daily goal ring and streak keep the habit going.\n\n### Spaced Repetition That Fits You\nEvery word moves along its own eight-step review ladder. Words you miss come back soon, words you know return after days, then weeks, then months.\n\n### Original Spanish Vocabulary for Travel, Work and Daily Life\nAbout 385 words and phrases, each with an example sentence, an English meaning and, where it matters, a note on Latin America versus Spain (coche or carro, billete or boleto, ordenador or computadora, vale or dale). Eight packs: Core words 1 and 2, Greetings, Travel, Food, Work and study, Health and Directions. Written for this app, not a copied word list.\n\n### Four Ways to Practise\nMeaning, translation, listening and typing quizzes. The typing quiz has a row of accent keys and tells you when you had the right word but missed an accent.\n\n### Hear Spanish Pronunciation, Offline\nTap the speaker to hear any word or sentence with your device's own Spanish voices, in a Latin American or Spain accent. No microphone and no speech recognition are used.\n\n### Made to Be Read\nA- and A+ buttons on every screen scale the text up to double size, and the app also follows your system text size. Layouts built for iPhone and iPad.\n\n### Private By Design\nNo account. Your progress stays on your device. The ad SDK may use device identifiers as disclosed in the privacy policy, and you choose whether to allow tracking.\n\nLexiesta is a study aid for learners and does not guarantee fluency or exam results.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-lang-flashcards-es.html",
+  "releasedAt": "2026-11-14",
+  "updatedAt": "2026-11-14",
+  "version": "1.0.0",
+  "icon": "assets/apps/lexiesta/icon-512.png",
+  "hero": "assets/apps/lexiesta/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/lexiesta/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiesta/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiesta/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiesta/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiesta/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiesta/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiesta/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiesta/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiesta/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiesta/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiesta/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexiesta/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.langflashcardses.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.langflashcardses.app"
+  },
+  "related": []
+}

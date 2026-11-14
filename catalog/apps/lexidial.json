@@ -1,0 +1,108 @@
+{
+  "slug": "lexidial",
+  "name": "Lexidial",
+  "subtitle": "5-letter puzzle in 3 languages",
+  "categories": [
+    "word"
+  ],
+  "tags": [
+    "brain-teaser",
+    "vocabulary",
+    "spelling",
+    "guess",
+    "logic",
+    "offline",
+    "english",
+    "spanish",
+    "portuguese",
+    "palavras",
+    "palabras"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Guess the hidden five-letter word every day. Turn the 3D drums, read the bearings and the theme clue, and crack the dial in English, Portuguese or Spanish.",
+  "longDescription": "Daily word game with a hidden five-letter word locked in a dial: a new word puzzle every day in English, Portuguese (Brazil) and Spanish. Turn five 3D drums to any letters, press Try, and read what each drum tells you. No account, works offline.\n\n### A Different Kind of Word Puzzle\nYou may set any letters you like. Each drum answers with a bearing: a check mark when it is locked in, or one to three chevrons that say whether the hidden letter sits earlier or later in the alphabet, and how far away it is. A theme clue (Animals, Food, Weather, Music and more) is shown from the start, so you can combine word sense with alphabet sense and crack the word in three or four tries. You get seven.\n\n### Three Languages, One App\nPlay in English, Portuguese (Brazil) or Spanish. Each language has its own hand-written list of everyday words and the screens switch with it. The Portuguese and Spanish screen texts are an early version, and feedback from native speakers is welcome at the support page.\n\n### What You Get\n- The daily word puzzle: the same for everyone, worked out on your device from the date. No connection needed.\n- Endless practice dials when one a day is not enough.\n- Streaks, win rate and a tries chart, kept on your device. No sign-in.\n- Real-time 3D drums with momentum, detents and soft haptics.\n- Share your result as text only: chevron levels and stars, never the letters, so nothing is spoiled.\n- A gentle warm-up the first time you open the app.\n- Colour modes (Classic, High contrast, Colour-safe): shapes such as the check, chevrons and lock always carry the meaning, never colour alone.\n- A- and A+ text size from 100% to 200% on every screen, plus Dynamic Type, iPhone and iPad layouts, portrait and landscape.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free, no ads, optional monthly subscription",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-word-daily-multilang.html",
+  "supportUrl": "https://equalinformation.com/app-support-word-daily-multilang.html",
+  "releasedAt": "2026-11-14",
+  "updatedAt": "2026-11-14",
+  "version": "1.0.0",
+  "icon": "assets/apps/lexidial/icon-512.png",
+  "hero": "assets/apps/lexidial/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/lexidial/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexidial/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexidial/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexidial/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexidial/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexidial/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexidial/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexidial/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexidial/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexidial/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexidial/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lexidial/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.worddailymultilang.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.worddailymultilang.app"
+  },
+  "related": []
+}
