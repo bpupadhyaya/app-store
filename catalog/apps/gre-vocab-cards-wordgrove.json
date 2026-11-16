@@ -1,0 +1,41 @@
+{
+  "slug": "gre-vocab-cards-wordgrove",
+  "name": "GRE Vocab Cards: Wordgrove",
+  "subtitle": "GRE Flashcards & Word Drills",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "gre",
+    "vocabulary",
+    "flashcards",
+    "sentence equivalence",
+    "text completion",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "GRE vocabulary flashcards that adapt to what you remember: spaced repetition, drills and word labs.",
+  "longDescription": "GRE vocabulary flashcards that adapt to what you remember: spaced repetition, sentence equivalence and text completion drills, and interactive word labs, all in one study app for the GRE General Test Verbal Reasoning section.\n\n### What You Do\n- Daily plan: a short session of reviews and new words, sized to your test date.\n- Flashcards with a recall check, so the schedule rests on what you can actually remember.\n- Sentence equivalence drills in the real format: pick two words that give the same meaning.\n- Text completion with one, two or three blanks, plus words-in-context questions.\n- Cloze gym, synonym sets, opposites and confusable word pairs.\n- Timed mini mocks in the shape of the GRE Verbal sections (12 questions in 18 minutes, then 15 in 23 minutes).\n- Mistake notebook: missed questions come back until you get them right twice.\n\n### Word Labs\n- Nuance sliders: place near-synonyms on a scale from mild to strong and see the tone change.\n- Root and affix explorer: assemble words from their parts and predict the meaning.\n- Word family graph, context ladder (the same word at three sentence levels), swap-the-word sentences, mnemonic builder and a memory garden that shows every word growing.\n\n### Original Content\nEvery word list entry, definition, example sentence and question was written for Wordgrove. Pronunciation clips are computer-generated speech. Sources used to check words and the test format are listed in the app under References.\n\n### Free To Use\nStudy, drills, the mistake notebook and every full solution are free. Watch short videos to earn credits for extra mock sets and labs, or subscribe for an ad-free experience. Ad-free monthly subscription with a 7-day free trial. Cancel any time in your App Store or Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again. Payment is charged to your account at the end of the trial and renews monthly unless canceled at least 24 hours before the period ends.\n\nWorks offline. No account. Your progress stays on your device.\n\nGRE is a registered trademark of ETS. Wordgrove is not affiliated with or endorsed by ETS.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-grevocab.html",
+  "supportUrl": "https://equalinformation.com/app-support-grevocab.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/gre-vocab-cards-wordgrove/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.grevocab.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.grevocab.app"
+  },
+  "related": []
+}

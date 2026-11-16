@@ -1,0 +1,44 @@
+{
+  "slug": "toefl-ibt-prep-2026-larkmere",
+  "name": "TOEFL iBT Prep 2026: Larkmere",
+  "subtitle": "TOEFL iBT 2026 practice: Reading, Listening, Writing, Speaking and mocks",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "toefl",
+    "ets",
+    "english",
+    "reading",
+    "listening",
+    "speaking",
+    "writing",
+    "mock test",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "TOEFL iBT 2026 practice: Reading, Listening, Writing, Speaking and mocks.",
+  "longDescription": "TOEFL iBT prep for the 2026 format: adaptive practice tests, full mock exams and worked solutions for Reading, Listening, Writing and Speaking. Larkmere follows the new format ETS describes: adaptive Reading and Listening, Complete the Words, Read in Daily Life, Academic Passages, Listen and Choose a Response, Conversations, Announcements and Academic Talks, Build a Sentence, Write an Email, Write for an Academic Discussion, Listen and Repeat and Take an Interview. No account, works offline.\n\n### Toefl Practice You Can Touch\n- 13 interactive labs: waveform and note-taking for listening, word-building and evidence highlighting for reading, a record-and-compare speaking studio, a register slider and a revision lab for writing. Each ends with a quick question about what you just did\n- 6 mock tests, each as a chained four-section run (resume if the app closes) or one section at a time, in the real section order with two-stage adaptive routing, one-play audio and rough 1 to 6 band estimates\n- A starting check, a daily study plan and a readiness range that adapts to your mistakes\n- Spaced-repetition review and a mistake notebook that brings wrong answers back with the reason\n- A Full solution after every answer: the right answer, why each wrong choice fails, a common mistake and a similar question. Never behind credits or ads\n- References for every lesson from official ETS sources and open references, with the citation always available offline\n\n### Speaking And Writing Practice On Your Phone\nRecord Listen and Repeat sentences and Take an Interview answers. The microphone is used only while you record, and speech recognition runs on your device by default. Recordings are not saved or uploaded. On some Android versions offline recognition may be unavailable; the app then explains how to install the language pack and offers online recognition for a single attempt, only if you choose it. You see which words were missed, your pace, fillers and answer structure. Writing planners and rubric checks cover emails and academic discussion posts. Feedback is approximate and is not an ETS score.\n\n### Free To Start\nFree to use, no account. You start with 2 credits and earn more by watching a short video; practice, reviews and every full solution always stay free. Prefer not to subscribe? Watch short videos to earn credits and unlock features. Or go ad-free with the monthly plan ($3.99 per month after a 7-day free trial; renews automatically until cancelled; manage in Google Play). Cancel any time in your App Store or Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again.\n\n### Honest Limits\nPractice questions and explanations are original and have not been reviewed by a native-speaker expert. Listening audio is computer-generated speech (US and UK voices), not real exam recordings. Scores are rough practice estimates, not predictions.\n\nNot affiliated with or endorsed by ETS. TOEFL and TOEFL iBT are registered trademarks of ETS.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-examtoefl.html",
+  "supportUrl": "https://equalinformation.com/app-support-examtoefl.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/toefl-ibt-prep-2026-larkmere/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.examtoefl.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.examtoefl.app"
+  },
+  "related": []
+}

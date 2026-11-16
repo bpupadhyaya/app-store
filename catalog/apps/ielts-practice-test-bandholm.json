@@ -1,0 +1,43 @@
+{
+  "slug": "ielts-practice-test-bandholm",
+  "name": "IELTS Practice Test: Bandholm",
+  "subtitle": "IELTS practice: Listening, Reading, Writing, Speaking mocks and full solutions",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "ielts",
+    "english",
+    "listening",
+    "reading",
+    "writing",
+    "speaking",
+    "mock test",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "IELTS practice: Listening, Reading, Writing, Speaking mocks and full solutions.",
+  "longDescription": "IELTS practice test app for the Academic and General Training tests: adaptive practice, full mock tests and worked solutions for Listening, Reading, Writing and Speaking. Bandholm follows the official test structure: Listening in four parts played once, Reading in three passages or sections, Writing Task 1 and Task 2, and Speaking Parts 1, 2 and 3 with a timed cue card. Choose Academic or General Training in the app and switch any time. No account, works offline.\n\n### Ielts Practice You Can Touch\n- 8 interactive labs: waveform marking and spelling dictation for listening, scan race and True/False/Not Given evidence pinning for reading, a linker lab for writing, a pace and pitch ribbon, an idea web and word stress for speaking. Each ends with a quick question about what you just did\n- 6 full mock tests per track (8 listening tests and 18 reading passages or sections per track, no item repeated across mocks), each a chained four-skill run (resume if the app closes) or one section at a time, with a 60-minute reading clock, one-play audio and approximate band estimates\n- A starting check, a daily study plan, a readiness range against your target band and spaced-repetition review of your mistakes\n- Writing: chart, map, process and letter builders, Task 2 planners and a checklist against the four official criteria\n- Speaking: examiner questions, a one-minute preparation timer, pace, pause and filler feedback\n- A Full solution after every answer: the right answer, why each wrong option fails, where the evidence is and a common mistake. Never behind credits or ads\n- References for every lesson and passage from official IELTS pages and open sources, with the citation always available offline\n\n### Honest Feedback, Checked On Your Phone\nSpeaking and writing feedback is a practice guide, not a band score or an examiner's mark; Writing and Speaking bands are your own self-ratings. Speaking uses the microphone only while you record. Speech recognition runs on your device; online recognition is used only if you opt in for one session, and recordings are not saved by the app. Listening audio is computer-generated speech (British and North American voices), not real exam recordings.\n\n### Free To Start\nFree to use, no account. You start with 2 credits and earn more by watching a short video; practice, reviews and every full solution always stay free. Prefer not to subscribe? Watch short videos to earn credits and unlock features. Or go ad-free with the monthly plan ($3.99 per month after a 7-day free trial; renews automatically until cancelled; manage in Google Play). Cancel any time in your App Store or Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again.\n\n### Honest Limits\nPractice questions and explanations are original and have not been reviewed by an IELTS teacher. Listening parts are shorter than on the real test. Band estimates are approximations, not predicted scores.\n\nNot affiliated with or endorsed by the IELTS owners (British Council, IDP IELTS and Cambridge University Press and Assessment). IELTS is a trademark of its owners.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-ieltsprep.html",
+  "supportUrl": "https://equalinformation.com/app-support-ieltsprep.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/ielts-practice-test-bandholm/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.ieltsprep.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.ieltsprep.app"
+  },
+  "related": []
+}

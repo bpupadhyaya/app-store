@@ -1,0 +1,43 @@
+{
+  "slug": "precalculus-ap-funcrest",
+  "name": "Precalculus AP: Funcrest",
+  "subtitle": "AP Precalculus functions, trig, polar, graphing calculator, FRQs and mocks.",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "ap precalculus",
+    "functions",
+    "trigonometry",
+    "polar",
+    "graphing calculator",
+    "frq",
+    "mock exam",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "AP Precalculus functions, trig, polar, graphing calculator, FRQs and mocks.",
+  "longDescription": "Funcrest is an AP Precalculus exam prep app: adaptive practice, interactive labs, an on-device graphing calculator and full-length timed mock exams for Units 1 to 3 in the 2027 exam format.\n\n### Practice That Adapts\nA 24-question starting check builds your unit map and a daily plan back-planned from your exam date. Adaptive drills cover all 44 topics of Units 1 to 3 (polynomial and rational functions, exponential and logarithmic functions, trigonometric and polar functions), weighted like the exam. Spaced review, a mistake notebook that clears questions after two correct answers, and a streak that encourages without guilt.\n\n### Questions And Solutions\nMore than 1,200 original multiple-choice questions (1,290) with graphs and tables, 32 original free-response sets with rubric self-scoring, and a worked Full solution for every question that explains why each wrong choice fails.\n\n### Interactive Labs\nTransformations, polynomial builder, rational functions, exponential growth, logarithm studio, sinusoid builder, unit circle, polar graphs, parametric motion and regression fits. Every lab ends with a quiz about the values you set.\n\n### Graphing Calculator Built In\nPlot functions, make tables, find zeros, extrema and intersections, run regressions and use sliders. A calculator trainer practises the skills the calculator parts of the exam use. It is our own tool, not a copy of any exam calculator.\n\n### Full Mock Exams\nSection I: 42 multiple-choice questions in 105 minutes (29 without a calculator, 13 with). Section II: 4 free-response questions in 70 minutes. Separate part timers, mark for review and a rough practice estimate when you finish. Format as published for May 2027; details can change, so check the College Board exam page.\n\n### References And Trust\nEvery topic lists its sources: the College Board Course and Exam Description and open textbooks. Your progress stays on your device. No account needed.\n\n### Free, With Optional Ad-Free\nWatch optional short videos to earn credits, or subscribe to Precalculus AP Ad-Free Monthly ($2.99 per month, 7-day free trial for new subscribers; renews monthly until cancelled). Cancel any time in your Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again. Prefer not to subscribe? Watch short videos to earn credits and unlock features.\n\n### Built To Be Honest\nAll questions are original practice content and have not been reviewed by a precalculus teacher; readiness ranges are rough practice estimates, not predicted scores.\n\n### AP Disclaimer\nAP is a trademark registered and owned by the College Board, which was not involved in the production of and does not endorse this product. Funcrest is not affiliated with, endorsed by or sponsored by the College Board.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-funcrest.html",
+  "supportUrl": "https://equalinformation.com/app-support-funcrest.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/precalculus-ap-funcrest/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.funcrest.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.funcrest.app"
+  },
+  "related": []
+}

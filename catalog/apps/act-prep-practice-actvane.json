@@ -1,0 +1,42 @@
+{
+  "slug": "act-prep-practice-actvane",
+  "name": "ACT Prep & Practice: Actvane",
+  "subtitle": "ACT prep: English, math, reading, science and writing practice and mock tests",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "act",
+    "english",
+    "math",
+    "reading",
+    "science",
+    "mock test",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "ACT prep: English, math, reading, science and writing practice and mock tests.",
+  "longDescription": "ACT prep for the enhanced ACT: practice tests, timed sections, full mock tests and worked solutions for ACT English, Math, Reading and the optional Science test. Actvane follows the current format (English 50 questions in 35 minutes, Math 50 minutes with four answer choices, Reading 40 minutes, optional Science 40 minutes) and builds a short daily plan from the categories you most need. No account, works offline, your progress stays on your device.\n\n### Act Practice That You Do, Not Just Read\n- A diagnostic, a personal daily plan and a rough practice score range (a guide, not a predicted score)\n- Practice sets by category, timed section practice at the real per-question pace, and full ACT mock tests with the real navigation: question grid, flag for review, strike-through choices, section timer and an optional break\n- ACT English with whole-passage sets and numbered underlined portions, ACT Math with computed answers, ACT Reading with long and paired passages, ACT Science with data, research-summary and conflicting-viewpoints passages\n- A Full solution on every question: worked steps, why each wrong choice fails and the common mistake\n- Spaced review, a mistake notebook, concept cards with retrieval questions and a streak that never nags\n\n### Interactive Labs\nTen hands-on labs (lines, parabolas, trig, chance, dot plots, data, an experiment designer, viewpoints, projectile motion and a revision lab). Each ends with a quiz on what you just built.\n\n### Writing Planner And Calculator\nPlan an essay from a prompt with three perspectives, an outline and a 40-minute clock, then get approximate rule-based feedback on our own four-domain rubric. A scientific calculator is built in for practice (no graphing, no computer algebra).\n\n### Free To Start\nPractice is free with credits: you start with 2, and you earn more by watching optional short videos. The diagnostic, plan, mistake notebook, concept cards and every Full solution are always free. Ads appear on the main screens and never during a question, a timed section, a mock test, a lab or a solution. Or go ad-free with the monthly plan ($3.99 per month after a 7-day free trial; renews automatically until cancelled; manage in Google Play). Cancel any time in your App Store or Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again. Prefer not to subscribe? Watch short videos to earn credits and unlock features.\n\n### Teens And Privacy\nActvane is for students aged 13 and over and for adults. If you say you are under 18, it shows only non-personalised ads. Nothing you answer leaves your device.\n\n### Honest Limits\nAll questions and passages are original practice content written for this app, not real exam questions, and they have not been reviewed by a teacher. Our reading passages are shorter than on the real test. Score ranges are our own rough estimates.\n\nACT is a trademark of its owner. Actvane is not affiliated with or endorsed by ACT, Inc.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-actprep.html",
+  "supportUrl": "https://equalinformation.com/app-support-actprep.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/act-prep-practice-actvane/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.actprep.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.actprep.app"
+  },
+  "related": []
+}

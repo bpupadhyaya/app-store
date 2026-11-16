@@ -1,0 +1,42 @@
+{
+  "slug": "statistics-ap-sampleford",
+  "name": "Statistics AP: Sampleford",
+  "subtitle": "AP Statistics probability, inference, regression, FRQs, labs and mock exams.",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "ap statistics",
+    "probability",
+    "inference",
+    "regression",
+    "frq",
+    "mock exam",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "AP Statistics probability, inference, regression, FRQs, labs and mock exams.",
+  "longDescription": "Sampleford is an AP Statistics exam prep app: adaptive practice questions, full-length timed mock exams, free-response practice and hands-on simulations for the revised five-unit course and the May 2027 exam.\n\n### Statistics Practice That Matches The 2027 Format\nMore than 1,500 original four-choice multiple-choice questions (1,586) across all 55 topics, including set-based questions that share one stimulus like the exam, with numbers computed and checked by two independent methods. A starting check and personal plan use the official unit weights, with spaced review, a mistake notebook and a readiness range after 40 answers.\n\n### Full Mock Exams\nFive full-length mocks: 42 multiple-choice questions in 90 minutes, then 4 free-response questions in 90 minutes, with a review grid, flags and no ads while the clock runs. Results are a rough practice estimate, not a prediction.\n\n### Free Response\n61 free-response questions (design, data analysis, inference and mixed tasks) with 10-point rubrics, model answers, typed notes with approximate feedback on the pieces a good answer needs, and self-scoring.\n\n16 LABS YOU CAN DRAG\nDotplots, binomial and normal models, sampling distributions and the central limit theorem, confidence interval coverage, sampling bias, hypothesis tests with power, t versus normal, regression and residuals, chi-square, a probability simulator, a regression output reader, an experiment design builder, a conditions checker, a conclusion trainer, a calculator practice tool and a re-randomization viewer. Each lab ends with a quiz built from your own numbers.\n\n### All Five Units\nExploring one-variable data, collecting data, probability and random variables, inference for proportions, inference for means and regression analysis. Every topic has references to the College Board course description and the OpenStax and OpenIntro open textbooks.\n\n### Free To Study, Fair To Support\nPractice, review, the mistake notebook, six labs, every worked solution and every reference are free. Watch an optional short video to earn credits for full mocks and the other labs, or subscribe for an ad-free experience ($3.99 per month, 7-day free trial for new subscribers; renews monthly until cancelled). Cancel any time in your Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again. Prefer not to subscribe? Watch short videos to earn credits and unlock features.\n\n### Built To Be Honest\nQuestions and explanations are original and have not yet been reviewed by a statistics teacher. Scores shown are rough practice estimates, not predictions. Format details can change; check the College Board exam page for the latest.\n\n### AP Disclaimer\nAP is a trademark registered and owned by the College Board, which was not involved in the production of and does not endorse this product. Sampleford is not affiliated with, endorsed by or sponsored by the College Board.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-sampleford.html",
+  "supportUrl": "https://equalinformation.com/app-support-sampleford.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/statistics-ap-sampleford/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.sampleford.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.sampleford.app"
+  },
+  "related": []
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "calculus-ab-ap-derivane",
+  "name": "Calculus AB AP: Derivane",
+  "subtitle": "AP Calculus AB limits, derivatives, integrals, FRQs and mock exams. Offline.",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "ap calculus",
+    "calculus ab",
+    "derivatives",
+    "limits",
+    "integrals",
+    "frq",
+    "mock exam",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "AP Calculus AB limits, derivatives, integrals, FRQs and mock exams. Offline.",
+  "longDescription": "Derivane is an AP Calculus AB exam prep app: practice tests, free-response practice, interactive labs and full mock exams in the May 2027 format, with a daily study plan that counts down to exam day.\n\n### Start In A Minute\nTake a 24-question starting check, see which of the eight units are strong or weak, pick a target score of 3, 4 or 5, and get a daily plan of 10 to 40 minutes that counts down to the exam on May 10, 2027. No account. Works offline.\n\n### Learn By Doing\nThirteen interactive labs plus a graphing-calculator practice tool: limit explorer, secant to tangent, derivative follower, rules blocks (product, quotient and chain rule), implicit and inverse slopes, related-rates ladder, motion, curve sketching, Riemann sums, accumulation tank, slope fields, volume by discs and average value. Each lab ends with questions built from the values you set.\n\n### Practice That Sticks\nAbout 800 original multiple-choice questions (about 300 of them calculator-allowed) across all 81 topics of the course, 61 free-response sets with a rubric you mark yourself, spaced-repetition review, a mistake notebook that clears itself once you get an item right twice, and a full worked solution beside every answer, always free.\n\n### Test Like The Real Thing\nTimed mock exams follow the May 2027 format: 42 multiple-choice questions (29 without a calculator, 13 with) and 6 free-response questions, each part on its own clock, with no ads while the clock runs. Results are a rough practice estimate, never a promise.\n\n### Sources You Can Check\nEvery topic and solution has a References button that cites the College Board course and exam description and the OpenStax Calculus textbook.\n\n### Free, Fairly\nCore study is free, with ads placed only at natural breaks, never inside a question, test or simulation. Watch an optional short video to earn credits for mocks and the advanced labs, or subscribe for $3.99 per month (7-day free trial for new subscribers) to remove ads and open everything. The subscription renews monthly until cancelled. Cancel any time in your Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again. Prefer not to subscribe? Watch short videos to earn credits and unlock features.\n\n### Built To Be Honest\nAll questions are original, computer-generated and checked, and have not yet been reviewed by a subject expert. Derivane does not contain real exam questions. Format details can change from year to year; check the College Board exam page for the latest.\n\n### AP Disclaimer\nAP is a trademark registered and owned by the College Board, which was not involved in the production of and does not endorse this product. Derivane is not affiliated with, endorsed by or sponsored by the College Board.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-derivane.html",
+  "supportUrl": "https://equalinformation.com/app-support-derivane.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/calculus-ab-ap-derivane/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.derivane.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.derivane.app"
+  },
+  "related": []
+}

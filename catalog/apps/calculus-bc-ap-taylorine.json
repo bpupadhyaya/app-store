@@ -1,0 +1,43 @@
+{
+  "slug": "calculus-bc-ap-taylorine",
+  "name": "Calculus BC AP: Taylorine",
+  "subtitle": "AP Calculus BC series, polar, parametric, FRQs, labs and mock exams.",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "ap calculus",
+    "calculus bc",
+    "series",
+    "polar",
+    "parametric",
+    "frq",
+    "mock exam",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "AP Calculus BC series, polar, parametric, FRQs, labs and mock exams.",
+  "longDescription": "Taylorine is an AP Calculus BC exam prep app: practice tests, free-response practice, interactive labs and full mock exams in the May 2027 format, covering all ten units from limits and derivatives to parametric and polar curves and infinite series.\n\n### Practice That Adapts\nA 20-question starting check builds your unit map and a daily plan weighted like the exam. Adaptive practice, spaced review and a mistake notebook bring missed questions back until you master them. More than 2,000 original multiple-choice questions and 48 free-response problems cover all 111 topics, each topic opens with a short concept card, and every answer has a full solution: worked steps, why each wrong choice fails and the common mistake.\n\n### Interactive Labs\nSlide, drag and see calculus move: secant to tangent, Riemann sums, parametric tracer, polar graph builder, Taylor polynomials with error, series convergence, slope fields with Euler's method, power series radius, and a graphing practice calculator. Each lab ends with questions about what you just did.\n\n### Real Format Mock Exams\nFull mock tests follow the May 2027 format: 29 no-calculator and 13 calculator multiple-choice questions plus 2 calculator and 4 no-calculator free-response questions, separate part timers, flag and review, and a rough practice estimate afterwards. Free-response practice uses a self-scoring rubric. No ads during mock exams.\n\n### Sources You Can Check\nEvery topic lists references: the College Board course and exam description and the OpenStax Calculus textbooks.\n\n### Free To Start\nPractice, review, solutions and references are free, and the first full mock is free. Watch short optional videos to earn credits for extra mock tests, advanced labs and free-response sets, or choose the monthly ad-free subscription ($3.99 per month, 7-day free trial for new subscribers; renews monthly until cancelled). Cancel any time in your Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again. Prefer not to subscribe? Watch short videos to earn credits and unlock features.\n\n### Built To Be Honest\nAll questions and explanations are original practice material, computer-generated and checked, and have not yet been reviewed by a subject expert. Scores are rough practice estimates, not predictions. Exam details can change from year to year; check the College Board exam page for the latest.\n\n### AP Disclaimer\nAP is a trademark registered and owned by the College Board, which was not involved in the production of and does not endorse this product. Taylorine is not affiliated with, endorsed by or sponsored by the College Board.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-taylorine.html",
+  "supportUrl": "https://equalinformation.com/app-support-taylorine.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/calculus-bc-ap-taylorine/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.taylorine.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.taylorine.app"
+  },
+  "related": []
+}
