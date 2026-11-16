@@ -28,8 +28,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-exam-ielts-vocab.html",
   "supportUrl": "https://equalinformation.com/app-support-exam-ielts-vocab.html",
-  "releasedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
   "version": "1.0.0",
   "icon": "assets/apps/lexiridge/icon-512.png",
   "hero": "assets/apps/lexiridge/hero.webp",
@@ -96,8 +96,8 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/ielts-toefl-vocab-lexiridge/id6834737375",
     "bundleId": "com.equalinformation.examieltsvocab.app"
   },
   "android": {
