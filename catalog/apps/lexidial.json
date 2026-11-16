@@ -27,8 +27,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-word-daily-multilang.html",
   "supportUrl": "https://equalinformation.com/app-support-word-daily-multilang.html",
-  "releasedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
   "version": "1.0.0",
   "icon": "assets/apps/lexidial/icon-512.png",
   "hero": "assets/apps/lexidial/hero.webp",
@@ -95,8 +95,8 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/daily-word-game-lexidial/id6834731252",
     "bundleId": "com.equalinformation.worddailymultilang.app"
   },
   "android": {
