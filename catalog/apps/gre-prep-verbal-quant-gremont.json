@@ -1,0 +1,41 @@
+{
+  "slug": "gre-prep-verbal-quant-gremont",
+  "name": "GRE Prep Verbal Quant: Gremont",
+  "subtitle": "GRE Verbal and Quant practice, adaptive mock tests and worked solutions",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "gre",
+    "verbal reasoning",
+    "quantitative reasoning",
+    "analytical writing",
+    "mock test",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "GRE Verbal and Quant practice, adaptive mock tests and worked solutions",
+  "longDescription": "GRE prep for Verbal Reasoning, Quantitative Reasoning and Analytical Writing: GRE practice questions, adaptive full mock tests and a worked solution for every question. Gremont follows the current General Test format ETS publishes: one Analyze an Issue essay, two Verbal Reasoning sections (12 and 15 questions) and two Quantitative Reasoning sections (12 and 15 questions), with the second section of each measure adapting to your first. Quant mocks include an on-screen calculator. No account, works offline.\n\n### Gre Verbal Prep\n- 410 original Verbal questions: Text Completion with one to three blanks, Sentence Equivalence and Reading Comprehension from 32 original passages (single answer, multiple answer and select-in-passage)\n- Every option explained, including why each wrong choice fails\n\n### Gre Quant Prep\n- 1,598 original Quant questions: Quantitative Comparison, multiple choice, select one or more, numeric entry and data interpretation sets\n- Arithmetic, algebra, geometry and data analysis topics with computed, checked answers\n\nHANDS-ON LABS\nThirteen labs, from a geometry sandbox and a statistics manipulator to a reading annotator, an argument analyzer, a data interpretation board and vocabulary-in-context scales. Each ends with a quiz built from what you did.\n\n### Personal Plan\n- A 24-question starting check maps your topics, then a daily plan targets your weakest ones\n- Spaced review, a mistake notebook, pace trainers and type drills\n- Mock tests with mark, review, skip and back, a section timer, and a rough practice estimate for Verbal and Quant (130 to 170 range, not a prediction)\n- Issue essay planner, 30-minute writing timer and on-device structure feedback\n\n### Free To Start\nPractice, review, basic labs, single timed sections and every worked solution are free. You start with 2 credits and earn more by watching optional short videos; a credit opens a full mock or an advanced lab. Ads appear on the main screens, never inside mocks, labs, the essay or a solution. Or go ad-free with the monthly plan ($3.99 per month after a 7-day free trial; renews automatically until cancelled; manage in Google Play). Cancel any time in your App Store or Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again. Prefer not to subscribe? Watch short videos to earn credits and unlock features.\n\n### Honest Limits\nAll questions, passages and explanations are original practice content written for this app and have not been reviewed by an outside expert. Score ranges are rough practice estimates. Your progress stays on your device.\n\nGRE is a registered trademark of ETS. Gremont is independent and is not affiliated with or endorsed by ETS.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-gregeneral.html",
+  "supportUrl": "https://equalinformation.com/app-support-gregeneral.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/gre-prep-verbal-quant-gremont/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.gregeneral.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.gregeneral.app"
+  },
+  "related": []
+}

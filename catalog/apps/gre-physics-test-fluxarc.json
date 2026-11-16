@@ -1,0 +1,42 @@
+{
+  "slug": "gre-physics-test-fluxarc",
+  "name": "GRE Physics Test: Fluxarc",
+  "subtitle": "GRE Physics Test prep: 24 simulations, drills, full mock tests, solutions",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "gre",
+    "physics subject test",
+    "mechanics",
+    "electromagnetism",
+    "simulations",
+    "mock test",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "GRE Physics Test prep: 24 simulations, drills, full mock tests, solutions",
+  "longDescription": "GRE Physics Test prep with interactive physics simulations, topic drills in all nine content areas, full 70-question mock tests and a worked solution for every question. Fluxarc follows the structure ETS publishes for the GRE Physics Subject Test: about 70 five-choice questions in 120 minutes across classical mechanics, electromagnetism, optics and wave phenomena, thermodynamics and statistical mechanics, quantum mechanics, atomic physics, special relativity, laboratory methods and specialized topics, with three percent-correct subscores. No account, works offline.\n\n24 INTERACTIVE PHYSICS LABS\n- Drag, tune and watch: projectile motion with drag, orbits, driven oscillators, double-slit interference, thin lenses, RLC resonance, electric fields, heat-engine cycles, ideal gas speeds, particle in a box, hydrogen spectra, spacetime, collisions, capacitors, beats, Zeeman splitting, Lissajous figures, Gauss surfaces, Faraday loops, EM waves, tunnelling wave packets, spin-1/2 and more\n- Every lab ends with a quiz built from the numbers you set\n\n### Gre Physics Practice Questions\n- 1,692 original questions in 74 topics, with numeric answers computed and cross-checked by an independent solver\n- Topic drills that adapt to your level in each area, spaced review and a mistake notebook\n- Every solution opens in a sheet with worked steps, why each wrong choice fails and the common mistake, and cites open textbooks, ETS and NIST; a constants sheet is available in mocks\n\n### Mock Tests\n- A full 70-question, 120-minute mock with free navigation, flags and an overview grid, run without a calculator, plus a free 20-question mini mock\n- Results by area with a rough practice estimate (our own approximation, not a prediction)\n- An 18-question starting check and a daily plan weighted by the official area shares\n\n### Free To Start\nPractice, review, free labs, mini mocks and every worked solution are free. You start with 2 credits and earn more by watching optional short videos; a credit opens a full mock or an advanced lab for good. Ads appear on the main screens, never inside labs, a mock in progress or a solution. Or go ad-free with the monthly plan ($3.99 per month after a 7-day free trial; renews automatically until cancelled; manage in Google Play). Cancel any time in your App Store or Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again. Prefer not to subscribe? Watch short videos to earn credits and unlock features.\n\n### Honest Limits\nAll questions and explanations are original practice content written for this app and have not been reviewed by a physics expert. Score ranges are rough practice estimates. Your progress stays on your device; references open public pages only when you tap them and are online.\n\nGRE is a registered trademark of ETS. Fluxarc is independent and is not affiliated with or endorsed by ETS.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-grephysics.html",
+  "supportUrl": "https://equalinformation.com/app-support-grephysics.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/gre-physics-test-fluxarc/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.grephysics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.grephysics.app"
+  },
+  "related": []
+}

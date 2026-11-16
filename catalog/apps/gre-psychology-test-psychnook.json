@@ -1,0 +1,42 @@
+{
+  "slug": "gre-psychology-test-psychnook",
+  "name": "GRE Psychology Test: Psychnook",
+  "subtitle": "GRE Psychology Test practice: lessons, 656 questions, mocks and simulations",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "gre",
+    "psychology subject test",
+    "cognitive",
+    "social",
+    "simulations",
+    "mock test",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "GRE Psychology Test practice: lessons, 656 questions, mocks and simulations",
+  "longDescription": "GRE Psychology Test practice with lessons, 656 original questions, full-length mock tests and hands-on simulations. Psychnook prepares you for the GRE Subject Test in Psychology the way the exam is built: about 144 five-option questions in 2 hours across biological, cognitive, social, developmental, clinical, and measurement and methodology content. Nothing is subtracted for a wrong answer, so the app coaches you to answer everything and keep pace. No account, works offline.\n\n### What You Get\n- A 30-question starting check that finds your weak areas, then a daily plan of 10, 20 or 40 minutes\n- 37 short interactive lessons, each with a prediction question and retrieval practice, plus concept cards on a spaced-repetition schedule\n- Practice by topic with a full worked solution for every question, why each wrong choice fails, a mistake notebook and flashcard-style concept cards\n- Full 144-question mocks on one 120-minute clock with mark and review, plus half mocks and area sprints, with six percent-correct subscores and a rough practice range\n- 13 simulations, each followed by a short quiz on your own results: Stroop and reaction time, signal detection, classical conditioning, operant schedules, forgetting and serial position, perception illusions, neuron and action potential, sampling distributions, correlation, effect size and power, a brain atlas, a DSM-5-TR chapter sorter and conformity\n- References on lessons and solutions from OpenStax, ETS, APA and NIMH that open inside the app (the citation is always readable offline)\n\n### Free To Start\nPractice, lessons, half mocks and every worked solution are free. You start with 2 credits and earn more by watching optional short videos; a credit opens a full mock (the first is free) or an advanced simulation. Ads appear on non-critical screens, never in mocks, simulations or the starting check. Or go ad-free with the monthly plan ($2.99 per month after a 7-day free trial; renews automatically until cancelled; manage in Google Play). Restore purchases is in Settings. Cancel any time in your App Store or Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again. Prefer not to subscribe? Watch short videos to earn credits and unlock features.\n\n### Honest Limits\nAll questions, lessons and explanations are original practice content written for this app and have not been reviewed by a subject expert. Practice estimates are rough and not a prediction of your score. DSM-5-TR is referenced by terminology and chapter names only. Your progress stays on your device.\n\nGRE is a registered trademark of ETS. Psychnook is independent and is not affiliated with or endorsed by ETS.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-grepsych.html",
+  "supportUrl": "https://equalinformation.com/app-support-grepsych.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/gre-psychology-test-psychnook/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.grepsych.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.grepsych.app"
+  },
+  "related": []
+}
