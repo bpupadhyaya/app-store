@@ -1,0 +1,49 @@
+{
+  "slug": "odelo",
+  "name": "Differential Equations: Odelo",
+  "subtitle": "Differential Equations Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "differential equations",
+    "ODE",
+    "Laplace transform",
+    "slope field",
+    "phase portrait",
+    "Euler method",
+    "Runge-Kutta",
+    "eigenvalue",
+    "calculus",
+    "quiz",
+    "adaptive",
+    "undergraduate",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive differential equations course: practice that learns from your mistakes, interactive labs and full worked solutions. Free to use.",
+  "longDescription": "Odelo is an adaptive differential equations course for second-year undergraduates. Study first-order differential equations (separable, linear, exact), modelling, existence and uniqueness, second-order linear differential equations, Laplace transforms, systems and phase portraits, numerical methods (Euler, Runge-Kutta) and series solutions.\n\n### What makes it different\n- Personalised adaptive path or traditional course order; switch any time.\n- Practice that learns from your mistakes: it spots the slip behind a wrong answer, schedules spaced review and picks the next question for you.\n- More than 280 original practice questions with full worked solutions, timed unit tests and three mock finals.\n- Five interactive labs: slope fields, spring-mass-damper, phase portraits and eigenvalues, Euler versus Runge-Kutta, predator-prey.\n- Tap any concept for a short explanation from school level up to graduate level, plus clear before-this-course and after-this-course pages.\n- Every source is cited and linked (such as MIT OpenCourseWare, OpenStax, Khan Academy, Coursera, edX, textbooks and authoritative videos); nothing is copied.\n\nFree with optional ads at natural breaks, with an optional monthly ad-free plan. Explanations are never locked, and no account is needed. Not affiliated with, or endorsed by, any university, course provider or publisher named in the app.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/odelo/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-differential-equations.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_differential_equations.app"
+  },
+  "related": [
+    "epsilume",
+    "vectrine"
+  ]
+}
