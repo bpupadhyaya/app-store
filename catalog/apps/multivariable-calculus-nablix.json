@@ -1,0 +1,49 @@
+{
+  "slug": "multivariable-calculus-nablix",
+  "name": "Multivariable Calculus: Nablix",
+  "subtitle": "Multivariable calculus 3",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "multivariable calculus",
+    "calculus 3",
+    "partial derivatives",
+    "gradient",
+    "double integral",
+    "vector calculus",
+    "curl",
+    "divergence",
+    "stokes theorem",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive multivariable calculus (calculus 3): 3D labs, quizzes and worked solutions, from partial derivatives to Stokes. Free to use.",
+  "longDescription": "Nablix is an adaptive multivariable calculus (calculus 3) course, from vectors and partial derivatives to multiple integrals, line and surface integrals, Green's theorem, Stokes' theorem and the divergence theorem.\n\n### How it adapts\nAdaptive practice follows your mistakes, and spaced review brings back fading topics. Choose the personalised path or the traditional syllabus order, and switch any time.\n\n### Interactive labs\nRotate surfaces, roll gradient descent downhill, probe divergence and curl, and slice double integrals.\n\n### Practice and understanding\nOriginal problems with full worked solutions, placement, unit checkpoints and timed mock exams. Tap any concept for a plain-language refresher from earlier maths, with notes on what comes next. Cited university courses and textbooks open in a clear source window with the licence and a link.\n\nFree to use. Ads appear only at natural breaks, never during a test, and every worked solution stays free. An optional monthly plan removes ads. All teaching text is original. Not affiliated with any university, publisher or exam body.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/multivariable-calculus-nablix/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-multivariable-calculus.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_multivariable_calculus.app"
+  },
+  "related": [
+    "calculus-ii-course-sumlark",
+    "linear-algebra-vectrine"
+  ]
+}
