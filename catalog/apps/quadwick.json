@@ -1,0 +1,35 @@
+{
+  "slug": "quadwick",
+  "name": "Quadwick",
+  "subtitle": "Scan, Create & Print QR Codes",
+  "categories": [
+    "utilities"
+  ],
+  "tags": [
+    "category:-utilities-privacy:-https://equalinformation.com/privacy-util-quadwick.html"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Scan, create and print QR codes and barcodes. Safe link check, Wi-Fi, vCard.",
+  "longDescription": "QR code generator and scanner in one fast, private app. Scan QR codes and barcodes with the camera or from a picture; links get a safety check before they open; add contacts, calendar events, call, text, email or open a location in one tap; payment codes show a preview only.\n\n### Create\nQR codes for links, text, Wi-Fi, contacts (vCard), email, SMS, phone, location, events, social profiles, app-store links and menu links, plus Code 128, EAN-13, UPC-A and Code 39 barcodes.\n\n### Style and Print\nColours, rounded modules, a centre logo and a \"Scan me\" frame, and a live \"will it scan\" meter that checks contrast, size and quiet zone. Export PNG, SVG and print-ready PDF.\n\nScanning and basic black and white codes are free. Styled and high-resolution exports use credits you earn by watching a short ad, or go ad-free with the monthly plan. No account. Everything stays on your device.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-util-quadwick.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/quadwick/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": ""
+  },
+  "related": []
+}

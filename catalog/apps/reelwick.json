@@ -1,0 +1,42 @@
+{
+  "slug": "reelwick",
+  "name": "Reelwick",
+  "subtitle": "Shrink videos for chat & email",
+  "categories": [
+    "utilities"
+  ],
+  "tags": [
+    "compress-video",
+    "resize-video",
+    "video-size-reducer",
+    "shrink-mp4",
+    "whatsapp-video",
+    "email-video-25mb",
+    "trim",
+    "mute"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Compress and resize videos to fit WhatsApp, email and any size limit. See the size before you start. Everything runs on your phone.",
+  "longDescription": "Reelwick is a fast video compressor and video resizer. Pick one video or a batch of up to 10, choose a target (chat 16 MB, email 25 MB, your own MB, or 1080p / 720p / 480p), see the estimated size, and compress with your phone's hardware encoder.\n\n### Edit and Save\nTrim the start and end, mute the sound, strip location data, then save or share. Your original video is never changed and nothing is uploaded.\n\nFree to use with 2 free credits and short rewarded ads for more, or go ad-free with a monthly plan.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-util-reelwick.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/reelwick/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": ""
+  },
+  "related": []
+}

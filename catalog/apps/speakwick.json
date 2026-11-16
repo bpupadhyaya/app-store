@@ -1,0 +1,36 @@
+{
+  "slug": "speakwick",
+  "name": "Speakwick",
+  "subtitle": "Offline Meeting Transcriber",
+  "categories": [
+    "utilities"
+  ],
+  "tags": [
+    "category:-utilities-privacy:-https://equalinformation.com/privacy-util-speakwick.html",
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Turn voice, meetings and lectures into text on your phone. Nothing is uploaded.",
+  "longDescription": "Voice to text that stays on your phone. Record a meeting, lecture, interview or voice note, or import an audio or video file, and Speakwick turns it into a timestamped transcript using a speech model that runs entirely on your device: no account, no upload, works offline.\n\n### Features\nAudio to text in English, Spanish, Portuguese, French and German, with auto-detect (Hindi in beta). Tap any line to jump the audio to that moment. Edit, search, copy and share the text. Export TXT, SRT subtitles, Word (DOCX) or PDF. Long recordings are processed in chunks with a notification when ready.\n\nFree to use with 2 free transcriptions and short rewarded ads for more (1 credit covers up to 30 minutes of audio), or go ad-free with a monthly plan. Clean speech is very accurate; noisy rooms and accents reduce quality.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-util-speakwick.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/speakwick/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": ""
+  },
+  "related": []
+}

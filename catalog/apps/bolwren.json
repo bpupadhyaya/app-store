@@ -1,0 +1,36 @@
+{
+  "slug": "bolwren",
+  "name": "Bolwren",
+  "subtitle": "English Speaking Practice",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "category:-education-privacy:-https://equalinformation.com/privacy-speakenglish.html",
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Speak English with confidence. Short lessons with Hindi help, listening, speaking practice and a plan that adapts to your mistakes.",
+  "longDescription": "Learn spoken English from Hindi with short daily lessons. Practise everyday talk, workplace English and interview answers. Hear every phrase, build sentences, and say them out loud: on-device speech recognition checks word by word and shows which words to fix.\n\n### Learn with Hindi Help\nHindi explanations make rules clear. Fix typical mistakes with grammar lessons, sound lessons for V/W, TH and more, and a mistake notebook that brings wrong answers back with the reason.\n\n### A Plan That Adapts\nA spaced-repetition review keeps phrases fresh, and your daily plan picks the topics you need.\n\n### Private\nNo account, works offline, your progress stays on your phone.\n\nFree to use with 2 free lessons and short rewarded ads for more, or go ad-free with a monthly plan. Reviews are always free. Hindi text is machine drafted pending native review. Speaking feedback and readiness are approximations, not exam scores.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-speakenglish.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/bolwren/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": ""
+  },
+  "related": []
+}

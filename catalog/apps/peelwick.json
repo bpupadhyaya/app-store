@@ -1,0 +1,43 @@
+{
+  "slug": "peelwick",
+  "name": "Peelwick",
+  "subtitle": "Cut out, erase & make stickers",
+  "categories": [
+    "utilities"
+  ],
+  "tags": [
+    "remove-bg",
+    "sticker",
+    "whatsapp-sticker",
+    "photo-eraser",
+    "product-photo",
+    "photo-editor",
+    "picture",
+    "isolate",
+    "white-bg"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Remove background from photos on your phone, then save a transparent PNG or make sticker packs.",
+  "longDescription": "Remove background from photos on your phone, then erase or restore with brushes, soften edges, add a colour, gradient or scene, and save a transparent PNG.\n\n### Stickers\nMake sticker packs (512 x 512 WebP) for WhatsApp.\n\n### Private\nPhotos never leave your device.\n\nFree to start with 2 credits, earn more by watching a short ad, or go ad-free with a monthly plan.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-util-peelwick.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/peelwick/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": ""
+  },
+  "related": []
+}

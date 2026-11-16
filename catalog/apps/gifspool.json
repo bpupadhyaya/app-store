@@ -1,0 +1,46 @@
+{
+  "slug": "gifspool",
+  "name": "Gifspool",
+  "subtitle": "Trim, Caption, Under 8 MB",
+  "categories": [
+    "utilities"
+  ],
+  "tags": [
+    "gif",
+    "maker",
+    "video",
+    "converter",
+    "animated",
+    "meme",
+    "caption",
+    "compress",
+    "boomerang",
+    "loop",
+    "reverse",
+    "speed"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Make a GIF from a video or photos. Trim, caption and export a GIF that fits your size limit.",
+  "longDescription": "Make a GIF from a video or photos on your iPhone or iPad. Trim, set speed and loop, crop, add a caption and stickers, then export a GIF that fits your limit.\n\n### Fits Your Limit\nPick 1 MB, 8 MB or 25 MB and Gifspool lowers frame rate, size and colours step by step until it fits. A live preview with a size meter shows the result before you save.\n\n### Editing\nReverse and boomerang, simple filters, MP4 export, share or save.\n\n### Private\nEverything happens on your device; no account, files never uploaded.\n\nFree with 2 starting credits and short rewarded ads for more, or go ad-free with a monthly plan.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-util-gifspool.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/gifspool/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": ""
+  },
+  "related": []
+}

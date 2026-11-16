@@ -1,0 +1,55 @@
+{
+  "slug": "snipwren",
+  "name": "Snipwren",
+  "subtitle": "Audio Cutter & MP3 Trimmer",
+  "categories": [
+    "utilities"
+  ],
+  "tags": [
+    "audio-cutter",
+    "mp3-cutter",
+    "trim-audio",
+    "m4r",
+    "ringtone",
+    "notification",
+    "alarm-tone",
+    "fade",
+    "joiner",
+    "video-to-audio"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Cut audio, fade it, and make ringtones. M4A, WAV, M4R. No upload.",
+  "longDescription": "Audio cutter and ringtone maker. Trim any song, voice note or video soundtrack on your device, zoom in with fine handles, fade the ends, set the volume, join two clips, then export M4A or WAV.\n\n### Ringtones\nOn Android set it as your phone ringtone, notification or alarm sound in two taps. On iPhone export an M4R ringtone file and follow the built-in GarageBand guide (Apple does not let apps set ringtones directly).\n\n### Good to Know\nOpens MP3 and most audio and video files, but does not export MP3. Copy-protected (DRM) music cannot be opened. Everything stays on your device.\n\nFree with 2 starting credits and short rewarded ads for more, or go ad-free with a monthly plan.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-ringcut.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/snipwren/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/snipwren/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/snipwren/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": ""
+  },
+  "related": []
+}

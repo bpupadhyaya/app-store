@@ -1,0 +1,35 @@
+{
+  "slug": "sumkite",
+  "name": "Sumkite",
+  "subtitle": "SSC, Bank & Aptitude Practice",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "category:-education-privacy:-https://equalinformation.com/privacy-quantspeed.html"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Beat the clock on percentages, profit and loss, time and work, DI and more.",
+  "longDescription": "Sumkite is a quant speed trainer for SSC-style, banking-style and other aptitude exams. Practise percentages, ratio, profit and loss, time and work, speed and distance, averages, simple and compound interest, number series, simplification, data interpretation and quick calculation.\n\n### Step By Step and Faster\nEvery question is original and has a step-by-step explanation and, where it helps, a faster shortcut. Speed targets show how fast you need to be, and there are 65 shortcut cards.\n\n### A Plan for Your Weak Spots\nA daily plan of about ten minutes targets your weakest topics. Spaced review brings back what you forget, and the mistake notebook keeps every wrong answer with its explanation until you get it right twice. Timed sprints, mini mock tests, a topic mastery map and a rough practice-readiness estimate.\n\n### Private\nNo account; your progress stays on your device and can be exported.\n\nFree to use with 2 starting credits and short rewarded ads for more; review, the notebook, shortcuts and explanations are always free. An optional monthly plan removes ads.\n\nIndependent practice app, not affiliated with or endorsed by any exam body. Exam names describe the kind of exams the practice suits; readiness is an estimate, not a score prediction.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-quantspeed.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/sumkite/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": ""
+  },
+  "related": []
+}

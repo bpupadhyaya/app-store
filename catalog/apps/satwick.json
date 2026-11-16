@@ -1,0 +1,46 @@
+{
+  "slug": "satwick",
+  "name": "Satwick",
+  "subtitle": "SAT Math, Reading & Writing",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "algebra",
+    "geometry",
+    "grammar",
+    "practice",
+    "test",
+    "quiz",
+    "drills",
+    "study",
+    "psat",
+    "graphing",
+    "calculator",
+    "tutor"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive digital SAT practice: mock tests, a daily plan, graphing calculator and full worked solutions. No account.",
+  "longDescription": "Prepare for the digital SAT with adaptive mock tests, math, reading and writing practice. Satwick builds a short daily plan from the topics you most need, brings questions back right before you would forget them, and keeps every miss in a mistake notebook with the full solution.\n\n### Practice That Adapts\nOriginal SAT-style math, reading and writing questions, each with a worked solution, a reason for every answer choice and a similar question to try. Timed section and full mock tests follow the digital two-module format.\n\n### Built-in Tools\nA graphing calculator and a basic calculator open from every math question, plus interactive labs for lines, parabolas, circles, the unit circle, systems, probability, transitions and more.\n\n### Personal and Private\nA topic mastery map, a rough practice estimate (never a predicted score), a streak that never nags, and export of your progress to a file. No account, works offline, and your progress stays on your device.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-satactprep.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/satwick/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": ""
+  },
+  "related": []
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "sizewick",
+  "name": "Sizewick",
+  "subtitle": "Exam Form Photo & Signature KB",
+  "categories": [
+    "utilities"
+  ],
+  "tags": [
+    "photo-resize",
+    "signature-resize",
+    "passport-photo",
+    "kb",
+    "jpeg",
+    "exam-form",
+    "crop",
+    "dpi"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Fit your photo and signature to the exact KB, pixels and format that exam forms ask for. Private, on your phone.",
+  "longDescription": "Photo resize 20 KB, signature resize 10 KB, passport size photo KB: Sizewick fits your photo and signature to the exact file size, pixels and format that exam forms ask for.\n\n### Exam Presets\nPick an exam such as JEE Main, NEET UG, CUET UG, UGC NET, SSC CGL/CHSL, GATE or IBPS PO/Clerk, see the rule with its source and the date we checked it, crop with a guide, and get a file that lands inside the KB band.\n\n### Signature From Paper\nPhotograph your signature on white paper and Sizewick cleans the page to dark ink on white, trims it and fits it.\n\n### Checks and Custom Sizes\nLive checks for size, KB, DPI, format and background. Custom size in px, mm, cm or inch with your own KB limit.\n\n### Private\nEverything runs on your phone: no account, no upload.\n\nFree with 2 starting credits and short rewarded ads for more, or go ad-free with a monthly plan. Rules change every cycle: always check your own notice. Not affiliated with any exam body.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-util-photosign.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/sizewick/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": ""
+  },
+  "related": []
+}

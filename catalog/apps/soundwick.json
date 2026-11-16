@@ -1,0 +1,35 @@
+{
+  "slug": "soundwick",
+  "name": "Soundwick",
+  "subtitle": "Learn to Read, Letter Sounds",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "category:-education-privacy:-https://equalinformation.com/privacy-kidsphonics.html"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Short, playful phonics sessions that adapt to your child. Letter sounds, blending, sight words and first sentences.",
+  "longDescription": "Soundwick helps children aged 4 to 7 learn to read with phonics. In short play sessions your child hears a sound, picks the letter, blends the sounds into words, builds words from letter tiles, finds tricky words and reads first sentences. Soundwick remembers what is easy and what needs another go and moves up a 12-level adventure map at the child's own pace.\n\n### What It Covers\nLetter sounds, blending and CVC words, word families and rhymes, digraphs (sh, ch, th, ng, ck), consonant blends, vowel teams, tricky words and sentences.\n\n### Adapts to Every Child\nSpaced practice, extra help on weak spots, a daily plan for grown-ups and a mistake notebook with tips. Stickers, a friendly buddy, big buttons: no reading needed to play. Up to four children per device.\n\n### Private and Child-Safe\nProgress stays on your device: no account, no tracking, no data collected from children. No ads or purchases on the screens children use; settings, credits and the subscription are behind a grown-up question.\n\nLevel 1 and a daily quick review are always free. Earn more play time with a short, family-friendly ad in the grown-ups area, or go ad-free with a monthly plan.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free, no ads, optional monthly subscription",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-kidsphonics.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/soundwick/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": ""
+  },
+  "related": []
+}

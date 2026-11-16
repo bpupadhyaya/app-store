@@ -1,0 +1,36 @@
+{
+  "slug": "roadlark",
+  "name": "Roadlark",
+  "subtitle": "Signs, rules and mock tests",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "category:-education-privacy:-https://equalinformation.com/privacy-exam-roadlark.html",
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Practise for the Indian learner's licence test with road signs, traffic rules and timed mock tests. English and Hindi.",
+  "longDescription": "Practise for the Indian learner's licence (LL) test with road signs, traffic rules and timed mock tests for cars and two-wheelers. English and Hindi. No account, works offline.\n\n### Road Signs\nBrowse mandatory, cautionary and informatory signs and drill them with flashcards that bring missed signs back sooner.\n\n### Practice\nTopic quizzes (rules of the road, right of way, safe driving, licence and papers, law, two-wheeler rules, emergencies) with a short explanation and the Motor Vehicles Act reference for every answer.\n\n### Mock Tests and Mistakes\n20-question timed tests with 12-to-pass scoring in a general practice format, then review every answer. One tap to practise what you got wrong, plus progress by topic.\n\nFree with ads: watch a short ad to earn a mock test, or go ad-free with the monthly subscription. Hindi text is machine-drafted. Roadlark is not affiliated with any government agency and is not an official app; the real learner's licence test is run by your state transport department and can differ in format, language and content.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-exam-roadlark.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/roadlark/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": ""
+  },
+  "related": []
+}
