@@ -1,0 +1,43 @@
+{
+  "slug": "physics-c-mech-ap-vectorfen",
+  "name": "Physics C Mech AP: Vectorfen",
+  "subtitle": "AP Physics C Mechanics kinematics, Newton, energy, rotation, FRQs, mock exams.",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "ap physics c",
+    "mechanics",
+    "newton",
+    "energy",
+    "rotation",
+    "frq",
+    "mock exam",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "AP Physics C Mechanics kinematics, Newton, energy, rotation, FRQs, mock exams.",
+  "longDescription": "Vectorfen is an AP Physics C Mechanics exam prep app: practice questions, flashcards, interactive simulations and timed mock exams for calculus-based mechanics, covering kinematics, Newton's laws, energy, momentum, rotation, oscillations and gravitation.\n\n### Start With A Quick Check\nA 14-question starting check (two per unit) builds a personal daily plan weighted by unit and by your weak spots. Tabs for Today, Learn, Labs, Tests and Progress keep every session short.\n\n### Seven Units, 14 Lessons\nKinematics, force and translational dynamics, work, energy and power, linear momentum, torque and rotational dynamics, energy and momentum of rotating systems, and oscillations. Each lesson has point cards, a predict-first question and a five-question quiz, with a References control for every topic.\n\n### Practice Questions And Free Response\n674 original multiple-choice questions, 20 free-response problems with rubrics and worked solutions in the four exam question styles, spaced-repetition flashcards, and a mistake notebook that clears questions after two correct answers. Every answer has a full solution with steps and the common mistake.\n\n### Ten Interactive Labs\nMove sliders and see mechanics respond, from springs and oscillators to rolling bodies, torque and orbits. Every lab ends with a question computed from your own slider values.\n\n### Mock Exams\nA full 42-question, 85-minute multiple-choice practice exam with exact unit slots, a flag and review grid, followed by an optional 4-question, 95-minute free-response part with rubric self-scoring and a rough practice estimate.\n\n### Free To Start\nFour labs, practice, review and every worked solution are free. Watch optional short videos to earn credits for mocks, free-response sets and the other six labs, or choose the monthly ad-free plan ($3.99 per month, 7-day free trial for new subscribers; renews monthly until cancelled). Cancel any time in your Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again. Prefer not to subscribe? Watch short videos to earn credits and unlock features.\n\n### Built To Be Honest\nAll questions and explanations are original and have not been reviewed by a physics teacher. The score estimate is a rough practice estimate, not an official score. Format details can change; check the College Board exam page.\n\n### AP Disclaimer\nAP is a trademark registered and owned by the College Board, which was not involved in the production of and does not endorse this product. Vectorfen is not affiliated with, endorsed by or sponsored by the College Board.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-vectorfen.html",
+  "supportUrl": "https://equalinformation.com/app-support-vectorfen.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/physics-c-mech-ap-vectorfen/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.vectorfen.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.vectorfen.app"
+  },
+  "related": []
+}

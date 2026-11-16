@@ -1,0 +1,44 @@
+{
+  "slug": "physics-2-ap-voltmoor",
+  "name": "Physics 2 AP: Voltmoor",
+  "subtitle": "AP Physics 2 thermodynamics, circuits, magnetism, optics, FRQs and mock exams.",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "ap physics 2",
+    "physics 2",
+    "thermodynamics",
+    "circuits",
+    "magnetism",
+    "optics",
+    "frq",
+    "mock exam",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "AP Physics 2 thermodynamics, circuits, magnetism, optics, FRQs and mock exams.",
+  "longDescription": "Voltmoor is an AP Physics 2 exam prep app: short lessons, hands-on simulations, practice tests and timed mock exams for algebra-based physics, covering thermodynamics, electric force and field, circuits, magnetism, optics and modern physics.\n\n### Learn By Doing\nMove sliders in eight labs (gas piston, charges and field arrows, series and parallel resistors, RC charging, induction, lens ray diagram, double slit and the photoelectric effect) and answer a question about what you just changed. A 21-question starting check builds a daily plan, a memory schedule brings missed questions back, and every answer has a full worked solution.\n\n### Seven Units From The Course Framework\nThermodynamics, electric force, field and potential, electric circuits, magnetism and electromagnetism, geometric optics, waves, sound and physical optics, and modern physics, across 28 topics with short idea cards.\n\n### Practice That Works\n532 original questions (conceptual and computed numeric, with a common mistake explained for every answer) and 16 free-response prompts with 5-point self-scoring rubrics. Mock exams and free-response sets avoid repeating earlier ones.\n\n### Mock Exams In The Exam Shape\nA free quick mock of 14 multiple-choice questions, and a full mock with 42 multiple-choice questions in 85 minutes followed by 4 free-response questions in 95 minutes. Scores are a rough practice estimate, never an official score.\n\n### Sources\nEvery topic lists references: the College Board course framework, OpenStax physics textbooks and NIST constants.\n\n### Free To Use\nFree to use, with optional short videos for credits. Credits open the labs beyond the first three and the full mock. A monthly ad-free subscription ($3.99 per month, 7-day free trial for new subscribers; renews monthly until cancelled) removes ads. Cancel any time in your Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again. Prefer not to subscribe? Watch short videos to earn credits and unlock features.\n\n### Built To Be Honest\nAll questions and explanations are original and have not been reviewed by a subject expert. The current Physics 2 course framework no longer includes fluids, so Voltmoor does not cover it. Format details can change; check the College Board exam page.\n\n### AP Disclaimer\nAP is a trademark registered and owned by the College Board, which was not involved in the production of and does not endorse this product. Voltmoor is not affiliated with, endorsed by or sponsored by the College Board.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-voltmoor.html",
+  "supportUrl": "https://equalinformation.com/app-support-voltmoor.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/physics-2-ap-voltmoor/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.voltmoor.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.voltmoor.app"
+  },
+  "related": []
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "physics-1-ap-forcebrook",
+  "name": "Physics 1 AP: Forcebrook",
+  "subtitle": "AP Physics 1 kinematics, forces, energy, torque, labs, FRQs and mock exams.",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "ap physics 1",
+    "physics 1",
+    "kinematics",
+    "forces",
+    "torque",
+    "frq",
+    "mock exam",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "AP Physics 1 kinematics, forces, energy, torque, labs, FRQs and mock exams.",
+  "longDescription": "Forcebrook is an AP Physics 1 exam prep app: practice questions, interactive labs, full mock exams and a daily plan for algebra-based physics, covering kinematics, forces, energy, momentum, torque, oscillations and fluids.\n\n### Start With A Quick Check\nA 16-question starting check maps your strong and weak units, then a 10, 20 or 40 minute daily plan points you at the next best lesson, practice set, review or lab.\n\n### Learn By Doing\nEight units that follow the published course outline: kinematics, force and translational dynamics, work and energy, linear momentum, torque, rotating systems, oscillations and fluids. Predict first, read the key ideas, then answer a short quiz. 423 original practice questions and 16 free-response prompts, spaced-repetition memory cards and a mistake notebook that bring back what you missed.\n\n### Nine Interactive Labs\nMotion graphs, launch pad, force and friction cart, energy hill, collision track, seesaw torque, spinning skater, spring oscillator and pipe flow. Every lab ends with a question about the settings you just chose.\n\n### Mock Exams In The Real Format\n42 multiple-choice questions in 85 minutes, then 4 free-response questions in 95 minutes, with a formula sheet and a question grid. You score the free response against a clear checklist. Results show a rough practice estimate by unit, and fresh mocks avoid repeating questions.\n\n### Worked Solutions Always Free\nEvery answer has a full solution that opens in a panel beside the question, with steps, why the other choices fail and the common mistake. Every topic lists references, including the College Board course framework and OpenStax physics textbooks.\n\n### Free, With Optional Ad-Free\nCore practice, review and all worked solutions are free. Prefer not to subscribe? Watch short videos to earn credits and unlock features. Or go ad-free: Physics 1 AP Ad-Free Monthly is $3.99 per month after a 7-day free trial for new subscribers and renews monthly until cancelled. Restore purchases any time from the Me tab. Cancel any time in your Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again.\n\n### Built To Be Honest\nAll questions and explanations are original and have not been reviewed by a subject expert; the score estimate is a rough practice estimate, not an official score. Format details can change; check the College Board exam page.\n\n### AP Disclaimer\nAP is a trademark registered and owned by the College Board, which was not involved in the production of and does not endorse this product. Forcebrook is not affiliated with, endorsed by or sponsored by the College Board.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-forcebrook.html",
+  "supportUrl": "https://equalinformation.com/app-support-forcebrook.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/physics-1-ap-forcebrook/icon-512.png",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.forcebrook.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.forcebrook.app"
+  },
+  "related": []
+}
