@@ -1,0 +1,52 @@
+{
+  "slug": "discrete-mathematics-lemmora",
+  "name": "Discrete Mathematics: Lemmora",
+  "subtitle": "Logic, Proofs and Graph Theory",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "discrete mathematics",
+    "discrete math",
+    "logic",
+    "proofs",
+    "induction",
+    "combinatorics",
+    "counting",
+    "graph theory",
+    "sets",
+    "boolean algebra",
+    "recurrence",
+    "modular arithmetic",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive discrete mathematics course: logic, proofs, counting, graphs and number theory with worked solutions and labs. Free to use.",
+  "longDescription": "Lemmora is an adaptive, interactive undergraduate discrete mathematics course: logic, proofs, counting, graphs and number theory.\n\n### What you study\nPropositional and predicate logic, sets and functions, proof techniques including induction, counting and combinatorics, recurrences, relations, graph theory, Boolean algebra and modular arithmetic.\n\n### How it adapts\nA personalised path that learns from your mistakes and schedules reviews, or the traditional syllabus order. Switch any time. Every wrong answer points to the habit behind it.\n\n### Practice and labs\nOriginal problems with full worked solutions, typed-number and choice answers, unit checkpoints and timed mock exams, plus five interactive labs including a graph explorer where you search and drag the vertices.\n\n### Sources you can open\nCited textbooks and university courses open in a clear source window with the licence and a link. Tap any concept for a plain-language refresher from earlier maths, with notes on what comes next.\n\nFree to use. Ads appear only at natural breaks, never during a test, and every explanation stays free. An optional monthly plan removes ads. Not affiliated with or endorsed by any university or publisher named in the references.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/discrete-mathematics-lemmora/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-discrete-mathematics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_discrete_mathematics.app"
+  },
+  "related": [
+    "real-analysis-i-deltavane",
+    "probability-course-stochara"
+  ]
+}
