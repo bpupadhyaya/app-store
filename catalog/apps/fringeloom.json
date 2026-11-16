@@ -1,0 +1,51 @@
+{
+  "slug": "fringeloom",
+  "name": "Physics III Waves: Fringeloom",
+  "subtitle": "Optics, Heat & Thermodynamics",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "physics",
+    "physics 3",
+    "waves",
+    "optics",
+    "thermodynamics",
+    "heat",
+    "sound",
+    "light",
+    "lens",
+    "interference",
+    "entropy",
+    "college physics",
+    "course",
+    "quiz",
+    "adaptive",
+    "undergraduate",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive Physics III course: waves, sound, optics, heat and thermodynamics with interactive labs and quizzes. Free to use.",
+  "longDescription": "Fringeloom is a college-level physics course for waves, sound, optics, heat and thermodynamics. It adapts to what you get wrong.\n\n### What you can do\n- Follow a personalised adaptive path, or switch to the traditional syllabus order.\n- Practise with more than 200 original problems; every answer has a full worked solution, free.\n- Run interactive labs: two-source interference, a lens and ray bench, standing waves, an ideal-gas box, and Carnot and Otto engines.\n- Take unit checkpoints and a timed mock exam (no ads during tests).\n- Tap any concept for a simpler explanation (middle school to high school) or a deeper one.\n- See the courses to take before and after this one, with cited further study from open university courses, textbooks and lectures.\n\n### Topics\nSimple harmonic motion, traveling and standing waves, superposition, beats, the Doppler effect, sound intensity, interference, diffraction, thin films, polarisation, mirrors and lenses, optical instruments, temperature and heat, the ideal gas, kinetic theory, the first and second laws, heat engines and entropy.\n\nFree to use, with ads at natural breaks and an optional monthly plan that removes ads. Optional videos earn credits. Not affiliated with any university or publisher named as a reference.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/fringeloom/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-physics-3-waves-optics-thermal.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_physics_3_waves_optics_thermal.app"
+  },
+  "related": [
+    "voltavane"
+  ]
+}
