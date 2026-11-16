@@ -1,0 +1,48 @@
+{
+  "slug": "quantum-mechanics-ketora",
+  "name": "Quantum Mechanics: Ketora",
+  "subtitle": "Quantum Course, Labs, Quizzes",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "quantum mechanics",
+    "quantum physics",
+    "physics",
+    "schrodinger equation",
+    "wave function",
+    "uncertainty principle",
+    "tunneling",
+    "spin",
+    "hydrogen atom",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive undergraduate quantum mechanics course with interactive labs, quizzes and worked solutions. Free to use.",
+  "longDescription": "Ketora is an adaptive, interactive undergraduate quantum mechanics course.\n\n### What you study\nThe wave function and the Schrödinger equation, the uncertainty principle, quantum tunnelling and barriers, the harmonic oscillator, angular momentum and spin, and the hydrogen atom.\n\n### How it adapts\nA personalised path that learns from your mistakes and schedules reviews, or the traditional syllabus order. Switch any time. Each wrong answer points to the habit behind it.\n\n### Interactive labs\nExplore wave packets, energy levels and tunnelling through a barrier, and see how the shapes change as you move the parameters.\n\n### Practice and sources\nOriginal problems with full worked solutions, unit checkpoints and timed mock exams. Tap any concept for a plain-language refresher from earlier physics and maths, with notes on what comes next. Cited university courses and textbooks open in a clear source window with the licence and a link.\n\nFree to use. Ads appear only at natural breaks, never during a test, and every explanation stays free. An optional monthly plan removes ads. Not affiliated with any university, publisher or channel named in the references.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/quantum-mechanics-ketora/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-quantum-mechanics-1.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_quantum_mechanics_1.app"
+  },
+  "related": [
+    "modern-physics-quantaro",
+    "linear-algebra-vectrine"
+  ]
+}
