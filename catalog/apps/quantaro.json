@@ -1,0 +1,47 @@
+{
+  "slug": "quantaro",
+  "name": "Modern Physics: Quantaro",
+  "subtitle": "Modern Physics Course, Labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "modern physics",
+    "physics course",
+    "relativity",
+    "quantum mechanics",
+    "photoelectric effect",
+    "Bohr model",
+    "tunnelling",
+    "nuclear physics",
+    "college physics",
+    "quiz",
+    "adaptive",
+    "undergraduate",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive modern physics course: relativity, quantum physics, atoms and nuclei, with interactive labs and quizzes. Free to use.",
+  "longDescription": "Quantaro is an adaptive modern physics course. Learn modern physics the interactive way: special relativity, blackbody radiation and the photoelectric effect, the Bohr model, matter waves, the Schrodinger equation, tunnelling, the hydrogen atom, spin, many-electron atoms, nuclear physics, particle physics and cosmology.\n\n### Practice that adapts to you\nThe app tracks what you know topic by topic, finds the idea behind each wrong answer and picks your next questions from your mistakes, or you can follow the traditional syllabus order.\n\n### Learn by doing\nEight interactive labs (including a spacetime diagram, the twin paradox, the photoelectric effect, electron double-slit interference, tunnelling and hydrogen orbitals), hundreds of original questions with worked solutions for every one, timed mock exams, and concept pop-ups that explain any idea from school level up. Cited further study points to open university courses, textbooks and the founding papers.\n\nFree with ads, with an optional monthly ad-free plan. All content is original; sources are linked, not copied. Not affiliated with any university or course provider named.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/quantaro/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-modern-physics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_modern_physics.app"
+  },
+  "related": [
+    "voltavane"
+  ]
+}
