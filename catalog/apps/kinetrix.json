@@ -1,0 +1,52 @@
+{
+  "slug": "kinetrix",
+  "name": "Physics I Mechanics: Kinetrix",
+  "subtitle": "Adaptive Physics I course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "physics",
+    "physics 1",
+    "physics I",
+    "mechanics",
+    "newton",
+    "kinematics",
+    "forces",
+    "energy",
+    "momentum",
+    "rotation",
+    "orbits",
+    "college physics",
+    "course",
+    "quiz",
+    "adaptive",
+    "undergraduate",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive Physics I mechanics course with quizzes, interactive labs and worked solutions. Free to use.",
+  "longDescription": "Kinetrix is an adaptive university physics course for first-year mechanics. It follows the standard syllabus: units and vectors, kinematics, Newton's laws, friction and circular motion, work and energy, momentum and collisions, rotation and torque, angular momentum, static equilibrium, gravitation and orbits, and simple harmonic motion.\n\n### What you get\n- **Personalised path:** questions are chosen from your mistakes, weak topics and spaced reviews. Or follow the traditional curriculum order; switch any time.\n- **Interactive labs:** projectile motion with air drag, a free-body incline, a collision lab, an orbit sandbox, and spring and pendulum oscillators.\n- **More than 300 original problems** with step-by-step worked solutions, common-mistake notes, unit tests and timed mock exams.\n- **K-12 to graduate pop-ups** explain any concept at a lower or higher level.\n- Sources and further study (such as MIT OpenCourseWare, OpenStax and Khan Academy) open in an in-app window with the licence and a link.\n\nFree with ads, with an optional monthly ad-free plan; cancel any time in your account settings. Not affiliated with or endorsed by MIT, OpenStax, Khan Academy, edX, Coursera, or any university; they are cited as further study only.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/kinetrix/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-physics-1-mechanics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_physics_1_mechanics.app"
+  },
+  "related": [
+    "voltavane",
+    "fringeloom"
+  ]
+}
