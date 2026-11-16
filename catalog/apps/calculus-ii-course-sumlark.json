@@ -1,5 +1,5 @@
 {
-  "slug": "sumlark",
+  "slug": "calculus-ii-course-sumlark",
   "name": "Calculus II Course: Sumlark",
   "subtitle": "Calculus II Integrals & Series",
   "categories": [
@@ -33,7 +33,7 @@
   "releasedAt": "2026-11-16",
   "updatedAt": "2026-11-16",
   "version": "1.0.0",
-  "icon": "assets/apps/sumlark/icon-512.png",
+  "icon": "assets/apps/calculus-ii-course-sumlark/icon-512.png",
   "ios": {
     "status": "soon",
     "url": "",
@@ -45,7 +45,7 @@
     "package": "com.equalinformation.course_math_calculus_2.app"
   },
   "related": [
-    "epsilume",
-    "vectrine"
+    "calculus-i-course-epsilume",
+    "linear-algebra-vectrine"
   ]
 }

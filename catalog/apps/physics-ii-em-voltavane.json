@@ -1,5 +1,5 @@
 {
-  "slug": "voltavane",
+  "slug": "physics-ii-em-voltavane",
   "name": "Physics II E&M: Voltavane",
   "subtitle": "Electricity and Magnetism",
   "categories": [
@@ -31,7 +31,7 @@
   "releasedAt": "2026-11-16",
   "updatedAt": "2026-11-16",
   "version": "1.0.0",
-  "icon": "assets/apps/voltavane/icon-512.png",
+  "icon": "assets/apps/physics-ii-em-voltavane/icon-512.png",
   "ios": {
     "status": "soon",
     "url": "",

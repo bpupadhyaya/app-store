@@ -1,5 +1,5 @@
 {
-  "slug": "vectrine",
+  "slug": "linear-algebra-vectrine",
   "name": "Linear Algebra: Vectrine",
   "subtitle": "Linear Algebra course and quiz",
   "categories": [
@@ -31,7 +31,7 @@
   "releasedAt": "2026-11-16",
   "updatedAt": "2026-11-16",
   "version": "1.0.0",
-  "icon": "assets/apps/vectrine/icon-512.png",
+  "icon": "assets/apps/linear-algebra-vectrine/icon-512.png",
   "ios": {
     "status": "soon",
     "url": "",
@@ -43,6 +43,6 @@
     "package": "com.equalinformation.course_math_linear_algebra.app"
   },
   "related": [
-    "epsilume"
+    "calculus-i-course-epsilume"
   ]
 }

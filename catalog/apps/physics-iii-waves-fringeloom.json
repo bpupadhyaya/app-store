@@ -1,5 +1,5 @@
 {
-  "slug": "fringeloom",
+  "slug": "physics-iii-waves-fringeloom",
   "name": "Physics III Waves: Fringeloom",
   "subtitle": "Optics, Heat & Thermodynamics",
   "categories": [
@@ -34,7 +34,7 @@
   "releasedAt": "2026-11-16",
   "updatedAt": "2026-11-16",
   "version": "1.0.0",
-  "icon": "assets/apps/fringeloom/icon-512.png",
+  "icon": "assets/apps/physics-iii-waves-fringeloom/icon-512.png",
   "ios": {
     "status": "soon",
     "url": "",
@@ -46,6 +46,6 @@
     "package": "com.equalinformation.course_phys_physics_3_waves_optics_thermal.app"
   },
   "related": [
-    "voltavane"
+    "physics-ii-em-voltavane"
   ]
 }

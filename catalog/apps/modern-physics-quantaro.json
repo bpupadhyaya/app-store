@@ -1,5 +1,5 @@
 {
-  "slug": "quantaro",
+  "slug": "modern-physics-quantaro",
   "name": "Modern Physics: Quantaro",
   "subtitle": "Modern Physics Course, Labs",
   "categories": [
@@ -30,7 +30,7 @@
   "releasedAt": "2026-11-16",
   "updatedAt": "2026-11-16",
   "version": "1.0.0",
-  "icon": "assets/apps/quantaro/icon-512.png",
+  "icon": "assets/apps/modern-physics-quantaro/icon-512.png",
   "ios": {
     "status": "soon",
     "url": "",
@@ -42,6 +42,6 @@
     "package": "com.equalinformation.course_phys_modern_physics.app"
   },
   "related": [
-    "voltavane"
+    "physics-ii-em-voltavane"
   ]
 }

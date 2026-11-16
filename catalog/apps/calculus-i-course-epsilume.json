@@ -1,5 +1,5 @@
 {
-  "slug": "epsilume",
+  "slug": "calculus-i-course-epsilume",
   "name": "Calculus I Course: Epsilume",
   "subtitle": "Calculus I: Limits, Integrals",
   "categories": [
@@ -30,7 +30,7 @@
   "releasedAt": "2026-11-16",
   "updatedAt": "2026-11-16",
   "version": "1.0.0",
-  "icon": "assets/apps/epsilume/icon-512.png",
+  "icon": "assets/apps/calculus-i-course-epsilume/icon-512.png",
   "ios": {
     "status": "soon",
     "url": "",
@@ -42,6 +42,6 @@
     "package": "com.equalinformation.course_math_calculus_1.app"
   },
   "related": [
-    "vectrine"
+    "linear-algebra-vectrine"
   ]
 }

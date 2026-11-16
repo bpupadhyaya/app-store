@@ -1,5 +1,5 @@
 {
-  "slug": "kinetrix",
+  "slug": "physics-i-mechanics-kinetrix",
   "name": "Physics I Mechanics: Kinetrix",
   "subtitle": "Adaptive Physics I course",
   "categories": [
@@ -34,7 +34,7 @@
   "releasedAt": "2026-11-16",
   "updatedAt": "2026-11-16",
   "version": "1.0.0",
-  "icon": "assets/apps/kinetrix/icon-512.png",
+  "icon": "assets/apps/physics-i-mechanics-kinetrix/icon-512.png",
   "ios": {
     "status": "soon",
     "url": "",
@@ -46,7 +46,7 @@
     "package": "com.equalinformation.course_phys_physics_1_mechanics.app"
   },
   "related": [
-    "voltavane",
-    "fringeloom"
+    "physics-ii-em-voltavane",
+    "physics-iii-waves-fringeloom"
   ]
 }
