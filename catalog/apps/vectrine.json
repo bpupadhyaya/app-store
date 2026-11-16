@@ -1,0 +1,48 @@
+{
+  "slug": "vectrine",
+  "name": "Linear Algebra: Vectrine",
+  "subtitle": "Linear Algebra course and quiz",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "linear algebra",
+    "matrix",
+    "eigenvalue",
+    "eigenvector",
+    "determinant",
+    "vector space",
+    "SVD",
+    "course",
+    "adaptive",
+    "quiz",
+    "college",
+    "undergraduate",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive linear algebra course: matrices, eigenvalues, SVD, quizzes and simulations that follow your mistakes. Free to use.",
+  "longDescription": "Vectrine is a free, adaptive linear algebra course for college students and self-learners. It covers systems of equations and row reduction, matrices and inverses, determinants, vector spaces (span, basis, dimension, rank and nullity), linear transformations, orthogonality, projections and least squares, eigenvalues and eigenvectors, diagonalization, symmetric matrices and the singular value decomposition (SVD).\n\n### Practice that adapts to you\nThe app tracks mastery per topic, spots the specific mistake pattern behind each wrong answer, and chooses your next question from those mistakes, with spaced review. Switch to the traditional curriculum order any time.\n\n### Learn by doing\nFour interactive labs (a grid morpher with an SVD mode, an eigenvector explorer, a row-reduction stepper and a least-squares fitter), more than 190 original questions with worked solutions, unit checkpoints and timed mock exams. Tap any concept for an explanation from K-12 level up to graduate level. Every topic links to further study such as MIT OpenCourseWare, Khan Academy and 3Blue1Brown. All questions and explanations are original; sources are linked, never copied.\n\nFree with ads at natural breaks, with an optional monthly ad-free plan. Not affiliated with any university or listed source.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/vectrine/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-linear-algebra.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_linear_algebra.app"
+  },
+  "related": [
+    "epsilume"
+  ]
+}

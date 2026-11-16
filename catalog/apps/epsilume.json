@@ -1,0 +1,47 @@
+{
+  "slug": "epsilume",
+  "name": "Calculus I Course: Epsilume",
+  "subtitle": "Calculus I: Limits, Integrals",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "calculus 1",
+    "calculus I",
+    "derivatives",
+    "integrals",
+    "limits",
+    "AP calculus",
+    "college math",
+    "optimization",
+    "quiz",
+    "adaptive",
+    "undergraduate",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive Calculus I course: limits, derivatives, integrals, interactive labs and mock exams that find your mistakes. Free to use.",
+  "longDescription": "Epsilume is a complete first-semester calculus course that adapts to you. Choose the Personalised path and the app picks your next question from the patterns in your mistakes and from what is due for review, or follow the Traditional textbook order.\n\n### Topics\nLimits and continuity, one-sided and infinite limits, the derivative as a limit, product, quotient and chain rules, implicit differentiation, related rates, linearisation, optimisation, the Mean Value Theorem, curve sketching, l'Hopital's rule, antiderivatives, Riemann sums, the Fundamental Theorem of Calculus, substitution, and area between curves.\n\n### What you get\n- Adaptive practice with a mastery model that runs entirely on your device\n- Worked solutions for every question, always free, with why each wrong choice fails\n- Four interactive labs: secant to tangent, derivative-graph linker, Riemann sums with accumulation, optimisation\n- Checkpoints, unit tests and timed mock exams (no ads during timed tests)\n- Tap any concept for a simpler (K-12) or deeper (graduate-level) explanation\n- Cited further study: MIT OpenCourseWare, OpenStax, Khan Academy, edX, Coursera and respected YouTube series, linked and credited\n\nThe app is free with ads at natural breaks. An optional monthly subscription removes ads. Not affiliated with or endorsed by MIT, OpenStax, Khan Academy, edX, Coursera or YouTube creators; they are cited as further study.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/epsilume/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-calculus-1.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_calculus_1.app"
+  },
+  "related": [
+    "vectrine"
+  ]
+}

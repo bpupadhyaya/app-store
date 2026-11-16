@@ -1,0 +1,46 @@
+{
+  "slug": "voltavane",
+  "name": "Physics II E&M: Voltavane",
+  "subtitle": "Electricity and Magnetism",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "physics 2",
+    "physics II",
+    "electricity",
+    "magnetism",
+    "electromagnetism",
+    "circuits",
+    "maxwell",
+    "college physics",
+    "induction",
+    "capacitor",
+    "quiz",
+    "adaptive",
+    "undergraduate",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive Physics II: electricity, magnetism, circuits and Maxwell's equations, with live labs and practice that follows your mistakes. Free to use.",
+  "longDescription": "Master Physics II (Electricity and Magnetism) with a course that adapts to you. Learn charge, Coulomb's law, electric fields and Gauss's law, potential and capacitance, current and DC circuits, magnetic forces, Ampere's law, Faraday induction and Lenz's law, inductance, AC circuits and Maxwell's equations.\n\n### Hands-on labs\nFour interactive labs: a field and potential bench with draggable charges, a charged particle in a magnetic field, an RC and RL transient scope, and an induction loop.\n\n### Practice that follows your mistakes\nMore than 300 original problems with full worked solutions, unit checkpoints, two timed mock exams, spaced review, and quick pop-ups that explain any idea at an easier level. Choose a Personalised path that targets your mistakes, or the Traditional syllabus order.\n\nFree with ads, with an optional monthly ad-free plan. Not affiliated with MIT, OpenStax, Coursera, edX or any university; sources are cited and linked inside the app.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/voltavane/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-physics-2-electromagnetism.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_physics_2_electromagnetism.app"
+  },
+  "related": []
+}
