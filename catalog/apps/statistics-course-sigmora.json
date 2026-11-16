@@ -1,0 +1,49 @@
+{
+  "slug": "statistics-course-sigmora",
+  "name": "Statistics Course: Sigmora",
+  "subtitle": "Statistics Practice and Labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "statistics",
+    "probability",
+    "hypothesis testing",
+    "regression",
+    "confidence interval",
+    "anova",
+    "p-value",
+    "bayes",
+    "bootstrap",
+    "college statistics",
+    "AP statistics",
+    "central limit theorem",
+    "quiz",
+    "adaptive",
+    "undergraduate",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive statistics course: practice tests, six interactive labs and worked solutions, from sampling to regression. Free to use.",
+  "longDescription": "Prepare for an introductory college statistics course with an adaptive study app that finds your weak spots. Sigmora covers descriptive statistics and data visualisation, sampling and study design, probability, sampling distributions and the central limit theorem, confidence intervals, hypothesis tests and p-values (z, t and proportions), power and error types, comparing groups, chi-square tests, simple and multiple regression, ANOVA, nonparametric tests, bootstrap and permutation tests, and an introduction to Bayesian inference.\n\n### What makes it adaptive\n- A mastery model for every statistics topic; the next question comes from your mistakes.\n- Each wrong answer names the misconception behind it (for example dividing by n instead of n - 1, or reading a confidence interval as a probability).\n- Spaced review brings statistics topics back before you forget them.\n- Choose the personalised path or the standard syllabus order, and switch any time.\n\n### Practise and understand\n- Over 800 statistics questions with a full worked solution beside every answer.\n- Unit checkpoints, a placement quiz, a mistake notebook and timed mock exams with no ads.\n- Tap any concept to see it from middle school up to graduate level.\n- Cited textbooks, university courses and videos for further study, each opened in a clear source window.\n\n### Six interactive statistics labs\nSampling distribution and the central limit theorem, confidence interval coverage, a p-value and power explorer, a regression fitter with outliers and leverage, a bootstrap resampler, and a Simpson's paradox explorer.\n\nFree with occasional ads at natural breaks (never during timed tests or before an answer). You can also earn credits by choosing to watch short videos, or remove ads with an optional monthly plan. Not affiliated with any university, publisher or channel named in the references. Progress stays on your device.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/statistics-course-sigmora/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-statistics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_statistics.app"
+  },
+  "related": []
+}
