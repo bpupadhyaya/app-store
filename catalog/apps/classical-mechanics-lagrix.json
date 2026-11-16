@@ -1,0 +1,48 @@
+{
+  "slug": "classical-mechanics-lagrix",
+  "name": "Classical Mechanics: Lagrix",
+  "subtitle": "Classical Mechanics Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "classical mechanics",
+    "lagrangian",
+    "hamiltonian",
+    "physics",
+    "oscillations",
+    "orbits",
+    "kepler",
+    "noether",
+    "rigid body",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive classical mechanics course: Lagrangian and Hamiltonian mechanics, eight interactive labs and worked solutions. Free to use.",
+  "longDescription": "Lagrix is an adaptive classical mechanics course for the second mechanics course in physics, engineering and mathematics: oscillations and resonance, central forces and Kepler orbits, calculus of variations, Lagrangian and Hamiltonian mechanics, Noether's theorem, rigid-body rotation, rotating frames and an introduction to chaos.\n\n### How it adapts\nThe app tracks mastery of 37 topics, recognises your mistake patterns (a dropped factor, an inverted ratio, a mixed-up conservation law) and picks what to study next. Prefer the textbook order? Switch to the traditional path any time.\n\n### Eight interactive labs\nPredict-then-run labs: a draggable double pendulum (chaos), a phase-space explorer with Poisson brackets, Kepler orbits with precession, coupled oscillators and normal modes, a bead on a wire (Lagrange versus Newton), the tennis-racket flip and a heavy top, a Coriolis turntable and a brachistochrone race.\n\n### Practice and understanding\nWorked solutions beside every answer, free for everyone, with the common mistake explained. Quizzes, checkpoints, unit tests and timed mock exams, with spaced review of what you missed. Open any idea at school level, early-undergraduate level, or as a pointer to graduate level. Cited sources open in a clear window with the licence and a link.\n\nFree to use. Ads appear only at natural breaks, never during a test, and every explanation stays free. An optional monthly plan removes ads. Not affiliated with any university or publisher named in the references.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/classical-mechanics-lagrix/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-classical-mechanics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_classical_mechanics.app"
+  },
+  "related": [
+    "physics-i-mechanics-kinetrix",
+    "quantum-mechanics-ketora"
+  ]
+}
