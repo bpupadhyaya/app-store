@@ -21,7 +21,7 @@ const FAILS = []; const fail = m => FAILS.push(m);
 const lookupRaw = async q => { try { const r = await fetch(`https://itunes.apple.com/lookup?${q}&country=us`, { signal: AbortSignal.timeout(15000) }); return (await r.json()).results?.[0] || null; } catch { return null; } };
 let LK = null; // iTunes lookup result (null while the app is not yet public)
 if (!flag('no-probe')) LK = opt('apple-id') ? await lookupRaw('id=' + opt('apple-id')) : opt('bundle') ? await lookupRaw('bundleId=' + opt('bundle')) : null;
-let slug = positional[0] || (LK ? LK.trackName.split(':')[0].trim().toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') : '');
+let slug = positional[0] || (LK ? LK.trackName.split(':').pop().trim().toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') : '');
 if (!slug || !/^[a-z0-9-]+$/.test(slug)) { console.error('usage: ingest-app.mjs <slug> [--apple-id N] [--submitted] [--dry] (see header)'); process.exit(2); }
 const CC = opt('cc') || process.env.CC_DIR || path.join(os.homedir(), 'coding_common/pvt/command-center');
 const T = path.join(CC, 'docs/tasks'), PP = path.join(T, 'publish-program');
@@ -41,8 +41,9 @@ const field = (re, s = text) => (s.match(re) || [])[1]?.trim();
 const status = rd(path.join(PP, 'STATUS.md')).split('\n').filter(l => /^\|\s*\d+\s*\|/.test(l)).map(l => l.split('|').map(c => c.trim())).find(c => norm(c[2].replace(/\(.*\)/, '')) === norm(opt('name') || slug)) || [];
 const rowText = status.join(' ');
 const fullName = P.name || LK?.trackName || '';
-const name = opt('name') || old.name || fullName.split(':')[0].trim() || status[2]?.replace(/\(.*\)/, '').trim() || '';
-const subtitle = opt('subtitle') || P.subtitle || old.subtitle || (fullName.includes(':') ? fullName.split(':').slice(1).join(':').trim() : '');
+// Names are SUBJECT-FIRST (owner rule 2026-11-16): the catalog name is the full store name '<Subject Words>: <Brand>'; the brand is the part after the colon.
+const name = opt('name') || old.name || fullName.trim() || status[2]?.replace(/\(.*\)/, '').trim() || '';
+const subtitle = opt('subtitle') || P.subtitle || old.subtitle || '';
 const promo = P.promo, keywords = P.keywords;
 const whatsNewText = P.whatsNew || (LK?.releaseNotes || '').trim() || 'First release.';
 const whatsNew = (flag('refresh-text') ? whatsNewText : '') || old.whatsNew || whatsNewText;
