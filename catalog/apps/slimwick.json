@@ -27,8 +27,8 @@
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-util-image-compress.html",
-  "releasedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
   "version": "1.0.0",
   "icon": "assets/apps/slimwick/icon-512.png",
   "hero": "assets/apps/slimwick/hero.webp",
@@ -95,8 +95,8 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/image-compressor-slimwick/id6834737267",
     "bundleId": "com.equalinformation.utilimagecompress.app"
   },
   "android": {
