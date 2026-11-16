@@ -1,0 +1,49 @@
+{
+  "slug": "real-analysis-i-deltavane",
+  "name": "Real Analysis I: Deltavane",
+  "subtitle": "Real Analysis: epsilon-delta",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "real analysis",
+    "undergraduate",
+    "epsilon delta",
+    "sequences",
+    "series",
+    "continuity",
+    "compactness",
+    "Riemann integral",
+    "proofs",
+    "limits",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive real analysis course: epsilon-delta proofs, sequences, series and continuity, checked exactly. Free to use.",
+  "longDescription": "Deltavane is an adaptive undergraduate Real Analysis course you can carry in your pocket: a first course in real analysis covering epsilon-delta proofs, sequences, series, continuity, compactness and the Riemann integral. Instead of only reading proofs, you build them: choose the delta for an epsilon-delta limit and the app checks it exactly, choose N for a sequence and watch the tail stay inside the epsilon tube, put proof steps in a valid order, spot the flawed line, and break false claims with counterexamples.\n\n### What you study\nThe real numbers and the completeness axiom; sequences and limits; monotone convergence; Bolzano-Weierstrass; Cauchy sequences; series and convergence tests; limits of functions and continuity; uniform continuity; open, closed, compact and connected sets; differentiation and the mean value theorem; the Riemann integral and the fundamental theorem of calculus; pointwise and uniform convergence of function sequences.\n\n### How it adapts\nTwo learning paths: Personalised (the app chooses the next problem from your mastery, your repeated slips and spaced reviews) or Traditional (curriculum order). Switch any time.\n\n### Interactive labs\nAn epsilon-delta game, an epsilon-N tube, Riemann sums, pointwise versus uniform convergence, and a Cantor set explorer. Every worked solution is free. Step-down pop-ups explain a concept at school or calculus level when you are stuck, and step-up notes point to what comes next. References to university courses, textbooks and videos open in an in-app window with the source, licence and a link.\n\nBefore this course: Calculus I and II, Discrete Mathematics (proof writing). After: Real Analysis II, Complex Analysis, Topology, Measure Theory.\n\nFree with ads at natural breaks (never during a timed mock exam or before a solution), with an optional monthly ad-free plan. Not affiliated with or endorsed by any university, publisher or course named in the app.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/real-analysis-i-deltavane/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-real-analysis-1.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_real_analysis_1.app"
+  },
+  "related": [
+    "calculus-i-course-epsilume",
+    "calculus-ii-course-sumlark"
+  ]
+}
