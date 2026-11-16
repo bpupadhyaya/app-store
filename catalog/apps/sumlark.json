@@ -1,0 +1,51 @@
+{
+  "slug": "sumlark",
+  "name": "Calculus II Course: Sumlark",
+  "subtitle": "Calculus II Integrals & Series",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "calculus 2",
+    "calculus II",
+    "integration",
+    "series",
+    "Taylor series",
+    "parametric",
+    "polar",
+    "convergence",
+    "improper integrals",
+    "volume",
+    "arc length",
+    "quiz",
+    "adaptive",
+    "undergraduate",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive Calculus II course: integration, series, Taylor and polar curves, with interactive labs and step-by-step solutions. Free to study.",
+  "longDescription": "Sumlark is a complete, adaptive Calculus II course in your pocket. It follows the standard Calculus II syllabus: techniques of integration, applications of integration, sequences and series, power series and Taylor series, and parametric and polar curves.\n\n### What makes it different\n- **Personalised path:** the app tracks what you know topic by topic, notices the kind of mistake you make (for example forgetting to change the limits after a substitution), and chooses your next question from those mistakes. Prefer the textbook order? Switch to the traditional path at any time.\n- **More than 350 original practice problems**, including many variants of each problem type, with a full worked solution for every one. Solutions are never locked.\n- **Four interactive labs:** a Taylor polynomial lab, a series convergence explorer, a solids-of-revolution slicer and a parametric and polar curve tracer. Predict first, then test.\n- **Timed unit checkpoints and a mock exam,** with no ads while the clock runs.\n- **Refresher pop-ups** that explain a concept one level down (school and Calculus I), at course level, and one level up, so you never have to leave the app when a prerequisite idea is shaky.\n- Clear pages for the courses before and after Calculus II, and citations for further study such as MIT OpenCourseWare, OpenStax, Khan Academy, edX, Coursera, standard textbooks and well-known video series.\n\n### Topics covered\nSubstitution, integration by parts, trigonometric integrals and substitution, partial fractions, improper integrals, numerical integration; area between curves, volumes by disks, washers and shells, arc length, work and average value; sequences, geometric series, divergence test, integral test, comparison tests, alternating series, ratio test, power series and radius of convergence, Taylor and Maclaurin series with error bounds; parametric curves, polar coordinates, polar area and arc length.\n\nFree with short ads at natural breaks (never during a timed test and never before an explanation), with an optional monthly ad-free plan. Your progress stays on your device. No account needed. Not affiliated with or endorsed by MIT, Stanford, Harvard, OpenStax, Khan Academy, edX, Coursera or any author or publisher named for further study.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/sumlark/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-calculus-2.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_calculus_2.app"
+  },
+  "related": [
+    "epsilume",
+    "vectrine"
+  ]
+}
