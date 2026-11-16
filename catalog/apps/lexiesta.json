@@ -27,8 +27,8 @@
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-lang-flashcards-es.html",
-  "releasedAt": "2026-11-14",
-  "updatedAt": "2026-11-14",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
   "version": "1.0.0",
   "icon": "assets/apps/lexiesta/icon-512.png",
   "hero": "assets/apps/lexiesta/hero.webp",
@@ -95,8 +95,8 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/spanish-flashcards-lexiesta/id6834732687",
     "bundleId": "com.equalinformation.langflashcardses.app"
   },
   "android": {
