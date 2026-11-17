@@ -1,0 +1,49 @@
+{
+  "slug": "numerical-algebra-pivotrix",
+  "name": "Numerical Algebra: Pivotrix",
+  "subtitle": "Numerical Linear Algebra, QR",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "numerical linear algebra",
+    "conditioning",
+    "pivoting",
+    "cholesky",
+    "gmres",
+    "krylov",
+    "stability",
+    "sparse",
+    "householder",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive numerical linear algebra course: conditioning, LU and QR factorisation and iterative solvers with six hands-on labs. Free to use.",
+  "longDescription": "Numerical Algebra: Pivotrix is a free, adaptive course in numerical linear algebra for college students and self-learners: how computers actually solve matrix problems, and why they sometimes get them wrong.\n\nWhat you study\n- Floating-point numbers, rounding, cancellation and vector and matrix norms\n- Conditioning: condition numbers, residual versus error, Hilbert matrices\n- LU factorisation, pivoting, growth factors and stability\n- Cholesky factorisation for symmetric positive definite systems\n- QR factorisation: Gram-Schmidt, Householder reflections, loss of orthogonality\n- Least squares: normal equations versus QR, and the singular value decomposition\n- Iterative methods: Jacobi, Gauss-Seidel, SOR, conjugate gradients, Krylov spaces and GMRES\n- Eigenvalue algorithms: power, inverse and QR iteration with shifts\n- Sparse matrices, fill-in, orderings and honest flop counts\n\nHow it teaches\n- You type numbers, not just tap choices: condition numbers, pivots, Cholesky entries, Gauss-Seidel sweeps, CG steps, QR iterates and fill counts.\n- The practice engine tracks your mastery of each of the 14 topics as digits of accuracy, names the mistake pattern behind each wrong answer (for example \"pivoting only matters for a zero pivot\" or \"normal equations are as accurate as QR\") and brings those questions back after half a day, a day, three days and longer.\n- Switch between a personalised path and the traditional syllabus order at any time.\n- Every question has a free worked solution. More than 130 original questions; the mock exam uses only questions whose answers were verified by a second calculation.\n- Tap any concept for a short explanation at the K-12, undergraduate and graduate level; tap any source for its details and a link.\n\nSix hands-on labs\n- Conditioning explorer: nearly parallel lines and the jump of the solution\n- LU pivoting stepper: multipliers, growth factor and the 1e-17 pivot\n- Orthogonality lab: classical and modified Gram-Schmidt against Householder QR\n- Iterative solver race: Jacobi, Gauss-Seidel, SOR and CG on a Poisson system\n- Eigenvalue lab: power iteration on the plane and QR iteration with shifts\n- Sparse fill-in lab: tap a nonzero pattern and compare orderings\n\nFree to use, works offline, no account needed. Ads appear only between sessions, never in an exam and never before an explanation. An optional monthly subscription removes ads. Payment is charged to your Apple ID account at confirmation of purchase after a 7-day free trial; the subscription renews automatically unless cancelled at least 24 hours before the end of the current period, and you can manage or cancel it in your Account Settings.\n\nSources are cited and linked, not copied. Not affiliated with any university or publisher named in the citations.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/numerical-algebra-pivotrix/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-numerical-linear-algebra.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_numerical_linear_algebra.app"
+  },
+  "related": [
+    "numerical-analysis-iterova",
+    "linear-algebra-vectrine"
+  ]
+}
