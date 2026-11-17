@@ -1,0 +1,50 @@
+{
+  "slug": "intro-to-proofs-qedlark",
+  "name": "Intro to Proofs: Qedlark",
+  "subtitle": "Intro to Proofs: Logic, Sets",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "proofs",
+    "intro to proofs",
+    "logic",
+    "sets",
+    "induction",
+    "contradiction",
+    "contrapositive",
+    "quantifiers",
+    "truth table",
+    "discrete",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive introduction to proofs: logic, quantifiers, induction and sets with five hands-on labs, including proof ordering. Free to use.",
+  "longDescription": "Intro to Proofs: Qedlark is a free, adaptive course for the moment in a mathematics degree when answers stop being numbers and become arguments. It teaches you to read, check and write proofs, one skill at a time.\n\n### What You Learn\nEleven short units take you from statements and truth tables to quantifiers, direct proof, the contrapositive, contradiction, cases, sets, induction, functions, relations and the first ideas of cardinality. Each unit opens with a plain-language lesson written for this app, and every key idea has a pop-up that explains it at three levels: school, university and what comes later.\n\n### Practise The Way Proofs Are Really Worked\n- Put a proof in order: shuffled steps, accepted whenever every step comes after the facts it needs.\n- Find the flawed line in a convincing but wrong proof, and learn what kind of mistake it was.\n- Classify formulas with truth tables, count true rows and decide whether two statements are equivalent.\n- Negate nested quantifiers without slipping on the order of the words \"for all\" and \"there exists\".\n- Check counts, mappings and relations that a computer has verified.\n\n### Adapts To You\nThe app tracks how well you know each unit and each proof method (logic, direct, indirect, cases, sets, induction, maps and craft). It notices the mistakes you repeat, such as mixing up a statement and its converse, and brings the right practice back at the right time. Choose the personalised path or follow the course in order, and switch whenever you like. Timed mock exams use only questions whose answers were verified by code.\n\n### Five Labs\nProof Workbench, Truth and Negation Explorer, Induction Dominoes, Flaw Lab and Bijection Matcher let you change a base case, a formula or an arrow and see what depends on it.\n\n### Free, With Optional Ad Removal\nEvery lesson, question, lab and worked solution is free. The app shows ads at natural breaks, never during a mock exam. You can watch a short video if you choose to earn an extra mock exam, or subscribe monthly to remove the ads. Your learning progress stays on your device.\n\n### Sources\nScope follows public syllabi from leading universities. All text, questions and figures are original; courses and books are cited with links and licences inside the app. Not affiliated with any university or publisher.\n\nSubscription: Intro to Proofs Ad-Free Monthly removes ads. Price and the 7-day free trial are shown by the App Store before you subscribe. The subscription renews monthly until you cancel it in Settings, at least 24 hours before the end of the period.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/intro-to-proofs-qedlark/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-intro-to-proofs.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_intro_to_proofs.app"
+  },
+  "related": [
+    "discrete-mathematics-lemmora",
+    "real-analysis-i-deltavane"
+  ]
+}
