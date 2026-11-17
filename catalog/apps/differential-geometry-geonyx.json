@@ -1,0 +1,50 @@
+{
+  "slug": "differential-geometry-geonyx",
+  "name": "Differential Geometry: Geonyx",
+  "subtitle": "Curves, surfaces, manifolds",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "differential geometry",
+    "curves",
+    "surfaces",
+    "manifolds",
+    "curvature",
+    "torsion",
+    "frenet",
+    "gauss",
+    "geodesic",
+    "gauss-bonnet",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive differential geometry course: curvature, surfaces, geodesics and Gauss-Bonnet with five hands-on labs. Free to use.",
+  "longDescription": "Differential Geometry: Geonyx is a free, offline, adaptive differential geometry course for undergraduates and self-learners. It takes you from space curves to the Theorema Egregium, geodesics, Gauss-Bonnet and an introduction to manifolds, and every numeric answer was computed twice before it went into the app.\n\n### What You Study\nParametrised curves, arc length, curvature and torsion, the Frenet frame, plane curves and total turning, regular surfaces, the first and second fundamental forms, the Gauss map, normal and principal curvature, Gaussian and mean curvature, Theorema Egregium, geodesics and Clairaut's relation, the Gauss-Bonnet theorem, smooth manifolds, tangent spaces and Riemannian metrics. Sixteen topics in four units.\n\n### Practice That Follows Your Mistakes\nYour ledger tracks mastery of each topic and lets it fade over time, so review returns when it is needed. Every tempting wrong answer is tied to the slip behind it, for example a forgotten cube in the curvature formula or a latitude circle mistaken for a geodesic, and later questions revisit that slip. Choose the personalised path or the traditional syllabus order and switch at any time.\n\n### Five Hands-On Labs\nFrenet Frame Rider: ride a space curve and watch the tangent, normal and binormal turn with live curvature and torsion.\nCurvature Plotter: colour a torus, saddle or Enneper surface by Gaussian curvature and read principal directions.\nGeodesic Shooter: fire geodesics across spheres, tori, cones, paraboloids and the hyperbolic plane.\nGauss-Bonnet Triangles: drag three corners and see angle excess equal area on the sphere and the hyperbolic disc.\nMetric Lens: see the first fundamental form as distortion ellipses on a chart.\n\n### Questions And Worked Solutions\nMore than 230 original questions with free worked solutions beside every answer, topic checkpoints, a placement quiz and three timed mock exams without ads. Tap any key term for a ladder from school level to graduate level.\n\n### Free, With Optional Ad Removal\nThe whole course is free. Short ads appear only at natural breaks, never in timed exams, and you can watch an optional video for credits toward extra practice sets. A monthly Ad-Free subscription removes ads; it includes a 7-day free trial for new subscribers, the price is shown by the App Store, renews monthly and can be cancelled in Settings. Worked solutions and labs are never locked.\n\nSources and licences are listed and linked in the app. Not affiliated with any university or author named there.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/differential-geometry-geonyx/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-differential-geometry.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_differential_geometry.app"
+  },
+  "related": [
+    "multivariable-calculus-nablix",
+    "differential-equations-odelo"
+  ]
+}
