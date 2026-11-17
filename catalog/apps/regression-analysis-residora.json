@@ -1,0 +1,50 @@
+{
+  "slug": "regression-analysis-residora",
+  "name": "Regression Analysis: Residora",
+  "subtitle": "Regression Analysis Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "regression analysis",
+    "linear models",
+    "least squares",
+    "ols",
+    "logistic regression",
+    "lasso",
+    "ridge",
+    "anova",
+    "glm",
+    "leverage",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive regression analysis course: least squares, diagnostics, ridge and lasso and logistic models with six hands-on labs. Free to use.",
+  "longDescription": "Regression Analysis: Residora is a free, adaptive course in linear models and their extensions for college students and self-learners. It treats your learning like a regression: it estimates your ability on 15 topics, shows the residuals (your slips) and picks the next question where you will learn most.\n\n### What You Study\n- Simple linear regression and the least-squares line\n- Projection geometry, the hat matrix and leverage\n- Multiple regression in matrix form, categorical predictors and interactions\n- Assumptions, the Gauss-Markov idea, standard errors and degrees of freedom\n- t tests, F tests, confidence intervals and prediction intervals\n- R squared, adjusted R squared and partial F tests\n- Residual analysis, studentised residuals, Cook's distance and influence\n- Multicollinearity and the variance inflation factor\n- Polynomial fits, log transforms and elasticities\n- Model selection with AIC, BIC and cross-validation\n- Ridge and lasso\n- Logistic regression, odds ratios and decision boundaries\n- Generalised linear models: Poisson counts, links and deviance\n\n### Six Labs You Can Touch\n- Least-squares fit explorer: drag points, see squared residuals and the right-triangle geometry of R squared\n- Diagnostics lab: move one point and watch leverage, studentised residual and Cook's distance react\n- Collinearity lab: slide the correlation of two predictors and watch standard errors swell\n- Regularisation path explorer: ridge and lasso coefficient paths along lambda\n- Logistic boundary lab: add points, refit by Newton steps, move the threshold\n- Model complexity lab: polynomial degree against training and leave-one-out error\n\n### How It Teaches\n- Personalised path that follows your mistakes, or the traditional course order: switch any time\n- 143 original questions with worked solutions that are always free: 97 numeric answers each recomputed by independent software, 46 conceptual items marked practice-only\n- Questions that read real regression output tables\n- Every wrong answer is tagged with the slip behind it, and a slip notebook brings it back\n- Spaced review, checkpoints and timed mock exams with no ads\n- Tap any concept for pop-ups from K-12 level up to graduate level\n- Cited sources open in a full-width panel: textbooks, university course pages and software documentation\n- A-/A+ text size on every screen, iPhone and iPad layouts, works offline, no account\n\n### Free, With Ads\nThe app is free. Ads appear only at natural breaks, never during timed mock exams, and you can watch an optional short video to earn practice credits. An optional monthly ad-free subscription removes ads and unlocks unlimited mock exams. The price and the free trial are shown by the App Store before you subscribe, the subscription renews monthly until you cancel in your Apple ID settings, and you keep ad-free until the end of the period you paid for.\n\nNot affiliated with any university or publisher named in the citations.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/regression-analysis-residora/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-regression-analysis.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_regression_analysis.app"
+  },
+  "related": [
+    "statistics-course-sigmora",
+    "mathematical-statistics-thexa"
+  ]
+}
