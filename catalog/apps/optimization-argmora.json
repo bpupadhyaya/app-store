@@ -1,0 +1,50 @@
+{
+  "slug": "optimization-argmora",
+  "name": "Optimization: Argmora",
+  "subtitle": "Optimization: LP, KKT, Newton",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "optimization",
+    "linear programming",
+    "simplex",
+    "convex",
+    "gradient descent",
+    "newton",
+    "kkt",
+    "duality",
+    "integer programming",
+    "operations research",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive optimization course: linear programming, convexity, gradient methods and KKT with five hands-on labs. Free to use.",
+  "longDescription": "Optimization: Argmora is an adaptive undergraduate optimization course: formulating problems, gradient descent, Newton's method, linear programming and the simplex method, duality, Lagrange multipliers and KKT conditions, convexity, integer programming and network flows.\n\nHow it adapts\nPick the Personalised path and the next question comes from the pattern in your mistakes, with spaced review. Prefer the syllabus? Switch to the Traditional path at any time. Each wrong answer is matched to the slip that causes it, such as walking uphill, mixing up the simplex ratio test or forgetting a factor of one half.\n\nFive interactive labs\nStep through the simplex method vertex by vertex, race gradient descent against Newton on a narrow valley, move a wall in the KKT explorer and read the multiplier, test convexity with the chord rule and Hessian eigenvalues, and grow a branch and bound tree.\n\nPractice you can trust\n194 original problems with full worked solutions that are always free. Typed numeric answers and multiple choice, unit checkpoints and timed mock exams built only from machine-checked problems. Tap any concept for a plain-language refresher from school level up to graduate study, and open every citation in a full-width sheet.\n\nFree to use with ads at natural breaks, never during a timed mock. Optional short videos earn credits for extra practice. A monthly Ad-Free subscription removes ads and daily limits: 7-day free trial, auto-renews monthly, price shown by the App Store, cancel any time in Settings.\n\nSyllabus references are cited and linked only; all content is original. Not affiliated with any university or publisher.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/optimization-argmora/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-optimization.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_optimization.app"
+  },
+  "related": [
+    "linear-algebra-vectrine",
+    "multivariable-calculus-nablix"
+  ]
+}
