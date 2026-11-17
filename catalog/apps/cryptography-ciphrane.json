@@ -1,0 +1,50 @@
+{
+  "slug": "cryptography-ciphrane",
+  "name": "Cryptography: Ciphrane",
+  "subtitle": "Cryptography Math and Ciphers",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "cryptography",
+    "rsa",
+    "elliptic curve",
+    "diffie hellman",
+    "hash",
+    "feistel",
+    "kasiski",
+    "vigenere",
+    "signature",
+    "lattice",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive cryptography mathematics course at toy scale: ciphers, RSA, elliptic curves and hashes with five hands-on labs. Free to use.",
+  "longDescription": "Cryptography: Ciphrane is a free, adaptive undergraduate course in the mathematics of cryptography, built for learners who want to understand how ciphers, keys and proofs of security really work.\n\nThe course follows the usual university path through fourteen primitives in five layers:\n- Foundations: modular arithmetic, primes and primality tests.\n- Classical ciphers: shift, affine and substitution ciphers, frequency analysis, the index of coincidence, Vigenere and the Kasiski examination.\n- Public key: RSA and why its parameters matter, the discrete logarithm and Diffie-Hellman, elliptic curves over finite fields and ECDH.\n- Symmetric and integrity: hash functions and the birthday bound, Feistel and substitution-permutation networks with block modes, digital signatures.\n- Beyond: zero-knowledge intuition, lattices, learning with errors and the post-quantum overview.\n\nHow the course adapts: the app keeps a rating and a mastery estimate for every primitive, notices the slips you make (for example multiplying instead of raising to a power), and schedules spaced reviews. Choose a personalised path or the traditional course order and switch at any time. Everything is computed on your device.\n\nFive hands-on labs: a classical-cipher bench (letter counts, Kasiski repeats, key guessing), an elliptic-curve point lab over small prime fields, a Diffie-Hellman and discrete-log lab, a Feistel and SPN round visualiser with an avalanche counter and ECB, CBC and CTR comparison, and a birthday-collision simulator.\n\nPractice that respects you: about 300 original questions with worked solutions that are never locked. Every numeric answer was recomputed by a second program; reasoned conceptual questions are marked practice-only and kept out of mock exams. Tap any concept for a school-level and a graduate-level view, and tap any source to open a citation sheet.\n\nToy scale, by design: every key, prime, curve and hash in this app is tiny and insecure on purpose, so you can watch the arithmetic. It is not a tool for protecting or attacking real data. Sources (university courses, textbooks, standards) are cited and linked, never copied. Not affiliated with any university or standards body.\n\nFree with ads. Ads appear only between practice sets, never in timed mock exams. An optional video earns credits for extra mock exams. A monthly subscription removes ads: the price is shown by the store, with a 7-day free trial for new subscribers. Payment is charged to your store account, the subscription renews automatically unless cancelled at least 24 hours before the period ends, and you can manage or cancel it in your account settings.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/cryptography-ciphrane/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-cryptography-mathematics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_cryptography_mathematics.app"
+  },
+  "related": [
+    "number-theory-euclora",
+    "abstract-algebra-cayleon"
+  ]
+}
