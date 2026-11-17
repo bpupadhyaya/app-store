@@ -1,0 +1,50 @@
+{
+  "slug": "fluid-dynamics-vortelle",
+  "name": "Fluid Dynamics: Vortelle",
+  "subtitle": "Fluid Dynamics Course & Labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "fluid dynamics",
+    "navier stokes",
+    "bernoulli",
+    "viscosity",
+    "reynolds",
+    "vortex",
+    "pipe flow",
+    "waves",
+    "mach",
+    "shock",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive fluid dynamics course: Bernoulli, viscous flow, vortices, waves and shocks with six hands-on labs. Free to use.",
+  "longDescription": "Fluid Dynamics: Vortelle is an adaptive undergraduate course that takes you from pressure in still water to shock waves, with practice that learns from your mistakes and six labs you can steer with your fingers.\n\n### What You Learn\nThirteen units in textbook order: fluid statics and buoyancy, kinematics and the material derivative, conservation of mass, Bernoulli's equation, momentum and Euler's equation, viscosity and the Reynolds number, the Navier-Stokes equations, pipe flow and Poiseuille's law, vorticity and circulation, potential flow, boundary layers, surface waves, and compressible flow with Mach number and normal shocks.\n\n### Practice That Adapts\n- 117 original questions with a worked solution for every one, free for everyone.\n- 78 numeric-entry problems: the answer is checked by two independent methods before it ships.\n- The app recognises the typical slip behind a wrong number, such as a dropped factor of g, a diameter used for a radius, or a missing one half, and builds your next questions around it.\n- Spaced review brings questions back after 1, 2, 4, 8, 16 and 32 days.\n- Choose a personalised path or the traditional curriculum order and switch at any time.\n- Unit checkpoints and timed mock exams of twelve numeric problems, with no hints and no ads.\n\n### Six Labs\n- Potential-flow sandbox: place sources, sinks and vortices around a cylinder and trace the streamlines.\n- Profile lab: laminar and turbulent pipe profiles with the Reynolds number, plus the Blasius boundary layer.\n- Venturi lab: move the throat and watch pressure drop, speed and cavitation.\n- Vortex dynamics lab: vortex pairs that translate, orbit and leapfrog with conserved quantities shown.\n- Wave dispersion lab: phase speed, group speed and particle orbits from deep to shallow water.\n- Mach and shock lab: Mach cone, normal-shock jump and the nozzle area relation.\n\n### From School To Graduate Level\nTap any key concept to see it explained one level down for school students and one level up for graduate study. Every source is cited in a full-width sheet with a link to the original course, book or data table. Text size controls on every screen.\n\n### Free, With Optional Ads\nThe course is free. Ads appear only between practice sets, never during exams. You can watch an optional video to earn an extra mock-exam credit. An optional monthly subscription removes ads and unlocks unlimited mock exams; it renews automatically until cancelled in your account settings, and includes a free trial for new subscribers. The price is shown by the App Store before you confirm.\n\nNot affiliated with any university, publisher or exam board named in the sources.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/fluid-dynamics-vortelle/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-fluid-dynamics-physics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_fluid_dynamics_physics.app"
+  },
+  "related": [
+    "analytical-mechanics-hamvale",
+    "thermodynamics-entrovane"
+  ]
+}
