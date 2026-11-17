@@ -1,0 +1,49 @@
+{
+  "slug": "numerical-analysis-iterova",
+  "name": "Numerical Analysis: Iterova",
+  "subtitle": "Numerical Analysis: Roots, ODE",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "numerical analysis",
+    "newton",
+    "bisection",
+    "simpson",
+    "spline",
+    "interpolation",
+    "floating point",
+    "runge-kutta",
+    "quadrature",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive numerical analysis course: roots, interpolation, quadrature and ODEs with six hands-on labs. Free to use.",
+  "longDescription": "Numerical Analysis: Iterova is a free, adaptive first course in numerical analysis for college students and self-learners. It teaches how computers actually solve mathematical problems, and why they sometimes get them wrong.\n\n### What You Study\n- Floating-point numbers, rounding, cancellation, conditioning and truncation error\n- Solving equations: bisection, fixed-point iteration, Newton, secant, order of convergence\n- Interpolation: Lagrange and Newton forms, divided differences, Chebyshev nodes, the Runge effect, cubic splines\n- Numerical calculus: finite differences, Richardson extrapolation, trapezoid, Simpson and Gauss rules\n- Linear systems: LU with pivoting, norms and condition numbers, Jacobi and Gauss-Seidel\n- Least squares and power iteration for eigenvalues\n- Differential equations: Euler, Runge-Kutta, stability and stiffness\n\n### How It Teaches\n- You type numeric answers and are graded on how many significant digits you got right, so being close earns credit.\n- When an answer is wrong, the course compares it with what a classic slip would produce (an off-by-one iteration count, a missing factor 1/2, a wrong denominator) and names the mistake.\n- Your next questions come from those slip patterns, what is due for spaced review, and the prerequisites you have not secured. Prefer a fixed order? Switch to the traditional path at any time.\n- Every question has a free worked solution. 159 original questions, with every numeric answer cross-checked by independent code.\n- Timed unit tests and a 20-question mock exam.\n\n### Six Live Labs\nRoot-finder convergence plotter with your own formula, interpolation and Runge explorer, ODE solver stability lab, floating-point bit inspector, quadrature and finite-difference error lab, and an iterative solver race.\n\n### Sources\nScope follows standard university courses and textbooks. Every source is cited and linked inside the app; the lessons and questions are original and nothing is copied from the sources. Not affiliated with the institutions or authors cited.\n\n### Free, With Optional Ad Removal\nThe app is free. Ads appear only at natural breaks, never during timed tests. Optional rewarded videos earn credits for extra mock exams. An optional auto-renewing monthly subscription (Numerical Analysis Ad-Free Monthly) removes ads and lifts the mock exam limit; it begins with a 7-day free trial, the price is shown by the App Store before you subscribe, it renews monthly unless cancelled at least 24 hours before the period ends, and you can manage or cancel it in your Apple ID settings. Progress stays on your device; there is no account.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/numerical-analysis-iterova/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-numerical-analysis.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_numerical_analysis.app"
+  },
+  "related": [
+    "calculus-ii-course-sumlark",
+    "linear-algebra-vectrine"
+  ]
+}
