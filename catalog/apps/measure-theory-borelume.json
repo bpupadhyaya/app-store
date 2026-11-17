@@ -1,0 +1,49 @@
+{
+  "slug": "measure-theory-borelume",
+  "name": "Measure Theory: Borelume",
+  "subtitle": "Measure Theory course & labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "measure theory",
+    "sigma algebra",
+    "lebesgue",
+    "integration",
+    "borel",
+    "real analysis",
+    "convergence theorems",
+    "fubini",
+    "cantor set",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive measure theory course: sigma-algebras, Lebesgue integration and convergence theorems with five hands-on labs. Free to use.",
+  "longDescription": "Measure Theory: Borelume is an adaptive course in measure theory for undergraduates and early graduate students: sigma-algebras, Lebesgue measure and integration, the convergence theorems, Lp spaces, product measures and Radon-Nikodym.\n\n### How It Teaches\n- Atlas: a dependency map of 16 topics, from sigma-algebras up to pushforward measures, so you always see what a topic needs.\n- Rounds: five questions at a time, chosen from your own Ledger. The Ledger tracks mastery per topic, remembers the mistakes you repeat (for example forgetting the finite-measure hypothesis or treating measure zero as countable) and brings items back for review on a spaced schedule.\n- Two paths: Personalised, which follows your weak spots, or Traditional, which follows the syllabus in order.\n- Worked solutions are always free, right after every answer.\n- Mock exams of 12 questions whose answers were all recomputed by an independent computer-algebra check, with a timer and no ads.\n\n### Five Labs Built For Measure Theory\n- Cantor set measure lab: middle thirds, middle fractions and fat Cantor sets with exact leftover measure.\n- Staircase integral lab: watch simple functions climb to the Lebesgue integral.\n- Convergence counterexample lab: spikes, runaway bumps and typewriter sequences, with verdicts for monotone convergence, dominated convergence and Fatou.\n- Sigma-algebra generator: choose generating sets and see every allowed set.\n- Lp norm comparison lab: move the exponent and see when a power function is integrable.\n\n### Good To Know\n- 94 original problems, with solutions written for this app. Practice-only items are conceptual questions; they stay out of mock exams.\n- Tap any concept for a school-level explanation and a pointer to where it leads. Every source is cited in a sheet and linked; lessons are original.\n- A- and A+ text zoom on every screen. Works offline. No account.\n- Free with ads at natural breaks. An optional monthly subscription removes the ads, and an optional short video earns a bonus mock exam.\n\nSubscription: Ad-Free Monthly removes ads. The price and the free trial are shown by the App Store before you confirm. Payment is charged to your Apple ID account at confirmation of purchase, and the subscription renews each month unless cancelled at least 24 hours before the end of the current period. Manage or cancel in your Apple ID settings.\n\nNot affiliated with any university or publisher mentioned as a source.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/measure-theory-borelume/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-measure-theory.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_measure_theory.app"
+  },
+  "related": [
+    "real-analysis-2-arzelio",
+    "functional-analysis-normvale"
+  ]
+}
