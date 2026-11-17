@@ -1,0 +1,48 @@
+{
+  "slug": "electromagnetism-poyntara",
+  "name": "Electromagnetism: Poyntara",
+  "subtitle": "Upper-Level Electromagnetism",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "electromagnetism",
+    "maxwell",
+    "electrodynamics",
+    "induction",
+    "antennas",
+    "radiation",
+    "magnetism",
+    "fields",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive upper-level electromagnetism course: Maxwell's equations, waves and radiation with five hands-on labs. Free to use.",
+  "longDescription": "Electromagnetism: Poyntara is an adaptive upper-level course in electromagnetism for physics, engineering and applied-math students who already know vector calculus and want Maxwell's equations to make sense, not just to be recited.\n\nStart from the Field Map, a node graph of 28 topics: Coulomb's law and Gauss's law, potentials and multipoles, Laplace's equation and image charges, separation of variables, conductors and dielectrics, magnetostatics and the vector potential, magnetic materials, Faraday induction, Maxwell's equations with displacement current, energy and the Poynting vector, plane waves, skin depth and plasmas, reflection and refraction, waveguides, transmission lines, retarded potentials, radiation, antennas and the relativistic form of electrodynamics. Follow the syllabus order, or let the personalised path choose what to study next from your mastery, your due reviews and the kind of mistake you keep making.\n\nWhat is inside\n- 431 original problems with a worked solution for every one, free. 375 are numeric problems whose answers were recomputed by a second numerical method before release.\n- Five labs built for this subject: a charge and equipotential sandbox with drag-and-drop charges, a Poynting wave bench with standing waves, a dielectric and conductor interface explorer, a dipole radiation pattern lab with computed directivity, and a transmission-line pulse lab.\n- A Casebook that groups your wrong answers into ten families of misconception and drills the one you need.\n- Timed mock exams of 20 verified problems with typed answers, spaced review, and mastery tracking per topic.\n- Tap any concept for an explanation one level down for school students and a pointer one level up for graduate study.\n- Every source is cited and linked: Griffiths, Purcell and Morin, Jackson, Zangwill, Landau and Lifshitz, Pozar, Balanis, MIT OpenCourseWare 8.02 and 8.07, OpenStax and NIST. All text and problems are original.\n\nFree with ads at natural breaks, never during a timed exam. An optional monthly subscription removes ads and unlocks unlimited mock exams. Lessons, labs and worked solutions are never locked. Works offline, no account.\n\nSubscription: Electromagnetism Ad-Free Monthly, billed monthly with a 7-day free trial; the price is shown by the App Store before you confirm. Payment is charged to your Apple ID account at confirmation of purchase and renews automatically unless cancelled at least 24 hours before the end of the period. Manage or cancel in Settings.\n\nNot affiliated with any university, publisher or author named as a source.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/electromagnetism-poyntara/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-electromagnetism.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_electromagnetism.app"
+  },
+  "related": [
+    "physics-ii-em-voltavane",
+    "modern-physics-quantaro"
+  ]
+}
