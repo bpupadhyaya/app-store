@@ -1,0 +1,49 @@
+{
+  "slug": "functional-analysis-normvale",
+  "name": "Functional Analysis: Normvale",
+  "subtitle": "Functional Analysis, Hilbert",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "functional analysis",
+    "banach",
+    "hilbert",
+    "operators",
+    "spectral",
+    "duality",
+    "hahn-banach",
+    "compact operators",
+    "adjoint",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive functional analysis course: Banach and Hilbert spaces, operators and spectra with six hands-on labs. Free to use.",
+  "longDescription": "Functional Analysis: Normvale is a free, offline course for the moment mathematics leaves finite dimensions. Vectors become sequences and functions, a norm decides which of them are close, and the useful questions are about operators acting between whole spaces. It follows the arc of an upper-level undergraduate or first graduate course.\n\nWhat you study\nFifteen topics on one dependency map: norms and unit balls, completeness and Banach spaces, bounded linear operators, dual spaces, the Hahn-Banach theorems, Hilbert spaces and projections, orthonormal bases and Fourier series, Baire category and uniform boundedness, the open mapping and closed graph theorems, weak convergence, compact operators, the spectrum and resolvent, and the spectral theorem for compact self-adjoint operators. Lebesgue measure is left to its own course; only what sequence spaces need appears here.\n\nA course that watches your hypotheses\nMost mistakes in this subject are a dropped hypothesis: a space that was not complete, a subspace that was not closed, a finite-dimensional habit applied to infinite dimensions. Every wrong answer is tagged with the habit behind it, and a hypothesis ledger on your profile tallies them by kind. The next questions are chosen to fix the biggest ones. Choose the personalised path or the traditional order and switch whenever you like. Missed questions come back on a spaced schedule.\n\nCounterexample zoo\nTwelve animals keep the theorems honest: the polynomials with the sup norm, the shift operators, the diagonal operator with entries one over k, the space of absolutely summable sequences, and more. Browse them, then meet them in questions where you drop a hypothesis and pick the space that breaks the claim.\n\nSix labs you can drag and slide\nSlide p and watch the unit ball change shape. Project a vector onto a line and check Pythagoras, then run Gram-Schmidt. Approximate a wave with N Fourier terms and compare the error from the coefficients with the error from direct integration. Watch a matrix turn the unit circle into an ellipse beside its eigenvalues, then explore the shifts and diagonal operators on sequence space. Drag a point out of a p-ball and see the separating functional. Compare sequences that converge weakly with those that converge in norm.\n\nQuestions you can trust\n163 original questions: multiple choice, and exact numeric answers typed as fractions, roots or pi. Each computed answer was recomputed with a second numerical method during development. Conceptual questions say whether a source statement was located or whether they are practice-only; practice-only questions never appear in the timed mock exam. Every question has a worked solution, and worked solutions are always free.\n\nStudy tools\nTimed mock exams with twenty checked questions and no ads, topic checkpoints, school-to-graduate pop-ups on any concept, a citation sheet for every source, adjustable text size, and layouts for both phone and tablet.\n\nFree with optional ad-free\nThe app is free. Short ads appear only at natural breaks after practice, never in a mock exam. You can watch an optional video for a bonus mock exam, or subscribe monthly to remove ads and take unlimited mock exams. The price and free-trial terms are shown by the store before you confirm; the subscription renews until cancelled in your account settings.\n\nSources are cited and linked, never copied. Not affiliated with any university, publisher or website named in the app.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/functional-analysis-normvale/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-functional-analysis.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_functional_analysis.app"
+  },
+  "related": [
+    "real-analysis-2-arzelio",
+    "linear-algebra-2-dualmere"
+  ]
+}
