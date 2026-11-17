@@ -1,0 +1,49 @@
+{
+  "slug": "mathematical-logic-entailo",
+  "name": "Mathematical Logic: Entailo",
+  "subtitle": "Mathematical Logic Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "mathematical logic",
+    "proofs",
+    "deduction",
+    "godel",
+    "turing",
+    "sat",
+    "truth table",
+    "quantifiers",
+    "compactness",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive mathematical logic course: proofs, models, computability and Godel with five hands-on labs. Free to use.",
+  "longDescription": "Mathematical Logic: Entailo is a free, adaptive undergraduate course that takes you from truth tables to Godel's incompleteness theorems, with interactive labs you can use instead of just reading.\n\n### What You Study\nFifteen topics in three units. Propositional logic: formulas, truth tables, equivalence and normal forms, entailment, resolution and case-splitting search, natural deduction, soundness, completeness and compactness. First-order logic: structures, quantifiers, satisfaction, deduction, the completeness theorem, Lowenheim-Skolem and non-standard models, theories and models. Computability and incompleteness: Turing machines, the halting problem, primitive recursion, Godel numbering and the incompleteness theorems.\n\n### Five Labs Built For Logic\n- A truth table and satisfiability explorer: type a formula, see every row, count models, compare two formulas and watch a search split on atoms.\n- A proof builder: close goals with natural deduction rules while a checker verifies every step, with hints and undo.\n- A model checker: edit a small finite structure and test first-order sentences, with witnesses and counterexamples.\n- A Turing machine visualiser with a busy-beaver machine and a machine that never halts.\n- A Godel numbering lab that encodes formulas as numbers and decodes them again.\n\n### How It Adapts\nChoose a personalised path that learns from your mistakes and schedules spaced reviews, or follow the traditional order. Every wrong answer names the habit behind it, such as the converse mistake, quantifier order or variable capture. Worked solutions are free beside every answer.\n\n### Practice You Can Trust\nMore than four hundred original questions. Over three hundred have answers recomputed by an independent program; the rest are practice-only conceptual questions marked as such. Timed mock exams use only the checked questions.\n\n### Sources You Can Open\nTextbooks, encyclopedia entries and university courses open in a clear source window with the licence and a link. Tap any concept for a plain-language refresher from school level and a note on what comes next.\n\n### Free To Use\nAds appear only at natural breaks, never during a test, and every explanation stays free. Watch an optional short video to earn a credit for an extra mock exam. An optional monthly subscription removes ads: price shown by the App Store, with a 7-day free trial, renews monthly until cancelled, cancel any time in Settings.\n\nNot affiliated with or endorsed by any university, publisher or author named in the references.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/mathematical-logic-entailo/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-mathematical-logic.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_mathematical_logic.app"
+  },
+  "related": [
+    "intro-to-proofs-qedlark",
+    "discrete-mathematics-lemmora"
+  ]
+}
