@@ -1,0 +1,50 @@
+{
+  "slug": "graph-theory-nodelark",
+  "name": "Graph Theory: Nodelark",
+  "subtitle": "Graph Theory: Trees and Flows",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "graph theory",
+    "networks",
+    "algorithms",
+    "colouring",
+    "planarity",
+    "matching",
+    "dijkstra",
+    "kruskal",
+    "vertices",
+    "edges",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive graph theory course: trees, colouring, planarity, matching and flows with four hands-on labs and algorithm steppers. Free to use.",
+  "longDescription": "Graph Theory: Nodelark is an undergraduate graph theory course that adapts to you. Draw graphs, run the algorithms one step at a time, and practise with more than 400 original problems, each with a worked solution that is always free.\n\n### What You Study\nTwenty-two topics in eight units: graphs and degrees, special graphs and isomorphism, walks and distance, bridges and connectivity, trees, spanning trees, shortest paths, Euler trails, Hamilton cycles, matchings, colouring, chromatic polynomials, planar graphs, Kuratowski's theorem, network flows, Menger's theorem, and Ramsey-type extremal results.\n\n### The Course Map\nHome is a map of the course drawn as a graph: each vertex is a topic, each line a prerequisite, and a ring around the vertex fills as you master it.\n\n### Practise The Way You Think\nTap the vertices that make a maximum independent set, pick the edges of a minimum spanning tree, put a breadth-first search in order, or type the value of a maximum flow. Answers to computed problems are checked by two independent programs before they ship.\n\n### Four Graph Labs\nGraph Workbench: build your own graph and step through BFS, DFS, Dijkstra, Kruskal, Prim and augmenting-path matching.\nColour Forge: colour by hand, run greedy colouring in any order, read the chromatic polynomial.\nPlanar Studio: test planarity and watch Euler's count V - E + F.\nFlow Channel: push flow along augmenting paths until the minimum cut appears.\n\n### Adaptive Or Traditional\nSwitch at any time between a personalised path, which follows your mistakes and schedules reviews, and the traditional order of the syllabus. Mock exams use only machine-checked problems.\n\n### Sources You Can Open\nEvery citation opens in a panel with the licence and a link. Tap a concept for an earlier-maths refresher or a pointer to what comes next.\n\n### Price\nThe course is free. Short ads appear between sessions, never inside a timed test. You can also watch an optional video to unlock a targeted drill. A monthly subscription removes ads: the price is shown by the App Store before you subscribe, with a 7-day free trial. Payment is charged to your Apple Account, the subscription renews monthly unless cancelled at least 24 hours before the period ends, and you can manage or cancel it in Settings under your Apple Account.\n\nNodelark is an independent course and is not affiliated with any university, publisher or author mentioned in its references.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/graph-theory-nodelark/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-graph-theory.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_graph_theory.app"
+  },
+  "related": [
+    "discrete-mathematics-lemmora",
+    "combinatorics-enumora"
+  ]
+}
