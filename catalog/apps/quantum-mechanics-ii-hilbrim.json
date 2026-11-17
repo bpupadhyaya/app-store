@@ -1,0 +1,49 @@
+{
+  "slug": "quantum-mechanics-ii-hilbrim",
+  "name": "Quantum Mechanics II: Hilbrim",
+  "subtitle": "Quantum Mechanics Course, Labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "quantum mechanics",
+    "spin",
+    "angular momentum",
+    "perturbation theory",
+    "hydrogen",
+    "scattering",
+    "entanglement",
+    "dirac",
+    "wkb",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive second course in quantum mechanics: spin, perturbation theory, scattering and Bell tests with five hands-on labs. Free to use.",
+  "longDescription": "Quantum Mechanics II: Hilbrim is a second undergraduate course in quantum mechanics, built to be practised, not just read. It follows the usual second-course syllabus: Dirac notation and Hilbert space, operators and commutators, spin-1/2 and the Bloch sphere, angular momentum and its addition, the hydrogen atom, time-independent perturbation theory, fine structure, Zeeman and Stark effects, the variational method, WKB, time-dependent perturbation theory and Rabi flopping, identical particles, scattering with Born and partial waves, density matrices, Bell inequalities and a first look at the Dirac equation.\n\n### How It Adapts\nChoose a personalised path or the syllabus order, and switch any time. The personalised path brings back questions on a spaced schedule, notices habits behind your wrong answers (for example a sign slip in second-order energy or forgetting to conjugate a bra) and aims practice at them, then moves you to the topics you are ready for. A course map shows all 16 topics and how they depend on each other, coloured by your mastery.\n\n### Practice\n140 original questions with typed numeric answers (fractions, square roots and pi are accepted) and multiple choice. Every numeric answer was checked by a second calculation engine. A full worked solution sits beside every answer and is always free. Unit checkpoints and timed mock exams use only code-verified questions.\n\n### Five Labs\nSpin-1/2 Bloch sphere and a Stern-Gerlach filter chain. A Clebsch-Gordan coupler. A perturbation shift plotter comparing exact levels with first and second order, up to strong-field Zeeman. A partial-wave scattering lab with phase shifts and the optical theorem. An entanglement and CHSH test with a sampled experiment.\n\n### Learn At Any Level\nTap a concept for a plain explanation from earlier physics and maths, what it means in this course, and where it leads. Cited university courses, textbooks and papers open in a clear source window with the licence and a link.\n\n### Free, With Ads At Natural Breaks\nThe course is free. Ads appear only at natural breaks, never during a test or before an explanation, and you can choose to watch a short video to earn extra mock exams. An optional monthly ad-free plan removes ads and unlocks unlimited mock exams. Price shown in the app before you subscribe; renews monthly, cancel any time in your account settings, with a 7-day free trial for new subscribers.\n\nNot affiliated with any university, publisher or author named in the references.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/quantum-mechanics-ii-hilbrim/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-quantum-mechanics-2.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_quantum_mechanics_2.app"
+  },
+  "related": [
+    "quantum-mechanics-ketora",
+    "modern-physics-quantaro"
+  ]
+}
