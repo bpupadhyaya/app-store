@@ -1,0 +1,50 @@
+{
+  "slug": "mathematical-statistics-thexa",
+  "name": "Mathematical Statistics: Thexa",
+  "subtitle": "Mathematical Statistics Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "mathematical statistics",
+    "estimation",
+    "likelihood",
+    "inference",
+    "hypothesis testing",
+    "confidence interval",
+    "bayes",
+    "sufficiency",
+    "p-value",
+    "mle",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive mathematical statistics course: estimation, likelihood, confidence intervals and hypothesis tests with five hands-on labs. Free to use.",
+  "longDescription": "Mathematical Statistics: Thexa is an adaptive course in the theory behind statistics: how to estimate an unknown quantity from data, how good that estimate can be, and how to test claims about it. It follows the second statistics course taught at universities after probability, with sampling distributions, point estimation, likelihood, optimal estimators, intervals, hypothesis tests, large-sample theory and an introduction to Bayesian estimation.\n\n### What You Will Learn\n- Sampling distributions, chi-square and t, the standard error, extremes of a sample\n- Bias, variance and mean squared error; method of moments; maximum likelihood, score, Fisher information and invariance\n- Sufficiency and factorisation, Rao-Blackwell, completeness and best unbiased estimators, the Cramer-Rao bound and efficiency\n- Confidence intervals from pivots, coverage and sample size, Wald and Wilson intervals\n- Tests, size and power, the Neyman-Pearson lemma, likelihood ratios and Wilks' theorem, p-values and multiple testing\n- Consistency, the central limit theorem, Slutsky and the delta method, conjugate Bayesian estimation\n\n### A Course That Adapts To You\nA topic map of 17 topics shows what comes before what. Your answers build a mastery estimate for every topic. The coach picks your next question from your mistakes, your level and your review dates, and names the slip you made, such as dividing by n when the standard error needs the square root of n. Prefer a fixed order? Switch to the traditional path at any time.\n\n### Practice That Checks Itself\n154 original problems, each with a worked solution that is always free. Every numeric answer was computed twice, once from formulas and once by an independent numerical method, and the two had to agree. Concept questions are marked practice-only unless a reference page was checked. Mock exams run 12 questions in 25 minutes with no hints and no ads.\n\n### Five Labs Built For Inference\n- Likelihood surface: slide a parameter up the log-likelihood hill and watch the score reach zero at the maximum\n- Sampling distribution and the central limit theorem\n- Confidence-interval coverage: run 100 intervals at a time and count the misses\n- Power and error rates on the null and alternative curves\n- Cramer-Rao efficiency race between the mean, median, midrange and trimmed mean\n\n### Learn At The Level You Need\nTap a term for a school-level explanation and a pointer to the graduate view. Every source is cited and opens in a sheet with its licence and link: university course pages, textbooks and papers. Large text controls on every screen. Works offline, no account, your progress stays on your device.\n\n### Free To Start\nLessons, labs, worked solutions and the first two mock exams are free. A short optional video earns a credit for each later mock exam. Ads appear only between drills and never during a question, an exam or a solution. An optional monthly ad-free subscription removes ads and opens every exam; it starts with a 7-day free trial, renews automatically until you cancel, and the price is shown in the app by the store. Manage or cancel in your account settings.\n\nNot affiliated with any university or publisher named in the sources.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/mathematical-statistics-thexa/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-mathematical-statistics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_mathematical_statistics.app"
+  },
+  "related": [
+    "statistics-course-sigmora",
+    "probability-course-stochara"
+  ]
+}
