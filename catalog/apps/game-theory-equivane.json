@@ -1,0 +1,49 @@
+{
+  "slug": "game-theory-equivane",
+  "name": "Game Theory: Equivane",
+  "subtitle": "Game Theory, Nash and Shapley",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "game theory",
+    "nash equilibrium",
+    "payoff",
+    "minimax",
+    "auction",
+    "dilemma",
+    "evolutionary",
+    "strategy",
+    "shapley",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive game theory course: Nash equilibria, backward induction, auctions and Shapley values with six hands-on labs. Free to use.",
+  "longDescription": "Game Theory: Equivane is an adaptive undergraduate game theory course that teaches strategic thinking with exact, checked mathematics. Work from payoff grids to Nash equilibrium, minimax, backward induction, repeated games, auctions and the Shapley value, on your own schedule and offline.\n\n### Learn Your Way\nChoose the personalised path and each question comes from the pattern of your mistakes, with spaced review that brings weak concepts back. Prefer the classic syllabus order? Switch to the traditional path at any time. Wrong answers are matched to game theory habits such as reading a best response along the wrong direction, mixing with your own payoffs instead of your opponent's, or trusting a threat that would never be carried out.\n\n### Thirteen Concepts\nNormal-form games and payoffs. Dominance and iterated elimination. Best responses and pure Nash equilibrium. Mixed strategies. Zero-sum games and the minimax theorem. Extensive form and backward induction. Subgame perfection and credible threats. Repeated games and cooperation. Bayesian games and private information. Evolutionary games and stable strategies. Auctions and bidding. Mechanism design and Vickrey pricing. Cooperative games, the core and the Shapley value.\n\n### Six Interactive Labs\nEquilibrium Finder: edit a payoff grid, see best-response arrows, pure equilibria, dominance steps and exact mixed equilibria.\nBackward Induction Stepper: resolve entry-deterrence, centipede, ultimatum and random trees from the leaves up.\nRepeated Dilemma Tournament: a round robin of strategies with noise, rounds and your own payoffs.\nReplicator Lab: Hawk-Dove and coordination phase lines, plus a rock-paper-scissors orbit.\nAuction Bidding Simulator: bid against equilibrium rivals and compare first-price, second-price and all-pay revenue with theory.\nShapley Coalition Builder: set coalition values, see all orders of arrival, the Shapley value and a core test.\n\n### Practice You Can Trust\nAround 200 original questions with full worked solutions that are always free. Tap equilibrium cells on a payoff grid, type exact fractions for mixing probabilities, or choose an answer. Every numeric answer is recomputed by independent checks, and practice-only conceptual questions are marked and kept out of mock exams. Take unit practice sets or a timed 26-question mock exam with no ads.\n\n### Never Stuck\nTap any concept for a plain-language refresher that starts at school level and points to what comes next. Every source is cited and opens in a full-width panel with its licence and a link out.\n\n### Free To Use\nAds appear only at natural breaks after finished practice sets, never in a mock exam. Watch an optional video for an extra practice credit. An optional monthly ad-free subscription removes all ads and is shown in the app with the price from the App Store and a 7-day free trial for new subscribers. Cancel any time in your Apple ID settings. No account is needed.\n\nGame Theory: Equivane is an independent study aid and is not affiliated with any university, publisher or author it cites.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/game-theory-equivane/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-game-theory.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_game_theory.app"
+  },
+  "related": [
+    "optimization-argmora",
+    "probability-course-stochara"
+  ]
+}
