@@ -1,0 +1,50 @@
+{
+  "slug": "analytical-mechanics-hamvale",
+  "name": "Analytical Mechanics: Hamvale",
+  "subtitle": "Analytical Mechanics Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "analytical mechanics",
+    "lagrangian",
+    "hamiltonian",
+    "variational",
+    "symplectic",
+    "canonical",
+    "poisson",
+    "action",
+    "normal modes",
+    "chaos",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive analytical mechanics course: Lagrangian and Hamiltonian methods, canonical maps and rigid bodies with six hands-on labs. Free to use.",
+  "longDescription": "Analytical Mechanics: Hamvale is an adaptive course for the upper-level mechanics that follows first-year physics: calculus of variations, Lagrangian mechanics, Noether's theorem, central forces, small oscillations, rigid bodies, and then the Hamiltonian half of the subject: phase space, Poisson brackets, canonical transformations, generating functions, Hamilton-Jacobi theory and action-angle variables.\n\n### How It Adapts\nThe app tracks mastery of 33 topics laid out as a real prerequisite map. It notices slips (a dropped half, a flipped sign, Lagrangian mixed up with Hamiltonian), schedules spaced review, and picks your next question. Prefer textbook order? Switch to the course-order path at any time.\n\n### Questions Unique To This Course\nBesides numeric and multiple-choice questions you will put derivation steps in order, decide whether a transformation is canonical, and find the conserved quantity for a given Lagrangian. Typical wrong numbers are recognised and explained. 178 original questions; every checkable answer was recomputed with a second numerical engine.\n\n### Six Interactive Labs\nA double-pendulum chaos lab that measures how fast two nearby starts separate. A phase-portrait and Poincare-section lab built on the Henon-Heiles system. A normal-mode explorer for coupled masses with beats. A rigid-body visualiser with the tennis-racket flip. A canonical-map checker where you type your own Q(q,p) and P(q,p) and see {Q,P} and the area. A Noether and orbit lab showing which quantities stay flat for which symmetry, plus the effective potential.\n\n### Understanding, Not Just Answers\nWorked solutions sit beside every answer and are always free. Open any idea at school level, early-undergraduate level, or as a pointer to graduate study. Sources open in a clear panel with the licence and a link. Timed mock exams use only the verified questions.\n\n### Free To Use\nAds appear only at natural breaks, never during an exam, and every explanation stays free. You can watch an optional video for an extra mock exam or challenge set. An optional monthly Ad-Free subscription removes all ads and unlocks unlimited exams; it starts with a 7-day free trial, renews monthly until cancelled, and can be managed in your Apple ID settings. Your progress stays on your device.\n\nNot affiliated with any university, publisher or course named in the references.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/analytical-mechanics-hamvale/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-analytical-mechanics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_analytical_mechanics.app"
+  },
+  "related": [
+    "classical-mechanics-lagrix",
+    "dynamical-systems-orbitrel"
+  ]
+}
