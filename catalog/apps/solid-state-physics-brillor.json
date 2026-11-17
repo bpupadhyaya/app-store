@@ -1,0 +1,50 @@
+{
+  "slug": "solid-state-physics-brillor",
+  "name": "Solid State Physics: Brillor",
+  "subtitle": "Solid State Physics Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "solid state physics",
+    "crystal",
+    "lattice",
+    "phonon",
+    "band structure",
+    "semiconductor",
+    "fermi",
+    "diffraction",
+    "magnetism",
+    "superconductor",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive solid state physics course: lattices, phonons, bands and semiconductors with six hands-on labs. Free to use.",
+  "longDescription": "Solid State Physics: Brillor is a complete undergraduate course in solid state physics that adapts to you. Follow the crystal map from lattices to superconductors, practise with 275 original questions, explore six interactive labs, and take timed mock exams. Everything works offline and no account is needed.\n\n### Learn The Whole Course\nThirteen topics cover crystal structure, reciprocal lattice and diffraction, bonding, lattice vibrations and phonons, specific heat, the free-electron model, Bloch theorem and nearly free electrons, tight binding, metals, semiconductors and insulators, doping and p-n junctions, Drude transport and the Hall effect, magnetism, and a superconductivity overview. Short lessons give the key formulas in plain language.\n\n### Adaptive Or Traditional\nChoose a personalised path that tracks your mastery of every topic, tags the kind of mistake you make (for example a missing factor of 2 pi, forgotten spin, or a wrong structure-factor rule) and brings weak spots back through spaced review. Or follow the traditional textbook order. Switch whenever you like.\n\n### Six Interactive Labs\nReshape a 2D lattice and watch its reciprocal lattice and Brillouin zone respond. Tune the mass ratio of a diatomic chain and see acoustic and optical phonons move. Plot tight-binding bands, close a dimerisation gap and place the Fermi level. Fill a Fermi circle, bend the bands of a p-n junction with doping and bias, and compare Einstein and Debye heat capacities.\n\n### Original Questions, Checked Answers\nNumeric answers use scientific notation and unit hints. Every computed answer was recomputed with a second method when the app was built, and each question has a free worked solution. Conceptual questions are labelled as practice-only and are kept out of mock exams.\n\n### Pull-Up Explanations At Every Level\nTap any concept for a school-level, an undergraduate and a graduate explanation. Every citation opens a sheet with the source, licence and a link to the textbook or course it points to.\n\n### Readable And Accessible\nA- and A+ buttons on every screen, Dynamic Type support, accessibility labels, and a layout built for both phone and tablet.\n\n### Free With Optional Ad-Free Plan\nThe app is free. Short ads appear only between finished practice sets, never during timed exams. You can watch an optional video for bonus practice credits. A monthly Ad-Free subscription removes ads and daily limits, starts with a 7-day free trial, renews automatically unless cancelled at least 24 hours before the end of the period, and can be managed or cancelled in your store account settings. Worked solutions are always free.\n\nNot affiliated with or endorsed by any university, publisher or author named in the citations.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/solid-state-physics-brillor/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-solid-state-physics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_solid_state_physics.app"
+  },
+  "related": [
+    "modern-physics-quantaro",
+    "thermodynamics-entrovane"
+  ]
+}
