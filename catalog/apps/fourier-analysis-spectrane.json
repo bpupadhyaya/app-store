@@ -1,0 +1,50 @@
+{
+  "slug": "fourier-analysis-spectrane",
+  "name": "Fourier Analysis: Spectrane",
+  "subtitle": "Fourier Analysis Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "fourier analysis",
+    "fft",
+    "dft",
+    "convolution",
+    "sampling",
+    "aliasing",
+    "spectrum",
+    "signals",
+    "parseval",
+    "windowing",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive Fourier analysis course: FFT, convolution, sampling and aliasing with seven hands-on labs. Free to use.",
+  "longDescription": "Fourier Analysis: Spectrane is an adaptive undergraduate course in Fourier analysis that runs entirely on your device, with seven hands-on labs, a 157-question bank and worked solutions for every answer.\n\n### Learn By Doing\nFourier analysis explained through things you can move: synthesise a signal and read its spectrum with a real FFT, watch a tone fold into a false frequency when it is sampled too slowly, slide one shape across another to see convolution form, and rebuild a picture after masking its two-dimensional spectrum.\n\n### The Course\nFifteen topics in a prerequisite map: orthogonality and Fourier series, symmetry and complex form, convergence and the Gibbs overshoot, Parseval and L2 theory, the Fourier transform on the real line, standard pairs and Plancherel, convolution and the delta function, the uncertainty principle, the discrete Fourier transform, the fast Fourier transform, sampling and aliasing, windowing and leakage, filtering and frequency response, heat and wave equations, and two-dimensional Fourier analysis.\n\n### Seven Labs\nSpectrum Analyser, Aliasing Explorer, Convolution Visualiser, Window and Leakage Lab, 2-D Image Fourier Lab, Convergence Bench with Fejer means and coefficient decay, and an Uncertainty and Heat Lab.\n\n### Adaptive Practice\nChoose a personalised path that follows your mistakes, or the traditional syllabus order, and switch at any time. The app tracks mastery for each topic, recognises common slips such as a wrong factor of 2 pi, a folded alias or leakage mistaken for noise, and schedules spaced reviews after every set. Mock exams are timed and use numeric questions whose answers were computed and double-checked with two independent software engines. Conceptual questions are marked practice-only and stay out of exams.\n\n### Worked Solutions And Concept Pop-Ups\nEvery question has a free worked solution. Tap any concept for a short pop-up that explains it at grade-school level, at course level and at graduate level. Text size controls (A- and A+) are on every screen.\n\n### Sources\nEvery lesson links to cited course pages, textbooks and papers. All explanations, problems, solutions and simulations are original; sources are cited and linked only. Not affiliated with any university or publisher.\n\n### Free With Optional Ad Removal\nThe whole course is free. Ads appear only at natural breaks and never during mock exams. You can watch an optional video to earn an extra mock exam, or subscribe to Fourier Analysis Ad-Free Monthly to remove ads. The subscription starts with a 7-day free trial and renews monthly at the price shown by the App Store until cancelled; manage it in Settings.\n\nWorks offline. No account needed.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/fourier-analysis-spectrane/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-fourier-analysis.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_fourier_analysis.app"
+  },
+  "related": [
+    "mathematical-methods-sturmel",
+    "real-analysis-2-arzelio"
+  ]
+}
