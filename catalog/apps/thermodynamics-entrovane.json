@@ -1,0 +1,49 @@
+{
+  "slug": "thermodynamics-entrovane",
+  "name": "Thermodynamics: Entrovane",
+  "subtitle": "Thermodynamics, Stat Mechanics",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "thermodynamics",
+    "statistical mechanics",
+    "entropy",
+    "heat engine",
+    "partition function",
+    "ising",
+    "boltzmann",
+    "carnot",
+    "thermal physics",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive thermodynamics and statistical mechanics course: entropy, engines and ensembles with six hands-on labs. Free to use.",
+  "longDescription": "Thermodynamics: Entrovane is a Thermodynamics and Statistical Mechanics course for undergraduates, built around what you get wrong. It follows the usual thermal physics syllabus from temperature and the first law to entropy, partition functions, quantum gases and the Ising model, and it keeps a ledger of the exact slips you make so the next questions go after them.\n\n### How It Teaches\n- A map of 22 topics in two tracks: the laws of state variables on one side, the counting of microstates on the other, joined by entropy, Boltzmann's formula and fluctuations. A topic opens when its prerequisites are in place.\n- Two paths you can switch between at any time: a personalised one that targets your weak topics and repeated mistakes, and a syllabus-order one.\n- A slip ledger: type 25 degrees where kelvin is needed, or a base-10 logarithm where ln belongs, and the app names the mistake and brings it back until it is gone.\n- Questions that are not only numbers: give the sign of heat, work and entropy change for a process, rank engines or gases, or enter a value with its unit. More than 200 original problems, each with a free worked solution. Answers to the numeric problems are re-computed by a second program; concept checks are labelled and never appear in mock exams.\n- Unit checkpoints, a 20-question timed mock exam without ads, and spaced review that brings old material back.\n\n### Six Labs You Can Play With\n- Gas in a box: squeeze a wall, read the measured pressure against N k T / V and watch an entropy counter climb after a free expansion.\n- Engine cycle designer: Carnot, Otto, Diesel and Brayton loops with heat, work and efficiency beside the Carnot limit.\n- Ising magnet: a spin lattice you heat through the critical temperature.\n- Partition-function explorer: two-level, oscillator, rotor and ladder systems with Z, energy, free energy, entropy and heat capacity.\n- Quantum occupancy plotter: Fermi-Dirac, Bose-Einstein and Boltzmann curves with adjustable chemical potential and temperature.\n- Blackbody spectrum: Planck curve, Wien peak and radiated power.\n\n### Go Deeper Or Easier\nTap any concept for a pop-up at three levels: grades 8 to 12, this course, and graduate study. A sources sheet links to open course pages, textbooks and original papers. Everything instructional in the app is written for it; references are cited and linked, never copied.\n\n### Topics\nZeroth law, ideal and van der Waals gases, work, heat and the first law, heat capacities and equipartition, the second law, heat engines and refrigerators, entropy, thermodynamic potentials, Maxwell relations, phase transitions and Clausius-Clapeyron, the third law, microstates, canonical and grand-canonical ensembles, Maxwell-Boltzmann speeds, Fermi-Dirac and Bose-Einstein statistics, degenerate Fermi gas, condensation, blackbody radiation, Einstein and Debye solids, the Ising model and fluctuations.\n\n### Free To Use\nNo account, works offline, progress stays on your device. Ads appear only between sets, never during a question, a mock exam or a solution. You can watch an optional short video to earn a credit for an extra mock exam. Or remove ads with the monthly plan: 7-day free trial, then the price shown in the store each month, renewing automatically until you cancel in your store account settings. Worked solutions, labs and concepts are free either way.\n\nFor students aged 13 and over. Not affiliated with any university, publisher or author named as a reference.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/thermodynamics-entrovane/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-thermodynamics-statistical-mechanics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_thermodynamics_statistical_mechanics.app"
+  },
+  "related": [
+    "modern-physics-quantaro",
+    "physics-iii-waves-fringeloom"
+  ]
+}
