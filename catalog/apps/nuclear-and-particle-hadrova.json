@@ -1,0 +1,51 @@
+{
+  "slug": "nuclear-and-particle-hadrova",
+  "name": "Nuclear and Particle: Hadrova",
+  "subtitle": "Nuclear Physics, Particle Labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "nuclear physics",
+    "particle physics",
+    "radioactive decay",
+    "quark",
+    "standard model",
+    "isotope",
+    "fission",
+    "fusion",
+    "half-life",
+    "neutrino",
+    "higgs",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive nuclear and particle physics course: decay chains, binding energy, quarks and Feynman rules with five hands-on labs. Free to use.",
+  "longDescription": "Nuclear and Particle: Hadrova is an adaptive undergraduate course in nuclear physics and particle physics. It teaches how nuclei hold together, why some of them decay, what happens in reactors and stars, how radiation is detected and measured, and what the Standard Model says the world is made of.\n\n### How It Teaches\nYour home screen is a chart of the nuclides: one cell for each of 25 topics. A cell glows with your mastery and its ring fades as your memory of the topic decays, with a half-life of its own, just like a radioactive sample. Practise and the half-life grows; skip a review and the cell dims. Pick a personalised path that targets your weakest unlocked topic and your recent mistakes, or follow the traditional syllabus order, and switch whenever you like.\n\n### What You Learn\nNuclides, radii and density. Mass, energy and the atomic mass unit. Binding energy and the stability curve. The liquid-drop mass formula. Shell structure and magic numbers. The exponential decay law, decay chains and equilibrium. Alpha decay and tunnelling, beta decay and the neutrino, gamma emission and internal conversion. Reaction Q-values, thresholds and cross sections. Fission and chain reactions. Fusion and the Coulomb barrier. Heavy charged particles and the Bragg peak. Photons in matter. Detectors and counting statistics. Dosimetry and radiation protection. Conservation laws. Leptons and quarks. Hadrons and the quark model. Gauge bosons and Feynman diagrams. The weak interaction. Relativistic kinematics and accelerators. Neutrinos and cosmic rays. The Higgs boson and open questions.\n\n### Five Hands-On Labs\nDecay lab: watch hundreds of nuclei decay at random and compare the crowd with the exponential law, then chain a daughter behind the parent.\nBinding-energy curve: real atomic-mass data against the liquid-drop formula, one term at a time.\nFeynman and conservation builder: pick the particles in and out and see which conserved quantities break and which interaction could do it.\nDetector track lab: bend charged tracks in a magnetic field and read the momentum from the curvature.\nQuark-model composer: combine quarks and see the charge, baryon number, strangeness and the hadron's name.\n\n### Practice That Checks Itself\nAbout 400 original problems: numeric answers with units and scientific notation, multiple choice, balancing decays, and a conservation-law checker. Every numeric, quark and conservation answer used in exams was recomputed by an independent second program and agrees. Wrong answers are matched to named misconceptions. A worked solution sits beside every answer and is always free.\n\n### Exams And Checkpoints\nTwenty-question timed mock exams and five-question unit checkpoints. No ads appear during timed work.\n\n### Sources\nAtomic masses from the AME2020 evaluation, particle data from the Particle Data Group 2024 tables, constants from NIST. Tap any source for a citation sheet with the licence and a link. Lessons, problems and simulations are original; textbooks and university courses are cited and linked, never copied.\n\n### Free With Optional Subscription\nThe app is free. Ads appear only at natural breaks between practice sets. You can watch an optional short video for an extra mock-exam credit. A monthly subscription removes ads; it is billed monthly after a 7-day free trial, renews automatically until cancelled, and can be cancelled any time in your Apple Account settings. Price is shown by the App Store before you subscribe.\n\nText size can be changed with A- and A+ on every screen. The app works offline. Not affiliated with any university, publisher or organisation named in the sources.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/nuclear-and-particle-hadrova/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-nuclear-particle-physics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_nuclear_particle_physics.app"
+  },
+  "related": [
+    "modern-physics-quantaro",
+    "quantum-mechanics-ii-hilbrim"
+  ]
+}
