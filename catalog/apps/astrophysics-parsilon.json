@@ -1,0 +1,51 @@
+{
+  "slug": "astrophysics-parsilon",
+  "name": "Astrophysics: Parsilon",
+  "subtitle": "Astrophysics Course and Labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "astrophysics",
+    "stars",
+    "galaxies",
+    "cosmology",
+    "black holes",
+    "exoplanets",
+    "hr diagram",
+    "kepler",
+    "orbits",
+    "telescope",
+    "redshift",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive astrophysics course: stars, galaxies, exoplanets and cosmology with five hands-on labs, from HR diagrams to the Hubble law. Free to use.",
+  "longDescription": "Astrophysics: Parsilon is an adaptive undergraduate astrophysics course for physics majors, engineers and curious learners who want the real calculations behind the sky. Study orbits, light, stars, galaxies and the expanding universe with practice that follows how you are doing.\n\n### The Sky Map\nYour home screen is a star chart of 25 topics. A star brightens as you master its topic and dims as your memory of it fades, so you can see at a glance what to review. Choose a personalised path that targets your weakest unlocked topic and your recent mistakes, or follow the traditional syllabus order, and switch at any time.\n\n### What You Study\nScales and units, Kepler's laws and orbits, gravity and energy, light and flux, blackbody radiation, magnitudes, spectra and Doppler shifts, telescopes and detection, the distance ladder, stellar structure, the Sun's energy, the HR diagram, star formation, stellar evolution, white dwarfs, neutron stars and pulsars, black holes, nucleosynthesis, binary stars, exoplanets, the Milky Way, galaxies and active nuclei, large-scale structure, expansion and redshift, and cosmology basics.\n\n### Five Interactive Labs\nAge a star cluster on the HR diagram, weigh a binary star from its radial-velocity curve, slide a blackbody peak and Doppler-shift spectral lines, match an exoplanet transit light curve, and fit the Hubble law to find the age of the universe.\n\n### Practice That Teaches\nHundreds of original questions with a worked solution for every one, always free. Answers accept rounded values and scientific notation. Estimation and ranking questions build a feel for astronomical scales. The app notices the habit behind each wrong answer, such as a dropped square root or a backwards magnitude scale, and brings back questions that exercise it. Timed mock exams use only questions whose answers were checked by a second calculation engine.\n\n### Learn At Any Level\nTap a concept pop-up for a plain school-level explanation, the course view, and a pointer to graduate-level study. Sources are cited and linked, never copied.\n\n### Free To Use\nThe app is free with ads at natural breaks, never during a mock exam. Watch an optional video to earn a credit for an extra exam, or remove ads with an optional monthly subscription with a 7-day free trial. The subscription renews monthly until cancelled in your account settings; the price is shown by the store before you subscribe.\n\nWorks offline, no account needed. Not affiliated with any university, space agency or publisher named in the sources.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/astrophysics-parsilon/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-astrophysics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_astrophysics.app"
+  },
+  "related": [
+    "relativity-taurel",
+    "modern-physics-quantaro"
+  ]
+}
