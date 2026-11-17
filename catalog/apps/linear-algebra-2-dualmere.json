@@ -1,0 +1,49 @@
+{
+  "slug": "linear-algebra-2-dualmere",
+  "name": "Linear Algebra 2: Dualmere",
+  "subtitle": "Linear Algebra: Spectral, SVD",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "linear algebra",
+    "jordan form",
+    "eigenvalues",
+    "vector spaces",
+    "inner product",
+    "quadratic forms",
+    "dual space",
+    "svd",
+    "spectral theorem",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive second course in linear algebra: vector spaces, spectral theory, Jordan form and SVD with five hands-on labs. Free to use.",
+  "longDescription": "Linear Algebra 2: Dualmere is the second course in linear algebra, built for the moment when matrices stop being tables of numbers and become operators on abstract spaces. It assumes a first course and follows the arc of a typical university sequel.\n\nTwelve topics, one prerequisite map\n- Vector spaces over a field: polynomial, matrix and function spaces, bases and dimension\n- Linear maps, kernels, images, rank-nullity and change of basis\n- Dual spaces, annihilators, quotient spaces and the transpose map\n- Inner product spaces, Gram-Schmidt and best approximation in function spaces\n- Adjoints, Hermitian, unitary and normal operators\n- Characteristic and minimal polynomials and the Cayley-Hamilton theorem\n- The real and complex spectral theorems\n- Generalised eigenspaces and nilpotent operators\n- Jordan canonical form\n- Singular value decomposition, pseudoinverse and Eckart-Young\n- Bilinear and quadratic forms, congruence and Sylvester's law of inertia\n- Matrix powers and exponentials, recurrences and linear differential equations\n\nPractice that follows your mistakes\nThe home screen is a map of the topics and their prerequisites. Pick the personalised path and the app tracks what you know about each topic, traces a wrong answer back to the weakest prerequisite, and chooses the next question from the slip pattern behind your mistake, with spaced review of items you missed. Prefer the textbook order? Switch to the traditional path at any time.\n\n286 original questions in three answer styles: multiple choice, an exact number, and a matrix grid where you type the whole matrix, for example a Jordan form or a change-of-basis result. Typed answers are checked exactly, with fractions. Every computational answer was recomputed with a second method during development; conceptual questions are marked as practice-only and kept out of the mock exams. Worked solutions are always free.\n\nFive labs made for this course\n- Jordan chain visualiser: build a Jordan matrix, read off the kernel dimensions and watch exp(tN) act on a chain\n- Gram-Schmidt stepper in three dimensions\n- Quadratic form level sets with principal axes and signature\n- SVD low-rank patch lab with an 8 by 8 picture, a rank slider and the Eckart-Young error\n- Dual basis lab with covector level lines\n\nStudy tools\nTap any concept for a K-12 view, an undergraduate view and a graduate view. Every source is cited in a full-width sheet with its institution, licence and link, including MIT OpenCourseWare, open textbooks and video series. Before-this-course and after-this-course pages point to what to study next. A- and A+ buttons resize text on every screen, and the layout adapts to iPad with a map and topic side by side.\n\nFree with ads\nThe app is free, works offline and needs no account. Ads appear only at natural breaks, never during a timed mock exam. You can watch an optional video to earn a credit for an extra mock exam, or remove ads with the optional ad-free monthly subscription: it includes a 7-day free trial, renews monthly, and can be cancelled in your Apple ID settings at least 24 hours before the end of the period. The price is shown by the App Store before you subscribe.\n\nAll explanations, questions and figures are original. Sources are cited and linked, never copied. Linear Algebra 2: Dualmere is not affiliated with any university or listed source.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/linear-algebra-2-dualmere/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-linear-algebra-2.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_linear_algebra_2.app"
+  },
+  "related": [
+    "linear-algebra-vectrine",
+    "abstract-algebra-cayleon"
+  ]
+}
