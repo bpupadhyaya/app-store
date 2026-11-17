@@ -1,0 +1,50 @@
+{
+  "slug": "computational-physics-verlex",
+  "name": "Computational Physics: Verlex",
+  "subtitle": "Computational Physics Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "computational physics",
+    "numerical",
+    "simulation",
+    "monte carlo",
+    "ising",
+    "verlet",
+    "orbit",
+    "n-body",
+    "pde",
+    "integrator",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive computational physics course: integrators, N-body and Ising simulations and finite differences with five hands-on labs. Free to use.",
+  "longDescription": "Computational Physics: Verlex is a free, adaptive course that teaches you how physicists make computers simulate nature, and how to tell when the simulation is lying. It follows the standard upper-level syllabus: integrators for physical systems, orbits and N-body gravity, Monte Carlo methods, the Ising model, finite differences for diffusion and waves, spectral methods, molecular dynamics, and fitting experimental data.\n\nLearn by running experiments, not by reading about them. Five hands-on labs let you drag a slider and watch a method succeed or fail:\n- Orbit energy-drift lab: Euler, Runge-Kutta and velocity Verlet on a planet's orbit, with a live energy-error plot.\n- N-body sandbox: the figure-eight orbit, a sun with planet and moon, and a random cluster, with energy and momentum readouts.\n- Ising Monte Carlo: Metropolis sweeps on a spin lattice, a temperature slider and a cooling sweep that reveals the phase transition.\n- Heat and wave stability lab: push the diffusion number past one half, or the Courant number past one, and watch the solution explode.\n- Random walk and Monte Carlo error lab: measure the one-over-root-N error of an estimate of pi.\n\nThirteen topics, each with short lessons, key formulas and concept pop-ups that explain every idea at school level, early undergraduate level and graduate level:\nFloating point and error, Euler's method, Runge-Kutta, Verlet and symplectic integrators, orbits and N-body simulation, random numbers, Monte Carlo and random walks, Metropolis and the Ising model, finite differences, diffusion and wave equations, Fourier and spectral methods, molecular dynamics, and optimisation and fitting.\n\nAn adaptive engine learns what you know. It keeps a rating for every topic, notices the mistake patterns you repeat (for example using the exact solution instead of the scheme, or forgetting a factor of two), and schedules review at growing intervals. Choose the adaptive path or follow the curriculum in order, and switch at any time.\n\nOver 200 original questions. Numeric questions ask you to run the algorithm and type the result; every stored answer was checked with a second, independent numerical engine. Every question has a free worked solution that also explains why the tempting wrong answers go wrong. Timed mock exams use only questions that were checked by a second method.\n\nSources are cited and linked: classic papers, standard textbooks and university course pages. All lessons, questions and simulations are original work, and everything runs on your device with no account.\n\nFree to use with ads shown at natural breaks, never during a timed exam. You can watch an optional short video for an extra practice set, or remove ads with the optional monthly subscription, which includes a 7-day free trial and can be cancelled at any time in your account settings.\n\nNot affiliated with any university, publisher or journal named in the citations.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/computational-physics-verlex/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-computational-physics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_computational_physics.app"
+  },
+  "related": [
+    "numerical-analysis-iterova",
+    "analytical-mechanics-hamvale"
+  ]
+}
