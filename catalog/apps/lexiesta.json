@@ -97,7 +97,8 @@
   "ios": {
     "status": "live",
     "url": "https://apps.apple.com/us/app/spanish-flashcards-lexiesta/id6834732687",
-    "bundleId": "com.equalinformation.langflashcardses.app"
+    "bundleId": "com.equalinformation.langflashcardses.app",
+    "appleId": "6834732687"
   },
   "android": {
     "status": "soon",

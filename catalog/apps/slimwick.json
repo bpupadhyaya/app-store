@@ -97,7 +97,8 @@
   "ios": {
     "status": "live",
     "url": "https://apps.apple.com/us/app/image-compressor-slimwick/id6834737267",
-    "bundleId": "com.equalinformation.utilimagecompress.app"
+    "bundleId": "com.equalinformation.utilimagecompress.app",
+    "appleId": "6834737267"
   },
   "android": {
     "status": "soon",

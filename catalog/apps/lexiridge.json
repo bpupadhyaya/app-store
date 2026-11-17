@@ -98,7 +98,8 @@
   "ios": {
     "status": "live",
     "url": "https://apps.apple.com/us/app/ielts-toefl-vocab-lexiridge/id6834737375",
-    "bundleId": "com.equalinformation.examieltsvocab.app"
+    "bundleId": "com.equalinformation.examieltsvocab.app",
+    "appleId": "6834737375"
   },
   "android": {
     "status": "soon",

@@ -97,7 +97,8 @@
   "ios": {
     "status": "live",
     "url": "https://apps.apple.com/us/app/daily-word-game-lexidial/id6834731252",
-    "bundleId": "com.equalinformation.worddailymultilang.app"
+    "bundleId": "com.equalinformation.worddailymultilang.app",
+    "appleId": "6834731252"
   },
   "android": {
     "status": "soon",
