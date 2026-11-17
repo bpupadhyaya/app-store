@@ -1,0 +1,50 @@
+{
+  "slug": "set-theory-ordivane",
+  "name": "Set Theory: Ordivane",
+  "subtitle": "Set Theory, Ordinals, Choice",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "set theory",
+    "cardinality",
+    "cantor",
+    "zermelo",
+    "fraenkel",
+    "ordinals",
+    "axiom of choice",
+    "zorn",
+    "countable",
+    "infinity",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive set theory course: cardinality, ordinals, ZF axioms and Zorn's lemma with five hands-on labs. Free to use.",
+  "longDescription": "Set Theory from first sets to the axiom of choice: a free, offline course that adapts to the mistakes you actually make.\n\nSet theory is the language underneath modern mathematics. This app takes you up a ladder of fifteen topics: sets and subsets, set algebra, relations, equivalence and partitions, functions, partial orders and Hasse diagrams, finite counting, countable sets, Cantor and uncountability, the Zermelo-Fraenkel axioms, well-orders and ordinals, transfinite induction, ordinal arithmetic, cardinal arithmetic, and the axiom of choice with Zorn's lemma.\n\n### What You Get\n- A personalised path that follows your mastery, due reviews and open slips, or a traditional syllabus order you can switch to at any time.\n- 182 original questions: single choice, true or false, select-all-that-apply and numeric entry. Each wrong answer is tagged with the slip behind it (member versus subset, De Morgan swap, ordinal operations that do not commute) so practice returns to exactly that point.\n- Worked solutions beside every answer, always free.\n- Five interactive labs: a Venn identity tester, a Hilbert hotel builder with Cantor's pairing grid, an ordinal ladder for sums and products in Cantor normal form, a Cantor diagonal lab, and a Hasse and Zorn explorer.\n- Concept pop-ups that explain a term at school level, first-course level and advanced level.\n- A timed 20-question mock exam drawn only from questions checked by computer or against an opened source. Questions we only argued by hand are labelled practice-only and kept out of exams.\n- Cited sources in a full-width panel with licence and link: Stanford Encyclopedia of Philosophy entries, MIT OpenCourseWare scope notes and classic textbooks. All lessons and questions are our own original work.\n- Larger text on every screen with the A- and A+ buttons, and a layout built for iPad.\n\n### How It Works\nWorks offline, no account, no sign-in. The app is free with ads shown only at natural breaks, never during a timed exam. You can watch an optional short video to earn an extra practice set. An optional monthly Ad-Free subscription removes all ads; the price is shown in the App Store before you subscribe, and it starts with a 7-day free trial. It renews automatically unless you cancel at least 24 hours before the period ends, and you can manage or cancel it in your Apple account settings.\n\nNot affiliated with any university, publisher or exam board.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/set-theory-ordivane/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-set-theory.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_set_theory.app"
+  },
+  "related": [
+    "mathematical-logic-entailo",
+    "intro-to-proofs-qedlark"
+  ]
+}
