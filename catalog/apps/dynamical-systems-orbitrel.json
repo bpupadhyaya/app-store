@@ -1,0 +1,51 @@
+{
+  "slug": "dynamical-systems-orbitrel",
+  "name": "Dynamical Systems: Orbitrel",
+  "subtitle": "Dynamical Systems and Chaos",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "dynamical systems",
+    "bifurcation",
+    "lorenz",
+    "phase portrait",
+    "lyapunov",
+    "fractal",
+    "logistic map",
+    "nonlinear",
+    "attractor",
+    "hopf",
+    "chaos",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive dynamical systems course: phase portraits, bifurcations, chaos and strange attractors with six hands-on labs. Free to use.",
+  "longDescription": "Dynamical Systems: Orbitrel teaches the mathematics of change: how a rule applied again and again produces calm, cycles or chaos. It is a complete first course in nonlinear dynamics for undergraduates, written from scratch and built to be used with a pencil in one hand and the labs in the other.\n\n### The Course\nNineteen topics in six units, drawn as a flow chart on the home screen. Each node fills as you master it.\n• Flows on the line: fixed points, stability, potentials, blow-up, uniqueness\n• Bifurcations: saddle-node, transcritical, pitchfork, imperfect and subcritical cases\n• The phase plane: trace and determinant, nullclines, linearisation, Lyapunov functions, Hamiltonian systems\n• Cycles: limit cycles, the Poincare-Bendixson theorem, Hopf bifurcation, Poincare sections\n• Maps and chaos: cobwebs, period doubling, Lyapunov exponents, symbolic dynamics\n• Strange attractors: the Lorenz system, fractal dimension, the Henon map\n\n### Six Labs\nPhase-portrait plotter with nullclines, fixed points and eigenvalues. Bifurcation diagram builder for flows and maps. Lorenz explorer with twin trajectories. Lyapunov-exponent estimator. Poincare section lab. Fractal box-counting lab. Move a slider and watch the mathematics respond.\n\n### Practice That Notices Your Slips\nA personalised path picks what to study next from your answers, or switch to the traditional order whenever you like. Wrong answers are tagged by the idea behind them, such as using a flow rule for a map, and the engine brings that idea back until it sticks. Spaced review, hints, timed unit tests and three whole-course mock exams are included.\n\n### Worked Solutions, Always Free\nMore than 130 original questions, each with a step-by-step solution you can open from a bottom panel. Every numeric answer was recomputed with a second, independent method before it was included. Questions that cannot be checked that way are labelled practice-only and kept out of the tests.\n\n### From School To Graduate\nTap any highlighted idea for a three-level explanation: school, this course, and where it leads next. Citations open in a panel with the source, the licence and a link; every source is cited and linked, never copied. A- and A+ buttons resize text on every screen.\n\n### Free To Use\nWorks offline. Optional short videos earn credits for bonus practice. An optional monthly subscription removes ads and unlocks unlimited mock exams; the price and free-trial terms are shown by the App Store before you confirm, and you can cancel in your Apple Account settings at any time. Not affiliated with any university or publisher mentioned in the citations.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/dynamical-systems-orbitrel/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-dynamical-systems.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_dynamical_systems.app"
+  },
+  "related": [
+    "differential-equations-odelo",
+    "mathematical-modelling-scalux"
+  ]
+}
