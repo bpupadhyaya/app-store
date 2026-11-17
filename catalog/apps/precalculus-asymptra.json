@@ -1,0 +1,49 @@
+{
+  "slug": "precalculus-asymptra",
+  "name": "Precalculus: Asymptra",
+  "subtitle": "Precalculus, trig, logs, polar",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "precalculus",
+    "algebra",
+    "functions",
+    "trigonometry",
+    "logarithms",
+    "polar",
+    "conics",
+    "vectors",
+    "sequences",
+    "college math",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive college precalculus course: functions, trigonometry, logs, polar curves and a Calculus Readiness score with five hands-on labs. Free to use.",
+  "longDescription": "Asymptra is a free precalculus course for the student who wants to walk into Calculus I without surprises. It covers college precalculus from functions to limits in 30 short topics, and it watches HOW you get things wrong, not only how often.\n\n### A Route, Not A List\nYour home screen is a route map. Each stop is a topic with a status (new, shaky, growing, solid). Stops unlock as the skills before them firm up, or you can test out with a six-question checkpoint. Switch at any moment between the Personalised path, which picks the next question from your slips and what is due for review, and the Curriculum path, which follows textbook order.\n\n### Four Ways To Know A Topic\nEvery question is tagged Algebra, Graph, Table or Words. A topic only turns solid when you can work it in all four. If your graph reading lags your algebra, the next questions lean that way. Every wrong choice is a named misconception (sign slip, inside-versus-outside, log of a sum, and so on), so feedback tells you what went wrong, not just that something did.\n\n### Calculus Readiness\nOne number summarises how well your precalculus supports Calculus I, with the three topics to fix first.\n\n### What You Will Study\nFunctions, transformations, composition and inverses, average rate of change. Quadratics, polynomial zeros and end behaviour, the factor theorem, rational functions and asymptotes, sign charts. Exponentials, logarithms, equations, compound interest and e. Radians, the unit circle, sine and cosine graphs, right triangles. Identities, trigonometric equations, inverse trigonometry. Law of sines and cosines, vectors, complex numbers and De Moivre. Conics, parametric and polar curves. Sequences, series, the binomial theorem, systems and an introduction to limits.\n\n### Five Labs\nMove sliders and watch the mathematics respond. Match a hidden transformation with the ghost challenge, drag an angle around the unit circle and watch sine and cosine unroll, set zeros and multiplicities and see rational functions grow asymptotes and holes, compare growth and compound interest against their logarithms, and plot ellipses, hyperbolas, roses and limacons.\n\n### Questions And Solutions\n555 original questions, many drawn from graphs, tables and word problems, each with a free worked solution. Numeric answers were recomputed with a second, independent method before shipping. Timed 24-question mock exams cover all eight units; no hints and no ads while the clock runs.\n\n### For Every Level\nTap any highlighted concept for a short explanation at school level and a pointer to the graduate-level idea behind it. Sources are cited and linked inside the app; all lessons and problems are original. A- and A+ buttons enlarge the text everywhere. Works offline.\n\n### Free, With Optional Ad Removal\nThe whole course is free. Short ads appear between sessions, never during a timed exam, and you can watch an optional video to earn an extra mock exam. Subscribe to Precalculus Ad-Free Monthly to remove ads: a 7-day free trial, then a monthly price shown by the App Store; renews monthly until cancelled, cancel any time in Settings. Asymptra is independent and not affiliated with any publisher, university or exam body.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/precalculus-asymptra/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-precalculus.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_precalculus.app"
+  },
+  "related": [
+    "calculus-i-course-epsilume",
+    "linear-algebra-vectrine"
+  ]
+}
