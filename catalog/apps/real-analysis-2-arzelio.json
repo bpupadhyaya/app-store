@@ -1,0 +1,49 @@
+{
+  "slug": "real-analysis-2-arzelio",
+  "name": "Real Analysis 2: Arzelio",
+  "subtitle": "Real Analysis 2 course & labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "real analysis",
+    "uniform convergence",
+    "fourier",
+    "banach",
+    "fixed point",
+    "jacobian",
+    "implicit function",
+    "stieltjes",
+    "weierstrass",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive second course in real analysis: uniform convergence, function spaces, Fourier and the inverse function theorem with five hands-on labs. Free to use.",
+  "longDescription": "Real Analysis 2: Arzelio is a second course in real analysis for undergraduates. It picks up where epsilon-delta proofs leave off and asks what happens when you take limits of whole functions: when does a sequence of graphs settle onto a limit graph, and what survives the limit?\n\n### What You Study\nTwelve topics in five chapters. Spaces of functions and the sup norm. Pointwise versus uniform convergence. Swapping limits with integrals and derivatives. Power series and termwise calculus. Equicontinuity and the Arzela-Ascoli theorem. Weierstrass and Stone-Weierstrass approximation. Fourier series, convergence and the Gibbs overshoot. Contractions and the Banach fixed-point theorem. Derivatives and Jacobians in R^n. The inverse and implicit function theorems. Riemann-Stieltjes integrals.\n\n### How It Adapts\nEvery wrong answer is tied to a named slip, such as treating pointwise convergence as uniform, using a local theorem globally, or losing the minus sign in an implicit derivative. The app tracks mastery per topic, brings back reviews on a spaced schedule and chooses your next question from your mistakes. Prefer the textbook order? Switch to the traditional path at any time. Reach 80 percent on a topic and its named theorems enter your theorem ledger.\n\n### Practice That Checks Exact Values\n147 original questions. Typed answers are values you compute yourself: a supremum, a radius of convergence, a Fourier coefficient, a Jacobian determinant, a Stieltjes integral. Fractions are accepted. Verdict-and-reason questions ask you to pick the true statement and the right counterexample. Every worked solution is free.\n\n### Five Interactive Labs\nUniform band: slide n and epsilon and see whether the graph of f_n stays inside the band. Gibbs bench: add Fourier terms to a square wave and watch the overshoot refuse to shrink. Contraction cobweb: iterate a map and read off the contraction constant. Bernstein workbench: polynomials that approach a continuous function. Local inverse grid: see where a map of the plane folds or stays invertible.\n\n### Exams And Review\nChapter checkpoints and a 12-question timed mock exam with no ads while the clock runs. Step-down notes explain a term at school level, and step-up notes say where it leads. Cited university courses and textbooks open in a clear source window with the licence and a link.\n\n### Free To Start\nThe course is free with ads at natural breaks, never in the middle of a question or an exam. Watch an optional short video to earn a credit for a full mock exam, or choose the monthly ad-free plan: price shown in the app by the App Store, 7-day free trial, renews monthly until cancelled, manage or cancel in your Apple ID settings.\n\n### Honest Limits\nNumeric answers were recomputed with a second computer-algebra engine. A few conceptual questions are marked practice-only: they come with a proof sketch but were not machine-checked, and they never appear in exams. All material is original study material, not an official syllabus. Not affiliated with or endorsed by any university, publisher or course named in the app.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/real-analysis-2-arzelio/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-real-analysis-2.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_real_analysis_2.app"
+  },
+  "related": [
+    "real-analysis-i-deltavane",
+    "multivariable-calculus-nablix"
+  ]
+}
