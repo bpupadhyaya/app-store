@@ -1,0 +1,48 @@
+{
+  "slug": "number-theory-euclora",
+  "name": "Number Theory: Euclora",
+  "subtitle": "Number Theory: Primes and RSA",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "number theory",
+    "primes",
+    "modular arithmetic",
+    "gcd",
+    "congruence",
+    "rsa",
+    "cryptography",
+    "diophantine",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive number theory course: primes, congruences, RSA and five hands-on labs with exact worked solutions. Free to use.",
+  "longDescription": "Number Theory: Euclora is a free, adaptive first course in elementary number theory for undergraduates and curious self-learners. It follows the standard syllabus of a university course: divisibility and the division algorithm, Euclid's algorithm, Bezout's identity, primes and the fundamental theorem of arithmetic, congruences and the Chinese Remainder Theorem, Fermat, Euler and Wilson, multiplicative functions, primitive roots, quadratic residues and reciprocity, Diophantine equations, continued fractions, toy-scale cryptography, sums of squares and a first look at algebraic number ideas.\n\n### How The Course Adapts\nEuclora keeps a ledger of what you know in each of its 35 topics. Every answer updates that ledger, and wrong answers are matched against 38 known misconceptions, such as cancelling a factor that shares a divisor with the modulus, or reducing an exponent modulo n instead of modulo phi(n). Mistakes you repeat become visible patterns, the next problems aim at them, and a mistake that points back to a prerequisite sends you down the topic graph to repair it. Prefer the classic order? Switch to the traditional path at any time.\n\n### Problems That Check The Math, Not Just A Key\nMore than 200 original problems: exact integer answers, multiple choice with explained distractors, proof-ordering exercises, and certificate problems where you supply the numbers (Bezout coefficients, a solution of a system of congruences, a sum of squares) and the app verifies them by integer arithmetic, so every valid certificate is accepted. Every numeric answer in the bank was recomputed with a second independent engine. Worked solutions are always free.\n\n### Five Number Theory Labs\nSieve and prime distribution: step the sieve of Eratosthenes, compare the prime count with x over ln x, and view the Ulam spiral. Euclid and continued fractions: watch a rectangle tile itself with squares while gcd, Bezout coefficients and convergents appear. Modular clock: times-table chords and the cycle of powers on an n-hour dial. Toy RSA workshop: build keys from small primes, encrypt, decrypt, and see why toy keys are not secure. Gaussian-integer lattice: tap points of Z[i] to see norms, Gaussian primes and splitting.\n\n### Study Aids\nConcept pop-ups explain any term at school level and point further up. Every citation opens in a sheet with the author, licence and a link to the original course, book, paper or video. Mock exams with 15 timed problems use only exactly verified items. Text size controls and an iPad layout with a sidebar are included. Works offline, no account needed.\n\n### Ads And Subscription\nFree with ads shown only at natural breaks, never during timed exams or mid-question. Optional videos earn credits for extra practice sets and exams. A monthly ad-free subscription with a 7-day free trial removes ads and unlocks unlimited sets and exams. Payment is charged to your Apple ID, the subscription renews automatically each month unless cancelled at least 24 hours before the end of the period, and you can manage or cancel it in your Apple ID settings.\n\nIndependent study aid. Not affiliated with MIT or any publisher or author mentioned; cited works are linked, never copied.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/number-theory-euclora/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-number-theory.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_number_theory.app"
+  },
+  "related": [
+    "discrete-mathematics-lemmora",
+    "real-analysis-i-deltavane"
+  ]
+}

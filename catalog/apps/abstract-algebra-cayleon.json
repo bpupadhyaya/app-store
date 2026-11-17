@@ -1,0 +1,49 @@
+{
+  "slug": "abstract-algebra-cayleon",
+  "name": "Abstract Algebra: Cayleon",
+  "subtitle": "Abstract Algebra: Group Theory",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "abstract algebra",
+    "groups",
+    "rings",
+    "fields",
+    "galois",
+    "sylow",
+    "lagrange",
+    "cosets",
+    "homomorphism",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive abstract algebra course: groups, rings and fields with four hands-on labs and worked solutions. Free to use.",
+  "longDescription": "Abstract Algebra: Cayleon is a free, adaptive undergraduate course in abstract algebra that follows the usual first-course path through groups, rings and fields, and shows you how each idea connects to the next.\n\nStart with divisibility and congruence, then climb a three-strand ladder:\n- Groups: group axioms, cyclic groups and element orders, permutations, dihedral groups, subgroups, cosets and Lagrange's theorem, normal subgroups and quotient groups, homomorphisms, the isomorphism theorems, group actions and counting, and an introduction to the Sylow theorems.\n- Rings: modular arithmetic as rings, units and zero divisors, ideals and quotient rings, ring homomorphisms, polynomial rings over fields, PIDs, UFDs and irreducibles.\n- Fields: characteristic, field extensions and degree, finite fields and an introduction to Galois theory.\n\nYour own path, or the textbook order\nThe app follows your mastery topic by topic. When you slip, it names the misconception (for example mixing up the order of an element with the index of a subgroup, or reading a permutation product left to right) and aims part of your next set at it. Review returns on a spaced schedule. Prefer the classroom order? Switch to the traditional path at any time.\n\nFour hands-on labs\n- Cayley Table Lab: colour a group's multiplication table, tap elements to light up the subgroup they generate, colour by coset and test normality.\n- Symmetry Shuffler: turn and flip a polygon and watch cycle notation, order and parity change.\n- Residue Ring Bench: find units, zero divisors, idempotents and nilpotents in the integers mod n.\n- Polynomial Factory: factor polynomials over a finite field and see when the quotient ring is a field.\n\nPractice that explains itself\n- 556 original questions, with a worked solution beside every answer, always free.\n- 511 of them have answers re-computed by a second, independent computing engine when the bank was built; the rest are conceptual and are kept out of mock exams.\n- Mock exams of 12 questions with a 30-minute timer and no ads.\n- Pop-up notes that explain a concept at school level and point to the next level up.\n- Tap any citation to see the source, licence and a link. Our lessons are original; the courses and textbooks that shaped the scope are linked, not copied.\n\nEverything runs on your device. No account and no sign-in.\n\nAds and subscription\nThe app is free. Short ads appear only at natural breaks, never during a timed exam, and you can choose to watch an optional video for an extra mock exam credit. A monthly Ad-Free subscription removes ads and unlocks unlimited mock exams, with a 7-day free trial. Subscriptions renew monthly until cancelled in Settings; price is shown by the App Store. Lessons, labs and worked solutions never require a purchase.\n\nNot affiliated with or endorsed by any university, publisher or course named in our citations.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/abstract-algebra-cayleon/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-abstract-algebra.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_abstract_algebra.app"
+  },
+  "related": [
+    "linear-algebra-vectrine",
+    "discrete-mathematics-lemmora"
+  ]
+}
