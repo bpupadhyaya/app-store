@@ -1,0 +1,49 @@
+{
+  "slug": "complex-analysis-residwick",
+  "name": "Complex Analysis: Residwick",
+  "subtitle": "Complex analysis course & labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "complex analysis",
+    "residue",
+    "cauchy",
+    "laurent",
+    "contour integral",
+    "conformal",
+    "mobius",
+    "holomorphic",
+    "argand",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive complex analysis course: contours, residues and conformal maps with four hands-on labs. Free to use.",
+  "longDescription": "Complex Analysis: Residwick is a first undergraduate course in complex analysis that adapts to the mistakes you make. Work from the Argand plane to Cauchy's theorem, Laurent series and the residue calculus, with practice, mock exams and four interactive labs, all offline.\n\n### What You Study\nFifteen topics in five units: complex numbers and polar form, limits, analytic functions and the Cauchy-Riemann equations, the exponential, trigonometric and logarithm functions with their branches, conformal maps and Moebius transformations, contour integrals, Cauchy's theorem and integral formula, power and Laurent series, singularities, residues, real integrals by residues, the argument principle and Rouche's theorem, the maximum modulus principle and harmonic functions.\n\n### Practice That Follows Your Mistakes\nEvery wrong answer is matched to a named misconception, such as picking the wrong branch of the argument or applying Cauchy's theorem with a pole inside the curve. The next set is built from those slips, and an error that comes from an earlier idea also lowers that earlier topic on your map. Choose the personalised path or the traditional course order, and switch at any time.\n\n### Questions With Real Complex Answers\nType the real and imaginary parts of a complex number, tap a point on the Argand plane, enter a real value such as pi over 16, or pick a multiple-choice claim. All 106 questions and their worked solutions were written for this app. Every worked solution is free, always.\n\n### Four Labs\nDomain colouring plotter: see the argument and size of f(z) as colour. Conformal grid mapper: watch a net of lines transform and read rotation and scale from the derivative. Contour and residue explorer: drag a circle around poles and compare the numeric integral with 2 pi i times the sum of residues. Moebius sphere visualiser: change a, b, c, d and follow circles onto the Riemann sphere.\n\n### Quizzes, Exams And Review\nUnit checkpoints, a timed twelve-question mock exam, spaced review at 1, 2, 4, 8 and 16 days, and a progress page that shows mastery of every topic and your most common misconceptions.\n\n### Built For Reading And Learning\nTap a term for a pop-up that explains it at K-12 level, in this course, and at the next level up. Citations open in a full-width panel with the source, licence and what we used it for, with links to MIT OpenCourseWare 18.04, standard textbooks and reference sites. A- and A+ buttons resize text on every screen, and the layout is designed for both iPhone and iPad.\n\n### Free To Study\nThe course is free with occasional ads at natural breaks, never during a timed exam. Watch an optional video to earn a credit for an extra mock exam attempt, or remove ads with the monthly Ad-Free subscription (price shown in the app by the App Store, with a 7-day free trial for new subscribers; renews monthly until cancelled in Settings; restore from More).\n\nNot affiliated with MIT, Princeton University Press or any publisher named. Educational use.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/complex-analysis-residwick/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-complex-analysis.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_complex_analysis.app"
+  },
+  "related": [
+    "real-analysis-i-deltavane",
+    "calculus-ii-course-sumlark"
+  ]
+}
