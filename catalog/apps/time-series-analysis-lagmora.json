@@ -1,0 +1,50 @@
+{
+  "slug": "time-series-analysis-lagmora",
+  "name": "Time Series Analysis: Lagmora",
+  "subtitle": "Time Series Analysis, ARIMA",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "time series analysis",
+    "arima",
+    "forecast",
+    "acf",
+    "pacf",
+    "autocorrelation",
+    "stationarity",
+    "seasonal",
+    "kalman",
+    "smoothing",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive time series analysis course: ARIMA, forecasting and the Kalman filter with six hands-on labs. Free to use.",
+  "longDescription": "Time Series Analysis: Lagmora is an adaptive undergraduate course in time series analysis with interactive labs, original practice problems and worked solutions. It teaches you to read a series the way analysts do: plot it, look at the correlogram, name a model, estimate it, check the residuals and forecast.\n\n### What You Learn\n- Stationarity, random walks, white noise and trends\n- Sample autocorrelation (ACF) and partial autocorrelation (PACF) with confidence bands\n- Moving average, autoregressive and ARMA models, causality and invertibility\n- ARIMA, differencing and seasonal SARIMA ideas\n- Estimation with Yule-Walker equations, AIC and BIC model choice\n- Point forecasts, forecast error variance and prediction intervals\n- Residual diagnostics and the Ljung-Box statistic\n- Exponential smoothing: simple, Holt and seasonal methods\n- Spectral density and the periodogram, as they apply to time series\n- State space models and the Kalman filter for a local level\n\n### Six Interactive Labs\nName the hidden model from the ACF and PACF of a synthetic series. Move the coefficients of an ARMA simulator and watch the root plot, stability, simulated path, theoretical ACF and spectrum. Draw forecast fan charts for AR(1) and ARIMA(1,1,0). Remove trend and seasonality with differencing and see the correlogram change. Track a hidden level with a Kalman filter. Find cycles in a periodogram.\n\n### Adaptive And Traditional\nPick the personalised path, where the tutor chooses the weakest unlocked topic, tracks the slips you repeat and schedules spaced reviews, or follow the curriculum order. Switch at any time. Mock exams use only checked questions and run without hints or ads.\n\n### Original, Checked Content\n174 original practice items with worked solutions that are always free. Every numerical answer is verified by a second program, and conceptual items are labelled. Tap any concept for a short refresher from school level up to graduate level. Citations open in a sheet with source, licence and link; we cite and link university courses and textbooks and do not copy them.\n\n### Made For Study\nWorks offline, no account, progress stays on your device. Text size buttons on every screen, tablet layout with a sidebar, and descriptions for screen readers.\n\n### Ads And Ad-Free Option\nThe app is free with ads at natural breaks, never during timed exams. Optional videos earn credits for extra practice sets and exams. A monthly ad-free subscription with a 7-day free trial removes ads. Payment is charged to your Apple ID at the end of the trial and renews monthly unless cancelled at least 24 hours before the period ends. Manage or cancel in Settings. The price is shown in the app by the App Store.\n\nTime Series Analysis: Lagmora is not affiliated with any university, publisher or exam body mentioned in its citations.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/time-series-analysis-lagmora/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-time-series-analysis.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_time_series_analysis.app"
+  },
+  "related": [
+    "regression-analysis-residora",
+    "mathematical-statistics-thexa"
+  ]
+}
