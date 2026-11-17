@@ -1,0 +1,49 @@
+{
+  "slug": "stochastic-processes-kolmora",
+  "name": "Stochastic Processes: Kolmora",
+  "subtitle": "Stochastic Processes Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "stochastic processes",
+    "markov chains",
+    "poisson",
+    "martingale",
+    "brownian motion",
+    "queueing",
+    "renewal",
+    "random walk",
+    "probability",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive stochastic processes course: Markov chains, Poisson processes, martingales and Brownian motion with five hands-on labs. Free to use.",
+  "longDescription": "Stochastic Processes: Kolmora is a free, offline course in random processes for undergraduates: how systems that move by chance behave over time. Work through eleven topics, practise with 200 original problems, and run five hands-on simulations that let you see the theorems happen.\n\n### The Course\n- Markov chains: transition matrices, n-step probabilities, communicating classes, periodicity, recurrence and transience\n- Stationary distributions, convergence, return times, reversibility and random walks on graphs\n- Absorption and hitting: first-step analysis, gambler's ruin, the fundamental matrix\n- Simple random walks: counting paths, the reflection principle, returns to the origin\n- Poisson processes: exponential gaps, merging, thinning, conditioning on the count, compound sums\n- Continuous-time chains: generators, holding times, birth-death balance equations\n- Renewal theory: renewal-reward, residual life and the inspection paradox\n- Martingales: fair games, optional stopping, Wald's identity, waiting times for coin patterns\n- Brownian motion: Gaussian increments, maximum, exit problems, bridges\n- Queueing basics: M/M/1, finite buffers, two servers, Little's law\n\n### How It Teaches\n- A state diagram of the whole course. Each topic is a node; arrows are prerequisites; a ring shows your mastery.\n- Two paths: a personalised path that picks the next problem from your mistakes, due reviews and the slips you repeat, or the traditional syllabus order. Switch at any time.\n- Every wrong answer is tagged with the slip behind it (rows versus columns, forgetting to normalise, rates versus means, and more) and explained.\n- A worked solution after every answer, always free.\n- Mock exams: 12 verified problems, 20 minutes, no hints.\n- Tap any concept to see it explained at school level, at the level of this course, and where it leads in graduate study.\n\n### Five Labs\n- Markov Chain Lab: edit a transition matrix, watch the stationary distribution appear and compare it with a simulated run.\n- Gambler's Ruin Lab: formula against simulation for ruin probability and duration.\n- Poisson and Thinning Lab: arrivals on a timeline, split into kept and dropped points.\n- Martingale and Stopping Lab: when optional stopping works and when the doubling strategy breaks it.\n- Brownian Path Lab: random paths, the reflection principle, bridges and exit times.\n\n### Trustworthy Answers\nEvery computed answer was derived with exact arithmetic and then checked again by an independent simulation. Conceptual questions are marked practice-only and kept out of exams. Sources are cited and linked inside the app.\n\n### Free, With Optional Extras\nThe full course is free. Ads appear only at natural breaks, never in exams or mid-question. Watch an optional video to earn credits for extra challenge sets, or remove ads with an auto-renewing monthly subscription that includes a 7-day free trial. Payment is charged to your Apple Account, renews automatically unless cancelled at least 24 hours before the period ends, and can be managed in Settings. Not affiliated with any university.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/stochastic-processes-kolmora/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-stochastic-processes.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_stochastic_processes.app"
+  },
+  "related": [
+    "probability-course-stochara",
+    "mathematical-modelling-scalux"
+  ]
+}
