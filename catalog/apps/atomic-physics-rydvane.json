@@ -1,0 +1,50 @@
+{
+  "slug": "atomic-physics-rydvane",
+  "name": "Atomic Physics: Rydvane",
+  "subtitle": "Atomic Physics and Molecules",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "atomic physics",
+    "molecular physics",
+    "spectra",
+    "laser",
+    "zeeman",
+    "stark",
+    "hydrogen",
+    "term symbol",
+    "rabi",
+    "quantum",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive atomic and molecular physics course: spectra, Zeeman and Stark effects, term symbols and Rabi oscillations with five hands-on labs. Free to use.",
+  "longDescription": "Atomic Physics for undergraduates: learn spectra, atoms in fields, lasers and diatomic molecules with a personal practice path, five interactive labs and worked solutions that are always free.\n\nAtomic Physics: Rydvane covers an upper-level atomic and molecular physics course in fifteen topics: hydrogen spectra and orbitals, fine structure, many-electron atoms, term symbols, Hund's rules and jj coupling, the Zeeman and Stark effects, radiative transitions, lasers and laser cooling, Rabi flopping in two-level atoms, molecular structure, rotation and vibration, molecular spectra and spectral line shapes.\n\n### How It Teaches\n- Adaptive practice: the app tracks what you know topic by topic, notices which misconception a wrong answer points to (for example a forgotten reduced mass or a swapped Hund ordering) and builds your next questions from your own mistakes, with spaced review mixed in.\n- Two paths: a personalised path that follows your mastery, or the traditional syllabus order. Switch at any time.\n- 139 original questions: multiple choice, select-all and numeric answers with units and tolerance. Every numeric answer was recomputed with a second, independent calculation. Conceptual questions are marked as practice-only where no source check was possible.\n- Mock exams with a timer, no ads, and a results review.\n- Worked solutions beside every answer, always free.\n- Pop-up explanations that reach down to school-level ideas and up to graduate depth, plus before-this-course and after-this-course pages.\n\n### Five Labs\n- Energy-level and selection-rule builder for hydrogen: pick two levels and get the wavelength, the series and the dipole verdict.\n- Zeeman and Stark explorer: Lande g factors, weak-field sublevels, the Paschen-Back crossover and the linear Stark fan of hydrogen n = 2.\n- Term-symbol and Hund calculator: every LS term and J level of any l^k configuration and its Hund ground term.\n- Vibration-rotation spectrum simulator for four diatomic molecules with temperature, anharmonicity and R and P branches.\n- Rabi oscillation lab with detuning, damping and a Bloch-vector readout.\n\n### Sources And Honesty\nEvery source is cited in a sheet you can open from any screen, with a link out to the original. Course pages and textbooks are cited and linked only; all questions, solutions and labs are written for this app. The app works offline and needs no account.\n\n### Text Size And Accessibility\nA- and A+ buttons on every text screen, VoiceOver labels, and a two-pane layout on iPad.\n\n### Free With Optional Ads Removal\nThe app is free. Short ads appear only at natural breaks, never during a timed mock exam. You can watch an optional video for a bonus mock-exam credit. An optional monthly subscription called Atomic Physics Ad-Free Monthly removes ads; the price is shown by the App Store before you subscribe, new subscribers get a 7-day free trial, and the subscription renews monthly until you cancel at least 24 hours before the end of the current period. Manage or cancel it in your Apple ID settings. Restore purchases is in More.\n\nNot affiliated with any university or publisher named as a source.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/atomic-physics-rydvane/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-atomic-molecular-physics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_atomic_molecular_physics.app"
+  },
+  "related": [
+    "quantum-mechanics-ketora",
+    "quantum-mechanics-ii-hilbrim"
+  ]
+}
