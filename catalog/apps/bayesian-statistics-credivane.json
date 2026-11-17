@@ -1,0 +1,50 @@
+{
+  "slug": "bayesian-statistics-credivane",
+  "name": "Bayesian Statistics: Credivane",
+  "subtitle": "Bayesian Statistics, MCMC Labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "bayesian statistics",
+    "prior",
+    "posterior",
+    "credible interval",
+    "conjugate",
+    "hierarchical",
+    "metropolis",
+    "gibbs",
+    "bayes factor",
+    "mcmc",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive Bayesian statistics course: priors, posteriors, MCMC and Bayes factors with five hands-on labs. Free to use.",
+  "longDescription": "Bayesian Statistics: Credivane is an adaptive course in Bayesian inference for undergraduates and early graduate students. It teaches you to update beliefs with data, to read a posterior, and to run the sampling methods that make modern Bayesian work possible.\n\n### What You Will Learn\n- Bayes' theorem, odds and base rates\n- Conjugate updating: beta-binomial, normal-normal, gamma-Poisson\n- Posterior summaries, credible intervals and how they differ from confidence intervals\n- Posterior predictive distributions\n- Choosing priors and checking sensitivity\n- Hierarchical models and shrinkage\n- Monte Carlo, importance sampling, Metropolis-Hastings and Gibbs sampling\n- Chain diagnostics: autocorrelation, effective sample size, R-hat\n- Bayes factors, DIC and WAIC\n- Bayesian linear regression and decision theory\n\n### Practise The Way You Need\nThe course tracks what you know topic by topic with a ledger that shows both your score and how sure the app is about it. Choose the personalised path, which picks your next questions from your gaps, slips and due reviews, or the traditional path in curriculum order. Wrong answers are matched to named misconceptions, such as ignoring the prior or mixing up variance and precision, and those ideas come back until they stick.\n\n### Five Interactive Labs\n- Prior to posterior: move the prior and the data, watch the curve and credible band respond\n- MCMC sampler visualiser: Metropolis and Gibbs with trace, acceptance rate and autocorrelation\n- Credible versus confidence: simulate hundreds of experiments and compare coverage\n- Hierarchical shrinkage: slide the group spread and see estimates pool\n- Bayes factor lab: change the data and the prior width and watch the evidence move\n\n### Built To Teach\n- 137 original questions with worked solutions, always free\n- Numeric answers are checked by a second computing engine; conceptual questions are labelled practice-only\n- Mock exams of ten checked questions, timed, with no ads\n- Tap any concept to see it at school level, at course level and where it leads at university\n- Cited sources open in a full-width sheet with licence details\n- Adjustable text size, works offline, no account needed\n\n### Free With Optional Ad Removal\nBayesian Statistics: Credivane is free. Short ads appear only between practice sets, never during questions, exams or explanations. You can watch an optional video for an extra mock exam attempt. A monthly subscription removes ads and gives unlimited mock exams, with a 7-day free trial; the price is shown in the app by the App Store. Payment is charged to your Apple ID at the end of the trial unless cancelled at least 24 hours before, and renews monthly until cancelled in Settings.\n\nNot affiliated with any university, publisher or test provider. Course scope follows standard undergraduate and early graduate syllabi; sources are cited and linked in the app.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/bayesian-statistics-credivane/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-bayesian-statistics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_bayesian_statistics.app"
+  },
+  "related": [
+    "mathematical-statistics-thexa",
+    "statistics-course-sigmora"
+  ]
+}
