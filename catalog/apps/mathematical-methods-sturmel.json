@@ -1,0 +1,49 @@
+{
+  "slug": "mathematical-methods-sturmel",
+  "name": "Mathematical Methods: Sturmel",
+  "subtitle": "Mathematical Methods, Physics",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "mathematical methods",
+    "physics",
+    "fourier",
+    "tensors",
+    "green's function",
+    "bessel",
+    "legendre",
+    "sturm-liouville",
+    "variational",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive mathematical methods course for physics: Fourier, special functions, Green's functions and tensors with five hands-on labs. Free to use.",
+  "longDescription": "Mathematical Methods: Sturmel is a free, offline course in the mathematical methods that physics courses lean on. It adapts to the mistakes you make, so every session goes where you need it most.\n\n### What You Study\nTwenty-four topics in eight units: curvilinear vector calculus (scale factors, grad, div, curl, Gauss and Stokes), tensors (index notation, inertia and stress tensors, the metric), Fourier series and transforms with the Gibbs overshoot, special functions (Gamma, Legendre, Bessel, Hermite), Sturm-Liouville theory and separation of variables, delta functions and Green's functions, residues and contour integrals with Laplace's method for asymptotics, and finally variational calculus, rotation groups and probability for physics.\n\n### How It Adapts\n- Choose a personalised path or the traditional course order, and switch at any time.\n- Every wrong answer is matched against known slips, for example a missing sine in a spherical Jacobian, and the next questions target that slip.\n- Spaced review brings back topics at 1, 2, 4, 8 and 16 day gaps.\n- A \"Which tool do I need?\" finder maps a physical situation, such as a drumhead or a point kick, to the method that handles it.\n\n### Five Interactive Labs\n- Fourier synthesis and Gibbs lab: build square, sawtooth and triangle waves harmonic by harmonic.\n- Mode plotter: Bessel modes of a drum and Legendre patterns on a sphere.\n- Green's function lab: kick a damped oscillator and watch the response add up.\n- Variational path optimiser: nodes slide to the Snell-law path or the fastest fall.\n- Tensor and coordinate visualiser: polar and parabolic grids, scale factors and principal axes.\n\n### Practice That Respects Your Time\n96 original problems with a full worked solution behind every answer, topic quizzes, and a timed mock exam of twelve verified questions. Lessons, labs and worked solutions are always free. Pop-ups explain any idea at a simpler K-12 level or point to a graduate view, and every source is cited in a full-width panel with a link out. All text, problems and figures are original; sources are cited and link-only.\n\n### Ads And Subscription\nThe app is free with ads shown only at natural breaks, never during a timed test. You may watch an optional short video to earn an extra practice set. An optional monthly subscription removes all ads and starts with a 7-day free trial. Payment is charged to your Apple ID at confirmation of purchase; the subscription renews monthly unless cancelled at least 24 hours before the end of the period; manage or cancel in your Apple ID settings. The price is shown in the App Store.\n\nNo account, no sign-in. Not affiliated with any university or publisher named as a reference.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/mathematical-methods-sturmel/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-mathematical-methods-physics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_mathematical_methods_physics.app"
+  },
+  "related": [
+    "complex-analysis-residwick",
+    "differential-equations-odelo"
+  ]
+}
