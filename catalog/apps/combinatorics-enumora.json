@@ -1,0 +1,51 @@
+{
+  "slug": "combinatorics-enumora",
+  "name": "Combinatorics: Enumora",
+  "subtitle": "Combinatorics and Counting",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "combinatorics",
+    "permutations",
+    "binomial",
+    "pigeonhole",
+    "recurrence",
+    "partitions",
+    "ramsey",
+    "catalan",
+    "derangement",
+    "stirling",
+    "burnside",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive combinatorics course: counting, generating functions, Ramsey colourings and partitions with five hands-on labs. Free to use.",
+  "longDescription": "Combinatorics: Enumora is an adaptive undergraduate course in enumerative and extremal combinatorics. It teaches you to count carefully, to prove why a count is right, and to bound what is possible.\n\nSixteen topics build on each other: sum and product rules, permutations and combinations, binomial coefficients and Pascal's triangle, stars and bars, the pigeonhole principle, inclusion-exclusion, derangements, linear recurrences, ordinary generating functions, Catalan numbers, integer partitions and Young diagrams, Stirling and Bell numbers, Burnside counting for necklaces, Ramsey basics, block designs, and Sperner, Erdos-Ko-Rado and Mantel extremal results.\n\n### How It Adapts\nPick the personalised path or the traditional syllabus order and switch any time. The engine on your device tracks mastery of every topic, schedules reviews on a 1, 2, 4, 7 and 14 day rhythm, and tags each wrong answer with the counting error behind it: order counted too much, add or multiply mix-up, overcounting symmetry, a missing inclusion-exclusion term, an off-by-one. Your counting ledger shows which habit to fix next, and the next set is built around it.\n\n### What You Get\n- 153 original questions in multiple choice, typed number and true/false forms, each with a free worked solution. Every numerical answer was recomputed by a second method (exhaustive enumeration, dynamic programming or symbolic algebra).\n- Five labs: a Pascal triangle explorer with remainder colouring, a generating function series explorer for coins, Fibonacci and partitions, a Young diagram lab with conjugates and hook lengths, a Ramsey colouring game on K5 and K6, and a recurrence solver stepper that walks from the characteristic equation to a closed form.\n- Mock exams of 12 verified questions with a timer and review.\n- Pop-ups on key ideas that explain them at school level and point to later courses, plus before-and-after course pages.\n- Citations to university courses, textbooks and journals that open in a full-width sheet with the licence and a link. All teaching text and problems are original; sources are cited, never copied.\n- A-/A+ text size control on every screen, accessibility labels, and a layout designed for both phone and tablet.\n\nWorks offline. Your progress stays on your device. The app is free to use with ads shown only at natural breaks after a practice set, never during exams or before a solution. You can earn extra mock exams by choosing to watch a short video, or remove ads with an optional monthly subscription (price shown by the App Store, 7-day free trial for new subscribers; renews monthly until cancelled in Settings, at least 24 hours before the period ends).\n\nNot affiliated with any university or publisher named in the citations.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/combinatorics-enumora/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-combinatorics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_combinatorics.app"
+  },
+  "related": [
+    "discrete-mathematics-lemmora",
+    "probability-stochara"
+  ]
+}
