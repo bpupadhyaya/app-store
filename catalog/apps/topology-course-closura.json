@@ -1,0 +1,49 @@
+{
+  "slug": "topology-course-closura",
+  "name": "Topology Course: Closura",
+  "subtitle": "Topology: spaces and surfaces",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "topology",
+    "point-set",
+    "metric space",
+    "compact",
+    "connected",
+    "homotopy",
+    "fundamental group",
+    "quotient",
+    "manifold",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive topology course: spaces, surfaces and the fundamental group with four hands-on labs. Free to use.",
+  "longDescription": "Topology Course: Closura is a free, offline first course in topology for undergraduates and self-learners. It starts from open sets and ends with loops, covering spaces and the classification of surfaces, and every question is checked by computation, not guesswork.\n\nTopology is the mathematics of shape without distance. Here you learn it by building spaces yourself: switch open sets on and off on a handful of points and watch the axioms hold or break, glue the edges of a square and see a torus or a Klein bottle appear, bend letter shapes into each other, and drag a loop around a missing point to read its winding number.\n\n### What The Course Covers\nMetric spaces and open balls. Topologies, bases and subbases. Closure, interior and boundary. Subspaces, products and quotients. Continuity and homeomorphism. Connectedness and path components. Compactness, Heine-Borel and finite products. Hausdorff and the separation axioms. Sequences, completeness and compact metric spaces. Surfaces from polygon words, Euler characteristic and classification. Homotopy, the fundamental group, covering spaces and the no-retraction theorem.\n\n### How It Teaches\nAn Atlas map shows 28 topics in ten units with their prerequisites. In the personalised path the next question comes from your own mistakes: the app tags the habit behind a wrong answer (for example, thinking continuous maps send open sets to open sets), brings back old topics on a review schedule and stays near your level. Prefer the syllabus order? Switch to the traditional path at any time.\n\n### Four Labs\nFinite-topology workbench with a continuity checker. Quotient gluing studio. Homeomorphism sorter. Loop winding lab.\n\n### Practice That Is Honest\nMore than 230 original questions: tap-every-open-set, count-the-topologies, name-the-surface, winding-number and proof-idea questions. Over 170 answers are verified by exhaustive computation on small spaces and exact arithmetic. Worked solutions are always free. Timed mock exams use only computer-verified questions.\n\n### Depth When You Want It\nEvery topic has a lower-level pop-up from school mathematics and a higher-level pop-up about where the idea leads, plus Before and After pages for the course. Sources are cited and linked: MIT OpenCourseWare 18.901, Munkres, Armstrong and Hatcher. All text, questions and figures are original; we are not affiliated with these authors or institutions.\n\n### Free With Optional Ad Removal\nThe app is free to use. Ads appear only at natural breaks, never during a timed exam. You can watch an optional short video to earn extra practice sets, or remove ads with the monthly subscription Topology Ad-Free Monthly: price shown by the App Store, 7-day free trial, renews monthly until cancelled in your Apple ID settings. Restore purchases in the You tab. No account is needed.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/topology-course-closura/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-topology.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_topology.app"
+  },
+  "related": [
+    "real-analysis-i-deltavane",
+    "abstract-algebra-cayleon"
+  ]
+}
