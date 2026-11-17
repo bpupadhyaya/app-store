@@ -1,0 +1,47 @@
+{
+  "slug": "partial-differential-laplix",
+  "name": "Partial Differential: Laplix",
+  "subtitle": "Partial Differential Equations",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "partial differential equations",
+    "pde",
+    "heat equation",
+    "wave equation",
+    "laplace",
+    "fourier series",
+    "separation of variables",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive partial differential equations course: heat, wave and Laplace with five hands-on labs. Free to use.",
+  "longDescription": "Partial Differential Equations, taught the way you learn it best: by doing. Partial Differential: Laplix is a complete first undergraduate PDE course with an adaptive practice engine, five interactive labs and a full worked solution behind every answer.\n\n### What You Learn\n- What a partial differential equation is: order, linearity, boundary and initial conditions, well-posedness\n- First-order equations and characteristics, transport, Burgers' equation and shock formation\n- Classifying second-order equations: elliptic, parabolic, hyperbolic\n- The wave equation and d'Alembert's formula, the heat equation and its maximum principle\n- Laplace's and Poisson's equations, harmonic functions, mean value property\n- Fourier series, Sturm-Liouville problems and separation of variables\n- Laplace on rectangles and discs, the Fourier transform and the heat kernel\n- Green's functions (introduction)\n- Finite-difference schemes: truncation error, FTCS, upwind, CFL, von Neumann stability, Crank-Nicolson\n\n### Practice That Adapts To You\nLaplix keeps a private model of what you know, topic by topic, right on your device. It notices which mistakes you make (a sign slip in an exponential, mixing up elliptic and hyperbolic, using b instead of b squared), brings those ideas back in new problems, and schedules spaced reviews before you forget. Prefer the classroom order? Switch to the Syllabus path any time.\n\n### Over 500 Original Problems\nEvery numeric and symbolic answer was derived with computer algebra and then re-derived by an independent numerical method. Mock exams use only those checked problems, with a 30-minute timer and no hints.\n\n### Five Labs That Run Real Numerics\n- Heat Rod: watch diffusion, switch ends from fixed to insulated, and break the scheme with a too-large time step\n- Wave String: compare the simulation with d'Alembert's two travelling halves and see reflections\n- Fourier Mode Builder: add modes one at a time and watch Gibbs overshoot appear\n- Characteristic Plotter: follow characteristics to the instant a shock forms\n- Potential Relaxer: set the four edges of a plate and relax Laplace's equation\n\n### Learn At Every Level\nTap any key idea for a refresher at three levels: K-12, this course, and graduate study. Every source is cited and linked; all explanations and problems are original. Text size controls (A- and A+) work on every screen, and the layout adapts to iPhone and iPad.\n\n### Free To Use\nLessons, labs and worked solutions are always free. Free practice includes 40 questions and one mock exam per day; you can watch an optional short video for more. Ads appear only at natural breaks, never during a timed test. An optional monthly subscription removes ads and lifts the daily limit; it starts with a 7-day free trial and renews until cancelled in your Apple ID settings.\n\nWorks offline. No account needed. Not affiliated with any university or publisher.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/partial-differential-laplix/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-partial-differential-equations.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_partial_differential_equations.app"
+  },
+  "related": [
+    "calculus-ii-course-sumlark",
+    "numerical-analysis-iterova"
+  ]
+}
