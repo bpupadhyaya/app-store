@@ -1,0 +1,50 @@
+{
+  "slug": "optics-prismoor",
+  "name": "Optics: Prismoor",
+  "subtitle": "Optics course, labs, practice",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "optics",
+    "lens",
+    "diffraction",
+    "interference",
+    "polarization",
+    "laser",
+    "fiber",
+    "fourier",
+    "prism",
+    "photonics",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive optics course: lenses, interference, diffraction and polarization with six hands-on labs. Free to use.",
+  "longDescription": "Optics course for university students: learn geometrical, wave and modern optics with an adaptive tutor, 301 original problems with worked solutions, and six interactive labs.\n\nOptics: Prismoor follows a standard undergraduate optics syllabus in 24 topics: Fermat's principle and Snell's law, total internal reflection and prisms, mirrors and thin lenses, ray-transfer (ABCD) matrices, optical instruments, aberrations, electromagnetic waves and Fresnel reflection, polarization and Jones vectors, interference (Young, thin film, Michelson, Fabry-Perot), coherence, Fraunhofer and Fresnel diffraction, gratings, Fourier optics and spatial filtering, lasers and Gaussian beams, optical fibres, nonlinear optics and photons.\n\n### How It Teaches\n- Adaptive path: the tutor tracks your mastery of each topic, tags the slip behind every wrong answer (a swapped index, a forgotten round trip, a sign convention) and serves problems that test it again. Or follow the syllabus order; switch any time.\n- 301 original problems: multiple choice and typed numeric answers, each with a free worked solution.\n- Mock exams: 20 questions, 30 minutes, verified items only.\n- Spaced review: topics return after 1, 3, 7, 16 and 35 days.\n- Pop-ups explain any concept at school level, course level and graduate level.\n- Sources are cited and linked: textbooks, MIT OpenCourseWare and OpenStax syllabi (all lessons and problems are our own).\n\n### Six Optics Labs\nRay bench with a two-lens ABCD readout; slits and gratings pattern; thin-film colour; Michelson rings with coherence; polarizer stack and wave plate; 4f Fourier filter.\n\n### Free, With Optional Ad Removal\nThe app is free with ads shown only at natural breaks (never during exams or before explanations). An optional rewarded video earns a credit for an extra mock exam. A monthly ad-free subscription (price shown in the App Store, 7-day free trial) removes all ads. It renews automatically until cancelled in Settings > Apple ID > Subscriptions. Worked solutions and lessons are never locked.\n\nNot affiliated with any university, publisher or exam body. Works offline; no account needed.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/optics-prismoor/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-optics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_optics.app"
+  },
+  "related": [
+    "physics-iii-waves-fringeloom",
+    "electromagnetism-poyntara"
+  ]
+}
