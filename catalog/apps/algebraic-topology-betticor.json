@@ -1,0 +1,48 @@
+{
+  "slug": "algebraic-topology-betticor",
+  "name": "Algebraic Topology: Betticor",
+  "subtitle": "Algebraic Topology: Homology",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "algebraic topology",
+    "homotopy",
+    "fundamental group",
+    "covering spaces",
+    "betti numbers",
+    "smith normal form",
+    "euler characteristic",
+    "homology",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive algebraic topology course: homotopy, covering spaces, homology and Betti numbers with five hands-on labs. Free to use.",
+  "longDescription": "Algebraic Topology: Betticor is a free, offline, adaptive course in algebraic topology for undergraduates, early graduate students and self-learners. It takes you from homotopy to the fundamental group, covering spaces and homology, and every computed answer was checked by two independent programs before it went into the app.\n\nWhat you study\n- Homotopy of maps, homotopy equivalence, deformation retracts and cell complexes.\n- Loops and the fundamental group, the circle and induced maps, free groups and reduced words, van Kampen's theorem, presentations and surface groups.\n- Covering spaces, evenly covered sets, path lifting, monodromy, deck transformations and regular covers.\n- Simplicial complexes, boundary maps, Betti numbers, Smith normal form and torsion, Euler characteristic, singular homology and Mayer-Vietoris.\n- Classification of surfaces, the link between the fundamental group and first homology, Brouwer's fixed point theorem and Borsuk-Ulam.\nTwenty topics in five units, each with a short notebook, concept pop-ups that explain an idea at school level and point to where it leads, and citations to standard textbooks and university courses.\n\nPractice that follows your mistakes\nYour standing in each topic fades without review, so the app brings topics back when they start to slip. Every tempting wrong answer is tied to the habit behind it, for example forgetting torsion, flipping the sign of the Euler characteristic or lifting a loop in the wrong direction, and later questions revisit that habit. Choose the personalised path or the traditional syllabus order and switch at any time.\n\nFive labs built for this subject\n- Complex Bench: tap vertices to build a simplicial complex and read its f-vector, Euler characteristic, Betti numbers and torsion.\n- Loop and Word Atelier: spell loops on the torus, Klein bottle and other surface groups and see them unfolded in the plane.\n- Cover Lifter: lift words through circle covers and figure-eight covers and read connectedness, regularity and index.\n- Surface Sorter: type a polygon word, glue equal letters and classify the surface with its homology.\n- Matrix Reduction Studio: step through the Smith normal form of a boundary matrix.\n\nQuestions and worked solutions\n273 original questions: multiple choice, integer entry and select-all. Worked solutions are free beside every answer. Mock exams use only checked questions, run for 20 minutes and show solutions afterwards. Practice-only questions are never used in exams.\n\nFree, with optional ad removal\nThe app is free. Short ads appear only at natural breaks, never during a timed exam, and you can watch an optional video for extra practice credits. A monthly plan removes ads and the daily practice limit. The plan starts with a 7-day free trial, the price is shown by the App Store before you confirm, it renews monthly until you cancel in your Apple ID settings, and cancelling takes effect at the end of the current period.\n\nNo account, no cloud service, works offline. Algebraic Topology: Betticor is a study aid and is not affiliated with any university, textbook author or publisher named in its citations.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/algebraic-topology-betticor/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-algebraic-topology.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_algebraic_topology.app"
+  },
+  "related": [
+    "topology-course-closura",
+    "abstract-algebra-cayleon"
+  ]
+}
