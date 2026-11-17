@@ -1,0 +1,50 @@
+{
+  "slug": "mathematical-modelling-scalux",
+  "name": "Mathematical Modelling: Scalux",
+  "subtitle": "Mathematical Modelling Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "mathematical modelling",
+    "dimensional analysis",
+    "epidemic",
+    "sir",
+    "logistic",
+    "predator prey",
+    "queueing",
+    "scaling",
+    "pi theorem",
+    "simulation",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive mathematical modelling course: dimensional analysis, epidemics, queues and sensitivity with six hands-on labs. Free to use.",
+  "longDescription": "Mathematical Modelling: Scalux is a free, adaptive mathematical modelling course for undergraduates. Learn how to turn a real question into assumptions and equations, solve and simulate the model, interpret the result, and test it honestly against data.\n\nSixteen topics in five units:\n- Frame the problem: the modelling cycle, dimensions and units, Buckingham's Pi theorem, scaling and nondimensionalisation\n- Steps and growth: difference equations, the logistic map, exponential and logistic growth, harvesting\n- Systems in motion: SIR epidemics, compartment and drug-concentration models, predator and prey cycles\n- Flow, waiting, spreading: traffic flow and shock waves, M/M/1 queues and Little's law, diffusion and travelling fronts\n- Chance, data, trust: Monte Carlo and random walks, least-squares fitting, sensitivity analysis, validation and limits of prediction\n\nHow it teaches\n- A personalised path that follows your mastery, or the traditional course order: switch any time\n- Practice that notices the slip behind a wrong answer (for example forgetting a square root, or swapping a ratio), schedules spaced review and picks the next questions for you\n- 131 original questions: single choice, select-all and numeric entry with units. Every numeric answer was computed two independent ways while the course was written\n- A worked solution beside every answer, always free\n- Timed mock exams of twelve questions drawn from every unit, with no ads and no hints\n- Tap any idea for a short explanation from school level up to graduate level, plus clear before-this-course and after-this-course pages\n\nSix interactive labs\n- Epidemic simulator with sliders for transmission, recovery and vaccination\n- Pi workbench: pick variables, see the dimension matrix, its rank and the dimensionless groups\n- Predator and prey phase-plane lab with a conserved quantity and damping\n- Queue simulator that compares random runs with the M/M/1 formulas\n- Fit and sensitivity lab with residuals and an outlier switch\n- Logistic map cobweb: fixed points and period doubling\n\nFree to use, with respectful ads: short ads appear only at natural breaks after a finished session, never during timed tests. Earn a bonus mock exam by choosing to watch a short video, or remove all ads with a monthly subscription (7 days free). No account, works offline, progress stays on your device.\n\nSources are cited and linked inside the app (textbooks, journal papers, MIT OpenCourseWare, Khan Academy, OpenStax). All text and problems are our own. This app is an independent study aid and is not affiliated with any university or publisher.\n\nSubscription: Ad-free monthly, price shown by the App Store, 7-day free trial, renews automatically until cancelled in Settings.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/mathematical-modelling-scalux/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-mathematical-modelling.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_mathematical_modelling.app"
+  },
+  "related": [
+    "differential-equations-odelo",
+    "optimization-argmora"
+  ]
+}
