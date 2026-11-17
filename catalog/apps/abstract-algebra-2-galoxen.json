@@ -1,0 +1,48 @@
+{
+  "slug": "abstract-algebra-2-galoxen",
+  "name": "Abstract Algebra 2: Galoxen",
+  "subtitle": "Abstract Algebra Rings, Galois",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "abstract algebra",
+    "rings",
+    "fields",
+    "galois theory",
+    "modules",
+    "ideals",
+    "field extension",
+    "polynomial",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive second course in abstract algebra: rings, fields, Galois theory and modules with five hands-on labs. Free to use.",
+  "longDescription": "Abstract Algebra 2: Galoxen is a free, adaptive undergraduate course in the second half of abstract algebra: rings and ideals, polynomial rings, field extensions, Galois theory and modules over a principal ideal domain. It assumes you have met groups before and takes you far beyond them.\n\nClimb a tower of eighteen floors in four strands:\n- Rings: units and zero divisors, ideals and quotient rings, prime and maximal ideals, Euclidean domains, PIDs and UFDs, polynomial rings and irreducibility tests.\n- Fields: algebraic extensions and the tower law, splitting fields, finite fields and the Frobenius map, separability, constructible numbers.\n- Galois theory: Galois groups, the fundamental theorem, cyclotomic fields and solvability by radicals.\n- Modules: submodules and quotients, free modules and lattices, the structure theorem over a PID with Smith normal form, exact sequences, Hom and tensor products.\n\nYour own path, or the textbook order\nThe app rates every floor as you answer, shows how sure it is, and picks your next question from your mistakes, your due reviews and your weakest open floor. When you slip it names the likely misconception (for example adding degrees instead of multiplying them in a tower, or thinking x^p - t has p distinct roots in characteristic p). Prefer the classroom order? Switch to the traditional path at any time.\n\nFive hands-on labs\n- Field Tower Builder: adjoin square roots, i and a cube root and watch the degree multiply.\n- Galois Lattice Explorer: pick a polynomial and see its subgroup lattice beside the upside-down lattice of intermediate fields.\n- Ideal Quotient Bench: colour the cosets of an ideal in the integers mod n or in the Gaussian integers.\n- Frobenius Orbit Lab: explore finite fields as polynomials mod f, the cycle of powers of x and Frobenius orbits.\n- Module Decomposer: reduce an integer matrix to Smith normal form and read off the module.\n\nPractice that explains itself\n- More than 500 original questions in three kinds: single choice, exact whole-number answers and select-all.\n- A worked solution beside every answer, always free.\n- 24-question mock exams and 6-question checkpoints use only questions whose answers were recomputed by a second program.\n- Concept pop-ups explain any idea from the school level up to the graduate level, plus pages on what to know before this course and where to go next.\n- Tappable citations open sources such as MIT OpenCourseWare, Milne's Fields and Galois Theory, Dummit and Foote, and Cambridge course lists. Sources are linked, never copied.\n\nMade for reading anywhere: works offline, no account, adjustable text size (A- and A+) on every screen, layouts for iPhone and iPad.\n\nFree with optional ads at natural breaks, never during a timed exam. An optional monthly subscription removes ads; the price and the free trial are shown by the App Store before you subscribe. The subscription renews monthly until cancelled in your Apple ID settings. You can also watch an optional video to earn a credit for an extra mock exam.\n\nNot affiliated with any university or publisher named as a source.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/abstract-algebra-2-galoxen/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-abstract-algebra-2.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_abstract_algebra_2.app"
+  },
+  "related": [
+    "abstract-algebra-cayleon",
+    "linear-algebra-2-dualmere"
+  ]
+}
