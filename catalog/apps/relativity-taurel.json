@@ -1,0 +1,49 @@
+{
+  "slug": "relativity-taurel",
+  "name": "Relativity: Taurel",
+  "subtitle": "Special and General Relativity",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "relativity",
+    "special relativity",
+    "general relativity",
+    "spacetime",
+    "lorentz",
+    "time dilation",
+    "black hole",
+    "twin paradox",
+    "einstein",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive relativity course: Lorentz transformations, spacetime, black holes and lensing with five hands-on labs. Free to use.",
+  "longDescription": "Relativity: Taurel is an adaptive course in special and general relativity, built for physics, engineering and mathematics students and for curious learners who want the real calculations behind spacetime.\n\n### What You Study\nGalilean relativity and the light problem, Einstein's postulates and simultaneity, time dilation and proper time, length contraction, Lorentz transformations and velocity addition, spacetime diagrams and the interval, four-vectors, relativistic momentum and energy, collisions and decays, Doppler shift and aberration, and relativity with electromagnetism. Then general relativity: the equivalence principle, curved spacetime and metrics, geodesics and the Schwarzschild solution, black holes, light bending, lensing and GPS clocks, gravitational waves and a cosmology overview.\n\n### How It Adapts\nThe course is laid out as a worldline of 18 units. The app tracks your mastery of each unit, names the habit behind every wrong answer (for example forgetting that gamma is at least one, or treating simultaneity as absolute) and builds your next practice set from those slips and from missed questions that are due for review. Prefer the textbook order? Switch to the traditional path at any time.\n\n### Five Interactive Labs\nDrag events on a spacetime diagram and boost to a moving frame. Run the twin round trip and count flashes and clock ticks. Compare Newtonian and relativistic collisions and find a production threshold. Integrate an orbit around a black hole and watch the perihelion advance. Place a source behind a point mass and watch the Einstein ring split into two images.\n\n### Practice And Understanding\nOver 140 original questions: single choice, select-all-true and numeric answers with units. Worked solutions beside every answer, free for everyone. Every numeric answer was checked by a second method. Timed mock exams use only checked questions. Tap any concept for a school-level, early-undergraduate and next-step explanation. Cited courses, textbooks and papers open in a clear source window with the licence and a link.\n\n### Free To Use\nThe app works offline and needs no account. Ads from Google AdMob appear only at natural breaks, never during a mock exam, after your tracking and consent choices. Watch an optional video to earn extra practice sets, or choose the monthly ad-free subscription to remove ads and practise without limits. The subscription renews automatically each month until cancelled in your Apple ID settings, with a 7-day free trial for new subscribers.\n\nAll content is original. Not affiliated with any university, publisher or course provider named in the sources.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/relativity-taurel/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-relativity.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_relativity.app"
+  },
+  "related": [
+    "modern-physics-quantaro",
+    "electromagnetism-poyntara"
+  ]
+}
