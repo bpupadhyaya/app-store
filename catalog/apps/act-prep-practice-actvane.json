@@ -27,7 +27,28 @@
   "updatedAt": "2026-11-16",
   "version": "1.0.0",
   "icon": "assets/apps/act-prep-practice-actvane/icon-512.png",
-  "screenshots": [],
+  "screenshots": [
+    {
+      "src": "assets/apps/act-prep-practice-actvane/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/act-prep-practice-actvane/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/act-prep-practice-actvane/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/act-prep-practice-actvane/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
   "ios": {
     "status": "review",
     "url": "",
@@ -38,5 +59,6 @@
     "url": "",
     "package": "com.equalinformation.actprep.app"
   },
-  "related": []
+  "related": [],
+  "hero": "assets/apps/act-prep-practice-actvane/hero.webp"
 }

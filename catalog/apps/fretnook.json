@@ -106,5 +106,6 @@
     "url": "",
     "package": "com.equalinformation.fretnook.app"
   },
-  "related": []
+  "related": [],
+  "hero": "assets/apps/fretnook/hero.webp"
 }

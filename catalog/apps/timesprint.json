@@ -104,5 +104,6 @@
     "url": "",
     "package": "com.equalinformation.timesprint.app"
   },
-  "related": []
+  "related": [],
+  "hero": "assets/apps/timesprint/hero.webp"
 }

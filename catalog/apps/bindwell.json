@@ -102,5 +102,6 @@
     "url": "",
     "package": "com.equalinformation.bindwell.app"
   },
-  "related": []
+  "related": [],
+  "hero": "assets/apps/bindwell/hero.webp"
 }

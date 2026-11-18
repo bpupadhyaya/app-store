@@ -23,6 +23,7 @@ const OPS = process.env.RELEASE_OPS || path.join(os.homedir(), 'coding_common/pv
 const WORK = path.join(os.homedir(), 'coding_common/pvt/studio-work');
 const accounts = (opt('accounts') || 'company,personal').split(',');
 const INCLUDE_PREPARE = new Set((opt('include-prepare') || 'com.equalinformation.game-lightbend.app').split(','));
+const FILL = flag('fill-media'); // --fill-media: only fill EMPTY screenshots / missing hero of existing entries (never overwrites or deletes)
 const APPS = path.join(ROOT, 'catalog/apps');
 const CACHE = path.join(ROOT, '.cache/asc'); fs.mkdirSync(CACHE, { recursive: true });
 const norm = s => (s || '').toLowerCase().replace(/[^a-z0-9]/g, '');
@@ -35,6 +36,7 @@ const cwebp = spawnSync('which', ['cwebp']).status === 0;
 const existing = fs.readdirSync(APPS).filter(f => f.endsWith('.json')).map(f => ({ ...JSON.parse(fs.readFileSync(path.join(APPS, f), 'utf8')), _f: f }));
 const byBundle = new Map(), bySlug = new Map(), byName = new Map();
 for (const a of existing) { if (a.ios?.bundleId) byBundle.set(a.ios.bundleId, a); bySlug.set(a.slug, a); for (const n of [a.name, a.name.split(':').pop(), a.name.split(' - ')[0]]) byName.set(norm(n), a); }
+const FILLB = new Set(existing.filter(a => !(a.screenshots || []).length && a.ios?.bundleId).map(a => a.ios.bundleId));
 const findExisting = (bundle, name, slug) => byBundle.get(bundle) || bySlug.get(slug) || [name, name.split(':').pop(), name.split(' - ')[0]].map(n => byName.get(norm(n))).find(Boolean);
 
 // ---- category mapping (ASC category ids -> catalog category ids)
@@ -62,14 +64,14 @@ async function loadAccount(acct) {
   const out = [];
   for (const a of apps) {
     const cf = path.join(CACHE, `${a.id}.json`);
-    if (!flag('refresh') && fs.existsSync(cf)) { out.push(JSON.parse(fs.readFileSync(cf, 'utf8'))); continue; }
+    if (!flag('refresh') && fs.existsSync(cf)) { const c = JSON.parse(fs.readFileSync(cf, 'utf8')); if (!(FILL && FILLB.has(c.bundle) && !c.sets)) { out.push(c); continue; } }
     const name = a.attributes.name, bundle = a.attributes.bundleId;
     if (opt('only') && !(name + bundle).toLowerCase().includes(opt('only').toLowerCase())) continue;
     const vs = await ascAll(cfg, `/v1/apps/${a.id}/appStoreVersions?limit=20`);
     const states = vs.map(v => v.attributes.appStoreState || v.attributes.appVersionState);
     const best = states.slice().sort((x, y) => rank(y) - rank(x))[0] || 'NONE';
     const rec = { acct, id: a.id, name, bundle, best, versions: vs.map(v => ({ v: v.attributes.versionString, s: v.attributes.appStoreState, created: v.attributes.createdDate })) };
-    const want = rank(best) >= 3 || (rank(best) === 1 && INCLUDE_PREPARE.has(bundle));
+    const want = rank(best) >= 3 || (rank(best) === 1 && (INCLUDE_PREPARE.has(bundle) || (FILL && FILLB.has(bundle))));
     if (want) {
       const v = vs.filter(x => rank(x.attributes.appStoreState) >= 1).sort((x, y) => (rank(y.attributes.appStoreState) - rank(x.attributes.appStoreState)) || String(y.attributes.createdDate).localeCompare(x.attributes.createdDate))[0]
         || vs[0];
@@ -154,7 +156,7 @@ async function build(rec, ex) {
 function save(entry) { if (DRY) return; fs.writeFileSync(path.join(APPS, entry.slug + '.json'), JSON.stringify(entry, null, 2) + '\n'); }
 
 // ---- main: ASC apps
-if (!flag('repo-only')) for (const acct of accounts) {
+if (!flag('repo-only') && !FILL) for (const acct of accounts) {
   const list = await loadAccount(acct);
   for (const rec of list) {
     if (rank(rec.best) < 3 && !(rank(rec.best) === 1 && INCLUDE_PREPARE.has(rec.bundle))) {
@@ -211,3 +213,50 @@ console.log(`\nEXISTING UPGRADED ${report.existingUpgraded.length}`); report.exi
 console.log(`\nSKIPPED (rejected/incomplete, not in catalog) ${report.skippedRejected.length}`); report.skippedRejected.forEach(x => console.log('  ' + x));
 console.log(`\nDUPLICATES SKIPPED ${report.dupSkipped.length}`); report.dupSkipped.forEach(x => console.log('  ' + x));
 console.log(`\nTHIN DATA ${report.thin.length}`); report.thin.forEach(x => console.log('  ' + x));
+
+// ---- --fill-media: fill empty screenshots / missing hero on EXISTING entries from ASC (matching bundle id) or the app repo's store-composed art
+if (FILL) {
+  fs.mkdirSync(TMP, { recursive: true });
+  const ART = ['store/art/iphone', 'store/art/iphone63', 'art/store-v2/iphone', 'art/iphone', 'store/iphone', 'store/art-v2/iphone', 'store/screenshots/iphone'];
+  const ART_PAD = ['store/art/ipad', 'art/store-v2/ipad', 'art/ipad', 'store/ipad'];
+  const repos = fs.readdirSync(WORK).filter(d => d.startsWith('app-') && !d.endsWith('-android'));
+  const repoBundle = new Map();
+  for (const d of repos) for (const f of ['ios/project.yml', 'project.yml']) { try { const m = fs.readFileSync(path.join(WORK, d, f), 'utf8').match(/PRODUCT_BUNDLE_IDENTIFIER:\s*([\w.\-]+)/); if (m) { repoBundle.set(m[1], d); break; } } catch { } }
+  const repoFor = a => repoBundle.get(a.ios?.bundleId) || repos.find(d => d === 'app-' + a.slug || d.endsWith('-' + a.slug) || d.endsWith('-' + a.slug.split('-').pop()) && !/^app-(exam|util|game|fin|home|work)-[a-z]+-/.test(d) && d.endsWith('-' + a.slug.split('-').pop()));
+  const imgs = d => fs.existsSync(d) ? fs.readdirSync(d).filter(x => /\.(png|jpg)$/i.test(x)).sort((a, b) => a.localeCompare(b, undefined, { numeric: true })).map(x => path.join(d, x)) : [];
+  const asc = new Map(); for (const acct of accounts) for (const r of await loadAccount(acct)) if (FILLB.has(r.bundle) && r.sets) asc.set(r.bundle, r);
+  const filled = [], still = [];
+  for (const a of existing) {
+    const p = path.join(APPS, a._f); const cur = JSON.parse(fs.readFileSync(p, 'utf8'));
+    if ((cur.screenshots || []).length && cur.hero) continue;
+    const adir = path.join(ROOT, 'assets/apps', cur.slug), arel = `assets/apps/${cur.slug}`; let src = '';
+    const shots = [], rec = asc.get(cur.ios?.bundleId); let heroSrc;
+    const needShots = !(cur.screenshots || []).length, needHero = !cur.hero;
+    if (rec) {
+      const sets = rec.sets || [];
+      const ph = PHONE_PREF.map(t => sets.find(s => s.type === t && s.shots.length)).find(Boolean) || sets.find(s => /IPHONE/.test(s.type) && s.shots.length);
+      const tb = sets.find(s => /IPAD/.test(s.type) && s.shots.length);
+      if (needShots && ph && !DRY) for (const [i, x] of ph.shots.slice(0, SHOTS).entries()) { try { const w = 640, h = Math.round(w * x.height / x.width); toWebp(await imgDl(tpl(x.templateUrl, w * 2, h * 2, 'jpg'), path.join(TMP, `p${i}.jpg`)), path.join(adir, `shot-${i + 1}.webp`), 640, 72); shots.push(`${arel}/shot-${i + 1}.webp`); } catch { } }
+      if (needShots && ph && DRY) shots.push(...ph.shots.slice(0, SHOTS).map((_, i) => `${arel}/shot-${i + 1}.webp`));
+      if (needHero && tb && !DRY) { try { const x = tb.shots[0]; const f = await imgDl(tpl(x.templateUrl, x.width, x.height, 'jpg'), path.join(TMP, 't.jpg')); const c = path.join(TMP, 'tc.jpg'); execFileSync('sips', ['--cropToHeightWidth', String(Math.round(x.width * 9 / 16)), String(x.width), f, '--out', c], { stdio: 'ignore' }); toWebp(c, path.join(adir, 'hero.webp'), 1600, 74); heroSrc = 'asc'; } catch { } }
+      if (shots.length) src = 'asc';
+    }
+    const rd = repoFor(cur);
+    if (rd && (needShots && !shots.length || needHero && !heroSrc)) {
+      const d = path.join(WORK, rd);
+      if (needShots && !shots.length) { const dir = ART.map(x => path.join(d, x)).find(x => imgs(x).length >= 3); if (dir) { for (const [i, f] of imgs(dir).slice(0, SHOTS).entries()) { if (!DRY) toWebp(f, path.join(adir, `shot-${i + 1}.webp`), 640, 72); shots.push(`${arel}/shot-${i + 1}.webp`); } src = 'repo:' + rd; } }
+      if (needHero && !heroSrc) { const fg = ['store/art/android', 'art/play', 'store/art'].flatMap(x => imgs(path.join(d, x)).filter(f => /feature/i.test(path.basename(f))))[0];
+        const pad = ART_PAD.map(x => imgs(path.join(d, x))).find(x => x.length); const h = fg || pad?.[0];
+        if (h && !DRY) { try { let c = h; if (!fg) { c = path.join(TMP, 'hc.png'); const dim = execFileSync('sips', ['-g', 'pixelWidth', h], { encoding: 'utf8' }).match(/(\d+)\s*$/)[1]; execFileSync('sips', ['--cropToHeightWidth', String(Math.round(dim * 9 / 16)), dim, h, '--out', c], { stdio: 'ignore' }); } fs.mkdirSync(adir, { recursive: true }); toWebp(c, path.join(adir, 'hero.webp'), 1600, 74); heroSrc = 'repo'; } catch { } } }
+    }
+    let ch = [];
+    if (shots.length && needShots) { cur.screenshots = shots.map(s => ({ src: s, device: 'phone', caption: '' })); ch.push(`${shots.length} shots (${src})`); }
+    if (heroSrc && needHero) { cur.hero = `${arel}/hero.webp`; ch.push('hero'); }
+    if (ch.length) { if (!DRY) fs.writeFileSync(p, JSON.stringify(cur, null, 2) + '\n'); filled.push(`${cur.slug}: ${ch.join(', ')}`); }
+    if (needShots && !shots.length) still.push(`${cur.slug} [ios=${cur.ios.status}] ${rd ? 'repo ' + rd + ' has no store-composed iPhone art' : 'no repo/ASC art'}`);
+  }
+  console.log(`\nFILLED ${filled.length}`); filled.forEach(x => console.log('  ' + x));
+  console.log(`\nSTILL WITHOUT SCREENSHOTS ${still.length}`); still.forEach(x => console.log('  ' + x));
+}
+
+if (FILL) fs.rmSync(TMP, { recursive: true, force: true });

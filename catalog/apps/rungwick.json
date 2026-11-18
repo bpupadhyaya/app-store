@@ -104,5 +104,6 @@
     "url": "",
     "package": "com.equalinformation.rungwick.app"
   },
-  "related": []
+  "related": [],
+  "hero": "assets/apps/rungwick/hero.webp"
 }

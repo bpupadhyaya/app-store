@@ -31,7 +31,28 @@
   "updatedAt": "2026-11-16",
   "version": "1.0.0",
   "icon": "assets/apps/satwick/icon-512.png",
-  "screenshots": [],
+  "screenshots": [
+    {
+      "src": "assets/apps/satwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/satwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/satwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/satwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
   "ios": {
     "status": "review",
     "url": "",
@@ -42,5 +63,6 @@
     "url": "",
     "package": ""
   },
-  "related": []
+  "related": [],
+  "hero": "assets/apps/satwick/hero.webp"
 }

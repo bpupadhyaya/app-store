@@ -107,5 +107,6 @@
     "url": "",
     "package": "com.equalinformation.tailnest.app"
   },
-  "related": []
+  "related": [],
+  "hero": "assets/apps/tailnest/hero.webp"
 }

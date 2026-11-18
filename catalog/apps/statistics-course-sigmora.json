@@ -45,5 +45,28 @@
     "url": "",
     "package": "com.equalinformation.course_math_statistics.app"
   },
-  "related": []
+  "related": [],
+  "screenshots": [
+    {
+      "src": "assets/apps/statistics-course-sigmora/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/statistics-course-sigmora/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/statistics-course-sigmora/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/statistics-course-sigmora/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "hero": "assets/apps/statistics-course-sigmora/hero.webp"
 }

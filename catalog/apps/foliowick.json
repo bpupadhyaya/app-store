@@ -106,5 +106,6 @@
     "url": "",
     "package": "com.equalinformation.foliowick.app"
   },
-  "related": []
+  "related": [],
+  "hero": "assets/apps/foliowick/hero.webp"
 }

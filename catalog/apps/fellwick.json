@@ -104,5 +104,6 @@
     "url": "",
     "package": "com.equalinformation.fellwick.app"
   },
-  "related": []
+  "related": [],
+  "hero": "assets/apps/fellwick/hero.webp"
 }

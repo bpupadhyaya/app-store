@@ -104,5 +104,6 @@
     "url": "",
     "package": "com.equalinformation.petrilume.app"
   },
-  "related": []
+  "related": [],
+  "hero": "assets/apps/petrilume/hero.webp"
 }

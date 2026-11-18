@@ -28,7 +28,28 @@
   "updatedAt": "2026-11-16",
   "version": "1.0.0",
   "icon": "assets/apps/calculus-ab-ap-derivane/icon-512.png",
-  "screenshots": [],
+  "screenshots": [
+    {
+      "src": "assets/apps/calculus-ab-ap-derivane/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/calculus-ab-ap-derivane/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/calculus-ab-ap-derivane/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/calculus-ab-ap-derivane/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
   "ios": {
     "status": "review",
     "url": "",
@@ -39,5 +60,6 @@
     "url": "",
     "package": "com.equalinformation.derivane.app"
   },
-  "related": []
+  "related": [],
+  "hero": "assets/apps/calculus-ab-ap-derivane/hero.webp"
 }

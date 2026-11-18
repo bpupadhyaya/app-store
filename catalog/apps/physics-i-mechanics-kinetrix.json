@@ -48,5 +48,28 @@
   "related": [
     "physics-ii-em-voltavane",
     "physics-iii-waves-fringeloom"
-  ]
+  ],
+  "screenshots": [
+    {
+      "src": "assets/apps/physics-i-mechanics-kinetrix/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/physics-i-mechanics-kinetrix/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/physics-i-mechanics-kinetrix/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/physics-i-mechanics-kinetrix/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "hero": "assets/apps/physics-i-mechanics-kinetrix/hero.webp"
 }

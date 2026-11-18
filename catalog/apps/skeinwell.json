@@ -106,5 +106,6 @@
     "url": "",
     "package": "com.equalinformation.skeinwell.app"
   },
-  "related": []
+  "related": [],
+  "hero": "assets/apps/skeinwell/hero.webp"
 }

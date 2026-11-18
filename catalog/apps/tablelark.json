@@ -103,5 +103,6 @@
     "url": "",
     "package": "com.equalinformation.tablelark.app"
   },
-  "related": []
+  "related": [],
+  "hero": "assets/apps/tablelark/hero.webp"
 }

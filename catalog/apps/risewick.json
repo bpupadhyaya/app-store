@@ -106,5 +106,6 @@
     "url": "",
     "package": "com.equalinformation.risewick.app"
   },
-  "related": []
+  "related": [],
+  "hero": "assets/apps/risewick/hero.webp"
 }

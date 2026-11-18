@@ -105,5 +105,6 @@
     "url": "",
     "package": "com.equalinformation.hueframe.app"
   },
-  "related": []
+  "related": [],
+  "hero": "assets/apps/hueframe/hero.webp"
 }
