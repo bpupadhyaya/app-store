@@ -1,0 +1,48 @@
+{
+  "slug": "plasma-physics-gyrolux",
+  "name": "Plasma Physics: Gyrolux",
+  "subtitle": "Plasma Physics Orbits, Fusion",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "plasma physics",
+    "debye shielding",
+    "exb drift",
+    "magnetic mirror",
+    "plasma waves",
+    "fusion",
+    "lawson criterion",
+    "mhd",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive plasma physics course: particle orbits, Debye shielding, plasma waves and fusion conditions with five hands-on labs. Learning only.",
+  "longDescription": "Plasma Physics: Gyrolux is a first course in the fourth state of matter: what a hot ionised gas does when electric and magnetic fields push on it. Study at your own pace, online or offline.\n\n### The Thirteen Topics\nWhat a plasma is; Debye shielding; plasma oscillations; gyration in a magnetic field; E x B, grad-B and other drifts; magnetic mirrors and invariants; collisions; the fluid picture; magnetohydrodynamics; plasma waves; sheaths and probes; fusion conditions; confinement concepts.\n\n### What Is Inside\n- A ring on the home screen, one dot per topic, filling as your mastery grows.\n- Adaptive practice: eight questions at a time that follow your slips. Wrong answers are tagged with the likely misconception, for example mixing up angular and ordinary frequency or forgetting the factor of one half in the grad-B drift.\n- 198 original questions. Each numeric answer was recomputed a second way before release.\n- Five labs: charged-particle orbits (gyration, E x B, grad-B, mirror trapping), a shielding explorer, a dispersion lab, a fusion-conditions explorer and a pressure-balance lab. Each lab has a Sources button that opens the references in a window inside the app.\n- A twenty-question mock exam, spaced review, a short primer before each topic and a worked solution for every question, always free.\n- A- and A+ text size on every screen, VoiceOver labels, and a topic list with a practice pane side by side on iPad.\n\n### Ads And Subscription\nThe app is free. Short ads appear only at natural breaks, such as after a finished practice set, and never during the mock exam. An optional video earns extra practice credits. Ad choices are asked first and you may decline.\nAd-Free Monthly removes ads. It is an auto-renewing monthly subscription at the price shown on the subscription screen, with a 7-day free trial for new subscribers. Payment is charged to your Apple Account when the trial ends. It renews automatically unless cancelled at least 24 hours before the period ends. Manage or cancel in your Apple Account settings. Restore Purchases is on the same screen.\n\n### Important\nFor learning only. The labs are simplified teaching models. Never use this app for real fusion or plasma-device design or operation, for high-voltage work or for radiation-safety decisions. It makes no certification or accreditation claims.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/plasma-physics-gyrolux/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-plasma-physics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_plasma_physics.app"
+  },
+  "related": [
+    "electromagnetism-poyntara",
+    "nuclear-and-particle-hadrova"
+  ]
+}
