@@ -1,0 +1,48 @@
+{
+  "slug": "heat-transfer-fluxwick",
+  "name": "Heat Transfer: Fluxwick",
+  "subtitle": "Heat Transfer Course and Labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "heat transfer",
+    "conduction",
+    "convection",
+    "radiation",
+    "fins",
+    "heat exchanger",
+    "lmtd",
+    "biot",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive heat transfer course: thermal resistance, fins, transient conduction, heat exchangers and radiation with six labs. Learning only.",
+  "longDescription": "Heat Transfer: Fluxwick is a complete undergraduate heat transfer course for your phone and tablet: conduction, convection and radiation, taught with adaptive practice and six interactive labs.\n\nLearn it in your own order or let the course adapt. Fourteen topics run from the three modes and energy balances, through plane walls, cylinders and spheres, thermal resistance networks, fins, transient lumped capacitance and the Biot number, semi-infinite solids, forced and natural convection correlations, heat exchangers (LMTD and effectiveness-NTU), blackbody radiation, view factors and grey surfaces, to a first look at boiling and condensation.\n\n### What You Get\n- Adaptive practice: a knowledge-tracing model follows your mastery of each topic, tags the typical slip behind every wrong answer (for example using Celsius in a radiation formula) and brings topics back for spaced review.\n- Two paths: personalised, or the standard course order. Switch any time.\n- About 185 original questions with an original worked solution for every answer. Every calculation item was recomputed by a second numerical method while the course was built.\n- Mock exams: 12 calculation items, 30 minutes, no ads, with a review of every solution.\n- Six interactive labs: a thermal resistance network builder, a fin lab, a Biot lumped-versus-slab lab, a heat exchanger lab (LMTD versus NTU, parallel versus counterflow), a grey-surface radiation lab and a convection chart.\n- Tap any concept for a pop-up that explains it at a lower level and points to where it leads in later courses.\n- Cited sources open in a panel with the licence and a link; all text, questions and code are original.\n- Text size control on every screen, a layout made for tablets, and works offline with no account.\n\n### Free With Optional Subscription\nThe course is free. Short ads may appear at natural breaks after some practice sets, never during questions or mock exams. You can watch an optional video for an extra practice credit. A monthly subscription removes all ads; the price and the free trial are shown by the store before you subscribe. The subscription renews automatically each month until cancelled in your account settings. Worked solutions are always free.\n\nFor learning only. Results are not for real design or safety decisions such as thermal protection, furnaces, electronics cooling or fire. The app makes no certification or code claims and is not affiliated with any university, publisher or accreditation body.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/heat-transfer-fluxwick/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-heat-transfer.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_heat_transfer.app"
+  },
+  "related": [
+    "thermodynamics-entrovane",
+    "fluid-mechanics-rivulane"
+  ]
+}

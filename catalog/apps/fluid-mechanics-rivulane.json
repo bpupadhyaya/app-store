@@ -1,0 +1,47 @@
+{
+  "slug": "fluid-mechanics-rivulane",
+  "name": "Fluid Mechanics: Rivulane",
+  "subtitle": "Fluid Mechanics Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "fluid mechanics",
+    "hydrostatics",
+    "pipe flow",
+    "pump",
+    "bernoulli",
+    "manning",
+    "buckingham pi",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive fluid mechanics course: hydrostatics, pipe and pump systems, momentum, similitude and open channels with five labs. Learning only.",
+  "longDescription": "Fluid Mechanics: Rivulane is a self-paced undergraduate fluid mechanics course for engineering students. Work through twelve topics on a flow-line course map, from fluid properties to open-channel flow, with original practice questions, a worked solution beside every answer, and five interactive labs.\n\n### What You Get\n- Twelve topics: fluid properties, hydrostatics and manometers, forces on submerged surfaces, buoyancy and stability, control volumes and continuity, Bernoulli and the energy equation with losses, momentum, pipe flow (Darcy-Weisbach, Colebrook, minor losses), pump and system curves, dimensional analysis and similitude, boundary layers, drag and lift, and open-channel flow.\n- 75 original practice questions. Every wrong option names a typical engineering slip, such as mixing gauge and absolute pressure, using radius for diameter or forgetting a square. Numeric answers were checked by a second calculation; a few conceptual questions are practice-only and stay out of the mock exams.\n- A path that adapts: a personalised mode picks what to study next from your results, misconceptions and spaced review, or follow the traditional topic order.\n- Five interactive labs: hydrostatic gate and manometer, pipe system with pump operating point and Moody chart, jet on a vane, Buckingham pi groups and model scaling, and Manning channel with critical depth and hydraulic jump.\n- Mock exams, a progress screen, and a citation sheet for every topic with links to textbooks and open course pages. Sources are cited and linked, never copied.\n- A- and A+ buttons on every text screen, plus Dynamic Type. Works offline. No account.\n\n### Free With Optional Ad Removal\nThe course is free and shows ads at natural breaks, never during timed mock exams. You can watch an optional rewarded video for an extra mock exam. Fluid Mechanics Ad-Free Monthly removes ads: the price is shown by the App Store before you subscribe, it starts with a 7-day free trial, then renews automatically every month until cancelled. Payment is charged to your Apple ID at the end of the trial. Cancel any time in Settings > Apple ID > Subscriptions at least 24 hours before renewal. Restore Purchases is in the app. Worked solutions stay free.\n\n### Learning Only\nThis app is for study. It is not for real design or safety decisions about dams, pipelines, pumps or pressure systems, and it makes no certification or code-compliance claims.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/fluid-mechanics-rivulane/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-fluid-mechanics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_fluid_mechanics.app"
+  },
+  "related": [
+    "fluid-dynamics-vortelle",
+    "engineering-dynamics-inertiq"
+  ]
+}
