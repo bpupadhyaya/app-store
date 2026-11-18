@@ -1,0 +1,49 @@
+{
+  "slug": "photonics-lasers-lasivane",
+  "name": "Photonics Lasers: Lasivane",
+  "subtitle": "Photonics lasers optics course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "photonics",
+    "lasers",
+    "gaussian beam",
+    "fabry-perot",
+    "mode locking",
+    "polarisation",
+    "rate equations",
+    "optics",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive photonics and lasers course: beams, cavities, gain, pulses and polarisation, with five hands-on labs. Learning only, not laser-safety guidance.",
+  "longDescription": "Photonics Lasers: Lasivane is a self-paced course in optics and lasers for physics and photonics students, with five interactive labs you can drag, tune and check against the equations.\n\n### Learn By Doing\n- Beam Bench: drag lenses and watch a Gaussian beam focus, with its waist and Rayleigh range computed from ABCD matrices.\n- Gain Pulse: pump a laser, see the threshold, the relaxation oscillations and the settled output.\n- Cavity Rings: Fabry-Perot fringes, mode spacing, finesse and the modes that can lase.\n- Pulse Forge: add cavity modes and watch locked phases build a short pulse.\n- Polarisation Sphere: wave plates and polarisers on a 3D Poincare sphere.\nEvery lab shows a check line where the engine number meets an independent second calculation.\n\n### A Course That Adapts\nFourteen topics: Gaussian beams, ABCD matrices and resonator stability, interference and coherence, Fabry-Perot cavities, diffraction gratings, polarisation and Jones calculus, Einstein coefficients and inversion, laser threshold and gain, resonator modes, mode-locking, optical fibre, dispersion, nonlinear optics basics, photodetectors and noise.\n- About two hundred questions with worked solutions, each numeric answer re-computed by a second method.\n- A personalised path that follows your weakest topic, or the syllabus order.\n- A mock exam of ten numeric questions with no hints.\n- Lesson pop-ups at school, college and graduate level.\n- Sources for every lab and lesson open inside the app (textbooks, journal papers, society pages), link only.\n- Text size buttons on every screen, calm motion option, works offline, no account.\n\n### Free With Optional Ad Removal\nEverything is free. Short ads appear between practice blocks, and you can watch an optional video for a credit. A monthly subscription (price shown in the App Store, 7-day free trial) removes ads; it renews automatically until cancelled in your Apple ID settings.\n\nEducational physics only. This app is not laser-safety, eye-safety or engineering guidance and gives no hazard classes or exposure limits.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/photonics-lasers-lasivane/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-photonics-lasers.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_photonics_lasers.app"
+  },
+  "related": [
+    "optics-prismoor",
+    "physics-iii-waves-fringeloom",
+    "acoustics-course-cymaline"
+  ]
+}
