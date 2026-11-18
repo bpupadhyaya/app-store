@@ -1,0 +1,47 @@
+{
+  "slug": "euclidean-geometry-gnomora",
+  "name": "Euclidean Geometry: Gnomora",
+  "subtitle": "Euclidean Geometry Practice",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "euclidean geometry",
+    "triangles",
+    "circles",
+    "constructions",
+    "isometries",
+    "conic sections",
+    "euler line",
+    "proofs",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive Euclidean geometry course: triangles, circles, constructions, isometries and conics with five hands-on labs. Free to use.",
+  "longDescription": "Euclidean Geometry: Gnomora is a practice course for the geometry of the plane, from Euclid's axioms to conics and a first look at non-Euclidean geometry. It is built for undergraduates, for students heading into one, and for anyone who wants to see why the theorems are true.\n\nPick your path. Personalised mode finds your weakest topic and serves questions slightly above your current level, and it brings old topics back on a spaced schedule. Syllabus mode walks the 15 topics in order and opens the next one when you reach 60 percent mastery. Switch at any time.\n\nWhat is inside\n- 15 topics: axioms and incidence, congruence, parallels and angle sums, triangle centres, the Euler line and nine-point circle, circles and angles, power of a point, similarity, area, ruler-and-compass constructions, coordinate geometry, vectors in the plane, transformations, conics, and non-Euclidean geometry.\n- 218 original questions. Every numeric answer was computed twice, once with exact arithmetic and once with a coordinate calculation, and the two had to agree. Conceptual questions are marked practice-only and stay out of exams.\n- Every wrong choice is tied to a named slip, such as forgetting to halve an angle or using the centroid for the circumcentre, so feedback names the slip and the course targets it next.\n- Worked solutions for every question, always free.\n- Five interactive labs: a compass-and-straightedge construction board, a triangle-centres explorer with the Euler line, a circle-theorem explorer, an isometry composer, and a conic explorer with the focus-directrix check.\n- Timed 12-question mock exams with no ads and a full solution review.\n- A library of cited sources with links to the original texts and courses, plus short pop-up notes that link each idea back to earlier school geometry or forward to later study.\n- Progress map, spaced-review dates, text size controls (A- and A+) on every screen, and a two-pane layout on iPad.\n\nWorks offline. No account, no sign-in. Your progress stays on your device.\n\nAds and the optional subscription\nThe app is free with ads. An ad may appear after you finish a practice set, never during a question and never in a mock exam. You can also choose to watch a short video to earn extra mock-exam credits. Ad-Free Monthly is an auto-renewing subscription that removes ads and gives unlimited mock exams. It starts with a 7-day free trial, the price is shown by the App Store before you confirm, payment is charged to your Apple ID account at the end of the trial, and the subscription renews each month unless cancelled at least 24 hours before the end of the current period. Manage or cancel it in your Apple ID account settings. Restore Purchases is in More.\n\nGnomora is an education app. It does not replace your textbook or your instructor.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/euclidean-geometry-gnomora/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-euclidean-geometry.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_euclidean_geometry.app"
+  },
+  "related": [
+    "differential-geometry-geonyx",
+    "topology-course-closura"
+  ]
+}
