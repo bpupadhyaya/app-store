@@ -1,0 +1,49 @@
+{
+  "slug": "materials-science-grainlark",
+  "name": "Materials Science: Grainlark",
+  "subtitle": "Engineering Materials Science",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "materials science",
+    "engineering materials",
+    "crystal structure",
+    "phase diagram",
+    "tensile",
+    "diffusion",
+    "composites",
+    "polymers",
+    "ceramics",
+    "ashby",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive engineering materials course: crystals, phase diagrams, tensile tests, diffusion and composites with five hands-on labs. Learning only.",
+  "longDescription": "Materials Science for engineers: an adaptive undergraduate course in your pocket, from atomic bonding to materials selection. It tracks what you know topic by topic, remembers the slips you repeat, and brings them back at the right time.\n\n### What You Learn\nFourteen topics in textbook order or in a personalised order: atomic bonding, crystal structures and Miller indices, point and line defects, diffusion, tensile properties, dislocations and strengthening, phase diagrams, heat treatment, polymers, ceramics, composites, corrosion, electrical, thermal and optical properties, and materials selection.\n\n### Six Interactive Labs\nCrystal planes: FCC, BCC and HCP cells, Miller planes, planar density and spacing.\nEutectic lever rule: drag composition and temperature across a binary phase diagram and read the phases and fractions.\nTensile curve: modulus, 0.2 percent offset yield, ultimate strength, toughness and resilience from test data.\nCarburising depth: Fick's second law with temperature and time.\nComposite bounds: upper and lower stiffness limits and fibre load share.\nAshby chart: a log-log property chart with a selection guide line.\n\n### Practice That Adapts\n86 original practice items with worked solutions that are always free. Numeric answers were recomputed by a second engine; wrong choices carry the slip they represent, such as a unit error or a swapped lever arm, so feedback names your habit. Timed mock exams use only answer-verified numeric items. Spaced review schedules topics you are about to forget.\n\n### Free, Offline, No Account\nThe course is free and works offline. Ads appear only at natural breaks, never during a mock exam. You can watch an optional video for a credit toward extra mock exams. An optional monthly subscription removes ads; it includes a 7-day free trial.\n\nFor learning only. Results are never for real design or safety decisions. No certification or code-compliance claim is made. Not affiliated with any university, publisher or accreditation body named as a reference.\n\nSubscription: monthly, renews automatically until cancelled in your account settings. Price is shown by the store before you subscribe.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/materials-science-grainlark/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-engineering-materials.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_engineering_materials.app"
+  },
+  "related": [
+    "materials-mechanics-torquill",
+    "solid-state-physics-brillor"
+  ]
+}
