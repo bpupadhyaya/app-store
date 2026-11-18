@@ -1,0 +1,49 @@
+{
+  "slug": "experimental-physics-nullbar",
+  "name": "Experimental Physics: Nullbar",
+  "subtitle": "Experimental Physics Error Lab",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "experimental physics",
+    "uncertainty",
+    "error propagation",
+    "chi-square",
+    "curve fitting",
+    "oscilloscope",
+    "noise",
+    "gum",
+    "lab methods",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive experimental physics course: uncertainty, fitting, oscilloscope and noise with five hands-on labs. Learning only.",
+  "longDescription": "Every measurement is a claim with a size attached. Experimental Physics: Nullbar teaches you to read a dial, state how far off it could be, combine several readings, draw the best line through scattered points and decide whether that line deserves trust. No lab bench required, and it works without a connection.\n\n### Coverage, Fourteen Units\nSignificant figures; resolution versus accuracy versus precision; random and systematic error; repeated readings and the standard error; Gaussian and Poisson counting; propagating uncertainty with the GUM recipe; correlated inputs and Monte Carlo budgets; weighted means and consistency checks; least-squares lines; chi-square and goodness of fit; nonlinear fits and parameter covariance; noise, averaging and signal to noise; oscilloscope triggering, sampling, aliasing and the FFT; writing a lab report that others can repeat.\n\n### How You Practise\nShort adaptive blocks of five questions steer toward whatever you missed. A wrong answer is matched to a likely habit, such as adding errors straight instead of in quadrature or forgetting to divide chi-square by its degrees of freedom. The bank holds 147 original questions; for the 77 numeric ones a second program recomputed the answer before release, and the others are conceptual practice. A twelve-question timed mock exam, spaced review, a short note per unit on where it comes from and where it leads, and a full worked solution for each question are included at no charge.\n\n### The Five Labs\nPropagation: thousands of random draws drawn beside the analytic formula, with a bar for each input's share of the variance. Fit Explorer: residual sticks on the data, a three-dimensional chi-square bowl, the one-sigma covariance ellipse and two competing step sizes rolling downhill. Virtual Oscilloscope: trigger level and slope, timebase, sample rate, a spectrum, and a tone so you can hear an alias. Noise Averaging: how signal to noise grows with the square root of the number of records, and where drift stops it. Error Dartboard: bias, spread and the mean squared error identity as a target with shots. Each lab opens its references in an in-app reading window.\n\n### Comfort\nText size buttons on every screen, VoiceOver descriptions, a motion-reduction switch, and a two-column layout on iPad.\n\n### Cost\nFree to use. Ads show up only when you finish a practice block, never in the exam, and you decide about personalised ads before any appear. Watching an optional video gives one credit toward a further mock exam.\nAd-Free Monthly removes the ads and nothing else changes. It is a subscription that renews each month at the price displayed in the app, starting with a 7-day free trial when you are eligible. The charge goes to your Apple Account after the trial, and renewal happens on its own unless you switch it off in Apple Account settings at least a day before the period ends.\n\n### Note\nTeaching tool only. Simplified models; not laboratory-safety, electrical-safety or medical advice, and not for real design or safety calls. No certification or accreditation is implied.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/experimental-physics-nullbar/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-experimental-physics-methods.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_experimental_physics_methods.app"
+  },
+  "related": [
+    "electronics-ohmfinch",
+    "statistics-course-sigmora"
+  ]
+}
