@@ -1,0 +1,49 @@
+{
+  "slug": "geophysics-tellurex",
+  "name": "Geophysics: Tellurex",
+  "subtitle": "Geophysics Waves Gravity Heat",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "geophysics",
+    "seismology",
+    "gravity",
+    "heat flow",
+    "geomagnetism",
+    "seismic waves",
+    "earth science",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics",
+    "earth"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive geophysics course: seismic rays, gravity, heat flow and the geodynamo, with five hands-on labs. Learning only.",
+  "longDescription": "Geophysics: Tellurex is a course in how we know what lies under our feet. You never dig anything: you read the Earth from the outside, with travelling waves, tiny changes in gravity, the magnetic field and the flow of heat.\n\n### The Path\nFourteen topics, from the layers of the Earth and Snell's law to seismic refraction and reflection, earthquakes and moment magnitude, gravity anomalies, isostasy, the geomagnetic field, paleomagnetism, heat flow, plate cooling, radiometric dating, electrical resistivity and the figure of the Earth. Guided practice always picks your weakest topic next; free practice lets you choose one. A missed question comes back after four others, and three misses on the same rule bring up a short review card.\n\n### The Bank\n199 original questions. 161 are numeric: you type a number with its unit and it counts if it lands within one percent, and every one of those answers was recomputed by a second program before release. The other 38 are conceptual and are practice only. Each answer comes with the rule that produced it. A timed mock exam of 12 numeric questions runs without hints and without ads.\n\n### Five Labs\n- Ray Fan: drag the layer speeds and thickness, watch head waves overtake the direct wave and read the crossover on the travel-time plot.\n- Gravity Probe: walk a gravimeter over a buried sphere and see why a deep heavy body can mimic a shallow light one on the misfit map.\n- Wavefield Slab: a finite-difference pulse spreads through two layers while a seismogram gather records the direct wave, the reflection and the head wave.\n- Plate Cooling: ocean and continent geotherms, the isotherm depths and the cooling lithosphere.\n- Dipole Globe: spin a 3D globe with field lines, move the probe and see the inclination that gives a rock its paleolatitude.\nEach lab shows its number beside an independent check, and a Sources button opens the exact textbook and course references inside the app, with back, forward and open in browser.\n\n### Comfort\nText size buttons on every screen, VoiceOver labels, reduced motion support, and a two-pane layout on iPad. It works offline and needs no account.\n\n### Cost\nFree with ads. An ad can appear when you finish a practice block, never in the mock exam, and you choose about personalised ads before any appear. A short optional video earns a study credit. Geophysics Ad-Free Monthly removes the ads and changes nothing else: it is a subscription that renews every month at the price the App Store shows, starting with a 7-day free trial; cancel any time in Settings, Apple ID, Subscriptions.\n\n### Note\nEducational models only. Not for real geophysical survey, earthquake, hazard or safety decisions.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/geophysics-tellurex/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-geophysics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_geophysics.app"
+  },
+  "related": [
+    "astrophysics-parsilon",
+    "fluid-dynamics-vortelle",
+    "experimental-physics-nullbar"
+  ]
+}
