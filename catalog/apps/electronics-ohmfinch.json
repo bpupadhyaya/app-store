@@ -1,0 +1,49 @@
+{
+  "slug": "electronics-ohmfinch",
+  "name": "Electronics: Ohmfinch",
+  "subtitle": "Electronics Bench Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "electronics",
+    "rc filters",
+    "bode",
+    "transistor",
+    "op amp",
+    "logic",
+    "adc",
+    "noise",
+    "lock-in",
+    "physics",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive electronics course for physicists: filters, transistors, op-amps, sampling and noise with five hands-on labs. Learning only.",
+  "longDescription": "Electronics: Ohmfinch is a self-paced undergraduate course in electronics for physics students: the circuits you actually meet at a lab bench, with real parts, finite bandwidth, noise and sampling. It assumes you have met basic electromagnetism.\n\n### What You Get\n- A learning path of 13 topics: RC transients, filters and Bode plots, RLC resonance, diodes, BJT and MOSFET amplifiers, real op-amps, op-amp circuits, logic and counters, ADC and DAC sampling, noise, signal averaging and lock-in detection, grounding and shielding.\n- 256 original practice questions. Numeric answers accept SI prefixes (4.7k, 100n, 2.2 mV) and every numeric answer was checked by two independent calculations. Conceptual questions are marked practice-only and stay out of mock exams.\n- Adaptive practice: the next question follows your mastery per topic and your recent mix-ups. You can also follow the fixed course order.\n- Five interactive labs: filter and Bode lab, transistor load-line lab, noise and averaging lab, ADC quantisation lab, and counter timing lab.\n- A worked solution beside every answer, always free.\n- Timed mock exams of 20 numeric questions with no ads and no hints.\n- Source sheets with the textbooks and open course materials behind each topic (cite and link only; all wording is original).\n- A- and A+ text size on every text screen.\n- Works offline. No account, no sign-in.\n\n### Ads, Credits And The Subscription\nOhmfinch costs nothing to use. A brief ad may follow every third finished practice set, and never appears while a timed exam is running. If you want an extra mock exam you may watch one optional video to earn a credit. Your ad choices are requested at the start and declining is fine.\nAd-Free Monthly removes the ads. It is an auto-renewing monthly subscription priced as shown on the subscription screen, and new subscribers get a 7-day free trial. Your Apple Account is charged when you confirm, after the trial ends, and the plan renews on its own unless you switch it off at least 24 hours before the current period closes. Change or cancel it in Settings > Apple Account > Subscriptions.\n\n### Safe Use\nStudy material only. Do not rely on this app for wiring a real circuit, working near mains or high voltage, or any lab-safety call, and do not use it to design equipment other people depend on. No certification or accreditation is implied.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/electronics-ohmfinch/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-electronics-for-physicists.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_electronics_for_physicists.app"
+  },
+  "related": [
+    "circuit-analysis-nodemere",
+    "signals-and-systems-phasewick"
+  ]
+}
