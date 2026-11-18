@@ -1,0 +1,49 @@
+{
+  "slug": "cosmology-dilatara",
+  "name": "Cosmology: Dilatara",
+  "subtitle": "Cosmology: Friedmann and CMB",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "cosmology",
+    "friedmann",
+    "hubble",
+    "redshift",
+    "cmb",
+    "dark matter",
+    "dark energy",
+    "horizons",
+    "nucleosynthesis",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive cosmology course: Friedmann dynamics, redshift distances, horizons and the CMB with five hands-on labs. Learning only.",
+  "longDescription": "Cosmology: Dilatara is an upper-level undergraduate course on the standard model of the universe, built around one idea: cosmic history runs along a rail from today back to the first second, and every topic sits at its place on that rail.\n\n### What You Get\n- 14 topics: Hubble law and redshift, the FLRW metric, Friedmann equations, cosmic fluids, the age of the universe, distances, horizons and light cones, radiation and matter eras, thermal history, nucleosynthesis, the CMB, dark matter and more\n- About 240 practice questions: 185 calculations with parameter values stated in each question, plus conceptual multiple-choice items for practice\n- A worked solution beside every question, always free\n- Adaptive practice that tracks your ability topic by topic, names the mistake pattern you repeat and brings missed questions back later; or switch to the traditional order\n- Mock exams of 12 numeric questions, timed and without ads\n- Tap a term to read it at school level, course level or going further\n\n### Five Labs\n- Friedmann lab: move the matter, dark-energy and curvature densities and watch the expansion curve, the age and the fate\n- Distance calculator: comoving, luminosity and angular-diameter distance for any redshift\n- Horizon diagram: past light cone, particle horizon and Hubble radius on a conformal chart\n- Thermal timeline: slide along cosmic time and read temperature, era and nuclear ratios\n- Blackbody lab: Planck curve, Wien peak and background temperature at any redshift\n\n### Cited, Not Copied\nEvery lesson, question and simulation is original. Textbooks and university course pages are cited and linked in a sheet inside the app. Numbers in the exercises are stated inputs and approximate; this is a learning tool, not a source of measured values.\n\n### Free, With Optional Ad Removal\nThe course is free with ads shown only at natural breaks between questions, never during a mock exam. Watch an optional short video to earn a credit for an extra mock exam. Or choose Cosmology Ad-Free Monthly: it removes all ads, with a 7-day free trial, then the monthly price shown by the App Store before you confirm. It renews automatically until you cancel in your Apple ID subscription settings, at least 24 hours before the period ends. Payment is charged to your Apple ID.\n\nWorks offline. No account needed. For learning only.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/cosmology-dilatara/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-cosmology.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_cosmology.app"
+  },
+  "related": [
+    "relativity-taurel",
+    "astrophysics-parsilon"
+  ]
+}
