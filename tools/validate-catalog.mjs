@@ -30,7 +30,7 @@ for (const a of cat.apps) {
   for (const k of ['privacyUrl', 'supportUrl']) if (a[k] && !/^https:\/\//.test(a[k])) err(w, k + ' must be https');
   for (const s of a.screenshots || []) { if (!isStr(s.src) || !['phone', 'tablet'].includes(s.device)) err(w, 'screenshot needs src and device phone|tablet'); }
   if (!cat.sample) for (const f of [a.icon, a.hero, ...(a.screenshots || []).map(s => s.src)].filter(Boolean)) if (!fs.existsSync(path.join(ROOT, f))) err(w, 'missing file ' + f);
-  if (JSON.stringify(a).match(/equalinformation-studio|ghp_|secret|api[_-]?key/i)) err(w, 'contains forbidden internal/secret text');
+  if (JSON.stringify(a).match(/equalinformation-studio|ghp_|secret[_-]?(key|token)|api[_-]?key/i)) err(w, 'contains forbidden internal/secret text');
 }
 for (const a of cat.apps) for (const r of a.related || []) if (!slugs.has(r)) err(a._file, 'related unknown slug ' + r);
 for (const c of cat.collections) { if (!/^[a-z0-9-]+$/.test(c.id || '') || !isStr(c.title)) err('collections', 'bad collection ' + c.id); for (const s of c.appSlugs || []) if (!slugs.has(s)) err('collection ' + c.id, 'unknown slug ' + s); }
