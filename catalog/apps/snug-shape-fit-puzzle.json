@@ -1,0 +1,70 @@
+{
+  "slug": "snug-shape-fit-puzzle",
+  "name": "Snug: Shape Fit Puzzle",
+  "subtitle": "Fit. Clear. Smile.",
+  "categories": [
+    "puzzle"
+  ],
+  "tags": [
+    "tiles",
+    "blocks",
+    "relaxing",
+    "brain",
+    "casual",
+    "quests",
+    "mascot",
+    "offline",
+    "colour",
+    "pop",
+    "calm",
+    "logic"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Drag colourful shapes into the gaps, pop full rows, and build each colour's signature shape for shiny rewards. A relaxed puzzle for everyone. Free, no sign-up.",
+  "longDescription": "Snug is a relaxed, cheerful puzzle for everyone. Drag colourful shapes onto the board, fit them snugly into the gaps, and watch full rows and columns pop with a satisfying burst.\n\nStart with a gentle first few levels, then rise to real challenges. New colours join as you level up, from 3 all the way to 8, and every colour has a favourite signature shape. Build it from several pieces and it blooms for a big bonus.\n\n### Why Players Smile\n• Easy to learn: one tiny idea, fit the shape\n• Journey mode with handcrafted levels, stars and goals, plus Endless play when you just want to drift\n• Snug bonuses for tight fits and combos for clearing several lines at once\n• Quests that ask for a colour's signature shape: square, line, corner, tee, plus, zigzag, ring and big square\n• Collect polished, gilded and radiant tile finishes just by playing well, plus extra colour palettes and board skins\n• Meet Snuggle, the cheerful pink mascot who cheers every combo\n• Hints when you are stuck, and kind, never stressful rounds\n• Daily goal and streak to make a tiny habit of smiling\n• Works offline. No account, no sign-up\n• Made for iPhone and iPad, with a layout that grows with your screen",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-snug.html",
+  "supportUrl": "https://equalinformation.com/app-support-snug.html",
+  "releasedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.0",
+  "icon": "assets/apps/snug-shape-fit-puzzle/icon-512.webp",
+  "hero": "assets/apps/snug-shape-fit-puzzle/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/snug-shape-fit-puzzle/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/snug-shape-fit-puzzle/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/snug-shape-fit-puzzle/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/snug-shape-fit-puzzle/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/snug-shape-fit-puzzle/id6827766002",
+    "bundleId": "com.equalinformation.snugpuzzle",
+    "appleId": "6827766002"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.snugpuzzle",
+    "package": "com.equalinformation.snugpuzzle"
+  },
+  "related": []
+}

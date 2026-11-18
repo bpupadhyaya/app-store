@@ -1,0 +1,68 @@
+{
+  "slug": "folk-dance-of-the-world",
+  "name": "Folk Dance of the World",
+  "subtitle": "Hopak, Kathak, Eskista & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "hopak",
+    "kathak",
+    "eskista",
+    "tinikling",
+    "frevo",
+    "kalamatianos",
+    "gumboot",
+    "flamenco",
+    "dance",
+    "rhythm",
+    "folk-dance"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "12 folk dance rhythms to play: Hopak, Highland Sword Dance, Kathak tatkar footwork rhythm and Eskista.",
+  "longDescription": "Folk Dance of the World: 12 folk dance rhythms from 14 countries, in one app that works fully offline.\n\nInside: Hopak, Highland Sword Dance, Kathak tatkar footwork rhythm, Eskista, Attan circle dance, Flamenco palmas, Tinikling, Buchaechum, Frevo umbrella dance, Kalamatianos, Gumboot dance rhythm and Musya.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can tap the beat of each dance and watch the dancer answer with stamps, footwork, claps and shoulder moves, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/folk-dance-of-the-world/icon-512.webp",
+  "hero": "assets/apps/folk-dance-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/folk-dance-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/folk-dance-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/folk-dance-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/folk-dance-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.folkdanceoftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.folkdanceoftheworld",
+    "package": "com.equalinformation.whg.folkdanceoftheworld"
+  },
+  "related": []
+}

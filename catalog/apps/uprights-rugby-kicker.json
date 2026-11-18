@@ -1,0 +1,65 @@
+{
+  "slug": "uprights-rugby-kicker",
+  "name": "Uprights: Rugby Kicker",
+  "subtitle": "Read the wind, strike true",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "goal-kicker",
+    "conversion",
+    "drop-goal",
+    "touchline-angle",
+    "highveld-ground",
+    "flag-wind",
+    "strike-point",
+    "cup-fixture"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A goal-kicking game with real flight: wind, altitude, nerves, six cups at six grounds and thirty challenges.",
+  "longDescription": "Rugby's goal kicker stands alone in front of the posts while the whole stadium falls quiet, and every ground has its own wind. Uprights is a rugby kicking game with a real physics model behind every kick. Stand over the ball in a 3D stadium, read the flags, set your aim and the strike on the ball, then hold and release. The ball flies through gusting wind, thin air or wet cold; it spins, curves and can clang off the post or the bar.\n\nA kick asks you questions. Aim off into the wind and let it bring the ball back. Strike low for height or high for a flat drive. Swing smoothly up to 72 percent effort, or take a harder, riskier swing for distance. Nerves rise with the stakes and shake the ring and the aim line; a well-timed breath steadies you.\n\nSix cups and thirty fixtures make a career at six grounds: a sea-level harbour, thin-air highveld, a damp fenland bowl, a gale-swept headland, a floodlit night match and a great covered arena. Each fixture is six kicks each against a rival kicker, with conversions, penalty goals and drop goals, the shot clock and a tie settled by extra kicks.\n\nThirty challenges cover wind school, touchline angles, long range, drop goals under a charge and pressure sets, with three kicks each and a star for every goal. A daily set of six kicks is the same for everyone. Practice lets you choose the spot, the ground, the wind and how much help the coach gives.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-rugbydeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-rugbydeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/uprights-rugby-kicker/icon-512.webp",
+  "hero": "assets/apps/uprights-rugby-kicker/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/uprights-rugby-kicker/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/uprights-rugby-kicker/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/uprights-rugby-kicker/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/uprights-rugby-kicker/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.rugbydeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.rugbydeluxe.app"
+  },
+  "related": []
+}

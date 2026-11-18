@@ -1,0 +1,32 @@
+{
+  "slug": "chemistry-ap-molvane",
+  "name": "Chemistry AP: Molvane",
+  "subtitle": "Chemistry AP Mocks & FRQs",
+  "categories": [
+    "education"
+  ],
+  "tags": [],
+  "developer": "EqualInformation",
+  "shortDescription": "Practice AP Chemistry with original questions, worked solutions, free-response sets and timed mock exams.",
+  "longDescription": "Practice AP Chemistry with original questions, worked solutions, free-response sets and timed mock exams.\n\n### What is inside\nOver 200 multiple-choice questions, each with a full worked solution and a reason why every wrong choice is wrong. Sixteen original free-response questions with point-by-point rubrics. Short topic notes with common traps and links to the official course description and open textbooks.\n\n### Study your way\nQuick and full timed mocks, a daily practice round, and a rough 1 to 5 estimate that is clearly labelled as an estimate. Text size controls on every screen. No account needed, and it works offline.\n\nAP is a registered trademark of the College Board, which is not affiliated with this app.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.0",
+  "icon": "assets/apps/chemistry-ap-molvane/icon-512.webp",
+  "screenshots": [],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.molvane.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.molvane.app"
+  },
+  "related": []
+}

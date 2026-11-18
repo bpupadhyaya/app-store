@@ -1,0 +1,68 @@
+{
+  "slug": "neuroanatomy-axonlume",
+  "name": "Neuroanatomy: Axonlume",
+  "subtitle": "Lesions, tracts and deficits",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "neuroanatomy",
+    "brain",
+    "spinal-cord",
+    "lesion",
+    "tracts",
+    "cortex",
+    "neurology",
+    "pathway",
+    "localize",
+    "deficits",
+    "student"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Neuroanatomy: one 3D brain, brainstem and spinal cord. Place a lesion and see which pathways fail, or read the findings and localise it yourself.",
+  "longDescription": "Neuroanatomy through lesions and deficits. Axonlume is a lesion clinic for the nervous system. One screen, one real 3D model: brain, brainstem, cerebellum and spinal cord.\n\n### Place a Lesion, See the Deficits\nTap the model to place a lesion, set its size and depth, and Axonlume lists the pathways that pass through it and what a person would lose: which side, which modality, and why the crossings matter.\n\n### Read the Findings, Localise the Lesion\nSwitch to Localise: a short teaching vignette gives the findings, you place the lesion, and the model shows where it really is.\n\n### Tap to Identify\nTap any gyrus, nucleus or brainstem level for its name, function, blood supply and what happens when it is damaged. Switch labels on to read names over the model.\n\n### Eleven Pathways Routed Through the Anatomy\nCorticospinal, dorsal column and medial lemniscus, spinothalamic, spinocerebellar, visual, auditory, corticobulbar, arcuate, limbic memory circuit, nigrostriatal and callosal fibres, drawn through the brain and cord with their decussations.\n\n### Made to Read\nPick your own text size with A- and A+ on every screen; it follows Dynamic Type too. Portrait and landscape on iPhone and iPad, fully offline.\n\n### No Cost to Learn\nCredits are on the in-app Sources page. A study aid only, with no diagnosis, treatment or medical advice.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "12+",
+  "privacyUrl": "https://equalinformation.com/privacy-neuroanatomy-tracts.html",
+  "supportUrl": "https://equalinformation.com/app-support-neuroanatomy-tracts.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-17",
+  "version": "1.0",
+  "icon": "assets/apps/neuroanatomy-axonlume/icon-512.webp",
+  "hero": "assets/apps/neuroanatomy-axonlume/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/neuroanatomy-axonlume/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/neuroanatomy-axonlume/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/neuroanatomy-axonlume/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/neuroanatomy-axonlume/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.neuroanatomy-tracts.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.neuroanatomy-tracts.app"
+  },
+  "related": []
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "nine-rings-brass-puzzle",
+  "name": "Nine Rings: Brass Puzzle",
+  "subtitle": "A brass puzzle to hold",
+  "categories": [
+    "puzzle",
+    "board-strategy"
+  ],
+  "tags": [
+    "baguenaudier",
+    "jiulian-huan",
+    "gray-code",
+    "steel-bar",
+    "rings-path",
+    "ring-sets",
+    "mechanic-walker",
+    "daily-position"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "The baguenaudier as a tactile 3D object: exact hints, a ten-lesson path, a 36-position puzzle book and a race with the Mechanic.",
+  "longDescription": "The nine linked rings, jiulian huan in China and baguenaudier in Europe, is a puzzle so old that some call it the mathematics of the loop. Nine Rings builds it as a tactile 3D object you can hold in your hands.\n\nA polished steel bar runs through a row of brass rings. Take every ring off, or put every ring on. The rule fits in one sentence: ring 1 always moves, and any other ring moves only when the ring before it is on the bar and every ring before that is off. The solution is long, and the pattern hides in your fingers.\n\nTap a ring or drag it along its post. A locked ring resists and tells you exactly which ring is in the way. Brass, steel, jade and lacquer finishes, warm lamp light, soft shadows and generated metal sounds make it feel like a real object.\n\nEvery position has an exact distance to the goal. Hint shows the best next move and explains why it works, Think explains the plan, and undo is free in practice. A ten-lesson Rings Path goes from one ring to the classic seven, and Auto Play plays a whole solution with Pause, speed control, Think and Take over.\n\nPlay Free Play with 3 to 9 rings, removing or assembling. A Puzzle Book has 36 set positions in six chapters with stars for par, and a new Daily Position arrives for everyone. Race the Mechanic at four levels, or hand the rings to a friend in Relay.\n\nFree with ads; go ad-free with a monthly pass or by earning time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-chineseringsdeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-chineseringsdeluxe.html",
+  "releasedAt": "2026-11-03",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/nine-rings-brass-puzzle/icon-512.webp",
+  "hero": "assets/apps/nine-rings-brass-puzzle/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/nine-rings-brass-puzzle/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/nine-rings-brass-puzzle/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/nine-rings-brass-puzzle/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/nine-rings-brass-puzzle/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.chineseringsdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.chineseringsdeluxe.app"
+  },
+  "related": []
+}

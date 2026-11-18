@@ -1,0 +1,64 @@
+{
+  "slug": "kite-duel-festival-sky-fight",
+  "name": "Kite Duel: Festival Sky Fight",
+  "subtitle": "Cut their thread first",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "fighting-kite",
+    "uttarayan",
+    "hamamatsu",
+    "thread-crossing",
+    "gust-ribbon",
+    "tether-wear",
+    "ahmedabad-rooftops"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Fight paper kites in six festival skies: real wind, a tether that wears, crossing sparks and thirty bouts against masters.",
+  "longDescription": "Kite fighting is a festival tradition from Gujarat's Uttarayan to Hamamatsu in Japan and Seoul's Han River bank: flyers coat their thread with grit and try to cut a rival's line while keeping their own. Kite Duel puts you in six festival skies. Fly a paper kite on a thread, read the wind, climb above your rival and lay your thread across theirs. Draw it in tight and fast, and cut them loose before they cut you.\n\nThe sky behaves. The wind has strength, height and gusts that roll across the sky, and a ribbon at the top previews what is coming. Your kite is a real sail: pull to raise the pitch, ease to lower it, bank to swing. The thread is a real tether with tension, sag and wear, so a gust can snap it and a slack thread is hard to cut.\n\nWhen two threads touch, a spark marks the crossing. Wear depends on the angle, the grit of the thread, how tight each thread is and how fast each slides along itself. Draw with a hard pull, but your hand tires, so choose your moment.\n\nControl is one finger: drag sideways to steer, down to pull, up to ease and far down to draw. Tilt steering is optional.\n\nThirty bouts in six places take you from the rooftops of Ahmedabad to the pine coast of Hamamatsu, the royal field of Bangkok, the hill terraces of Valparaiso, the Han River bank in Seoul and the beachfront of Rio, with five rivals in each, the last a master.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-kiteduelsdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-kiteduelsdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/kite-duel-festival-sky-fight/icon-512.webp",
+  "hero": "assets/apps/kite-duel-festival-sky-fight/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/kite-duel-festival-sky-fight/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/kite-duel-festival-sky-fight/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/kite-duel-festival-sky-fight/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/kite-duel-festival-sky-fight/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.kiteduelsdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.kiteduelsdeluxe.app"
+  },
+  "related": []
+}

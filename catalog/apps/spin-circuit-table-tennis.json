@@ -1,0 +1,64 @@
+{
+  "slug": "spin-circuit-table-tennis",
+  "name": "Spin Circuit Table Tennis",
+  "subtitle": "One swipe picks the stroke",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "ping-pong",
+    "sidespin-bow",
+    "loop-drive",
+    "chop-defence",
+    "serve-magician",
+    "world-spin-finals",
+    "machine-drills"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Table tennis built on one gesture: swipe speed, lean and bow choose block, loop, smash or chop, across six tours.",
+  "longDescription": "Table tennis began as an after-dinner parlour game in Victorian England and became one of the fastest racket sports on earth, where spin matters more than power. Spin Circuit is table tennis built around one gesture: the swipe. Let the ball bounce, swipe up the screen and your paddle meets it. How fast you swipe picks the stroke, which way you lean aims it, and a bow in your swipe puts sidespin on the ball.\n\nThe table is real: a real-time 3D table, net and celluloid ball with true flight, bounce, net cord and spin. Topspin dips and kicks, backspin floats and sits up, and sidespin bends and breaks. Marks on the ball turn the way it spins, so you can read an opponent before you answer. Paddles have a grippy rubber face that really brushes the ball.\n\nSix strokes come from one finger: block, push, drive, loop, smash and chop. A short touch blocks, a firm swipe drives, a long fast swipe loops and a downward swipe cuts. A glowing ring around the ball shows the sweet height to hit it.\n\nThe Circuit has six tours of knockout rounds, from a garage league to the World Spin Finals, against sixteen named opponents. Meet a patient blocker, a serve magician, a chopper who sends everything back, a counter-looper and the champion. Earn stars and unlock paddles, balls, tables and halls.\n\nSkill Lab adds eleven machine drills, five serve challenges and six trick shots, each with three star targets: hit corner targets, smash lobs, drop dead balls, curve the ball and keep a rally streak.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-tabletennisdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-tabletennisdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/spin-circuit-table-tennis/icon-512.webp",
+  "hero": "assets/apps/spin-circuit-table-tennis/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/spin-circuit-table-tennis/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/spin-circuit-table-tennis/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/spin-circuit-table-tennis/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/spin-circuit-table-tennis/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.tabletennisdeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.tabletennisdeluxe.app",
+    "package": "com.equalinformation.tabletennisdeluxe.app"
+  },
+  "related": []
+}

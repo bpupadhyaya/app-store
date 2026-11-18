@@ -1,0 +1,60 @@
+{
+  "slug": "plainrescue-offline-first-aid",
+  "name": "PlainRescue: Offline First Aid",
+  "subtitle": "Offline first aid, cited",
+  "categories": [
+    "health"
+  ],
+  "tags": [
+    "first-aid",
+    "cpr",
+    "emergency",
+    "offline",
+    "choking",
+    "stroke",
+    "anaphylaxis",
+    "bleeding",
+    "heart-attack",
+    "aed",
+    "rescue",
+    "safety"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Calm, step-by-step first aid that works with no signal. Every step cited (AHA, Red Cross, WHO). Voice-guided. CPR metronome. 100% on-device. Free.",
+  "longDescription": "When seconds count and there's no signal, PlainRescue gives you calm, step-by-step first-aid guidance you can trust — completely offline.\n\nPlainRescue walks you through dozens of life-threatening emergencies one clear step at a time: CPR (adult, child, infant) with a built-in metronome, choking, severe bleeding, anaphylaxis, stroke (FAST), heart attack, seizures, burns, drowning, and many more. Every single step is backed by an authoritative citation you can tap and read — from the American Heart Association, American Red Cross, European Resuscitation Council, WHO, ILCOR, CDC, St John Ambulance, and the NHS.\n\n### Built for the Worst Moments\n• 100% offline — every protocol, citation, timer, diagram, and the voice guidance work with no signal. No network on any critical path.\n• Voice-guided — PlainRescue reads each step aloud so you keep your hands on the person.\n• One-handed and calm — big targets, high contrast, dark-readable, minimal text per step.\n• CPR metronome and recheck timers to keep the right rate and timing.\n• A Call Emergency Services bar with your region's number, always one tap away.\n• Clear, labelled diagrams on the key steps.\n\n### Learn Before You Ever Need It\n• A Learn tab mirrors every emergency with in-depth, fully-cited study modules and practice quizzes — so the steps are already familiar when it matters.\n\n### For Trained Responders\n• Optional Clinician Mode (off by default) reveals a physician-grade clinical layer — doses, contraindications, differentials, disposition — all cited.\n\n### Your Information Stays Yours\n• Emergency protocols are 100% on-device and work offline. No account, no servers, no cloud.\n• An optional Medical Card (allergies, conditions, meds, emergency contacts) is encrypted on your device and never leaves it. PlainRescue can also point you to Apple's Medical ID for lock-screen access by responders.\n\n### In Your Language\n• Follows your device language with English fallback. Available in English plus Spanish, Hindi, Arabic, Chinese, Russian, French, and Portuguese, with more added over time.\n\n### Completely Free\nIMPORTANT: PlainRescue provides guidance, not diagnosis. It is for educational and informational use and does not replace professional medical care. In an emergency, always call your local emergency services first.",
+  "whatsNew": "PlainRescue now shows ads in its free content (Google AdMob; you will see a consent prompt where required). A one-time \"Remove Ads\" purchase removes them. Restore Purchases is in Settings. Existing purchases are unchanged.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "17+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-plainrescue.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-plainrescue.html",
+  "releasedAt": "2026-09-09",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/plainrescue-offline-first-aid/icon-512.webp",
+  "hero": "assets/apps/plainrescue-offline-first-aid/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/plainrescue-offline-first-aid/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainrescue-offline-first-aid/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/plainrescue-offline-first-aid/id6785400812",
+    "bundleId": "com.equalinformation.plainrescue.app",
+    "appleId": "6785400812"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.plainrescue.app",
+    "package": "com.equalinformation.plainrescue.app"
+  },
+  "related": []
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "origami-crease-paper-studio",
+  "name": "Origami Crease: Paper Studio",
+  "subtitle": "Fold paper by real geometry",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "paper-folding",
+    "reverse-fold",
+    "valley-and-mountain",
+    "crease-pattern",
+    "neatness-score",
+    "paper-swan",
+    "fold-school"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A layered-facet fold engine: reverse folds, six guided models, free folding, crease-pattern puzzles and nine lessons.",
+  "longDescription": "Origami, the Japanese art of paper folding, turns a single square sheet into a crane, a boat or a jewel without cuts or glue. Origami Crease is a paper folding studio built on a real geometric fold engine. Grab a flap, drag it across the crease and watch the paper lift, turn and settle in 3D, with proper layers, reverse folds and a firm refusal to tear the sheet.\n\nSix guided models in two chapters run from a first corner fold to inside reverse folds: a dog, a paper plane, a faceted jewel, a duck, a whale and a swan. A dashed crease, a glowing handle and a landing ring show every fold, and a neatness score rewards a careful finger. When the last fold is made, the model rises and the camera swings round it.\n\nIn the Studio you can fold anything. Drag a point to another point and the paper folds exactly halfway between them, snapping to corners and edge middles. Choose valley or mountain, inside or outside reverse fold, all layers or the top layer only, or fold along a line you draw. Unfold keeps the crease.\n\nTwelve crease-pattern puzzles and a new daily pattern ask you to fold and unfold to leave the creases shown, and show how closely yours match. Nine short lessons in Fold School teach valley and mountain folds, creasing, turning over, folding only the top layer and both reverse folds.\n\nAuto Play lets any model fold itself, with Pause, speed and Think, or take over at any step.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-origamideluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-origamideluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/origami-crease-paper-studio/icon-512.webp",
+  "hero": "assets/apps/origami-crease-paper-studio/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/origami-crease-paper-studio/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/origami-crease-paper-studio/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/origami-crease-paper-studio/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/origami-crease-paper-studio/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.origamideluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.origamideluxe.app"
+  },
+  "related": []
+}

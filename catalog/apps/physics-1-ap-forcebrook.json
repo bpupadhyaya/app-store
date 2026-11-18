@@ -30,7 +30,7 @@
   "icon": "assets/apps/physics-1-ap-forcebrook/icon-512.png",
   "screenshots": [],
   "ios": {
-    "status": "soon",
+    "status": "review",
     "url": "",
     "bundleId": "com.equalinformation.forcebrook.app"
   },

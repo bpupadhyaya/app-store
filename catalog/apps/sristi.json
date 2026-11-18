@@ -1,0 +1,71 @@
+{
+  "slug": "sristi",
+  "name": "Sristi – AI Life Optimizer",
+  "subtitle": "Your private life optimizer",
+  "categories": [
+    "health",
+    "lifestyle"
+  ],
+  "tags": [
+    "habit",
+    "tracker",
+    "wellness",
+    "routine",
+    "planner",
+    "sleep",
+    "water",
+    "hydration",
+    "mood",
+    "mindfulness",
+    "meditation",
+    "focus"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Live by design, not by default. Turn authoritative health guidance into one simple daily plan. Shows ads; remove them with a one-time purchase.",
+  "longDescription": "Sristi is your private, on-device life optimizer. It turns authoritative health and wellness guidance into one simple daily plan you can actually follow — across sleep, hydration, nutrition, movement, mind, and more.\n\nNo account. No cloud. Your plan is built and stored on your device.\n\n### Why Sristi\nMost apps either overwhelm you with raw numbers or hand you advice with no source. Sristi does the opposite: every target and key fact is backed by recognized authorities — so you know the \"why,\" not just the \"what.\"\n\n### What You Get, Free\n• Personalized daily plan — a clear timeline from wake-up to wind-down\n• Sleep & Rest — bedtime, quality, and recovery guidance\n• Hydration — a water target computed from your body, activity, and climate\n• Nutrition & Meals — meals, nutrients, and timing\n• Movement & Exercise — a WHO-based daily activity target\n• Mental & Emotional — mood, stress, and mindfulness\n• Social & Relationships — connection that supports health\n• Health Monitoring — vitals, symptoms, prevention\n• Environment & Light — sunlight, air, and surroundings\n• Safety & Emergency — always free for everyone\n• A guidance Library with sources you can open and read\n• Stats that show your day, week, and month at a glance\n\nSRISTI PLUS (one-time unlock — yours forever, no subscription)\n• Focus & Productivity — deep work, energy, focus\n• Financial Wellness — health within your budget\n• Spiritual & Purpose — meaning, values, gratitude\n• Life Transitions — travel, illness, and life phases\n\n### Private By Design\nLive by design, not by default.\n\n### Disclaimer:\nSristi is for general information, education, and well-being only — not professional advice. It does not provide medical, mental-health, legal, financial, or other professional advice, diagnosis, or treatment, and is not a medical device. Always consult a qualified professional, and follow the laws and guidance of your own country. In an emergency, contact local emergency services.",
+  "whatsNew": "Adds ads (Google AdMob) and an optional one-time Remove Ads purchase. Bug fixes and improvements.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "12+",
+  "privacyUrl": "https://equalinformation.com/privacy-sristi.html",
+  "supportUrl": "https://equalinformation.com/app-support-sristi.html",
+  "releasedAt": "2026-07-14",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/sristi/icon-512.webp",
+  "hero": "assets/apps/sristi/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/sristi/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sristi/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sristi/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sristi/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/sristi-ai-life-optimizer/id6785289118",
+    "bundleId": "com.equalinformation.sristi.app",
+    "appleId": "6785289118"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.sristi.app",
+    "package": "com.equalinformation.sristi.app"
+  },
+  "related": []
+}

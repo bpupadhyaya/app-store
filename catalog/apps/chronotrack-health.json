@@ -1,0 +1,68 @@
+{
+  "slug": "chronotrack-health",
+  "name": "ChronoTrack Health",
+  "subtitle": "Chronic Pain & Symptom Tracker",
+  "categories": [
+    "health"
+  ],
+  "tags": [
+    "chronic-pain",
+    "symptom-tracker",
+    "pain-diary",
+    "medication",
+    "health-log",
+    "soap",
+    "fhir",
+    "trigger",
+    "flare",
+    "pattern"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Track chronic pain privately. Discover symptom patterns, manage medications, generate doctor reports. Data stays on-device.",
+  "longDescription": "ChronoTrack Health helps you take control of your chronic condition. Log symptoms, track medications, discover patterns in your pain, and share doctor-ready\n  reports — all while keeping your data 100% private on your device.\n\nFEATURES (FREE)\n  - Symptom Logging: Record pain level, body location, pain type, duration, and triggers\n  - Calendar View: Visual pain heatmap showing your symptom history by day\n  - Pattern Analysis: AI-powered on-device analysis identifies trends, triggers, and flare risks\n  - Medication Tracking: Schedule medications, track adherence, and log doses\n  - Daily Check-In: Track sleep, stress, energy, and overall wellness daily\n  - Entry History: Browse and search all your logged entries\n  - Emergency Card: Store emergency contacts, allergies, blood type, and conditions\n\nPLUS ($3.99/month — Patient Premium)\n  - Trigger Insights: Deep analysis of what causes your symptoms\n  - Flare Timeline: Visual timeline of your flare episodes\n  - Health Journal: Daily journal with mood tracking\n  - Doctor Reports: Generate PDF and FHIR reports for appointments\n  - Symptom Comparison: Side-by-side analysis of different periods\n  - Medication Effectiveness: Track which medications help the most\n  - Encrypted Backup: Secure your health data\n\nPRO ($29.99/month — Healthcare Professionals)\n  - Multi-Patient Dashboard: Manage multiple patients\n  - SOAP Notes: Clinical report generator\n  - Data Hub: Configure external data source connectors\n  - Connector Store: Browse and add data sources\n  - key Vault: Secure key management with budget controls\n  - Audit Log: Full API call transparency\n  - FHIR R4 Integration: Clinical interoperability\n\n### Medical References\nEvery health insight includes tappable references from authoritative sources: NIH, WHO, CDC, FDA, APA, and AHA. Verify the science behind every recommendation.\n\nIMPORTANT: ChronoTrack is a health tracking tool, not a substitute for professional medical care. Always consult a qualified healthcare provider for diagnosis and\n   treatment.",
+  "whatsNew": "Adds ads in the free features (Google AdMob) and an optional one-time Remove Ads purchase. Bug fixes and improvements.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "17+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-chronotrack.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-chronotrack.html",
+  "releasedAt": "2026-05-19",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/chronotrack-health/icon-512.webp",
+  "hero": "assets/apps/chronotrack-health/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/chronotrack-health/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/chronotrack-health/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/chronotrack-health/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/chronotrack-health/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/chronotrack-health/id6766143088",
+    "bundleId": "com.equalinformation.chronotrack.app",
+    "appleId": "6766143088"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.chronotrack.app",
+    "package": "com.equalinformation.chronotrack.app"
+  },
+  "related": []
+}

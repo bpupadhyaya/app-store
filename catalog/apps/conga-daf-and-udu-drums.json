@@ -1,0 +1,69 @@
+{
+  "slug": "conga-daf-and-udu-drums",
+  "name": "Conga, Daf & Udu Drums",
+  "subtitle": "Surdo, Riq, Ghatam & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "conga",
+    "bongo",
+    "timbales",
+    "daf",
+    "riq",
+    "udu",
+    "ghatam",
+    "darbuka",
+    "surdo",
+    "naqareh",
+    "drum",
+    "percussion"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "10 drums and drum rhythms to play: Conga, Daf, Udu and Bongo.",
+  "longDescription": "Conga, Daf & Udu Drums: 10 drums and drum rhythms from 9 countries, in one app that works fully offline.\n\nInside: Conga, Daf, Udu, Bongo, Timbales, Surdo, Riq, Ghatam, Darbuka and Naqareh.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can play congas, frame drums, clay pots and kettle drums to real rhythms, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/conga-daf-and-udu-drums/icon-512.webp",
+  "hero": "assets/apps/conga-daf-and-udu-drums/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/conga-daf-and-udu-drums/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/conga-daf-and-udu-drums/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/conga-daf-and-udu-drums/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/conga-daf-and-udu-drums/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.congadafandududrums"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.whg.congadafandududrums"
+  },
+  "related": []
+}

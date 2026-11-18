@@ -1,0 +1,66 @@
+{
+  "slug": "gongs-and-chimes-of-the-world",
+  "name": "Gongs & Chimes of the World",
+  "subtitle": "Gong Ageng, Bonang & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "gong",
+    "gamelan",
+    "bonang",
+    "bianzhong",
+    "chimes",
+    "handbells",
+    "percussion",
+    "metallophone",
+    "rhythm"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "8 gongs, chimes and bells to play: Gong ageng, Bonang, Kyi waing and Bianzhong.",
+  "longDescription": "Gongs & Chimes of the World: 8 gongs, chimes and bells from around the world, in one app that works fully offline.\n\nInside: Gong ageng, Bonang, Kyi waing, Bianzhong, Pyeongyeong, Yunluo, Skrabalai and Handbells.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can strike hanging gongs, gong circles, chime bells and stone chimes to real rhythms and melodies, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/gongs-and-chimes-of-the-world/icon-512.webp",
+  "hero": "assets/apps/gongs-and-chimes-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/gongs-and-chimes-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gongs-and-chimes-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gongs-and-chimes-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gongs-and-chimes-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.gongsandchimesoftheworld"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.whg.gongsandchimesoftheworld"
+  },
+  "related": []
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "hanoi-tower-brass-and-lacquer",
+  "name": "Hanoi Tower: Brass & Lacquer",
+  "subtitle": "Move the tower, disc by disc",
+  "categories": [
+    "puzzle",
+    "board-strategy"
+  ],
+  "tags": [
+    "reve-puzzle",
+    "frame-stewart",
+    "gray-code",
+    "rail-variant",
+    "ring-variant",
+    "disc-par",
+    "grand-pegs",
+    "tower-of-n-discs"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Forty-eight towers in six chapters with exact par, from the classic to Rail, Ring and Grand Pegs, plus twelve lessons.",
+  "longDescription": "The Tower of Hanoi was presented in 1883 by the French mathematician Edouard Lucas, with a tale of monks moving sixty-four golden discs. Hanoi Tower makes it a real brass and lacquer object. Carry the whole tower to the goal peg one disc at a time, never putting a bigger disc on a smaller one. Drag a disc, or tap a peg and then tap where it should go, and hear it ring.\n\nThe journey has six chapters and forty-eight towers: the three-peg classic, the four-peg Reve puzzle, scattered discs that start anywhere, the Rail where discs may only step to a neighbouring peg, the Ring where they may only go clockwise, and Grand Pegs with five pegs and tall towers. Every tower has an exact par worked out by the app, and three stars for reaching it.\n\nTwelve lessons use short cards and small puzzles to explain why a tower of n discs needs 2 to the power n minus 1 moves, why the smallest disc keeps time, how a fourth peg changes everything with the Frame and Stewart method, and where the binary Gray code hides in the pattern. Hint is always free in lessons and explains each move in plain words.\n\nIn Auto Play the computer solves a tower and says why it makes each move: pause for real, run from half to four times speed, ask Think, take over and hand back. A new Daily Tower arrives every day.\n\nBoards come in walnut, slate and oak, with lacquer, jade, brass or ivory discs.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-hanoideluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-hanoideluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/hanoi-tower-brass-and-lacquer/icon-512.webp",
+  "hero": "assets/apps/hanoi-tower-brass-and-lacquer/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/hanoi-tower-brass-and-lacquer/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hanoi-tower-brass-and-lacquer/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hanoi-tower-brass-and-lacquer/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hanoi-tower-brass-and-lacquer/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.hanoideluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.hanoideluxe.app"
+  },
+  "related": []
+}

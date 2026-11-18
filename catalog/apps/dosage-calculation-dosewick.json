@@ -1,0 +1,64 @@
+{
+  "slug": "dosage-calculation-dosewick",
+  "name": "Dosage Calculation: Dosewick",
+  "subtitle": "Dosage calculation practice",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "dosage-calculation",
+    "nursing",
+    "drip-rate",
+    "ml-per-hour",
+    "mg-per-kg",
+    "dimensional-analysis",
+    "medication-math"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Dosage calculation: build each dose from unit fractions, watch the units cancel, check your rounding. Twelve topics, a timed exam, a log of your slips.",
+  "longDescription": "Dosage calculation, one unit at a time. Dosage arithmetic is mostly one skill: keeping track of units. Dosewick teaches that skill with a worksheet you build yourself.\n\nEach question gives an order, a label or a pump setting. You pick fraction chips from the tray, drop them on the working line, and watch the unwanted units get crossed out one by one. When what is left matches the target, you multiply, round by the rule printed under the question, and type the answer. A fraction upside down? Turn it over with one tap. A wrong factor? The line checker says which kind of slip it was.\n\n### What You Practise\n- Tablets and capsules, oral liquids, and metric and household conversions\n- Pump rates in mL per hour and gravity drips in drops per minute (10, 15, 20 and 60 drop factors)\n- Insulin units to mL (the concentration math only), percent strengths and reconstituted powders\n- Weight-based doses, units-per-hour infusions and mcg/kg/min titration\n- A safe-range check, where you decide whether an invented order sits inside an invented range\n\n### Why It Works\n- You build the setup yourself, so you see why the answer is what it is\n- Every answer is followed by a worked solution, step by step\n- Rounding rules are shown for each answer: tenths, hundredths, whole drops\n- Your slip log shows whether your mistakes are upside-down fractions, decimal slips, wrong values or rounding\n- A timed exam of 20 questions with a review at the end\n- A visual after each answer: the syringe filled to the mark, the tablets in the tray, the drip chamber falling at the right pace\n\n### Made for Study\n- Works fully offline, no account, no sign-up\n- Text size buttons A- and A+ on every screen, plus system Dynamic Type\n- Runs on iPhone and iPad, in portrait and landscape\n\n### Important\nDosewick is an educational practice tool. Drug names are fictional and every dose, range and concentration is an invented practice number. It is not a clinical calculator, not a drug reference, and not a substitute for your training, your facility's policy or the current product label. The Accuracy and sources page lists the published sources behind each convention, and you can report an error from there.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free, no ads, optional monthly subscription",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-nursing-med-math.html",
+  "supportUrl": "https://equalinformation.com/app-support-nursing-med-math.html",
+  "releasedAt": "2026-11-10",
+  "updatedAt": "2026-11-17",
+  "version": "1.0",
+  "icon": "assets/apps/dosage-calculation-dosewick/icon-512.webp",
+  "hero": "assets/apps/dosage-calculation-dosewick/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/dosage-calculation-dosewick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dosage-calculation-dosewick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dosage-calculation-dosewick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dosage-calculation-dosewick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.nursing-med-math.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.nursing-med-math.app"
+  },
+  "related": []
+}

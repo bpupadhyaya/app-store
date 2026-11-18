@@ -1,0 +1,66 @@
+{
+  "slug": "bonsai-atelier-prune-and-shape",
+  "name": "Bonsai Atelier: Prune & Shape",
+  "subtitle": "Train a living tree",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "trident-maple",
+    "juniper",
+    "black-pine",
+    "candle-pruning",
+    "wiring",
+    "formal-upright",
+    "windswept",
+    "literati",
+    "pinching"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Grow, snip, pinch and wire a tree that really grows, then bring it to a judge who explains each of seven scores.",
+  "longDescription": "Bonsai, the art of training a tree to live small, came to Japan from Chinese penjing and has been shaped patiently by hand for centuries. Bonsai Atelier is a calm workshop for that craft. A young maple, juniper or pine grows in real time in a lit 3D studio. You cut it, pinch it and wire it, season after season, toward a classic style, then show it to a judge who explains every score.\n\nThe tree really grows. Shoots reach for light, buds break in spring, leaves colour and fall, the trunk thickens where leaves feed it, and shaded twigs die back. Three species have their own habits: Trident Maple buds from old wood, Needle Juniper never buds from bare wood, and Black Pine makes one candle a year. You control the clock: work as long as you like, then press Grow, speed up or skip to the next season.\n\nSnip by pressing a branch, sliding to choose the cut and lifting; flush cuts heal, stubs do not. Pinch soft young shoots to make dense foliage pads. Wire a branch into a new line, but thick wood bends only a little, wire is limited, and wire left on too long bites the bark. Undo up to fourteen steps, and a dashed guide shows your style's outline.\n\nSeven styles are offered, Formal Upright, Informal Upright, Slanting, Broom, Cascade, Windswept and Literati, with seven plain-language scores including silhouette, trunk, foliage pads and negative space.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time by watching videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-bonsaideluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-bonsaideluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/bonsai-atelier-prune-and-shape/icon-512.webp",
+  "hero": "assets/apps/bonsai-atelier-prune-and-shape/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/bonsai-atelier-prune-and-shape/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bonsai-atelier-prune-and-shape/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bonsai-atelier-prune-and-shape/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bonsai-atelier-prune-and-shape/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.bonsaideluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.bonsaideluxe.app"
+  },
+  "related": []
+}

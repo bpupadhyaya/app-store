@@ -1,0 +1,65 @@
+{
+  "slug": "huarong-gate-lacquer-generals",
+  "name": "Huarong Gate: Lacquer Generals",
+  "subtitle": "Slide Cao Cao to the gate",
+  "categories": [
+    "puzzle",
+    "word"
+  ],
+  "tags": [
+    "cao-cao",
+    "klotski",
+    "heng-dao-li-ma",
+    "sliding-block",
+    "rosewood-tray",
+    "painted-generals",
+    "slides-par"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Slide painted generals through two empty cells: 240 graded puzzles with exact par, hints that explain and Auto Play.",
+  "longDescription": "The Huarong Dao puzzle takes its name from the Huarong Pass in the story of the Three Kingdoms, where Cao Cao, beaten at Red Cliffs, escapes through a narrow gate guarded by General Guan Yu. Huarong Gate makes it a lacquered rosewood tray with painted generals. Slide the pieces through two empty cells and bring Cao Cao, the big square, out through the gate at the bottom. Drag a piece along any clear path, or tap a piece and then tap where it should go, and hear it knock into place.\n\nThere are 240 puzzles in twelve chapters of twenty, from a first gentle slide to boards that take over a hundred slides, plus the famous Heng Dao Li Ma layout. Every puzzle has a par worked out exactly by searching every position the board can reach, so three stars mean something. Twelve solved puzzles open the next chapter.\n\nHint shows the best slide from wherever you stand and says why it helps. Think tells you in words how far the gate is at best and how many of the slides on offer keep that pace. Undo is always free.\n\nAuto Play lets the solver play a puzzle: it scans the slides on offer, shows the one it chose with an arrow, then slides it. Pause really stops it, speed runs from half to four times, Think explains the move, and Take over puts the tray in your hands.\n\nA daily puzzle is the same for everyone with a streak. A slide is one straight run and a corner costs a second slide, so par is counted in slides.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-huarongdaodeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-huarongdaodeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/huarong-gate-lacquer-generals/icon-512.webp",
+  "hero": "assets/apps/huarong-gate-lacquer-generals/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/huarong-gate-lacquer-generals/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/huarong-gate-lacquer-generals/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/huarong-gate-lacquer-generals/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/huarong-gate-lacquer-generals/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.huarongdaodeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.huarongdaodeluxe.app"
+  },
+  "related": []
+}

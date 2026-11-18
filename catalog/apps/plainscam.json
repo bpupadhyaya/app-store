@@ -1,0 +1,68 @@
+{
+  "slug": "plainscam",
+  "name": "PlainScam",
+  "subtitle": "Recognize scams. Stay safe.",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "scam",
+    "fraud",
+    "phishing",
+    "romance-scam",
+    "elder-safety",
+    "identity-theft",
+    "robocall",
+    "crypto-scam",
+    "tax-scam",
+    "safety"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "1,100+ free & Pro guides plus real on-device tools — live camera scam scanner, risk analyzer, cybersecurity checks. Cites real government sources.",
+  "longDescription": "Scams are engineered to move fast and feel urgent. PlainScam slows that down — plain-language, offline-first education and real on-device tools, including live camera scanning and cybersecurity checks, to recognize and stop scams before they cost you.\n\n### What's Inside\n35 modules and 1,139 guides and tools covering the scams that actually target people every day: phone and robocall scams, SMS/text scams, email and phishing, tech-support scams, government and tax impersonation, delivery and package scams, charity scams, elder-targeted scams, romance scams, crypto and investment fraud, banking and payment fraud, and business-fraud schemes like fake job offers and invoice fraud.\n\n### Cited to Real Authorities\nEvery module lists the real government agencies and organizations its guidance is consistent with — the FTC, FBI's Internet Crime Complaint Center, CISA, IRS, SSA, CFPB, SEC, FINRA, UNODC, INTERPOL, and more depending on topic. Tap any source right from a guide to read it directly, in an in-app browser that keeps you right where you left off.\n\n### Real Tools, Not Just Articles\n- Live Scam Scanner: point your camera at a pop-up, letter, check, or QR code and see red flags highlighted live, on-device\n- Message Risk Analyzer: paste any text, email, or call description and get an instant risk score with the exact red flags highlighted\n- Link Safety Checker: catches lookalike domains and disguised-subdomain tricks before you ever tap a link\n- Caller/Number Verifier: checks a number's digit pattern for spoofing red flags and keeps your own list of verified real numbers\n- Cyber Security tools: see in real time if your screen is being recorded or mirrored, check for apps showing patterns seen in real banking-trojan malware, and a guided check for hidden tracking apps\n- A \"too good to be true\" investment-return calculator\n- A live-pressure decision tree, quizzes, interactive checklists, and red-flag scorers\n- A private personal log, a shareable red-flags card, an in-call countdown timer, reminders, and a home-screen widget\n\n### Built for Accessibility\nFull VoiceOver support, Dynamic Type plus an independent in-app text size control, Dyslexia-Friendly Text, Reduce Motion, a Color-Blind-Safe Palette, and a High Contrast Mode.\n\n### Your Privacy\nWhether you're protecting yourself or helping an older parent or relative stay safe, PlainScam gives you the same pattern-recognition skills scam investigators use — explained plainly, available offline, and ready the moment you need them.",
+  "whatsNew": "PlainScam now shows ads in its free content (Google AdMob; you will see a consent prompt where required). A one-time \"Remove Ads\" purchase removes them. Restore Purchases is in Settings. Existing purchases are unchanged.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-plainscam.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-plainscam.html",
+  "releasedAt": "2026-09-24",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.1",
+  "icon": "assets/apps/plainscam/icon-512.webp",
+  "hero": "assets/apps/plainscam/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/plainscam/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainscam/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainscam/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainscam/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/plainscam/id6809297774",
+    "bundleId": "com.equalinformation.plainscam.app",
+    "appleId": "6809297774"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.plainscam.app",
+    "package": "com.equalinformation.plainscam.app"
+  },
+  "related": []
+}

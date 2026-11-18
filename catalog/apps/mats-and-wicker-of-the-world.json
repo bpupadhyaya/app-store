@@ -1,0 +1,66 @@
+{
+  "slug": "mats-and-wicker-of-the-world",
+  "name": "Mats & Wicker of the World",
+  "subtitle": "Dumbara, Nantucket & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "mat-weaving",
+    "wicker",
+    "dumbara",
+    "shital-pati",
+    "lightship-basket",
+    "pack-basket",
+    "rattan",
+    "splint",
+    "hoop-basket"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "8 mat and wicker weaving traditions to play: Dumbara mat, Shital pati, Reed mat and Lightship basket.",
+  "longDescription": "Mats & Wicker of the World: 8 mat and wicker weaving traditions from 6 countries, in one app that works fully offline.\n\nInside: Dumbara mat, Shital pati, Reed mat, Lightship basket, Hooped basket, Pack basket, Flower bamboo hat and Cane stool.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can plait mats and weave wicker, splint, hoop and cane baskets, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/mats-and-wicker-of-the-world/icon-512.webp",
+  "hero": "assets/apps/mats-and-wicker-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/mats-and-wicker-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/mats-and-wicker-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/mats-and-wicker-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/mats-and-wicker-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.matsandwickeroftheworld"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.whg.matsandwickeroftheworld"
+  },
+  "related": []
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "scopa-salotto-italian-cards",
+  "name": "Scopa Salotto: Italian Cards",
+  "subtitle": "Sweep the table, count cards",
+  "categories": [
+    "board-strategy"
+  ],
+  "tags": [
+    "scopone-scientifico",
+    "napola",
+    "sette-bello",
+    "regional-card-packs",
+    "primiera",
+    "sweep-the-table",
+    "apprendista"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Scopa and Scopone on a lamp-lit 3D table: regional packs, a card-counting opponent, 13 lessons and 36 solved puzzles.",
+  "longDescription": "Scopa, Italian for broom, is the card game of sweeping the table: capture cards whose values add up to the card you play, and clear the board for a bonus point. It is played in Italian kitchens and cafes with regional decks that vary from Napoli to Piacenza. Scopa Salotto brings it to your phone with care: real-time 3D cards on a lamp-lit table, a computer opponent that really counts cards, and everything you need to learn and improve.\n\nPlay with two, three or four players, with partnerships in the four-player game, or play Scopone Scientifico, the classic partnership game with the whole pack dealt out. Five computer levels run from Apprendista to Gran Maestro, plus an Adaptive opponent that follows your results, and the top levels imagine thousands of possible deals and play the last cards perfectly. Add the optional Napola bonus and play to 11 or 21. Pass and Play hides each hand until its player taps ready. Hint, Undo, a card counter and a coach that grades each of your plays are included.\n\nAuto Play, Watch and Learn, has the computer play both sides with every hand face up. Pause, change speed, ask Think to hear why, or take over at any moment.\n\nThirteen hands-on lessons on the real table run from your first capture to counting cards and partnership play. Thirty-six best-capture puzzles show every card and are solved exactly. A daily deal is shared by everyone with a streak, and you can review any finished game move by move and play on from where you slipped.\n\nEight regional packs are drawn in vector at runtime, on felt in four colourways.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-scopadeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-scopadeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/scopa-salotto-italian-cards/icon-512.webp",
+  "hero": "assets/apps/scopa-salotto-italian-cards/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/scopa-salotto-italian-cards/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/scopa-salotto-italian-cards/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/scopa-salotto-italian-cards/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/scopa-salotto-italian-cards/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.scopadeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.scopadeluxe.app"
+  },
+  "related": []
+}

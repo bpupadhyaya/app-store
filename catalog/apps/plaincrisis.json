@@ -1,0 +1,65 @@
+{
+  "slug": "plaincrisis",
+  "name": "PlainCrisis",
+  "subtitle": "Private crisis support",
+  "categories": [
+    "health"
+  ],
+  "tags": [
+    "crisis-support",
+    "suicide-prevention",
+    "safety-plan",
+    "mental-health",
+    "coping-skills",
+    "self-harm",
+    "crisis-hotline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Free crisis support, always. GPS self-rescue toolkit, safety plan builder, hotline directory -- fully offline, no account.",
+  "longDescription": "IMPORTANT: PlainCrisis is an educational self-help tool and reference resource. It is not a substitute for professional medical care, mental-health treatment, or emergency services, and it cannot dispatch help on its own. If you or someone else is in immediate danger, call your local emergency number or a crisis line right away.\n\nOpen the app and you're one tap away from help: a crisis-hotline directory for your region, a one-tap call or text to a trusted contact you choose, and quick grounding exercises to help you get through a hard moment. If you'd rather build something ahead of time, the guided safety-plan builder walks you through a personalized plan -- your warning signs, coping strategies, and the people you can turn to -- that stays saved and encrypted on your device.\n\nFor a physical emergency -- trapped, stranded, or displaced -- the Self-Rescue Toolkit opens straight to your live GPS coordinates and compass heading (works with zero cell signal, since GPS uses satellites, not your carrier), a one-tap way to share your exact location the moment signal returns, and an educational, sourced step-by-step guide covering survival priorities, signaling correctly, conserving energy and water, and finding water outdoors.\n\nThe crisis-critical core of PlainCrisis is free, permanently, for everyone. Immediate crisis support, the safety-plan builder, grounding and coping tools, means-restriction guidance, the hotline directory, and the Self-Rescue Toolkit will never be placed behind a paywall, a trial clock, or an account requirement. That's not a promotional offer -- it's how the app is built.\n\nAn optional Pro subscription is available for people who want more: deeper personalization, an expanded content library, extended journal history and export, and tools aimed at caregivers and professionals. Pro is a single monthly subscription, managed entirely through your App Store account -- cancel anytime from your device's subscription settings. Upgrading is never suggested during a crisis-support screen.\n\nPlainCrisis also includes journaling, sleep and reminder tools, and a local backup/export feature so you can save or move your data on your own terms, plus dozens of educational guides for supporting a friend or family member who may be struggling.\n\nPlease read before using: all content in this app -- including the hotline directory, safety-plan builder, and Self-Rescue Toolkit -- is provided for general educational and informational purposes only. It is not medical, clinical, or emergency advice, and using this app is not a substitute for calling trained, professional rescuers or emergency services. PlainCrisis does not monitor you, cannot detect a crisis on its own, and cannot send help by itself. In any life-threatening situation, contact your local emergency number immediately -- do not rely on this app as your only resource.",
+  "whatsNew": "Adds ads served by Google AdMob. Remove them any time with the new one-time Remove Ads purchase (Settings). Bug fixes and improvements.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "17+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-plaincrisis.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-plaincrisis.html",
+  "releasedAt": "2026-09-22",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.3",
+  "icon": "assets/apps/plaincrisis/icon-512.webp",
+  "hero": "assets/apps/plaincrisis/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/plaincrisis/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plaincrisis/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plaincrisis/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plaincrisis/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/plaincrisis/id6809296682",
+    "bundleId": "com.equalinformation.plaincrisis.app",
+    "appleId": "6809296682"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.plaincrisis.app",
+    "package": "com.equalinformation.plaincrisis.app"
+  },
+  "related": []
+}

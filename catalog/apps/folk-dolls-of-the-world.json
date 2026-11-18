@@ -1,0 +1,68 @@
+{
+  "slug": "folk-dolls-of-the-world",
+  "name": "Folk Dolls of the World",
+  "subtitle": "Kokeshi, Daruma & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "kokeshi",
+    "daruma",
+    "kimekomi",
+    "nutcracker",
+    "tumbler",
+    "wooden-doll",
+    "folk-art",
+    "toy-craft",
+    "dolls",
+    "japan",
+    "papier-mache"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "6 folk doll and tumbler toy traditions to play: Naruko kokeshi, Tsuchiyu kokeshi, Takasaki daruma and Nutcracker.",
+  "longDescription": "Folk Dolls of the World: 6 folk doll and tumbler toy traditions from 3 countries, in one app that works fully offline.\n\nInside: Naruko kokeshi, Tsuchiyu kokeshi, Takasaki daruma, Nutcracker, Vanka-vstanka and Edo kimekomi doll.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can turn and paint kokeshi, daruma, kimekomi, nutcracker and tumbler dolls from Japan, Germany and Russia, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/folk-dolls-of-the-world/icon-512.webp",
+  "hero": "assets/apps/folk-dolls-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/folk-dolls-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/folk-dolls-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/folk-dolls-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/folk-dolls-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.folkdollsoftheworld"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.whg.folkdollsoftheworld"
+  },
+  "related": []
+}

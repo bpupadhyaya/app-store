@@ -1,0 +1,69 @@
+{
+  "slug": "looms-and-bands-of-the-world",
+  "name": "Looms & Bands of the World",
+  "subtitle": "Tablet, Inkle, Kumihimo & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "loom",
+    "weaving",
+    "braid",
+    "kumihimo",
+    "tablet-weaving",
+    "inkle",
+    "pit-loom",
+    "drawloom",
+    "backstrap",
+    "tapestry",
+    "hammock",
+    "cord"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "14 loom, band and braiding traditions to play: Warp-weighted loom, Tablet weaving, Inkle weaving and Backstrap loom weaving.",
+  "longDescription": "Looms & Bands of the World: 14 loom, band and braiding traditions from around the world, in one app that works fully offline.\n\nInside: Warp-weighted loom, Tablet weaving, Inkle weaving, Backstrap loom weaving, Pit loom, Drawloom, Peg loom, Aubusson tapestry, Masaya hammock weaving, Shan seed-treadle loom, Gaitan cord, Rawhide braid, Straw braid and Kumihimo braid.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can set up the warp, pick up patterns, weave bands, cloth, rugs and tapestry on the loom, and plait cords, straw and rawhide braids, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/looms-and-bands-of-the-world/icon-512.webp",
+  "hero": "assets/apps/looms-and-bands-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/looms-and-bands-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/looms-and-bands-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/looms-and-bands-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/looms-and-bands-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.loomsandbandsoftheworld"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.whg.loomsandbandsoftheworld"
+  },
+  "related": []
+}

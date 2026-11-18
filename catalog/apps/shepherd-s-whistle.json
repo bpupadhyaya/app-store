@@ -1,0 +1,66 @@
+{
+  "slug": "shepherd-s-whistle",
+  "name": "Shepherd's Whistle",
+  "subtitle": "You are the border collie",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "border-collie",
+    "flight-zone",
+    "bell-ewe",
+    "cross-drive",
+    "shedding-ewes",
+    "fetch-and-pen",
+    "come-bye",
+    "hill-farm",
+    "foxes"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Play the dog on five hill farms: bark, whistle, eye and lie down to gather, drive, pen and shed living sheep.",
+  "longDescription": "Sheepdog trials began in Wales in the 1870s, when shepherds first set their dogs against each other to see who could fetch, drive and pen a flock with the fewest commands. Shepherd's Whistle puts you in the paws of a border collie on five hill farms, from spring pasture to snowbound fells. Drag a thumb to steer, creep, trot or gallop, and use four tools: a shoving bark, a steadying whistle, the hard stare called eye, and lie down to rest.\n\nThe sheep are alive. Every ewe has her own flight zone, feels the dog's pressure more when she is approached, bunches up when frightened, follows the bell ewe and wanders off to graze when left alone. Run wide, get behind the flock and walk it where it needs to go.\n\nThirty jobs in five regions ask you to gather a flock into the ring, drive it through gates, pen it, shed the collared ewes, sort pale from dark, lead lost lambs home through fog and snow and chase foxes away from the fold. Each region ends with a cup trial of fetch, cross-drive and pen, judged out of 100 with stars and a calm-flock mark.\n\nTrain your dog in the kennel: choose her coat, collar and name, and spend treats on stamina, pace, poise and voice. Eight guided lessons teach every move. A new field each day gives a daily trial, and free roam lets you play with the flock with no clock at all.\n\nNot sure what to do? Auto Play lets the computer handle any job while you watch, with Pause, speed and Think.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-sheepdogdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-sheepdogdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/shepherd-s-whistle/icon-512.webp",
+  "hero": "assets/apps/shepherd-s-whistle/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/shepherd-s-whistle/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shepherd-s-whistle/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shepherd-s-whistle/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shepherd-s-whistle/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.sheepdogdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.sheepdogdeluxe.app"
+  },
+  "related": []
+}

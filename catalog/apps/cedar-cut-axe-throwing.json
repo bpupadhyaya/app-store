@@ -1,0 +1,65 @@
+{
+  "slug": "cedar-cut-axe-throwing",
+  "name": "Cedar Cut: Axe Throwing",
+  "subtitle": "Flick speed decides the spin",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "hatchet",
+    "felling-axe",
+    "double-bit",
+    "blade-dial",
+    "clutch-circle",
+    "swinging-board",
+    "cedar-shed",
+    "championship-barn"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Place the cross, flick the strip and let the axe tumble: thirty contests in six venues, duels with five rivals and eight lessons.",
+  "longDescription": "Axe throwing started as a lumber-camp contest and has become a pastime in sheds and barns across North America. Cedar Cut puts the throw in your thumb: place the cross on the board, flick up the strip at the bottom of the screen, and the speed of your flick decides how far the axe turns before it arrives. Get the blade pointing at the board and it bites in; get it wrong and it bounces off.\n\nA blade dial and a speed ladder show exactly how the throw will arrive, so you can learn to read it, then switch the guide off and throw like an expert.\n\nThe Circuit holds thirty contests in six venues, from a cedar shed to the championship barn, with up to three stars each. Duel five computer players from a nervous rookie to the champion, take the Daily Cut that is the same for everyone with a streak, or practise in Free Throw with every board and axe. Eight short lessons teach flick speed, blade angle, lines, aim, clutch circles and moving boards.\n\nChoose among three axes: the hatchet, the heavy felling axe and the two-bladed double-bit. Boards include bullseyes, a numbered round-the-clock board and targets that swing on chains. Unlock handle woods, head finishes and board paints with stars. Auto Play shows the computer throwing, with Think to explain its plan and Take over to join in.\n\nCedar Cut is free with ads. Go ad-free with an optional monthly pass, or earn ad-free time by watching videos you choose.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-axethrowingdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-axethrowingdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/cedar-cut-axe-throwing/icon-512.webp",
+  "hero": "assets/apps/cedar-cut-axe-throwing/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/cedar-cut-axe-throwing/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cedar-cut-axe-throwing/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cedar-cut-axe-throwing/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cedar-cut-axe-throwing/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.axethrowingdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.axethrowingdeluxe.app"
+  },
+  "related": []
+}

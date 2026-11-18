@@ -1,0 +1,65 @@
+{
+  "slug": "biology-ap-cellmoor",
+  "name": "Biology AP: Cellmoor",
+  "subtitle": "Biology AP Mocks & FRQs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "biology",
+    "ap",
+    "mock-exam",
+    "free-response",
+    "frq",
+    "practice-test",
+    "chi-square",
+    "hardy-weinberg",
+    "enzyme",
+    "genetics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Practice AP Biology with original questions, six interactive benches, free-response sets and timed mock exams. No account needed. Works offline.",
+  "longDescription": "Prepare for the AP(R) Biology exam (Monday, May 3, 2027) with original practice questions, field notes for all eight units, six interactive benches and timed mock exams. No account. Works offline.\n\nFIELD NOTES. All eight units and 60 topics of the course framework, with 80 short idea cards that say what to remember and why.\n\nQUESTIONS THAT EXPLAIN THEMSELVES. 269 original multiple-choice questions, each with a full worked solution. Practice runs in short rounds of 8, with a daily goal, a streak, review boxes that bring back what you missed, and a slide tray for retrying misses.\n\nSIX BENCHES. Cross (breed a cross and test the counts with chi-square), Drift, Enzyme, Osmosis, Growth and Codon. Each ends with a question built from the numbers you just produced.\n\nFREE-RESPONSE PRACTICE. 12 original free-response sets (4 long worth 9 points, 8 short worth 4 points) with a point-by-point rubric you mark yourself.\n\nTEST LIKE THE REAL THING. Timed mock exams follow the May 2027 format: 60 multiple-choice questions in 90 minutes, then 6 free-response questions in 90 minutes. Results are a rough practice estimate, never a promise.\n\nSOURCES YOU CAN CHECK. Every topic lists the College Board course and exam description and the matching sections of OpenStax Biology for AP Courses (CC BY-NC-SA 4.0, linked, not copied).\n\nFREE, FAIRLY. Core study is free with ads placed only at natural breaks, never inside a question, test or bench. Watch an optional short video to earn credits, or subscribe for $3.99 per month (7-day free trial) to remove ads. The subscription only removes ads; the three extra benches and the full mock exam open with credits from the optional videos. The subscription renews monthly. Cancel any time in your App Store or Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again.\n\nAll questions are original and have not been reviewed by a teacher or subject expert. Cellmoor does not contain real exam questions.\nAP is a trademark registered and owned by the College Board, which is not affiliated with, and does not endorse, this product.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.0",
+  "icon": "assets/apps/biology-ap-cellmoor/icon-512.webp",
+  "hero": "assets/apps/biology-ap-cellmoor/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/biology-ap-cellmoor/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/biology-ap-cellmoor/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/biology-ap-cellmoor/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/biology-ap-cellmoor/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.cellmoor.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.cellmoor.app"
+  },
+  "related": []
+}

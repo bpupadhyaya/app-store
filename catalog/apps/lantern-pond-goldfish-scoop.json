@@ -1,0 +1,65 @@
+{
+  "slug": "lantern-pond-goldfish-scoop",
+  "name": "Lantern Pond: Goldfish Scoop",
+  "subtitle": "Scoop before the paper melts",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "kingyo-sukui",
+    "paper-poi",
+    "ranchu",
+    "oranda",
+    "black-moor",
+    "pond-book",
+    "festival-stall",
+    "wet-paper-grid"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "The festival goldfish stall in 3D: a living paper scoop, seven goldfish, five stalls, thirty rounds and a Pond Book.",
+  "longDescription": "Kingyo sukui, goldfish scooping, is a staple of Japanese summer festivals: a tub of goldfish under paper lanterns, a thin paper scoop called a poi, and the hope of carrying one fish to your bowl. Lantern Pond puts that stall in your hands, in real-time 3D.\n\nTouch the water to dip the paper in and keep your finger down. Glide slowly: a slow paper sinks deeper and keeps the water quiet, a fast paper rises, makes a wake and sends fish bolting. Get a fish over the middle of the paper, stop, and lift your finger. Then drag to the bowl in one smooth move. Every fish is shown swimming home afterwards, and nothing is ever kept.\n\nThe paper is alive. It is a grid of 36 cells that wear one by one with time in the water, speed, and the weight and flapping of a fish. A cell at zero is a hole, and a fish over a hole falls through. Watch the paper grid in the corner and choose your fish with care.\n\nSeven goldfish swim here: Wakin, Shubunkin, Ryukin, Oranda, Black Moor, Ranchu and Tosakin. Each has its own depth, speed, shyness, weight and worth, and curious ones drift over a paper that holds still. Fill your Pond Book as you meet them.\n\nThe tour has five festival stalls and thirty rounds, among them Lantern Row at dusk, Riverbank Fireworks, Rainy Lane and the Moon Garden. Eight lessons, a daily round and a free pond complete it.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-kingyosukuideluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-kingyosukuideluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/lantern-pond-goldfish-scoop/icon-512.webp",
+  "hero": "assets/apps/lantern-pond-goldfish-scoop/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/lantern-pond-goldfish-scoop/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lantern-pond-goldfish-scoop/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lantern-pond-goldfish-scoop/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lantern-pond-goldfish-scoop/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.kingyosukuideluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.kingyosukuideluxe.app"
+  },
+  "related": []
+}

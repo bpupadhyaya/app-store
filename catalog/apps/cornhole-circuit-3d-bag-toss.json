@@ -1,0 +1,66 @@
+{
+  "slug": "cornhole-circuit-3d-bag-toss",
+  "name": "Cornhole Circuit: 3D Bag Toss",
+  "subtitle": "Swipe, skid, drop it in",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "cornhole",
+    "bean-bags",
+    "tailgate-lot",
+    "skid-or-flip",
+    "satin-birch",
+    "pro-gloss",
+    "airmail",
+    "slider-bag",
+    "bracket"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A bag-toss tournament in 3D: five venues, soft-body bags, four toss styles and a bracket of rivals with their own hands.",
+  "longDescription": "Cornhole is the backyard and tailgate game of two slanted boards, a bag in each hand and a six-inch hole. Cornhole Circuit takes the contest into real-time 3D and runs it as a tournament.\n\nSwipe up the screen to pitch: a faster swipe throws farther, the direction aims, and a clean sweep keeps your hand steady. Land bags on the board for one point, drop them through the hole for three, and push your rival's bags out of the way.\n\nFive events take you from a backyard cup to a grand final in a packed arena, via a tailgate lot, a boardwalk by the sea and a park pavilion. Each event is a bracket of rivals with their own skill, hands and style of play, and finals are best of three.\n\nThe simulation is real. Bags are soft bodies on a real-size board with the real slope and hole. Pick a Skid, Arc, Lob or Flip and which side of the bag goes down: the grip side stops sooner, the glide side slides farther. Bags land, hop, slide, push each other, stack, hang over the lip of the hole and drop in or off the edge. Three boards, satin birch, painted pine and pro gloss, and three bag sets change how everything slides.\n\nPlay a Quick Match, the Daily Board, free Practice or six short Lessons, or watch Auto Play while two computer players compete and Think explains the next move.\n\nFree with ads. Go ad-free with an optional monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-tailgatecup.html",
+  "supportUrl": "https://equalinformation.com/app-support-tailgatecup.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/cornhole-circuit-3d-bag-toss/icon-512.webp",
+  "hero": "assets/apps/cornhole-circuit-3d-bag-toss/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/cornhole-circuit-3d-bag-toss/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cornhole-circuit-3d-bag-toss/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cornhole-circuit-3d-bag-toss/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cornhole-circuit-3d-bag-toss/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.cornholedeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.cornholedeluxe.app"
+  },
+  "related": []
+}

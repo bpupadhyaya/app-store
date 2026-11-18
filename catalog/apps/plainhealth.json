@@ -1,0 +1,68 @@
+{
+  "slug": "plainhealth",
+  "name": "PlainHealth",
+  "subtitle": "Your Health, Explained Simply",
+  "categories": [
+    "health"
+  ],
+  "tags": [
+    "health",
+    "lab-results",
+    "medications",
+    "conditions",
+    "medical",
+    "glossary",
+    "first-aid",
+    "wellness",
+    "offline",
+    "education"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Understand your health in plain English. Lab results, medications, conditions — explained simply. Works offline; ads removable with a one-time purchase.",
+  "longDescription": "PlainHealth is your personal health education companion that explains medical information in plain, everyday language — so you can actually understand what your\n  doctor is telling you.\n\n88% of adults have difficulty understanding health information. After a doctor visit, most patients forget 40-80% of what was discussed. PlainHealth bridges that\n  gap.\n\nWHAT YOU GET — FREE:\n\n- Lab Results Explained: 24 common tests (cholesterol, A1C, thyroid, kidney, liver, and more) with what they measure, what high/low means, and how to improve\n  - Medications Guide: 24 drugs with uses, side effects, food interactions, and warnings in plain English\n  - Conditions Library: 22 health conditions with symptoms, causes, prevention, and questions to ask your doctor\n  - Ask: Health Q&A chat with instant answers to common questions\n  - Medical Glossary: 50+ terms defined without jargon\n  - Health Numbers: Color-coded reference for blood pressure, cholesterol, blood sugar, BMI, and more\n  - Emergency Guide: Heart attack signs, stroke FAST protocol, when to call 911\n  - First Aid: 10 step-by-step guides (CPR, choking, burns, bleeding, seizures)\n  - Wellness Guides: Exercise, mental health, nutrition, sleep, hydration, aging, vaccinations\n\nPREMIUM FEATURES ($4.99 one-time):\n\n- Health Tracker: Track blood pressure, weight, blood sugar, heart rate, and more over time\n  - Health Calculators: BMI, heart rate zones, water intake, calorie calculator\n  - My Medications: Personal medication list\n  - Interaction Checker: Check drug-drug interactions offline\n  - Symptom Guide: Find related health topics by symptom\n  - Pre-Visit Prep: Tailored questions for 8 doctor visit types\n  - Family Health History: Track hereditary conditions\n  - Nutrition & Sleep Guides",
+  "whatsNew": "Adds ads served by Google AdMob. Remove them any time with the new one-time Remove Ads purchase (Settings). Bug fixes and improvements.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "17+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-plainhealth.html",
+  "supportUrl": "https://bpupadhyaya.github.io/support-plainhealth.html",
+  "releasedAt": "2026-05-05",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/plainhealth/icon-512.webp",
+  "hero": "assets/apps/plainhealth/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/plainhealth/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainhealth/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainhealth/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainhealth/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/plainhealth/id6763922520",
+    "bundleId": "com.equalinformation.plainhealth.app",
+    "appleId": "6763922520"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.plainhealth.app",
+    "package": "com.equalinformation.plainhealth.app"
+  },
+  "related": []
+}

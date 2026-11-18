@@ -1,0 +1,66 @@
+{
+  "slug": "okey-lounge-3d-tile-rummy",
+  "name": "Okey Lounge: 3D Tile Rummy",
+  "subtitle": "Wild tile, Turkish rummy",
+  "categories": [
+    "board-strategy",
+    "puzzle"
+  ],
+  "tags": [
+    "okey",
+    "106-tiles",
+    "wild-tile",
+    "rack-runs-and-sets",
+    "istanbul-evening",
+    "best-discard",
+    "smart-grouping",
+    "tea-house"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Okey at a lit 3D table: 106 tiles, one wild tile per deal, a hand-arranged rack, thirteen lessons and sixty discard puzzles.",
+  "longDescription": "Okey is the tile game of Turkish homes and tea houses: four players, 106 tiles, and one wild tile that changes every deal. Okey Lounge sets the table in real 3D and teaches you to play it well.\n\nThree computer players sit around a cloth with a hand-drawn medallion. Tiles are lit, bevelled and tumble when they are dealt. Your rack is a wooden rack you arrange by hand: drag tiles into place, and a green line marks every finished run or set. Tools make the rack easy: sort by runs or by sets, group your melds with Smart, undo a move, and throw a tile with a drag, a double tap or a button. The tile that would finish your hand glows gold.\n\nFive levels plus Adaptive suit every player. Learner and Casual are friendly. Club counts the unseen tiles. Expert reads the table and avoids feeding the next player. Master looks two draws ahead before every throw. Adaptive follows your results.\n\nLearn as you play: thirteen short lessons take you from the tiles to strategy, each with exercises. Sixty Best discard puzzles are real positions with the strongest throw explained in plain words. Replays step through your deals while the coach marks every throw that could have been better. Auto Play lets the computer play your seat while you watch and press Think to hear why.\n\nThe palette is an Istanbul evening, with four table cloths and three tile sets.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-okeydeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-okeydeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/okey-lounge-3d-tile-rummy/icon-512.webp",
+  "hero": "assets/apps/okey-lounge-3d-tile-rummy/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/okey-lounge-3d-tile-rummy/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/okey-lounge-3d-tile-rummy/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/okey-lounge-3d-tile-rummy/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/okey-lounge-3d-tile-rummy/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.okeydeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.okeydeluxe.app"
+  },
+  "related": []
+}

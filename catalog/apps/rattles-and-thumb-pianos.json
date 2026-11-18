@@ -1,0 +1,69 @@
+{
+  "slug": "rattles-and-thumb-pianos",
+  "name": "Rattles & Thumb Pianos",
+  "subtitle": "Maracas, Guiro, Matepe & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "maracas",
+    "guiro",
+    "guira",
+    "guacharaca",
+    "nyo",
+    "kakradaa",
+    "opa",
+    "ekpili",
+    "yomyom",
+    "kankobele",
+    "matepe",
+    "rattle"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "11 rattles, scrapers and thumb pianos to play: Maracas, Guiro, Guira and Guacharaca.",
+  "longDescription": "Rattles & Thumb Pianos: 11 rattles, scrapers and thumb pianos from 8 countries, in one app that works fully offline.\n\nInside: Maracas, Guiro, Guira, Guacharaca, Nyo, Kakradaa, Opa, Ekpili, Yomyom, Kankobele and Matepe.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can shake rattles, scrape notched gourds and tubes, and pluck thumb pianos, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/rattles-and-thumb-pianos/icon-512.webp",
+  "hero": "assets/apps/rattles-and-thumb-pianos/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/rattles-and-thumb-pianos/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rattles-and-thumb-pianos/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rattles-and-thumb-pianos/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rattles-and-thumb-pianos/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.rattlesandthumbpianos"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.rattlesandthumbpianos",
+    "package": "com.equalinformation.whg.rattlesandthumbpianos"
+  },
+  "related": []
+}

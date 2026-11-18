@@ -1,0 +1,69 @@
+{
+  "slug": "plainwater",
+  "name": "PlainWater - Water Safety",
+  "subtitle": "Water safety, offline, cited",
+  "categories": [
+    "health"
+  ],
+  "tags": [
+    "water-safety",
+    "offline",
+    "emergency",
+    "purify",
+    "boil-water",
+    "filter",
+    "well",
+    "dehydration",
+    "ors",
+    "disaster",
+    "camping"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Purify, test, store, and treat waterborne illness — 82 features, cited to WHO/CDC/EPA, 100% on-device. No servers, ever.",
+  "longDescription": "Water is the most basic thing every human — and every animal — needs after oxygen. Yet the expertise to find, test, and make water safe to drink is normally locked behind labs, NGOs, and public-health departments. PlainWater puts it directly in your pocket, offline — because the roughly 2 billion people who need it most often have no signal and no money for a lab test, and even in wealthy countries, boil-water advisories and disasters knock out safe water routinely.\n\n82 features across 8 modules, entirely on-device:\n\n• PURIFICATION — boiling (altitude-adjusted), bleach/chlorine dosing calculator, purification tablets, SODIS, filtration, distillation, DIY builds (biosand, ceramic pot), and more — every method with exact, sourced numbers, not rules of thumb.\n• ILLNESS & REHYDRATION — symptom guides for cholera, giardia, dysentery, typhoid; a red-flag triage that tells you when to seek help now; a home ORS (oral rehydration) calculator using the WHO-standard ratio; age-specific guidance for infants, children, elderly, and immunocompromised people.\n• EVERYDAY HEALTH — how much water you actually need day to day, overhydration risk, mild dehydration's effect on mood and focus, pet and animal water hazards (blue-green algae is often fatal to dogs within hours), recreational swimming safety.\n• TEST KIT & METER INTERPRETATION — turn a strip, meter, or kit color into a decision.\n• SOURCING & STORAGE — emergency water sourcing, storage best practices, well and rainwater safety, a water-needs calculator, a disaster-kit rotation reminder.\n• REGION & DISASTER GUIDANCE — boil-water-advisory checklists, an interactive \"is my tap water safe\" decision tree, flood/earthquake/hurricane/wildfire-specific guidance (free on principle — you need this most exactly when you can least afford to pay for it).\n• ACCESSIBILITY — full-text search, audio read-aloud, icon-first mode for low-literacy users, screen-reader support, color-reference swatches, offline water-point mapping with saved pins, PDF export for a physical go-bag backup.\n\nEvery guidance claim is cited to a free, public, authoritative source — WHO, CDC, EPA, USGS, Ready.gov/FEMA, the American Red Cross, UNICEF/WHO's Joint Monitoring Programme, and CAWST. Tap any citation to read the source yourself. No paywalled journals, no commercial or vendor sources — ever.\n\nA generous free tier covers every life-critical feature, permanently — illness recognition, core purification methods, emergency sourcing, and all disaster-triggered guidance. Deeper, enthusiast, and homeowner-convenience content unlocks with a one-time \"PlainWater Pro\" purchase, smaller à la carte packs, or — if you'd rather not pay all at once — a monthly or yearly subscription that unlocks exactly the same content. Both options are handled entirely by Apple's StoreKit; PlainWater itself runs no server of any kind, for either payment path.\n\nPlainWater provides educational guidance, not diagnosis or water-testing certification. When in doubt, it always tells you to treat or boil — and to seek professional medical care for symptoms of illness.",
+  "whatsNew": "PlainWater now shows ads in its free content (Google AdMob; you will see a consent prompt where required). A one-time \"Remove Ads\" purchase removes them. Restore Purchases is in Settings. Existing purchases are unchanged.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "17+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-plainwater.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-plainwater.html",
+  "releasedAt": "2026-09-21",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.7",
+  "icon": "assets/apps/plainwater/icon-512.webp",
+  "hero": "assets/apps/plainwater/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/plainwater/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainwater/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainwater/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainwater/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/plainwater-water-safety/id6804133772",
+    "bundleId": "com.equalinformation.plainwater.app",
+    "appleId": "6804133772"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.plainwater.app",
+    "package": "com.equalinformation.plainwater.app"
+  },
+  "related": []
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "lutes-and-fiddles-of-the-world",
+  "name": "Lutes & Fiddles of the World",
+  "subtitle": "Saz, Pipa, Erhu & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "saz",
+    "pipa",
+    "veena",
+    "erhu",
+    "nyckelharpa",
+    "tar",
+    "dranyen",
+    "masenqo",
+    "banjo",
+    "lute",
+    "fiddle"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "9 lutes and fiddles to play: Saz, Pipa, Veena and Erhu.",
+  "longDescription": "Lutes & Fiddles of the World: 9 lutes and fiddles from 8 countries, in one app that works fully offline.\n\nInside: Saz, Pipa, Veena, Erhu, Nyckelharpa, Tar, Dranyen, Masenqo and Clawhammer banjo.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can play lutes, fiddles and banjos, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/lutes-and-fiddles-of-the-world/icon-512.webp",
+  "hero": "assets/apps/lutes-and-fiddles-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/lutes-and-fiddles-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lutes-and-fiddles-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lutes-and-fiddles-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lutes-and-fiddles-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.lutesandfiddlesoftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.lutesandfiddlesoftheworld",
+    "package": "com.equalinformation.whg.lutesandfiddlesoftheworld"
+  },
+  "related": []
+}

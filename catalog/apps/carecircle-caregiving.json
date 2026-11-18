@@ -1,0 +1,67 @@
+{
+  "slug": "carecircle-caregiving",
+  "name": "CareCircle Caregiving",
+  "subtitle": "Family Caregiver Coordination",
+  "categories": [
+    "health"
+  ],
+  "tags": [
+    "caregiver",
+    "caregiving",
+    "elder-care",
+    "family-care",
+    "medication",
+    "vitals",
+    "care-coordination",
+    "companion",
+    "health"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Coordinate care for your loved ones — tasks, meds, vitals, schedules, and 20+ tools. Includes ads; remove them with a one-time purchase.",
+  "longDescription": "CareCircle helps families coordinate care for elderly parents, disabled loved ones, or patients recovering at home. Built for caregivers, by caregivers.\n\nYOUR CARE DATA STAYS ON YOUR DEVICE — no accounts, no cloud.",
+  "whatsNew": "Adds ads in the free features (Google AdMob) and an optional one-time Remove Ads purchase. Bug fixes and improvements.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "12+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-carecircle.html",
+  "supportUrl": "https://bpupadhyaya.github.io/support-carecircle.html",
+  "releasedAt": "2026-04-26",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/carecircle-caregiving/icon-512.webp",
+  "hero": "assets/apps/carecircle-caregiving/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/carecircle-caregiving/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/carecircle-caregiving/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/carecircle-caregiving/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/carecircle-caregiving/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/carecircle-caregiving/id6763921508",
+    "bundleId": "com.equalinformation.carecircle.app",
+    "appleId": "6763921508"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.carecircle.app",
+    "package": "com.equalinformation.carecircle.app"
+  },
+  "related": []
+}

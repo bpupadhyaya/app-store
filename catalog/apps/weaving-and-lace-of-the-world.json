@@ -1,0 +1,67 @@
+{
+  "slug": "weaving-and-lace-of-the-world",
+  "name": "Weaving & Lace of the World",
+  "subtitle": "Gul carpet, Lace & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "gul-carpet",
+    "hali",
+    "lao-silk",
+    "amazigh-rug",
+    "sadu",
+    "kani-shawl",
+    "lefkara-lace",
+    "chikankari",
+    "kantha",
+    "haapsalu"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "9 weaving, lace and embroidery traditions to play: Turkmen gul carpet, Lao silk brocade weaving, Amazigh Rug Weaving and Sadu Bedouin ground-loom weaving.",
+  "longDescription": "Weaving & Lace of the World: 9 weaving, lace and embroidery traditions from 8 countries, in one app that works fully offline.\n\nInside: Turkmen gul carpet, Lao silk brocade weaving, Amazigh Rug Weaving, Sadu Bedouin ground-loom weaving, Kani shawl weaving by talim code, Lefkara Lace, Chikankari white embroidery, Nakshi kantha embroidery and Haapsalu lace shawl knitting.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can design woven cloth, lace and embroidery patterns, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/weaving-and-lace-of-the-world/icon-512.webp",
+  "hero": "assets/apps/weaving-and-lace-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/weaving-and-lace-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/weaving-and-lace-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/weaving-and-lace-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/weaving-and-lace-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.weavingandlaceoftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.weavingandlaceoftheworld",
+    "package": "com.equalinformation.whg.weavingandlaceoftheworld"
+  },
+  "related": []
+}

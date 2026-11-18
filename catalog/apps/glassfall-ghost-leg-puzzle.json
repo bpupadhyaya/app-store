@@ -1,0 +1,66 @@
+{
+  "slug": "glassfall-ghost-leg-puzzle",
+  "name": "Glassfall: Ghost Leg Puzzle",
+  "subtitle": "Lay rungs, release marbles",
+  "categories": [
+    "puzzle",
+    "word"
+  ],
+  "tags": [
+    "ghost-leg",
+    "amidakuji",
+    "brass-rungs",
+    "bell-gantry",
+    "marble-jars",
+    "draw-lots",
+    "rung-allowance",
+    "permutation"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Forty-eight ladder puzzles on a walnut bench: bells, worn rungs, no spare rungs, plus a Draw Lots mode for groups.",
+  "longDescription": "Amidakuji is the Japanese ghost-leg ladder: lines are drawn on paper, rungs are added where no one can see, and each person ends up somewhere unexpected. Glassfall turns that old lottery into a puzzle on a 3D walnut workbench.\n\nGlass marbles wait at the top of brass rails. You lay brass rungs, press Release, and every marble rolls down its rail and crosses at each rung it meets. Make each marble land in the jar of its colour.\n\nSix workshops hold 48 orders: build a ladder from nothing, work around bolted iron rungs, ring brass bells with the right marble, mend worn ladders, and solve orders with no spare rungs. Each order has a rung allowance and a par, and finishing at par without a hint earns three stars. Eight short lessons teach how a ladder swaps marbles, and a daily ladder is the same for everyone with a streak.\n\nDraw Lots is the old lottery for two to eight people on one device, with covered jars and prize sets for chores, treats, teams or running order, with no stakes. The free workshop lets you build any ladder from 3 to 8 rails and release the marbles. Auto Play solves an order while you watch: pause, change speed, press Think to hear the plan, take over and hand it back.\n\nReal-time 3D brass, walnut and glass, jewel marbles that roll, ringing bells and synthesised sound. Free with ads; go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-amidakujideluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-amidakujideluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/glassfall-ghost-leg-puzzle/icon-512.webp",
+  "hero": "assets/apps/glassfall-ghost-leg-puzzle/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/glassfall-ghost-leg-puzzle/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/glassfall-ghost-leg-puzzle/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/glassfall-ghost-leg-puzzle/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/glassfall-ghost-leg-puzzle/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.amidakujideluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.amidakujideluxe.app"
+  },
+  "related": []
+}

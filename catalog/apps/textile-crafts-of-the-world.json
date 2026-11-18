@@ -1,0 +1,65 @@
+{
+  "slug": "textile-crafts-of-the-world",
+  "name": "Textile Crafts of the World",
+  "subtitle": "Nanduti, Songket & more",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "sashiko-stitch-patterns",
+    "sashiko",
+    "batik-tulis",
+    "celtic-knot-weave",
+    "celtic-knotwork",
+    "fair-isle",
+    "selbu",
+    "ikat"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "17 craft traditions to play: Nanduti, Sashiko stitch patterns, Batik pattern studio and Songket gold weaving.",
+  "longDescription": "Textile Crafts of the World: 17 craft traditions from 22 countries, in one app that works fully offline.\n\nInside: Nanduti, Sashiko stitch patterns, Batik pattern studio, Songket gold weaving, Celtic knot weave, Cross-stitch pattern weaving, Nordic colourwork yoke, Tartan sett weaving, Persian carpet knotting, Tatreez Palestinian Cross-Stitch, Ikat pattern dyeing, Dhaka weave pattern loom, Suzani Embroidery, Phulkari Darn-Stitch Embroidery, Kente strip weaving, Adire indigo resist dyeing and Malagasy lamba silk weaving.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can build traditional patterns, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-13",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/textile-crafts-of-the-world/icon-512.webp",
+  "hero": "assets/apps/textile-crafts-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/textile-crafts-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/textile-crafts-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/textile-crafts-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/textile-crafts-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.textilecraftsoftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.textilecraftsoftheworld",
+    "package": "com.equalinformation.whg.textilecraftsoftheworld"
+  },
+  "related": []
+}

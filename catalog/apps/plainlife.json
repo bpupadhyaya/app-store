@@ -1,0 +1,68 @@
+{
+  "slug": "plainlife",
+  "name": "PlainLife - Human Health Loop",
+  "subtitle": "Womb to next womb, offline",
+  "categories": [
+    "health"
+  ],
+  "tags": [
+    "pregnancy",
+    "preconception",
+    "fertility",
+    "baby",
+    "parenting",
+    "cycle",
+    "women-s-health",
+    "offline",
+    "private",
+    "triage"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "The whole human health loop — womb to next womb — in one private, offline app. Plain-language, cited guidance plus Ask PlainLife. 100% on-device, no account.",
+  "longDescription": "PlainLife is the whole human health loop — womb to next womb — in one private, offline app.\n\nMost health apps cover a single slice: a pregnancy app here, a parenting app there, a period tracker somewhere else. PlainLife brings the entire arc together as one continuous, intergenerational loop, because each stage shapes the next.\n\n### Six Chapters, One Loop\n• Origins — preconception health for both partners\n• Birth — pregnancy week by week, warning signs, labor prep, postpartum\n• Childhood — milestones, illness triage, feeding, sleep, growth\n• Adolescence — puberty, cycle, and reproductive & sexual health\n• Fertility — conception and planning the next generation\n• Generations — how each stage echoes forward\n\n### What You Get\n• Ask PlainLife — ask anything and get answers from a bundled, cited knowledge base, fully offline.\n• Plain-language guidance with tappable sources and clear \"when to seek care\" triage.\n• Tools — kick counter, contraction timer, tracking, reminders, glossary, and full-text search.\n• Doctor summary — turn what you've tracked into a clean handoff for your clinician.\n• Voice input and read-aloud.\n\n### Private By Design\nPLAINLIFE PLUS (optional, one-time)\nThe core is free for everyone, including every safety & emergency guide. A one-time PlainLife Plus unlock adds the Generations insight, history & trends, whole-family profiles, advanced reminders, PDF doctor-summary export, guided photo triage, and deeper clinical detail. No subscription.\n\n### Disclaimer\nPlainLife provides health information and triage guidance — not a substitute for professional medical care. Always consult a qualified health professional, and in an emergency contact your local emergency services.",
+  "whatsNew": "Adds ads served by Google AdMob. Remove them any time with the new one-time Remove Ads purchase (Settings). Bug fixes and improvements.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "17+",
+  "privacyUrl": "https://equalinformation.com/privacy-plainlife.html",
+  "supportUrl": "https://equalinformation.com/app-support-plainlife.html",
+  "releasedAt": "2026-08-22",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/plainlife/icon-512.webp",
+  "hero": "assets/apps/plainlife/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/plainlife/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainlife/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainlife/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainlife/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/plainlife-human-health-loop/id6785592713",
+    "bundleId": "com.equalinformation.plainlife.app",
+    "appleId": "6785592713"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.plainlife.app",
+    "package": "com.equalinformation.plainlife.app"
+  },
+  "related": []
+}

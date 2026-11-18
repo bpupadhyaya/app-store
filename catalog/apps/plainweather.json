@@ -1,0 +1,70 @@
+{
+  "slug": "plainweather",
+  "name": "PlainWeather - Weather Safety",
+  "subtitle": "Offline weather safety",
+  "categories": [
+    "utilities"
+  ],
+  "tags": [
+    "weather",
+    "offline",
+    "severe-weather",
+    "storm",
+    "tornado",
+    "hurricane",
+    "emergency",
+    "safety",
+    "alerts",
+    "hazard",
+    "noaa",
+    "nws"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "14 hazard guides, 28 safety tools, 11 go/no-go checklists — fully offline and free, with optional ad removal. No signal needed when it matters most.",
+  "longDescription": "Existing weather apps need a live connection to tell you the forecast. PlainWeather is different: it's the offline safety-action layer that works when the signal drops — exactly the moment a severe-weather app matters most.\n\n14 HAZARD ACTION GUIDES, FREE FOREVER\nStep-by-step before/during/after guidance for tornado, hurricane, flash flood, wildfire, blizzard, heatwave, lightning, hail, dust storm, storm surge, tsunami, avalanche, rip current, and derecho — including a Myths & Mistakes section per hazard debunking real misconceptions (the overpass \"shelter\" myth, opening windows for tornadoes, and more).\n\n28 SAFETY CALCULATORS & REFERENCE TOOLS\nA live lightning flash-to-bang countdown, heat index, wind chill/frostbite, WBGT work-rest estimator, dew point, snow load, Beaufort wind scale, sunburn time-to-burn, a plain-language Watch vs. Warning explainer, regional seasonal risk profiles, air quality and UV guides, marine advisories, and prep checklists for families, vehicles, power outages, and evacuation routes.\n\n11 ACTIVITY GO/NO-GO GUIDES\nWeather-driven decision checklists for hiking and outdoor work, farming frost windows, fishing and boating conditions, cycling and running, construction stoppage thresholds, school outdoor-activity heat guidance, your daily commute, and road-trip and travel planning — built for outdoor workers, parents, commuters, and travelers alike.\n\n### Built for the Moment the Signal Drops\n• 100% offline for every safety-critical feature — no network required on any path that keeps you safe.\n• An optional, opt-in offline peer-to-peer alert relay can pass a cached warning to nearby PlainWeather users over Bluetooth/Wi-Fi with zero internet and zero server.\n• Kids' and Elderly accessibility profiles, an icon-first low-literacy mode, and read-aloud guides for every hazard and activity.\n• Full Spanish translation, with more languages planned.\n• A printable/shareable household safety card for anyone without a smartphone.\n\n### Your Information Stays Yours\nPLAINWEATHER PRO (OPTIONAL, NEVER SAFETY-CRITICAL)\nEvery hazard guide, every safety tool, and every go/no-go checklist is free, forever — full stop. PlainWeather Pro is available as either a one-time purchase or a monthly subscription — your choice — adding convenience depth only: a Historical Worst-Case Reference (how bad each hazard has actually gotten, with real examples), Pollen & Seasonal Allergy Notes, an Event & Wedding Weather Planner, and Gardening Frost Protection guidance. A lapsed or cancelled subscription never removes anything safety-critical.\n\nIMPORTANT: PlainWeather provides general safety guidance for informational purposes and is not a substitute for official emergency instructions. Always follow guidance from your local emergency management authorities.",
+  "whatsNew": "PlainWeather now shows ads in its free content (Google AdMob; you will see a consent prompt where required). A one-time \"Remove Ads\" purchase removes them. Restore Purchases is in Settings. Existing purchases are unchanged.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-plainweather.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-plainweather.html",
+  "releasedAt": "2026-09-09",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.4",
+  "icon": "assets/apps/plainweather/icon-512.webp",
+  "hero": "assets/apps/plainweather/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/plainweather/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainweather/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainweather/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainweather/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/plainweather-weather-safety/id6804146121",
+    "bundleId": "com.equalinformation.plainweather.app",
+    "appleId": "6804146121"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.plainweather.app",
+    "package": "com.equalinformation.plainweather.app"
+  },
+  "related": []
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "sand-and-net-beach-volleyball",
+  "name": "Sand & Net: Beach Volleyball",
+  "subtitle": "Serve, set, spike on sand",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "beach-volleyball",
+    "floater-serve",
+    "dig-ring",
+    "block-touch",
+    "2-43-m-net",
+    "dawn-cove",
+    "sand-court",
+    "mixed-height-net"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Two-a-side beach volleyball with one finger: power or floater serves, dig on the ring, set and swipe to the corner you want.",
+  "longDescription": "Beach volleyball was born on the sand of California in the 1920s and is played two against two, with no substitutes and nowhere to hide. Sand and Net is beach volleyball you play with one finger. Two players, one court of soft sand, a ball that flies the way a real ball does, and a swipe for every decision that matters.\n\nPress to toss and swipe toward the far court to serve: a fast flick is a power serve and a slow release is a floater. Your players run for the ball on their own; tap as the ring closes to dig cleanly. Swipe left or right to set, then swipe toward the corner you want to hit: where your finger ends is where the ball goes, and how fast you swipe is how hard.\n\nThe rules follow the sport: rally scoring, win by two, three touches, blocks that count as a touch, nets at 2.43 m, 2.24 m or the 2.35 m mixed height, lines that count as in and the net cord that dribbles over.\n\nThe computer pairs think. Ten levels from beginner to legend and six styles, power hitter, finesse, wall, digger, server and all-round, choose their shots by testing real flights against your block and your defenders.\n\nFive places to play range from a dawn cove and a palm boardwalk to a turquoise lagoon, a pier at golden hour and a floodlit arena with a full stand. Realistic athletes, a rippling net, flying sand, surf and gulls bring each to life.\n\nQuick matches, a tour, drills and lessons make up the rest.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-volleyballdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-volleyballdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/sand-and-net-beach-volleyball/icon-512.webp",
+  "hero": "assets/apps/sand-and-net-beach-volleyball/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/sand-and-net-beach-volleyball/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sand-and-net-beach-volleyball/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sand-and-net-beach-volleyball/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sand-and-net-beach-volleyball/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.volleyballdeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.volleyballdeluxe.app",
+    "package": "com.equalinformation.volleyballdeluxe.app"
+  },
+  "related": []
+}

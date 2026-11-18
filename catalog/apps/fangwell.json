@@ -97,7 +97,7 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": ""
+    "bundleId": "com.equalinformation.safetybiteguide.app"
   },
   "android": {
     "status": "soon",

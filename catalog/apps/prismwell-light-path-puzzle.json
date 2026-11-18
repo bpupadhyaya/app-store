@@ -1,0 +1,69 @@
+{
+  "slug": "prismwell-light-path-puzzle",
+  "name": "Prismwell: Light Path Puzzle",
+  "subtitle": "Bend beams, light every goal",
+  "categories": [
+    "puzzle"
+  ],
+  "tags": [
+    "optics",
+    "mirror",
+    "laser",
+    "logic",
+    "brain",
+    "physics",
+    "spectrum",
+    "colour",
+    "refraction",
+    "stem",
+    "offline",
+    "daily"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A glowing optics table, sixty hand-tuned puzzles and a new daily table every day. Steer coloured light with mirrors, gels and prisms.",
+  "longDescription": "A beam of light leaves its source. Somewhere on the table a ring waits for exactly that colour. Between them is a handful of glass and metal, and it is your job to arrange it.\n\nPrismwell puts you in front of a softly lit optics table in real-time 3D. Tap a part, drop it on a square, turn it, and watch every beam redraw at once. When each receiver glows the colour it asked for, the puzzle is done.\n\n### The Parts\n- Mirrors turn a beam a quarter turn.\n- Half-silvered mirrors let light through and bounce it at the same time, so one beam can feed two goals.\n- Colour gels take colours away: white through a yellow gel leaves only red and green.\n- Prisms fan white light into red, green and blue, each leaving in its own direction.\n- Light also adds. Red plus green lands as yellow, and a receiver only accepts the exact colour it shows.\n\n### What You Get\n- 60 puzzles in six benches, from a single mirror to a three-source table with blocks in the way.\n- A new daily puzzle built from the date, with a streak calendar. Everyone gets the same table.\n- Stars for finishing at par, and a hint that points at one correct part when you are stuck.\n- A free-build light lab with every part, colour meters and a saved bench.\n- Six short optics lessons with live demonstrations: reflection, half-silvered mirrors, gels, adding light, prisms and a solving method.\n- Letters on every receiver (R, G, B) so colour is never the only clue.\n- A- and A+ text size on every screen, and support for your system text size.\n- Works fully offline. No account.\n\nEvery puzzle is machine-checked so that a solution exists and every part in the tray is needed.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-game-lightbend.html",
+  "supportUrl": "https://equalinformation.com/app-support-game-lightbend.html",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-17",
+  "version": "1.0",
+  "icon": "assets/apps/prismwell-light-path-puzzle/icon-512.webp",
+  "hero": "assets/apps/prismwell-light-path-puzzle/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/prismwell-light-path-puzzle/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/prismwell-light-path-puzzle/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/prismwell-light-path-puzzle/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/prismwell-light-path-puzzle/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.game-lightbend.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.game-lightbend.app"
+  },
+  "related": []
+}

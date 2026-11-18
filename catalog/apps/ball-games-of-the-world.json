@@ -1,0 +1,67 @@
+{
+  "slug": "ball-games-of-the-world",
+  "name": "Ball Games of the World",
+  "subtitle": "Korfball, Cuju, Croquet & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "korfball",
+    "netball",
+    "nohejbal",
+    "faustball",
+    "stickball",
+    "cuju",
+    "croquet",
+    "novuss",
+    "chuiwan",
+    "ball-games"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "11 ball sports and games to play: Korfball, Netball, Nohejbal and Faustball.",
+  "longDescription": "Ball Games of the World: 11 ball sports and games from 15 countries, in one app that works fully offline.\n\nInside: Korfball, Netball, Nohejbal, Faustball, Street Stickball, Cuju, Bat and Trap, Croquet, Novuss, Chuiwan and Four Square.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can aim, throw, kick, strike and shoot the ball, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/ball-games-of-the-world/icon-512.webp",
+  "hero": "assets/apps/ball-games-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/ball-games-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ball-games-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ball-games-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ball-games-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.ballgamesoftheworld"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.whg.ballgamesoftheworld"
+  },
+  "related": []
+}

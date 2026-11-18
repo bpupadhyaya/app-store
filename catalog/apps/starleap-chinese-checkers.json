@@ -1,0 +1,65 @@
+{
+  "slug": "starleap-chinese-checkers",
+  "name": "Starleap: Chinese Checkers",
+  "subtitle": "Hop marbles across the star",
+  "categories": [
+    "board-strategy"
+  ],
+  "tags": [
+    "halma-hops",
+    "six-pointed-star",
+    "ladder-chain",
+    "drifter",
+    "zenith",
+    "observatory-table",
+    "aurora-table",
+    "marble-marks"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Glass marbles under a night sky: Chinese Checkers and Halma for two to six, with eight AI levels and four tables.",
+  "longDescription": "Halma was devised in Victorian England from the American game Hop Ching Checkers, and it gave rise to the six-pointed star game now known as Chinese Checkers. Starleap puts both on a table of glass marbles under a night sky, with one simple idea: jump.\n\nStep to the next hole, or hop over any marble beside you into the gap behind it, then hop again and again in the same turn. Line your marbles up with a hole between each and you have a ladder that carries a marble clear across the board. Rivals can climb it too, so build it, use it or break theirs.\n\nChinese Checkers is played on the star, classic with ten marbles each or a quick six-marble race. Halma uses a square board, 16 by 16 or a compact 8 by 8, with eight-direction hops. Two to six can play on the star and two or four on Halma, and any seat can be a person or the computer, so a family shares a tablet and a computer fills the empty chair.\n\nSwirled glass marbles roll along every hop, squash as they land and leave a comet trail behind a long chain. Choose among four tables, Observatory, Aurora, Ember and Glacier, with a lacquered plate edged in brass and calm handmade sound generated on your device. Optional marble marks put a symbol on every marble so colour is never the only clue.\n\nEight computer levels run from Drifter, who wanders, to Zenith, who plans long chains.\n\nFree with ads. Go ad-free with an optional monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-halmadeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-halmadeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/starleap-chinese-checkers/icon-512.webp",
+  "hero": "assets/apps/starleap-chinese-checkers/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/starleap-chinese-checkers/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/starleap-chinese-checkers/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/starleap-chinese-checkers/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/starleap-chinese-checkers/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.halmadeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.halmadeluxe.app"
+  },
+  "related": []
+}

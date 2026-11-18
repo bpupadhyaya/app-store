@@ -1,0 +1,65 @@
+{
+  "slug": "offshore-surf-contest-tour",
+  "name": "Offshore: Surf Contest Tour",
+  "subtitle": "Carve the face, find the tube",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "surf-heat",
+    "barrel-tube",
+    "cutback",
+    "five-judges",
+    "winter-swell",
+    "foam-line",
+    "carve-s-turns",
+    "air-spin"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Ride twelve famous waves in live 3D, face three rivals per heat and let five judges decide who advances.",
+  "longDescription": "Surf contests put four riders in the water for a heat, and judges reward the best two waves for commitment, variety and flow. Offshore is a surf contest tour in a live 3D ocean. Ride twelve of the world's most famous waves, face three rivals in every heat and let five judges decide who goes through.\n\nDrag your thumb to carve the face. Draw S-turns to pump for speed, snap off the lip, cut back to the foam, launch airs and spin them, and slot into the tube when a bowl stands the wave up. The foam line is always chasing, and the wave is real: its shape, its lip and its power change along the break, and the coach calls out the next section.\n\nThe tour has twelve breaks, from long, forgiving walls to heavy barrels and giant winter swell, each with its own light, weather and rivals. Win the semi-final and the final, meet each break's goal and collect stars to open the next one.\n\nScoring follows contests. Five judges score every wave from 0 to 10 on commitment, progression, variety, combinations and speed and flow. Your best two waves of four count. After every wave you see what the rivals scored and what you still need to take the lead.\n\nAuto Play, one tap from the home screen, has the computer surf a whole heat while you watch. It tries several plans a moment ahead and flies the best; pause, speed it up, ask Think to explain its plan in plain words and take over at any time.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-surfdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-surfdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/offshore-surf-contest-tour/icon-512.webp",
+  "hero": "assets/apps/offshore-surf-contest-tour/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/offshore-surf-contest-tour/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/offshore-surf-contest-tour/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/offshore-surf-contest-tour/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/offshore-surf-contest-tour/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.surfdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.surfdeluxe.app"
+  },
+  "related": []
+}

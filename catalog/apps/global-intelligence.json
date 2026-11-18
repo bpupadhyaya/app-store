@@ -1,0 +1,64 @@
+{
+  "slug": "global-intelligence",
+  "name": "Global Intelligence",
+  "subtitle": "Understand the world, fast",
+  "categories": [
+    "utilities",
+    "education"
+  ],
+  "tags": [
+    "world-news",
+    "geopolitics",
+    "briefing",
+    "global",
+    "current-events",
+    "news-digest",
+    "summary",
+    "private",
+    "offline",
+    "no-ads"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Browse real news outlets from all 195 countries and see the supply chains behind global events. Free Top 10 includes ads; remove them with one purchase.",
+  "longDescription": "Global Intelligence turns the day's world news into something you can actually read in a few minutes — organized by the aspects of the world that matter (politics, economy, conflict, technology, and more), not an endless scroll of headlines.\n\nFREE — TOP 10\nSee the 10 most significant stories in the world right now, ranked and updated daily. No subscription required. This is a permanent free feature.\n\nPREMIUM — THE DAILY BRIEFING\nSubscribe to Global Intelligence Premium to unlock the full Briefing: one clear, carefully written paragraph per world aspect, every day — a complete picture of what's happening globally, without the noise of scrolling through dozens of individual articles.\n\n### Also Included, Free\nMy Briefing: pin the aspects you personally track and follow them over time.\nSearch: on-device search across your cached briefings — no query ever leaves your phone.\nCategory customization: hide the categories you don't care about.\n\n### Built for Efficiency and Privacy\nThe app makes at most one network request a day, downloading the next published briefing pack. Everything else — search, pinning, reading — happens entirely on-device.",
+  "whatsNew": "Adds ads in the free features (Google AdMob) and an optional one-time Remove Ads purchase. Bug fixes and improvements.",
+  "price": "Free",
+  "monetization": "Free, no ads, optional monthly subscription",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-globalintelligence.html",
+  "supportUrl": "https://equalinformation.com/app-support-globalintelligence.html",
+  "releasedAt": "2026-08-12",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.2",
+  "icon": "assets/apps/global-intelligence/icon-512.webp",
+  "hero": "assets/apps/global-intelligence/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/global-intelligence/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/global-intelligence/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/global-intelligence/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/global-intelligence/id6797107720",
+    "bundleId": "com.equalinformation.globalintelligence.app",
+    "appleId": "6797107720"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.globalintelligence.app",
+    "package": "com.equalinformation.globalintelligence.app"
+  },
+  "related": []
+}

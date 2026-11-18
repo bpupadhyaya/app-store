@@ -1,0 +1,67 @@
+{
+  "slug": "asian-lutes-of-the-world",
+  "name": "Asian Lutes of the World",
+  "subtitle": "Biwa, Shamisen, Phin & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "biwa",
+    "shamisen",
+    "sanshin",
+    "nguyet",
+    "hasapi",
+    "phin",
+    "gambus",
+    "lute",
+    "asia",
+    "strings"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "7 lutes of Asia to play: Biwa, Shamisen, Sanshin and Đàn nguyệt.",
+  "longDescription": "Asian Lutes of the World: 7 lutes of Asia from 5 countries, in one app that works fully offline.\n\nInside: Biwa, Shamisen, Sanshin, Đàn nguyệt, Hasapi, Phin and Gambus.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can play the lutes of Japan, Vietnam, Laos and Southeast Asia, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/asian-lutes-of-the-world/icon-512.webp",
+  "hero": "assets/apps/asian-lutes-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/asian-lutes-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/asian-lutes-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/asian-lutes-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/asian-lutes-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.asianlutesoftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.asianlutesoftheworld",
+    "package": "com.equalinformation.whg.asianlutesoftheworld"
+  },
+  "related": []
+}

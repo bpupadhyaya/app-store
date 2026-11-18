@@ -1,0 +1,64 @@
+{
+  "slug": "iceline-luge-ice-runs",
+  "name": "Iceline Luge: Ice Runs",
+  "subtitle": "Thread the ice, no brakes",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "luge-sled",
+    "ice-channel",
+    "corkscrew-run",
+    "summit-giant",
+    "pine-hollow",
+    "racing-line-guide",
+    "runner-grip"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Eight original runs, sled physics with real grip, a four-division league, ghost time trials and a racing-line guide.",
+  "longDescription": "Luge is the sport of lying feet-first on a small sled and steering down an ice channel with your calves and shoulders at speeds that feel absurd. Iceline Luge is a 3D luge game for phones and tablets. Lie back on a glossy sled, push off with a rhythm of taps, and thread a banked ice channel with one thumb. There are no brakes: your line, your timing and a gentle touch decide every hundredth of a second.\n\nEight original ice runs range from the friendly pines of Pine Hollow to the 2.3 km Summit Giant, with banked bends, a tight glacier hairpin, a full corkscrew under the northern lights and a narrow alpine pass of chicanes.\n\nThe sled physics are real. The sled is a free body on the ice: runners grip sideways until they let go, gravity and banking pull you through bends, walls cost speed, and tucking flat cuts the air drag. Choose Sharp, Balanced or Fast runners and race on fresh ice, hard frost, soft sun, gusty or night conditions.\n\nClimb a four-division league against five computer sliders with points and promotion. Take the Daily Run with new ice and a streak, and chase bronze, silver, gold and platinum medals in Time Trial against your own ghost. Hand the phone around in Pass and Play for two to four players.\n\nLearn the line: a racing-line guide glows on the ice, Think explains the next bend in plain words, and seven short lessons teach the push start, steering, out-in-out lines, tucking, grip and runner choice.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-lugedeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-lugedeluxe.html",
+  "releasedAt": "2026-11-03",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/iceline-luge-ice-runs/icon-512.webp",
+  "hero": "assets/apps/iceline-luge-ice-runs/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/iceline-luge-ice-runs/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/iceline-luge-ice-runs/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/iceline-luge-ice-runs/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/iceline-luge-ice-runs/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.lugedeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.lugedeluxe.app"
+  },
+  "related": []
+}

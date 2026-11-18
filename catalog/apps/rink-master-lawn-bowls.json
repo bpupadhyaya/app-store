@@ -1,0 +1,64 @@
+{
+  "slug": "rink-master-lawn-bowls",
+  "name": "Rink Master: Lawn Bowls",
+  "subtitle": "Curve the bowl to the jack",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "forehand-and-backhand",
+    "bowling-green",
+    "jack-and-mat",
+    "toucher",
+    "head-puzzle",
+    "measure-the-end",
+    "rink"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Biased bowls that bend as they slow: greens with pace and cross-fall, a measured end, a six-venue career and head puzzles.",
+  "longDescription": "Lawn bowls is a game of patience played on closely mown greens across Britain, Australia, New Zealand and South Africa, where lopsided bowls curve toward a small white jack. Rink Master is a simulation for people who love the quiet precision of the green. Roll lopsided bowls that curve as they slow, choose your line and weight, and finish nearest the jack.\n\nBiased bowls bend in toward the jack, more sharply as they slow. Choose forehand or backhand, set the line, set the weight with a slider that marks the jack, and watch the dotted guide of a lone bowl. Greens differ in pace and cross-fall: a slow village green asks for more weight and a lightning national green bends the bowl late.\n\nA game is played in ends. Singles are played on a 5 m rink with a jack, a mat, a ditch and a bank. Roll the jack, bowl your turn, drive, trail, block and take out. Touchers, dead bowls, the boundary and the measure are all there. After each end the head is measured with ranked distance tags and the shots are scored.\n\nThe career runs through six venues from a village green to the National Arena, three matches each, with twelve named opponents from a novice to an international. Win for one to three stars and collect trophies and records.\n\nLearn with eight lessons, seven drills and twenty-four head puzzles, every one proven solvable, which ask you to get the shot, count two, drive the jack or take out a bowl. A Daily Head gives everyone the same position.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-lawnbowlsdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-lawnbowlsdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/rink-master-lawn-bowls/icon-512.webp",
+  "hero": "assets/apps/rink-master-lawn-bowls/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/rink-master-lawn-bowls/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rink-master-lawn-bowls/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rink-master-lawn-bowls/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rink-master-lawn-bowls/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.lawnbowlsdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.lawnbowlsdeluxe.app"
+  },
+  "related": []
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "painted-surfaces-of-the-world",
+  "name": "Painted Surfaces of the World",
+  "subtitle": "Hex signs, Tap-taps & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "hex-sign",
+    "zhostovo",
+    "cicmany",
+    "tap-tap",
+    "screen-painting",
+    "zalipie",
+    "folk-art",
+    "painting",
+    "craft"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Paint hex signs, lacquer trays, house fronts, bus panels and window screens: 6 traditions from 5 countries, offline.",
+  "longDescription": "Painted Surfaces of the World: 6 painted barn, tray, house, bus and window traditions from 5 countries, in one app that works fully offline.\n\nInside: Hex sign, Zhostovo tray, Cicmany house front, Tap-tap bus panel, Window screen painting and Zalipie flowers.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can paint hex signs, lacquer trays, house fronts, bus panels and window screens in traditional styles, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/painted-surfaces-of-the-world/icon-512.webp",
+  "hero": "assets/apps/painted-surfaces-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/painted-surfaces-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/painted-surfaces-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/painted-surfaces-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/painted-surfaces-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.paintedsurfacesoftheworld"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.whg.paintedsurfacesoftheworld"
+  },
+  "related": []
+}

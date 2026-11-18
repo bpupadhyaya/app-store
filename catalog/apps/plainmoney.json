@@ -1,0 +1,70 @@
+{
+  "slug": "plainmoney",
+  "name": "PlainMoney - Personal Finance",
+  "subtitle": "No accounts, no bank linking",
+  "categories": [
+    "finance",
+    "education"
+  ],
+  "tags": [
+    "budget",
+    "paycheck",
+    "debt",
+    "savings",
+    "tax",
+    "money",
+    "scam",
+    "financial-literacy",
+    "net-worth",
+    "goals",
+    "bills"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "New in 1.1: ask money questions with on-device AI that runs entirely on your phone. Off by default, and nothing you type leaves your device.",
+  "longDescription": "Plain-language, offline personal finance help for everyday money decisions — no accounts, no bank-linking, and nothing about you ever leaves your phone.\n\n### What It Does\n- See exactly where you stand today: what's left until payday, what bills are due, and what you've spent this cycle.\n- Track spending and bills, with an early heads-up before a bill is due or you're off pace.\n- Decode a real paycheck: gross pay, federal tax, Social Security, Medicare, and deductions, broken down line by line.\n- Estimate your federal income tax for the year.\n- Run a 50/30/20 budget split on your real take-home pay.\n- Plan a debt's payoff, or see the real cost of paying only the minimum.\n- Project how savings could grow over time across index funds, bonds, T-Bills, or your own investments — using real historical return data (the NYU Stern/Damodaran dataset), never made-up numbers.\n- Set and track a savings goal.\n\nSAFETY NET — always free\nA dedicated Safety tab covers scam patterns, coercive financial control and elder-exploitation warning signs, benefits guidance, and disaster recovery. Free forever, for everyone — Safety content never has a Pro paywall placed in front of it.\n\n### How It Works\nEvery screen explains how something works. It never tells you what to buy, sell, or borrow. Every tool and guide ends with a plain reminder: this is education, not financial advice.",
+  "whatsNew": "PlainMoney now shows ads in its free content (Google AdMob; you will see a consent prompt where required). A one-time \"Remove Ads\" purchase removes them. Restore Purchases is in Settings. Existing purchases are unchanged.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-plainmoney.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-plainmoney.html",
+  "releasedAt": "2026-09-22",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.1",
+  "icon": "assets/apps/plainmoney/icon-512.webp",
+  "hero": "assets/apps/plainmoney/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/plainmoney/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainmoney/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainmoney/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainmoney/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/plainmoney-personal-finance/id6812015595",
+    "bundleId": "com.equalinformation.plainmoney.app",
+    "appleId": "6812015595"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.plainmoney.app",
+    "package": "com.equalinformation.plainmoney.app"
+  },
+  "related": []
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "dentistry-enamelume",
+  "name": "Dentistry: Enamelume",
+  "subtitle": "Plaque, fluoride, caries, risk",
+  "categories": [
+    "education",
+    "health"
+  ],
+  "tags": [
+    "dentistry",
+    "preventive",
+    "plaque",
+    "caries",
+    "fluoride",
+    "sealant",
+    "gingivitis",
+    "periodontitis",
+    "floss",
+    "hygiene",
+    "enamel"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Preventive dentistry: reveal plaque on a 3D mouth, watch a day of eating hit enamel, and see how risk and protective factors balance. Offline and free.",
+  "longDescription": "Preventive dentistry, shown in 3D simulations. Enamelume teaches how teeth stay healthy, with simulations instead of diagrams. It is built for dental, hygiene and health students, parents and anyone who wants to understand cavities and gum disease.\n\n### Clean a 3d Mouth\nLeave plaque for a few days, then switch on disclosing: new plaque stains pink, old plaque blue, or glow yellow-green under blue light. Brush the arch with your finger and watch the score climb. Between the teeth barely changes until you pick up the floss. Adult set or baby teeth, upper or lower, tooth sizes drawn to scale.\n\n### Watch a Day of Eating Hit Enamel\nBuild your day from meals, snacks, sipped drinks, fruit, cheese and gum. The plaque pH curve shows every acid attack, the 3D enamel slab shows calcium and phosphate leaving or returning, and the weeks slider shows a white spot growing to a cavity or healing. Change saliva flow and fluoride exposure and see the balance move.\n\n### See Why a Groove Needs a Sealant\nA magnified fissure next to a bristle tip, plaque trapped at the base, and a sealant you can flow in.\n\n### From Healthy Gums to Periodontitis\nA cross-section of tooth, gum, ligament and bone in five stages with pocket depth, attachment loss and bone loss, from healthy and reversible gingivitis to stage III periodontitis.\n\n### See How Risk Balances\nExplore how signs, risk factors and protective factors weigh against each other on an educational balance beam. It is a learning tool, not a personal assessment; a dentist sets anyone's real risk and check-up interval.\n\n### Every Claim Lists Its Sources\nMore, then Accuracy and sources lists every statement with its named sources (WHO, Cochrane, ADA, peer-reviewed journals and guidance pages). Shapes and curves that are simplified are labelled schematic. A Report an error link is one tap away.\n\n### Made for Studying\n- Works completely offline, no account\n- A- and A+ text size on every screen\n- Designed for iPhone and iPad\n- 232-question quiz and 61 lessons, each with its sources\n- Six animated brushing methods (Bass, modified Bass, Stillman, Charters, roll, Fones)\n\nEnamelume is for education only. It does not diagnose, treat or give advice for any individual. See a dentist for your own care.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "12+",
+  "privacyUrl": "https://equalinformation.com/privacy-preventive-dentistry.html",
+  "supportUrl": "https://equalinformation.com/app-support-preventive-dentistry.html",
+  "releasedAt": "2026-11-09",
+  "updatedAt": "2026-11-17",
+  "version": "1.0",
+  "icon": "assets/apps/dentistry-enamelume/icon-512.webp",
+  "hero": "assets/apps/dentistry-enamelume/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/dentistry-enamelume/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dentistry-enamelume/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dentistry-enamelume/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dentistry-enamelume/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.preventive-dentistry.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.preventive-dentistry.app"
+  },
+  "related": []
+}

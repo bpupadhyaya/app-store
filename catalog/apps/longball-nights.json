@@ -1,0 +1,66 @@
+{
+  "slug": "longball-nights",
+  "name": "Longball Nights",
+  "subtitle": "Bat, ball, floodlit ballpark",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "slugger",
+    "pitching-machine",
+    "sinker",
+    "slider",
+    "splitter",
+    "tailwind",
+    "home-run-derby",
+    "timing-ring",
+    "sweet-spot"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A batting game with no people on screen: eight spinning pitch types, real ball flight and six ballparks at night.",
+  "longDescription": "Baseball's home-run derby is the simplest thrill in the game: one batter, one pitch and a ball sent over the wall. Longball Nights is that moment in real-time 3D for your phone, with a pitching machine on the mound, a bat in your hands, six ballparks under the lights and a ball that flies the way real balls fly.\n\nThere are no people in this game by design. The machine throws, you swing, and the stands are a glittering field of phone lights and floodlights. Everything on screen is something you hit or hit with.\n\nTouch the lower screen and drag; the aim ring on the plate follows in small, precise steps so your thumb never hides the ball. Lift to swing. A shrinking timing ring shows the moment. Choose a Power swing for distance and a small sweet spot, or a Contact swing for a bigger one, or use Timing Only and let the game place the ring.\n\nEight pitch types, fastball, sinker, cutter, slider, curveball, changeup, splitter and a slow practice lob, each with its own spin. Spin bends the path through the air, so the ball does not arrive where it seems headed. A light on the machine tells you what is coming, and the seams tell you more.\n\nGravity, drag, spin lift and wind decide every flight, and a tailwind carries a drive further. Free with ads; go ad-free with a monthly pass or earn ad-free time by watching videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-baseballdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-baseballdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/longball-nights/icon-512.webp",
+  "hero": "assets/apps/longball-nights/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/longball-nights/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/longball-nights/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/longball-nights/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/longball-nights/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.baseballdeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.baseballdeluxe.app",
+    "package": "com.equalinformation.baseballdeluxe.app"
+  },
+  "related": []
+}

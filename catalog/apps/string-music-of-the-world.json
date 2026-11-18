@@ -1,0 +1,66 @@
+{
+  "slug": "string-music-of-the-world",
+  "name": "String Music of the World",
+  "subtitle": "Charango, Morin khuur & more",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "joropo-llanero-band",
+    "joropo-llanero",
+    "morin-khuur",
+    "dan-bau",
+    "panduri",
+    "chonguri",
+    "balalaika",
+    "kamancha",
+    "kamanca"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "11 traditions to play: Charango, Joropo llanero band, Morin khuur and Dan bau.",
+  "longDescription": "String Music of the World: 11 traditional games and crafts from 20 countries, in one app that works fully offline.\n\nInside: Charango, Joropo llanero band, Morin khuur, Dan bau, Panduri, Balalaika, Kamancha, Qanun, Buzuq Long-Neck Lute, Rabab plucked lute and Goje One-String Fiddle.\n\nEach game has a short note on where it comes from and how it is played in the real world. You can play instruments and dances, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-12",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/string-music-of-the-world/icon-512.webp",
+  "hero": "assets/apps/string-music-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/string-music-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/string-music-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/string-music-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/string-music-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.stringmusicoftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.stringmusicoftheworld",
+    "package": "com.equalinformation.whg.stringmusicoftheworld"
+  },
+  "related": []
+}

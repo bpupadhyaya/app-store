@@ -1,0 +1,71 @@
+{
+  "slug": "tilebrook-slide-and-match",
+  "name": "Tilebrook: Slide & Match",
+  "subtitle": "Calm ceramic tile matching",
+  "categories": [
+    "puzzle",
+    "board-strategy"
+  ],
+  "tags": [
+    "tile",
+    "match",
+    "mahjong",
+    "slide",
+    "calm",
+    "zen",
+    "ceramic",
+    "koi",
+    "relax",
+    "brain",
+    "pairs",
+    "daily"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Match glazed tiles, then watch the brook carry the whole board. Every match changes what sits next to what. A new Daily Board arrives every day.",
+  "longDescription": "Tilebrook is a quiet tile-matching game with one twist you see in the first second: after every match, the brook flows and the whole board slides.\n\n### How It Plays\nTap two tiles with the same glaze that can see each other along a row or a column, with only water between them. They leave the board. Then the current carries every remaining tile until it meets an edge, a mossy stone or another tile. A pair that was far apart can suddenly sit side by side. A pair that was side by side can drift apart. Each move is a small plan.\n\n### Three Kinds of Brook\n- Steady: the water always runs one way.\n- Tide: the current turns after each match, and the small arrows show what is next.\n- Steer: you choose where the tiles will slide, with a compass you can change at any time.\n\n### Play Your Way\n- 120 stages across ten bends of the brook, from a tiny first board to wide boards with stones. Boards are generated, and every one is checked to be solvable.\n- Daily Board: one new board every day, the same for everyone, with a streak to keep.\n- Endless: chain boards that keep growing, chain matches for combos and chase your best score.\n- Rewind is free in stages. Optional video hints and a re-glaze (the same tiles dealt again) are there when you want them.\n\n### A Shelf to Fill\nClearing boards fires pieces of pottery for your kiln shelf: 12 forms in three glazes, 36 pieces in all.\n\n### Made to Be Calm\nGlossy ceramic tiles on a celadon river scene, soft koto and water-drop sound, gentle haptics, and a calm-motion switch. Works offline. Plays in portrait and landscape on iPhone and iPad.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/breezy-site/privacy.html",
+  "supportUrl": "https://equalinformation.com/breezy-site/",
+  "releasedAt": "2026-11-17",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.0",
+  "icon": "assets/apps/tilebrook-slide-and-match/icon-512.webp",
+  "hero": "assets/apps/tilebrook-slide-and-match/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/tilebrook-slide-and-match/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tilebrook-slide-and-match/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tilebrook-slide-and-match/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tilebrook-slide-and-match/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/tilebrook-slide-match/id6826692142",
+    "bundleId": "com.equalinformation.breezy.tilebrook",
+    "appleId": "6826692142"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.breezy.tilebrook",
+    "package": "com.equalinformation.breezy.tilebrook"
+  },
+  "related": []
+}

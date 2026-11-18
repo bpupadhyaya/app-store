@@ -1,0 +1,65 @@
+{
+  "slug": "soroban-dojo-abacus-mind",
+  "name": "Soroban Dojo: Abacus Mind",
+  "subtitle": "Train the abacus, rank by rank",
+  "categories": [
+    "board-strategy"
+  ],
+  "tags": [
+    "soroban",
+    "suanpan",
+    "flash-anzan",
+    "kyu-and-dan",
+    "five-friends",
+    "ten-friends",
+    "heaven-bead",
+    "mental-arithmetic"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A 3D soroban and suanpan with twenty lessons, fifteen ranks from 10 kyu to 5 dan, flash anzan and a rival race.",
+  "longDescription": "The soroban reached Japan from the Chinese suanpan in the sixteenth century and became the tool of shopkeepers and bank clerks, and later of champions who can add a column of numbers in their heads by picturing the beads. Soroban Dojo is a training hall for both instruments.\n\nA 3D abacus of lacquered beads on a rosewood frame sits in front of you. Drag a bead to the beam to count it, away to release it, and hear the click.\n\nTwenty lessons run from the first bead to long division, each with a short teaching card and problems worked one number at a time, checked after every number. Hint points at the bead to move and explains the rule: direct moves, the heaven bead, five-friends, ten-friends and carrying, taking away and borrowing, multiplication by partial products, and division by successive subtraction.\n\nWalk the Dojo path through fifteen ranks, from 10 kyu to 5 dan. Each examination is ten problems on a list, answered on the abacus; seven right passes and nine or ten earns the third star, with longer, wider and faster problems at each rank.\n\nAuto Play lets the computer work a problem and say why it moves each bead; pause, change speed, press Think, or take over. Flash Anzan flashes numbers that vanish so you can set their total on the abacus. Sixty-second drills come in eight levels, a rival race pits you against a trained opponent, and a daily set keeps a streak. Choose soroban or suanpan, with 5 to 13 rods.\n\nFree with ads. Go ad-free with a monthly pass or by earning time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-sorobandeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-sorobandeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/soroban-dojo-abacus-mind/icon-512.webp",
+  "hero": "assets/apps/soroban-dojo-abacus-mind/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/soroban-dojo-abacus-mind/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/soroban-dojo-abacus-mind/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/soroban-dojo-abacus-mind/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/soroban-dojo-abacus-mind/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.sorobandeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.sorobandeluxe.app"
+  },
+  "related": []
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "nutrisize-pro",
+  "name": "Nutrisize Pro",
+  "subtitle": "Nutrition & Exercise Intel",
+  "categories": [
+    "health"
+  ],
+  "tags": [
+    "nutrition",
+    "exercise",
+    "health",
+    "fitness",
+    "food",
+    "physiology",
+    "diet",
+    "wellness",
+    "workout",
+    "meal-plan"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Free with ads. Remove ads anytime with the one-time Remove Ads purchase.",
+  "longDescription": "Nutrisize Pro is your comprehensive health intelligence platform — combining nutrition, exercise, and physiological insights in one privacy-first app.\n\n### Nutrition\n• Browse 5,000+ world foods with detailed nutritional profiles\n  • Search by name, category, or nutrient content\n  • USDA-integrated data with macro and micronutrient breakdowns\n\n### Exercise\n• 5,400+ exercises across strength, cardio, flexibility, sports, and military fitness\n  • FITT exercise prescriptions with RPE and heart rate zones\n  • Personalized workout plans based on your health profile\n\n### Physiology\n• 201 physiological parameters across 16 body systems\n  • Physician-grade content: normal ranges, clinical pearls, disease links, drug interactions\n  • 465 scientific citations from WHO, CDC, AHA, NEJM and more\n\n### Features\nPREMIUM (optional in-app purchases)\n  • Physiology Complete — unlock all 201 parameters\n  • Nutrition Premium — advanced food analysis\n  • Exercise Premium — full exercise library\n  • Premium Bundle — everything at a discount\n\nBuilt by EqualInformation, LLC. Science-backed. Privacy-first. Near-zero cost.",
+  "whatsNew": "Remove Ads is now easy to find on the home screen. Modules you unlock are ad-free, and a one-time Remove Ads purchase turns ads off everywhere (Restore Purchases is on the same screen). The tracking permission prompt now reliably appears on first launch on iPhone and iPad. Bug fixes and improvements.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "17+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-nutrisizepro.html",
+  "supportUrl": "https://bpupadhyaya.github.io/support-nutrisizepro.html",
+  "releasedAt": "2026-04-20",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/nutrisize-pro/icon-512.webp",
+  "hero": "assets/apps/nutrisize-pro/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/nutrisize-pro/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/nutrisize-pro/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/nutrisize-pro/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/nutrisize-pro/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/nutrisize-pro/id6762107162",
+    "bundleId": "com.nutrisize.pro",
+    "appleId": "6762107162"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.nutrisize.pro",
+    "package": "com.nutrisize.pro"
+  },
+  "related": []
+}

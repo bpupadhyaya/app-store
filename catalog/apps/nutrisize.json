@@ -1,0 +1,71 @@
+{
+  "slug": "nutrisize",
+  "name": "Nutrisize",
+  "subtitle": "Nutrition & Exercise Guide",
+  "categories": [
+    "health",
+    "education"
+  ],
+  "tags": [
+    "nutrition",
+    "exercise",
+    "health",
+    "physiology",
+    "diet",
+    "meal-plan",
+    "vegan",
+    "fitness",
+    "who",
+    "clinical",
+    "vitals",
+    "wellness"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Free with ads. Remove ads anytime with the one-time Remove Ads purchase.",
+  "longDescription": "Nutrisize is a privacy-first health intelligence app for nutrition, exercise, and human physiology.\n\n### Nutrition\n• Macro & micro nutrient guidance with daily reference intakes\n  • Individualized weekly meal plans (Vegan, Vegetarian, Non-Vegetarian)\n  • Per-food nutrient contribution with %DV progress bars\n  • Regional nutrition guidance for global food contexts\n\n### Exercise\n• 5 intensity levels from minimal movement to military readiness\n  • Age-specific plans (3-5, 6-17, 18-64, 65+) per WHO/ACSM guidelines\n  • Individualized weekly exercise plans based on your health profile\n\nHUMAN PHYSIOLOGY (Premium)\n  • 201+ health parameters with normal ranges and clinical context\n  • Visual range bars, Simply Put + Clinical explanations\n  • Citations from WHO, CDC, AHA, NEJM, ACSM, and more\n  • One-time purchase — no subscription\n\n### My Health\n• Enter and track basic health parameters (age, weight, vitals)\n  • View history and trends over time\n  • MDConnect — physician communication tools",
+  "whatsNew": "Ads now appear in the free parts of the app. A one-time Remove Ads purchase turns them off (Restore Purchases is in Settings). Bug fixes and improvements.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "17+",
+  "privacyUrl": "https://equalinformation.com/privacy-ios.html",
+  "supportUrl": "https://bpupadhyaya.github.io",
+  "releasedAt": "2026-04-02",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.3",
+  "icon": "assets/apps/nutrisize/icon-512.webp",
+  "hero": "assets/apps/nutrisize/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/nutrisize/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/nutrisize/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/nutrisize/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/nutrisize/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/nutrisize/id6760806833",
+    "bundleId": "com.nutrisize.ios",
+    "appleId": "6760806833"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.nutrisize.ios"
+  },
+  "related": []
+}

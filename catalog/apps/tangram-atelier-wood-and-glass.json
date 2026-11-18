@@ -1,0 +1,66 @@
+{
+  "slug": "tangram-atelier-wood-and-glass",
+  "name": "Tangram Atelier: Wood & Glass",
+  "subtitle": "Fill the figure, leave no gap",
+  "categories": [
+    "puzzle",
+    "board-strategy"
+  ],
+  "tags": [
+    "seven-pieces",
+    "t-puzzle",
+    "pentomino",
+    "dissection",
+    "needle-s-eye",
+    "exact-cover",
+    "cutting-board",
+    "crown-jewels-shelf"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Tangram, T-puzzle and pentomino dissections with 300 checked figures, endless commissions and a four-step hint ladder.",
+  "longDescription": "The tangram, seven flat pieces that make a thousand shapes, is a Chinese dissection puzzle that reached Europe and America in the early nineteenth century and set off a craze. Tangram Atelier is a quiet workshop for puzzles of this kind. A walnut table, a cream cutting board with a figure cut into it, and a set of pieces you can really feel: pale maple, dark ebony, jewel glass, soft felt or glossy lacquer. Fill the dark figure so nothing overlaps and nothing is left over.\n\nThree kinds of piece are included. Tangram uses the seven classic pieces. The T-Puzzle uses four pieces that make a capital T and much else. Pentomino uses twelve shapes of five squares, packed into boxes and free-form figures.\n\nThree hundred shelf figures and more without end await. Every figure was woven by a program and then checked by an exact search that counts every possible tiling, so each one is solvable and its difficulty is measured, not guessed. Shelves group them by character: Warm-Ups, Gem Cuts, Tall Order, Long Horizons, Mirror Hall, Crown Jewels and Needle's Eye, where a figure has exactly one tiling.\n\nA daily puzzle arrives each day, the same for everyone, gentle on Monday and fierce on Sunday, with a streak and a calendar that fills in.\n\nHelp respects you. A four-step hint ladder makes the next piece glow, turn itself, show where it belongs, then place itself. If your pieces cannot lead to a solution, the app can tell you before you waste an hour.\n\nLight paper styling, a bottom tab bar and fluid portrait and landscape layouts complete the workshop.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-tangramdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-tangramdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/tangram-atelier-wood-and-glass/icon-512.webp",
+  "hero": "assets/apps/tangram-atelier-wood-and-glass/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/tangram-atelier-wood-and-glass/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tangram-atelier-wood-and-glass/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tangram-atelier-wood-and-glass/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tangram-atelier-wood-and-glass/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.tangramdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.tangramdeluxe.app"
+  },
+  "related": []
+}

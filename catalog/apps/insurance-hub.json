@@ -1,0 +1,71 @@
+{
+  "slug": "insurance-hub",
+  "name": "Insurance Hub",
+  "subtitle": "Every insurance. Honest price.",
+  "categories": [
+    "finance",
+    "utilities"
+  ],
+  "tags": [
+    "insurance",
+    "auto",
+    "home",
+    "health",
+    "medicare",
+    "life",
+    "flood",
+    "pet",
+    "motorcycle",
+    "umbrella",
+    "crop",
+    "workers-comp"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Free with ads. Remove ads anytime with the one-time Remove Ads purchase.",
+  "longDescription": "Insurance Hub compares 14 kinds of insurance using prices from public data — not lead-gen forms, not estimates. Every price traces to one specific, named, dated source.\n\nInsurance Hub is an independent, privately-built app. It is not a government agency and is not affiliated with, endorsed by, or operated on behalf of any government agency, insurance regulator, or Department of Insurance.\n\n### Data Sources\n• State Departments of Insurance rate filings, via the System for Electronic Rate and Form Filing: https://www.serff.com\n• CMS/Healthcare.gov Marketplace plan data: https://data.healthcare.gov/qhp-landscape-files\n• Medicare plan data: https://www.medicare.gov/plan-compare\n• FEMA National Flood Insurance Program policy data, via OpenFEMA: https://www.fema.gov/openfema-data-page/fima-nfip-redacted-policies-v2\n• USDA Risk Management Agency crop insurance rates: https://www.rma.usda.gov\n• NAIC (National Association of Insurance Commissioners) premium reports: https://naic.org\nWhere no government filing covers a figure, we use named, disclosed industry sources instead — for example MoneyGeek (moneygeek.com), NAPHIA (naphia.org), AALTCI (aaltci.org), and Squaremouth (squaremouth.com).\nEvery individual figure in the app displays its own specific source name, link, and snapshot date. The complete list of every source used, with links, is in-app under Settings → All Sources.\n\n### What Makes Insurance Hub Different\n• No lead-gen — you are never sold to insurance partners or agents.\n• On-device only — your comparisons and watchlist never leave your phone. No accounts, no sign-up.\n• An AI assistant that reads your situation in plain English and opens the right domain, pre-filled — runs entirely on-device.\n\n14 INSURANCE DOMAINS\nAuto, Home (including a landlord/rental-property coverage line), Renters, Health (free), Medicare, Life, Long-Term Care, Flood, Pet, Motorcycle, Umbrella, Crop, Workers' Compensation, and Travel.\n\n### Insurance Hub Unlock\nHealth is free, always. Opening any of the other 13 domains' real price data requires the Insurance Hub Unlock subscription, cancel anytime — kept current as carriers file new rates.\n\nInsurance Hub — every insurance, one hub, the honest price.\n\n### Disclaimer\nInsurance Hub provides comparative insurance price information computed from public data for informational and educational purposes only. It is not a government agency, and does not represent, is not affiliated with, and is not endorsed by any government agency or insurance regulator. EqualInformation, LLC is not an insurance carrier, agent, or broker, and does not sell, solicit, or negotiate insurance. Final premiums, eligibility, and coverage terms are determined solely by the insurance carrier. Always confirm details with the carrier or a licensed insurance professional before making coverage decisions.",
+  "whatsNew": "Ads now appear in the free parts of the app. A one-time Remove Ads purchase turns them off (Restore Purchases is in Settings). Bug fixes and improvements.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-insurancehub.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-insurancehub.html",
+  "releasedAt": "2026-08-12",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/insurance-hub/icon-512.webp",
+  "hero": "assets/apps/insurance-hub/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/insurance-hub/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/insurance-hub/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/insurance-hub/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/insurance-hub/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/insurance-hub/id6797125282",
+    "bundleId": "com.equalinformation.insurancehub.app",
+    "appleId": "6797125282"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.insurancehub.app",
+    "package": "com.equalinformation.insurancehub.app"
+  },
+  "related": []
+}

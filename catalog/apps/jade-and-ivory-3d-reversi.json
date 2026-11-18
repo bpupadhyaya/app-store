@@ -1,0 +1,65 @@
+{
+  "slug": "jade-and-ivory-3d-reversi",
+  "name": "Jade & Ivory: 3D Reversi",
+  "subtitle": "Flip discs, learn why it works",
+  "categories": [
+    "board-strategy"
+  ],
+  "tags": [
+    "othello-style",
+    "corner-discs",
+    "mobility",
+    "parity",
+    "stable-discs",
+    "anti-reversi",
+    "openings-trainer",
+    "perfect-solver"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Eight levels, a perfect endgame solver, 96 solved puzzles, an openings trainer and review. Classic, Small and Anti Reversi.",
+  "longDescription": "Reversi was invented in England in the 1880s and reborn in the twentieth century as a game whose rules fit on a beer mat and whose strategy fills books. Jade and Ivory is the flipping-discs game made with care: real-time 3D, an opponent you can trust, and several ways to learn why moves work.\n\nChoose Classic 8x8, the quick Small 6x6 board, or Anti-Reversi where fewest discs wins. Play eight computer levels from Pebble to Grandmaster, plus Adaptive, which follows your rating; the top level searches deep and then solves the last sixteen squares perfectly. Share a device and turn the board toward the other player, or open Auto Play, where the computer plays both sides with a plain line for each move. Pause, change speed, ask Think or take over at any moment. Hints mark the strongest move, a coach grades each move, and an evaluation bar shows who is ahead.\n\nLearn with fourteen interactive lessons on corners, mobility, quiet moves, edges, stable discs, parity, forcing a pass and counting the ending. A campaign of 96 puzzles in eight chapters was solved exactly by a perfect solver, so the best move is a fact, not an opinion. An openings trainer teaches named lines, lets you practise against the book and test yourself from memory. Daily challenges share a puzzle and an opening each day with a streak, and game review lets you step through any save.\n\nBoards come in felt, lacquer, maple and slate. Free with ads; go ad-free with an optional monthly pass or by earning time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-reversideluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-reversideluxe.html",
+  "releasedAt": "2026-10-16",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/jade-and-ivory-3d-reversi/icon-512.webp",
+  "hero": "assets/apps/jade-and-ivory-3d-reversi/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/jade-and-ivory-3d-reversi/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jade-and-ivory-3d-reversi/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jade-and-ivory-3d-reversi/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jade-and-ivory-3d-reversi/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.reversideluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.reversideluxe.app",
+    "package": "com.equalinformation.reversideluxe.app"
+  },
+  "related": []
+}

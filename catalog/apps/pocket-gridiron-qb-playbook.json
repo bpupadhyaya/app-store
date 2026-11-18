@@ -1,0 +1,65 @@
+{
+  "slug": "pocket-gridiron-qb-playbook",
+  "name": "Pocket Gridiron: QB Playbook",
+  "subtitle": "Call the play, read the D",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "quarterback",
+    "huddle",
+    "cover-3",
+    "blitz-pickup",
+    "red-zone",
+    "two-minute-drill",
+    "play-action",
+    "bullet-pass"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "You are the quarterback and the play caller: a 21-play book, adapting defences, a season, 44 situations and a daily drive.",
+  "longDescription": "American football is a game of decisions made in seconds, and no one makes more of them than the quarterback. Pocket Gridiron puts you behind center. Call the play, read how the defence lines up, and throw to the receiver who is open, in a real-time 3D stadium that fills any phone or tablet in portrait or landscape.\n\nEvery snap starts in the huddle with a 21-play playbook: quick game, crossers, corner routes, deep shots, play-action, screens and runs. After the snap a colour ring over each receiver shows how open he is. Tap to throw, or press and drag to place the ball. Choose Bullet, Standard or Touch, fast and flat for a tight window or a soft arc over a linebacker. Wait too long and the rush arrives.\n\nThe defence adapts. It calls from a tree built on down, distance, field position, the clock and what you ran last. It plays Cover 1 to Cover 4, man or zone, disguises its safeties and brings the blitz, and after every snap you see what it called so you can learn what beats it. After the catch, drag to steer the runner, tap to juke and break tackles with angles instead of luck.\n\nPlay a Season with one of eight invented teams, seven games and a four-team playoff. Take on 44 situations across the red zone, the goal line, the two-minute drill, third and long and fourth-down gambles, with star ratings. A Daily Drive gives everyone the same series.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-gridirondeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-gridirondeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/pocket-gridiron-qb-playbook/icon-512.webp",
+  "hero": "assets/apps/pocket-gridiron-qb-playbook/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/pocket-gridiron-qb-playbook/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pocket-gridiron-qb-playbook/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pocket-gridiron-qb-playbook/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pocket-gridiron-qb-playbook/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.gridirondeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.gridirondeluxe.app"
+  },
+  "related": []
+}

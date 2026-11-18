@@ -1,0 +1,70 @@
+{
+  "slug": "earth-atlas-picture-games",
+  "name": "Earth Atlas: Picture Games",
+  "subtitle": "Maps, capitals, animals & more",
+  "categories": [
+    "education",
+    "casual"
+  ],
+  "tags": [
+    "geography",
+    "world",
+    "map",
+    "capitals",
+    "countries",
+    "flags",
+    "quiz",
+    "atlas",
+    "rivers",
+    "mountains",
+    "animals",
+    "learn"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Play the planet on real maps: capitals, rivers, mountains, animals and more. Capital Cities is free; others have a free preview.",
+  "longDescription": "Earth Atlas: Picture Games is a set of geography games on real maps. See a country on its map and flag, a river's path or a mountain's country, then tap the city, animal, river, mountain, climate or neighbour that belongs to it.\n\nCapital Cities is free to play. Each of the other ten games is a one-time purchase, with no subscription, and every one of them can be tried free for 90 seconds of play first.\n\n### The Games\n- Capital Cities (free): the country on its map and flag, three city cards with clues\n- Find It on the Map: put every country in its place\n- Country Sizes and Populations: guess how big it is or how many people live there\n- Neighbours and World Regions: who borders whom, and where it lies\n- Which Animal Lives Here?: read the range map, spot the animal\n- Which River or Lake?: follow the water across the map\n- Which Mountain Is This?: spot the peak or volcano by its country\n- What's the Weather Like?: pin a city, pick its climate\n- Which Food Comes From Here?: from dumplings to cheeses, find the home country\n- Which Language Is Spoken Here?: match countries and their languages\n- Where Did It Happen?: launches, flights, expeditions and quakes by country\n\n### Geography Games for Everyone\nCountry maps, world capitals, capital cities, animals of the world, rivers and lakes, mountains and volcanoes, map games, neighbours, population and regions: learn geography by playing. Every play draws fresh countries and animals from the whole world, or you can pick a continent. Wrong cards grey out so you can try again.\n\n### Also Inside\n- Optional quizzes and flashcards on every topic\n- Text size from 100% to 300%, five colour themes and a reduce-motion setting\n\nPlays offline once installed (ads load only when online): no account or sign-in needed. Every game lists the sources of its facts, such as Natural Earth and United Nations statistics.\n\nPurchases are handled by the App Store. Capital Cities is free; each other game has a free 90-second preview, then a one-time purchase of US$0.99 (price varies by country).",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-earth-atlas.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-earth-atlas.html",
+  "releasedAt": "2026-10-20",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/earth-atlas-picture-games/icon-512.webp",
+  "hero": "assets/apps/earth-atlas-picture-games/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/earth-atlas-picture-games/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/earth-atlas-picture-games/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/earth-atlas-picture-games/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/earth-atlas-picture-games/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.earthatlas"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.earthatlas",
+    "package": "com.equalinformation.earthatlas"
+  },
+  "related": []
+}

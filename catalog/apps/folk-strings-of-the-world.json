@@ -1,0 +1,67 @@
+{
+  "slug": "folk-strings-of-the-world",
+  "name": "Folk Strings of the World",
+  "subtitle": "Tiple, Gusle, Jouhikko & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "tiple",
+    "guitarron",
+    "gusle",
+    "tromba-marina",
+    "jouhikko",
+    "ravanahatha",
+    "fiddle",
+    "folk",
+    "strings",
+    "bowed"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "6 folk string instruments to play: Tiple, Guitarron, Gusle and Tromba marina.",
+  "longDescription": "Folk Strings of the World: six folk string instruments from around the world, in one app that works fully offline.\n\nInside: the Colombian tiple, the Mexican guitarron, the Balkan gusle, the medieval tromba marina, the Finnish jouhikko and the bowed bamboo ravanahatha of Rajasthan.\n\nEach instrument is drawn in detail and played by touch. Pluck and strum the twelve-string tiple and the big bass guitarron, draw the bow across the one-string gusle, the long string of the tromba marina, the horsehair strings of the jouhikko and the bells of the ravanahatha bow. Notes arrive along each string; touch them in time and hear the real voice of the instrument. A short note on every page tells where the tradition comes from and how it is played.\n\nLearn at your own pace: watch a demonstration first, read the rules and the how-to-play page, and enlarge the text if you like. Works in portrait and landscape.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/folk-strings-of-the-world/icon-512.webp",
+  "hero": "assets/apps/folk-strings-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/folk-strings-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/folk-strings-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/folk-strings-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/folk-strings-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.folkstringsoftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.folkstringsoftheworld",
+    "package": "com.equalinformation.whg.folkstringsoftheworld"
+  },
+  "related": []
+}

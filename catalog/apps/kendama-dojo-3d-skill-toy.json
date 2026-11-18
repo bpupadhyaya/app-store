@@ -1,0 +1,66 @@
+{
+  "slug": "kendama-dojo-3d-skill-toy",
+  "name": "Kendama Dojo: 3D Skill Toy",
+  "subtitle": "Lift, swing, catch the ball",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "kendama",
+    "ken-and-ball",
+    "spike-seat",
+    "six-belts",
+    "flow-run",
+    "cup-catch",
+    "veranda-room",
+    "moon-garden",
+    "trick-grade"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A kendama you can hold: a heavy ball on a real string, thirty tricks in six belts, lessons, Flow Run and Auto Play.",
+  "longDescription": "Kendama is a Japanese skill toy, a wooden ken with cups and a spike and a ball on a string, that took off in the 1970s and is now a worldwide pastime. Kendama Dojo is a kendama you can hold: a wooden ken, three cups, a spike and a heavy ball on a real string, simulated in 3D, with a lifelike hand on the handle.\n\nDrag a finger and the hand follows, with the speed limits of a real arm. Flick up and stop: the string goes slack and the ball floats up. Slide a cup under it and go down with it so it lands softly. A catch counts when the ball rests on the cup or sits on the spike. The hole in the ball always turns toward the string, so the spike needs a straight, calm approach.\n\nThe Dojo holds thirty tricks across six belts, from a first lift to long chains with the ken turned over. Every trick is graded S to C by drops and softness. Open a belt by finishing four tricks of the one before, and unlock new ken finishes, ball colours and rooms: a dusk veranda, a tatami room and a moon garden.\n\nPlay your way with eight short lessons with a trainer, a two-minute Flow Run with a combo multiplier and three lives, a Daily Trick that is the same for everyone, and Free Play with no goals. In Auto Play the computer performs tricks with the same physics while you pause, speed up, ask Think to explain the plan and show the ball's path, or take over.\n\nA steady-hands assist runs from off to strong, with text size up to 300 percent.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-kendamadeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-kendamadeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.1",
+  "icon": "assets/apps/kendama-dojo-3d-skill-toy/icon-512.webp",
+  "hero": "assets/apps/kendama-dojo-3d-skill-toy/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/kendama-dojo-3d-skill-toy/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/kendama-dojo-3d-skill-toy/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/kendama-dojo-3d-skill-toy/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/kendama-dojo-3d-skill-toy/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.kendamadeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.kendamadeluxe.app"
+  },
+  "related": []
+}

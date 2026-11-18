@@ -1,0 +1,65 @@
+{
+  "slug": "basketry-and-straw-of-the-world",
+  "name": "Basketry & Straw of the World",
+  "subtitle": "Agaseke, Kiondo & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "coil-basket",
+    "agaseke",
+    "kiondo",
+    "bolga",
+    "mesob",
+    "bijenkorf",
+    "basket-weaving",
+    "straw-plaiting"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "6 basketry and straw-weaving traditions to play: Botswana coil basket weaving, Agaseke basket weaving, Kiondo basket weaving and Bolga basket weaving.",
+  "longDescription": "Basketry & Straw of the World: 6 basketry and straw-weaving traditions from 6 countries, in one app that works fully offline.\n\nInside: Botswana coil basket weaving, Agaseke basket weaving, Kiondo basket weaving, Bolga basket weaving, Mesob basket weaving and Bijenkorfvlechten.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can weave baskets and straw craft, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/basketry-and-straw-of-the-world/icon-512.webp",
+  "hero": "assets/apps/basketry-and-straw-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/basketry-and-straw-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/basketry-and-straw-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/basketry-and-straw-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/basketry-and-straw-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.basketryandstrawoftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.basketryandstrawoftheworld",
+    "package": "com.equalinformation.whg.basketryandstrawoftheworld"
+  },
+  "related": []
+}

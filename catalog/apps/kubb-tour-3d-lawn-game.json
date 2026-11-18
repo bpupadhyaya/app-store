@@ -1,0 +1,64 @@
+{
+  "slug": "kubb-tour-3d-lawn-game",
+  "name": "Kubb Tour: 3D Lawn Game",
+  "subtitle": "Topple the wood, fell the king",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "kubb",
+    "baseline-kubbs",
+    "field-kubb",
+    "advantage-line",
+    "baton-throw",
+    "swedish-yard-game",
+    "king-kubb"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Swedish kubb with rigid-body wood: field kubbs first, then the baseline, then the king, across five events and eight rivals.",
+  "longDescription": "Kubb is the Swedish lawn game, sometimes called Viking chess, played with wooden blocks, a king and six batons. Kubb Tour brings it to real-time 3D. Two teams, two rows of kubbs and a king in the middle: throw batons that tumble end over end to topple the other team's kubbs, throw your fallen kubbs back into the field, clear them, take the baseline, and only then fell the king.\n\nTap a kubb to aim, pull down on the pad for distance, sweep up and let go: the height you release at is the loft. A ring, an error oval and a dotted arc show where the baton will come down, and a small baton symbol tells you if it arrives flat. Step along the baseline, choose a low skimmer or a high lob, and watch the wood tip, slide and knock into its neighbours.\n\nThe rules are real. Field kubbs first, then the baseline, then the king. Wrong order and the kubb stands back up. Leave a field kubb standing and your rival gets the advantage line. Miss a kubb throw twice and they place it where it hurts. Knock the king down too early and you lose. Pitch, kubbs, king and batons are in real sizes, and the wood is simulated as rigid bodies.\n\nThe Tour has five events from an apple garden to a floodlit championship lawn, each a ladder of three matches against eight rivals who think by playing throws out on a copy of the lawn. Sprint matches take a few minutes and Classic matches longer.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-kubbdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-kubbdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/kubb-tour-3d-lawn-game/icon-512.webp",
+  "hero": "assets/apps/kubb-tour-3d-lawn-game/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/kubb-tour-3d-lawn-game/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/kubb-tour-3d-lawn-game/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/kubb-tour-3d-lawn-game/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/kubb-tour-3d-lawn-game/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.kubbdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.kubbdeluxe.app"
+  },
+  "related": []
+}

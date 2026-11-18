@@ -1,0 +1,67 @@
+{
+  "slug": "sails-and-canoes-of-the-world",
+  "name": "Sails & Canoes of the World",
+  "subtitle": "Canoes, Sails & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "sailing",
+    "canoe",
+    "regatta",
+    "felucca",
+    "jangada",
+    "outrigger",
+    "mokoro",
+    "racing",
+    "boats",
+    "paddle"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "7 sailing and paddling craft of the world to play: Jangada Sailing, Family Island Regatta, Nile Felucca and Outrigger Canoe Race.",
+  "longDescription": "Sails & Canoes of the World: 7 sailing and paddling craft of the world from 7 countries, in one app that works fully offline.\n\nInside: Jangada Sailing, Family Island Regatta, Nile Felucca, Outrigger Canoe Race, Ice Canoe Race, Mokoro Polling and Ngalawa Sailing.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can trim the sail, paddle in time and race traditional boats, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/sails-and-canoes-of-the-world/icon-512.webp",
+  "hero": "assets/apps/sails-and-canoes-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/sails-and-canoes-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sails-and-canoes-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sails-and-canoes-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sails-and-canoes-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.sailsandcanoesoftheworld"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.whg.sailsandcanoesoftheworld"
+  },
+  "related": []
+}

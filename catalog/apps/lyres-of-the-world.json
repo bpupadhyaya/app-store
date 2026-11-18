@@ -1,0 +1,66 @@
+{
+  "slug": "lyres-of-the-world",
+  "name": "Lyres of the World",
+  "subtitle": "Simsimiyya, Nyatiti & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "lyre",
+    "simsimiyya",
+    "kissar",
+    "nyatiti",
+    "litungu",
+    "obokano",
+    "strings",
+    "africa",
+    "instrument"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "6 lyres of Africa and the Mediterranean to play: Simsimiyya, Kissar, Nyatiti and Litungu.",
+  "longDescription": "Lyres of the World: 6 lyres of Africa and the Mediterranean from 4 countries, in one app that works fully offline.\n\nInside: Simsimiyya, Kissar, Nyatiti, Litungu, Obokano and Lyre.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can play the lyres of Egypt, Kenya, Nubia and the Mediterranean, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/lyres-of-the-world/icon-512.webp",
+  "hero": "assets/apps/lyres-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/lyres-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lyres-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lyres-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/lyres-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.lyresoftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.lyresoftheworld",
+    "package": "com.equalinformation.whg.lyresoftheworld"
+  },
+  "related": []
+}

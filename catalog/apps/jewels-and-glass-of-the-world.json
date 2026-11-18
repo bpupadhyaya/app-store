@@ -1,0 +1,67 @@
+{
+  "slug": "jewels-and-glass-of-the-world",
+  "name": "Jewels & Glass of the World",
+  "subtitle": "Filigree, Beads & Glass",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "filigree",
+    "tarakasi",
+    "chengdu",
+    "minakari",
+    "enamel",
+    "maasai",
+    "beadwork",
+    "glassblowing",
+    "hebron",
+    "goblet"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "6 jewellery, beadwork and glass traditions to play: Tarakasi silver filigree, Chengdu silver filigree, Minakari and Maasai beadwork.",
+  "longDescription": "Jewels & Glass of the World: 6 jewellery, beadwork and glass traditions from 6 countries, in one app that works fully offline.\n\nInside: Tarakasi silver filigree, Chengdu silver filigree, Minakari, Maasai beadwork, Venetian glassblowing and Hebron glassblowing.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can twist silver filigree, fire enamel, thread beads and blow glass, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/jewels-and-glass-of-the-world/icon-512.webp",
+  "hero": "assets/apps/jewels-and-glass-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/jewels-and-glass-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jewels-and-glass-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jewels-and-glass-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jewels-and-glass-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.jewelsandglassoftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.jewelsandglassoftheworld",
+    "package": "com.equalinformation.whg.jewelsandglassoftheworld"
+  },
+  "related": []
+}

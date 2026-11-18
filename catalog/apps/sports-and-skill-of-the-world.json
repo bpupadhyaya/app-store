@@ -1,0 +1,66 @@
+{
+  "slug": "sports-and-skill-of-the-world",
+  "name": "Sports & Skill of the World",
+  "subtitle": "Pinata swing, Arnis & more",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "pinata-swing",
+    "pinata",
+    "daruma-otoshi",
+    "eskrima",
+    "arnis-stick-fighting",
+    "bakiak",
+    "bakya",
+    "pencak-silat",
+    "kotta-pora"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "18 sports and skill games to play: Pinata Swing, Daruma Otoshi, Arnis and Bakiak.",
+  "longDescription": "Sports & Skill of the World: 18 sports and skill games from 22 countries, in one app that works fully offline.\n\nInside: Pinata Swing, Daruma Otoshi, Arnis, Bakiak, Pencak Silat, Ring Tilting, Mounted Archery Course, Cheese Rolling Hill, Canal ice-skating marathon, Camel Racing Dash, Kotta Pora, Nouka Baich, Kambala, Kushti earth-pit wrestling, Silambam staff duel, Laamb, Moraingy and Nguni stick-fighting skirmish.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can aim and throw games, skill sports and bouts and race and rhythm sports, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-13",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/sports-and-skill-of-the-world/icon-512.webp",
+  "hero": "assets/apps/sports-and-skill-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/sports-and-skill-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sports-and-skill-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sports-and-skill-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/sports-and-skill-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.sportsandskilloftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.sportsandskilloftheworld",
+    "package": "com.equalinformation.whg.sportsandskilloftheworld"
+  },
+  "related": []
+}

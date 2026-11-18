@@ -1,0 +1,65 @@
+{
+  "slug": "rice-terraces-water-gates",
+  "name": "Rice Terraces: Water Gates",
+  "subtitle": "Open the gates, fill paddies",
+  "categories": [
+    "puzzle",
+    "word"
+  ],
+  "tags": [
+    "irrigation-puzzle",
+    "water-pulses",
+    "bamboo-trough",
+    "twin-gates",
+    "locked-gate",
+    "hillside-par",
+    "golden-rice"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A pulse-routing puzzle on stepped paddies: 48 hillsides, exact par, linked and locked gates, no people and no timer.",
+  "longDescription": "Rice terraces, cut into mountainsides from the Philippines to China and Indonesia, work because water is shared down a staircase of paddies by gates that farmers open and close by hand. Rice Terraces: Water Gates is a calm, clever puzzle about doing the same. Open and close gates so that every paddy fills, then press Open the spring and watch the water run, drop by drop, through bamboo troughs and gates until the rice turns golden.\n\nWater arrives in separate pulses. A paddy with room soaks one up. A full paddy sends the next pulse out through its next open gate, taking its open gates in turn. Pulses with nowhere to go are lost, and the spring only gives a little to spare. Read the layout like a small program and decide which gates to open.\n\nThe journey has six chapters and forty-eight hillsides: spring water, side gates between neighbours, almost no water to spare, gates locked in stone and twin gates joined by a rod. Every hillside has an exact par, the fewest gate changes that solve it, worked out by trying every combination, and three stars for reaching it.\n\nEight lessons use short cards and tiny hillsides to explain every rule, and Hint is always free in lessons, explaining each change in plain words. In Auto Play the computer solves a hillside and says why it changes each gate, with Pause, speed from half to four times, Think and Take over.\n\nThe hillside is real-time 3D, with stone-walled terraces, reflective water that rises, rice that grows and turns golden, and four seasons of light. No people appear and there is no timer.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-riceterracesdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-riceterracesdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/rice-terraces-water-gates/icon-512.webp",
+  "hero": "assets/apps/rice-terraces-water-gates/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/rice-terraces-water-gates/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rice-terraces-water-gates/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rice-terraces-water-gates/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rice-terraces-water-gates/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.riceterracesdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.riceterracesdeluxe.app"
+  },
+  "related": []
+}

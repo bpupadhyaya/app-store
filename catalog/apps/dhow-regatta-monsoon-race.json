@@ -1,0 +1,67 @@
+{
+  "slug": "dhow-regatta-monsoon-race",
+  "name": "Dhow Regatta: Monsoon Race",
+  "subtitle": "Race a lateen dhow upwind",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "lateen-sail",
+    "layline",
+    "no-go-zone",
+    "gybe",
+    "windward-mark",
+    "lamu",
+    "muscat",
+    "zanzibar",
+    "malacca",
+    "right-of-way"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Fleet racing in six monsoon waters: laylines, gusts, tacks, right of way and thirty races against five rival crews.",
+  "longDescription": "For more than a thousand years, lateen-rigged dhows carried traders across the Indian Ocean on the monsoon winds, from East Africa to Arabia and India. Dhow Regatta turns that heritage into a racing game: start on the gun, beat upwind in a zigzag, tack on the layline, ease the sheet in a gust and round the marks ahead of five rival crews.\n\nThe sailing is simulated. A dhow cannot sail straight into the wind, so sail 55 degrees off it, zigzag toward the mark and turn at the layline. Reach, run and gybe. Trim the sheet for the wind angle or leave auto-trim on. A sailing compass shows the wind, the no-go zone, the mark and your heading, and a wind-up map shows the whole course.\n\nSix monsoon waters set the scene: Lamu Channel at dawn, Muscat Bay under red cliffs, Mombasa Reach over turquoise shoals, Calicut Roads in monsoon squalls, Zanzibar Bank at golden hour and Malacca Strait at sunset. The sea reflects the sky, gust patches darken the water and wakes foam behind detailed dhows.\n\nThirty races mix reaching courses, windward-and-home, triangles and windward-leeward laps, with fleets of four to six. A countdown start behind the line, right-of-way rules, buoys to round and a finish line make each race a contest. First place earns three stars.\n\nEight short lessons teach steering, the sheet and tacking, a daily race gives everyone the same course, and Auto Play shows a good line.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-dhowsailingdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-dhowsailingdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/dhow-regatta-monsoon-race/icon-512.webp",
+  "hero": "assets/apps/dhow-regatta-monsoon-race/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/dhow-regatta-monsoon-race/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dhow-regatta-monsoon-race/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dhow-regatta-monsoon-race/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dhow-regatta-monsoon-race/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.dhowsailingdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.dhowsailingdeluxe.app"
+  },
+  "related": []
+}

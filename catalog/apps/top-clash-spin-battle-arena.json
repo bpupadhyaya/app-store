@@ -1,0 +1,65 @@
+{
+  "slug": "top-clash-spin-battle-arena",
+  "name": "Top Clash: Spin Battle Arena",
+  "subtitle": "Wind, launch, out-spin them",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "gasing-uri",
+    "koma-top",
+    "trompo",
+    "lattu",
+    "tuoluo",
+    "peg-top",
+    "top-crown-and-tip",
+    "bowl-dish-arena"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Six heritage tops with real spin physics: choose parts, aim your launch and battle through four cups and three stadiums.",
+  "longDescription": "Spinning tops are among the oldest toys in the world, and many cultures have turned them into contests: Malaysia's gasing, Japan's koma, the Philippine trompo, India's lattu, China's tuoluo and the British peg top. Top Clash is a spinning-top battle arena with real spin physics. Wind the cord, aim your launch and let go: two tops spin into a lit 3D stadium, collide, grind and tire until one rolls out through a gate or leans over and falls.\n\nSix heritage tops each have a real shape, weight and way of spinning. Choose a crown (steel, brass, spiked or vaned) and a tip (flat peg, ball, steel pin or rubber foot), then paint it and pick an emblem.\n\nThe physics make decisions matter. Heavy tops store more spin. Tall tops tip sooner. A ball tip curls the path the way the top spins. Tops that spin the same way grind each other down, while opposite spinners bite and fling apart. Press and drag to lean your top toward a hit or away from danger, at a cost in spin.\n\nWin four eight-player cups to unlock new parts and stadiums: the Bowl Dish, the Flat Plate with three open gates and the Ridge Crown with its hump. Play quick duels against ten rivals at five skill levels, learn in eight short lessons and take on the Daily Duel.\n\nIn Auto Play you can watch the computer fight a match and press Think to hear why a move makes sense. Pause for real, speed it up or take over.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-spinningtopsdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-spinningtopsdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/top-clash-spin-battle-arena/icon-512.webp",
+  "hero": "assets/apps/top-clash-spin-battle-arena/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/top-clash-spin-battle-arena/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/top-clash-spin-battle-arena/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/top-clash-spin-battle-arena/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/top-clash-spin-battle-arena/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.spinningtopsdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.spinningtopsdeluxe.app"
+  },
+  "related": []
+}

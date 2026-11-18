@@ -1,0 +1,70 @@
+{
+  "slug": "plainspeak",
+  "name": "PlainSpeak - Translator",
+  "subtitle": "Speak, Type, Scan — Offline",
+  "categories": [
+    "utilities"
+  ],
+  "tags": [
+    "translate",
+    "offline",
+    "language",
+    "travel",
+    "voice",
+    "camera",
+    "phrasebook",
+    "emergency",
+    "phrase",
+    "speech",
+    "dictionary",
+    "sos"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Speak, type, or scan to translate instantly — 100% offline. No accounts, no cloud. Ads can be removed. Built for borders and emergencies.",
+  "longDescription": "PlainSpeak translates speech, text, and camera-scanned text entirely on your device — no internet connection required, no account, no cloud. Every translation happens locally, even when you have zero bars.\n\nTalk naturally in Voice mode, type in Text mode, or point your camera at a menu, sign, or document in Camera mode for an instant translation. Together mode turns your phone into a shared conversation hub for a group speaking different languages at once — hold it up, tap your name, and speak.\n\nDownload language packs before you travel so translation keeps working with no signal at all — on a plane, in the mountains, crossing a border, or anywhere data is unreliable or expensive.\n\nEmergency, medical, and legal-rights phrase packs are built in and permanently free — pre-translated, one-tap phrases for the moments a language barrier is most dangerous to have: \"I need a doctor,\" \"I'm allergic to...,\" \"I want a lawyer.\"\n\nEvery accessibility feature is free forever too: text-first conversation mode, large-text/high-contrast display, adjustable speech rate, and low-literacy icon-assisted phrases.\n\nYour conversations are yours. PlainSpeak has no servers, no accounts, and no cloud logging — the only network calls are to your device's own translation engine and a standard public currency-rate feed. Nothing you say is ever collected, sold, or shared.\n\nPlainSpeak Pro ($4.99/month or $69.99 lifetime) adds group conversation mode for larger groups, live camera overlay translation, unlimited language packs, structured menu/document scanning, and language-learning tools — never the ability to communicate, which stays free for everyone.\n\nWhether you're traveling, welcoming a mixed-language family member, volunteering at a border crossing, or just need to order dinner in a language you don't speak — PlainSpeak works, instantly, privately, offline.",
+  "whatsNew": "PlainSpeak now shows ads in its free content (Google AdMob; you will see a consent prompt where required). A one-time \"Remove Ads\" purchase removes them. Restore Purchases is in Settings. Existing purchases are unchanged.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-plainspeak.html",
+  "supportUrl": "https://equalinformation.com/app-support-plainspeak.html",
+  "releasedAt": "2026-09-17",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/plainspeak/icon-512.webp",
+  "hero": "assets/apps/plainspeak/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/plainspeak/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainspeak/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainspeak/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainspeak/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/plainspeak-translator/id6804144334",
+    "bundleId": "com.equalinformation.plainspeak.app",
+    "appleId": "6804144334"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.plainspeak.app",
+    "package": "com.equalinformation.plainspeak.app"
+  },
+  "related": []
+}

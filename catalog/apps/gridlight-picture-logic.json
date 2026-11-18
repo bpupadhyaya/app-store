@@ -1,0 +1,66 @@
+{
+  "slug": "gridlight-picture-logic",
+  "name": "Gridlight: Picture Logic",
+  "subtitle": "Numbers become lit glass",
+  "categories": [
+    "puzzle",
+    "word"
+  ],
+  "tags": [
+    "nonogram",
+    "griddler",
+    "hanjie",
+    "grand-mural",
+    "colour-clues",
+    "logic-coach",
+    "pattern-studio",
+    "glass-relief"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Number clues become pictures: 474 hand-checked puzzles, colour pictures, grand murals and a coach that explains the logic.",
+  "longDescription": "Nonograms, also called griddlers or hanjie, were invented in Japan in the 1980s and spread through puzzle magazines as pictures hidden in grids of numbers. Gridlight turns number clues into pictures. Read the numbers beside each row and column, decide which cells belong and fill them in. Finish, and the flat grid does something no paper puzzle can: the picture lifts out of its tray as a relief of lit glass that you can turn with a finger.\n\nThere are hundreds of original pictures in twelve themed collections: gardens, tide pools, workshops, music rooms, little towns and more. Colour pictures give each clue its own colour, and runs of different colours may touch. Grand Murals reach 40 by 40 with pinch-to-zoom and smooth panning, and a Pattern Studio offers stars, rosettes and kaleidoscopes where the logic is the beauty. Quick Play makes a fresh picture in the size you pick. Every picture, drawn or generated, is checked to have exactly one solution that logic alone can reach, so you never have to guess.\n\nChoose how to play. Relaxed gently refuses a wrong move and hints are free. Classic flags mistakes in red at once and costs a little time. Strict gives three lives, no hints and no auto-cross.\n\nStuck? Ask the logic coach. It finds a line where the clues force something new, lights it up and explains the reasoning in plain words: overlap, exact fit, a finished line or a cell nothing can reach. Seven guided lessons teach the rules, and a daily picture arrives every day.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-gridlight.html",
+  "supportUrl": "https://equalinformation.com/app-support-gridlight.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/gridlight-picture-logic/icon-512.webp",
+  "hero": "assets/apps/gridlight-picture-logic/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/gridlight-picture-logic/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gridlight-picture-logic/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gridlight-picture-logic/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gridlight-picture-logic/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.nonogramdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.nonogramdeluxe.app"
+  },
+  "related": []
+}

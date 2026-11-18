@@ -1,0 +1,71 @@
+{
+  "slug": "arcforge-world-heritage-games",
+  "name": "Arcforge: World Heritage Games",
+  "subtitle": "Games from every heritage",
+  "categories": [
+    "puzzle",
+    "board-strategy"
+  ],
+  "tags": [
+    "chess",
+    "mahjong",
+    "mancala",
+    "backgammon",
+    "shogi",
+    "xiangqi",
+    "carrom",
+    "oware",
+    "kabaddi",
+    "origami",
+    "crossword",
+    "reversi"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Over 250 world heritage games to learn and play. Free to play, earn ad-free months by watching, or go ad-free monthly. Works offline.",
+  "longDescription": "Arcforge is a growing collection of games from the heritage of every culture: board, card, dice, tile, puzzle, dexterity and team-sport traditions, each explained so anyone can learn it. These are real games that real people still play, and each Rules page states any simplification we made. Every game has an About page that says where it comes from and how it is played. No accounts, and everything plays offline.\n\n### How It Works\nEvery game is free to play, with short ads that help keep it free. Want fewer ads? Earn ad-free play for the month in any game by watching optional short videos; progress is shown and resets monthly. Prefer to pay? An optional per-game monthly subscription, Go ad-free every month, removes ads in that game. Nobody needs to pay to play, and earlier one-time unlocks stay ad-free for good.\n\n### Learn As You Play\nEvery game has a Rules page and a How to Play guide, with text size up to 300%. Auto Play (Watch & Learn) lets the computer play and explain its choices, and you can pause it or ask for a hint.\n\n### Board Games of the World\nChess (India), Go, Shogi, Xiangqi, Makruk, Janggi, Renju, Hasami Shogi, Dame, Seega, Alquerque, Ludus Latrunculorum (Rome), Reversi, Halma, Jungle and Chaturanga, Turkish Dama, Kharbaga, Zamma, Peralikatuma, Co Ganh and Yote. Hunt, capture and mill games: Tiger and Goat, Fox and Geese, Hare and Hounds, Tafl, Konane, Nine Men's Morris, Morabaraba, Fanorona and Sholo Guti and Lau Kata Kati.\n\n### Sowing Games\nOware (West Africa), Congklak, Toguz Kumalak, Bao la Kiswahili, O An Quan, Gabata and Hawalis, played by sowing seeds.\n\n### Dice and Race Games\nPachisi and Snakes & Ladders (India), the Royal Game of Ur, Senet (Ancient Egypt), Tavla, Yut Nori, Parques, Shagai, Mehen, Shut the Box and Sahkku, Daldos, Game of the Goose and Patolli.\n\n### Card and Tile Games\nBaloot (the Gulf), Tarneeb (the Levant), Durak, Scopa, Truco, Loteria, Okey, Domino Cubano, Mahjong (China), Carrom, Dudo and Morra and Mheibes.\n\n### Team Sports\nTake one role while the computer plays the rest of the field: football, basketball 3x3, volleyball, American football, hurling (Ireland), Chogan, Kabaddi, Sepak Takraw, cricket, Ampe, Matkot and Kok-boru, Buzkashi and Cirit.\n\n### Sports and Skill\nTennis, Table Tennis, Badminton, Baseball, Datse archery (Bhutan), Mini Golf Links, Ski Jump, Rugby Conversion, Dragon Boat Race and Tent Pegging, Mallakhamb, Glima, Kurash, Ssireum, Wave Riding, Sled Dog Race and Sack Race.\n\n### Dexterity and Lawn Games\nKubb, cornhole, Sapo, Tumbang Preso, Diketo, Gonggi, Ken and Ball, Kegeln, Petanque, Crokinole, darts, Bocce, diabolo, Ddakji, Gilli-Danda, Marbles, Conkers, snooker, curling and Sjoelen, Tejo, Gorodki and more.\n\n### Puzzles and Words\nTangram and Huarong Dao, Nonogram and Sudoku, Peg Solitaire, Kolam, Chinese Rings, Abacus, Labyrinth (Crete), Crossword, Tower of Hanoi, Sure Sweep, Crown Fields, Word Game and Lo Shu Magic Square and Hashi Bridges.\n\n### Rhythm and Music\nTaiko, Koto, Djembe, Kora, Gamelan, Oud and Launeddas Triple Pipe, Sega Ravanne Drum and Santoor.\n\n### Crafts\nOrigami, Kintsugi and Bonsai (Japan), Ink Brush and Paper Cutting (China), Pottery Wheel, Quilt Patterns and Maamoul Cookie Moulding and Kantha Quilt.\n\n### Journeys and Stories\nSilk Road Trader, Pearl Diving, Dhow Sailing, Rice Terraces, Anansi Tales and Pinisi and Kamishibai.\n\n### Arcforge Originals\nGolden Sling (a slingshot skill game with a new Daily Hunt every day), Perch, One Arrow Oath, Kite Duel, Steppe Eagle Hunting and The Road to Lanka, an illustrated story adventure.",
+  "whatsNew": "Polish and fixes: a smaller, tidier menu button that stays out of the way of game controls, clearer wording about earning ad-free play each month, and small reliability improvements.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-arcforge.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-arcforge.html",
+  "releasedAt": "2026-09-24",
+  "updatedAt": "2026-11-17",
+  "version": "5.5.1",
+  "icon": "assets/apps/arcforge-world-heritage-games/icon-512.webp",
+  "hero": "assets/apps/arcforge-world-heritage-games/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/arcforge-world-heritage-games/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/arcforge-world-heritage-games/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/arcforge-world-heritage-games/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/arcforge-world-heritage-games/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/arcforge-world-heritage-games/id6813746442",
+    "bundleId": "com.equalinformation.arcforge.shell",
+    "appleId": "6813746442"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.arcforge.shell",
+    "package": "com.equalinformation.arcforge.shell"
+  },
+  "related": []
+}

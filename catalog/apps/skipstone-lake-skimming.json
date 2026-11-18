@@ -1,0 +1,65 @@
+{
+  "slug": "skipstone-lake-skimming",
+  "name": "Skipstone: Lake Skimming",
+  "subtitle": "Pull back, snap your wrist",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "stone-skipping",
+    "skim-hoops",
+    "mirror-cove",
+    "alpine-tarn",
+    "open-swell",
+    "milk-quartz",
+    "sunset-agate",
+    "wetted-edge"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Choose a stone, set tilt and lean, then skim across five lit waters: forty contests, hoops, buoy lanes and a daily throw.",
+  "longDescription": "Stone skipping is the simplest water game there is: find a flat stone, throw it low and count the bounces. It has world championships and a long folklore, and the best throws seem to hover above the surface. Skipstone is a stone-skipping game with a real physics model. Choose a stone, set its tilt and lean, pull back like a slingshot and snap your wrist; the stone, the water and the waves are all simulated, so every skip is earned.\n\nA flat stone hits the water on its wetted edge. Speed, tilt and spin decide whether it skips, curves, wobbles or sinks. Fast stones like a flatter angle, and a spinning stone holds its angle through the run.\n\nFive waters are lit in real-time 3D with reflections, rings and spray: Mirror Cove at dawn, Alpine Tarn with lily pads, Harbour Chop with short waves, Willow Bend with drifting hoops and Open Swell at sunset, where a long swell lifts and drops the surface under every touchdown.\n\nForty contests make the tour: most skips, longest throw, thread the floating hoops and stay between the buoys, eight contests per water with three stars each. Every contest is checked by a thrower that plays it on the same physics, so it can always be won. A new Daily throw arrives every day.\n\nSix stones, beach flint, river slate, basalt, milk quartz, green jade and sunset agate, each have their own size, weight and surface. Eight short lessons teach the pull, angle, snap, power, lean, hoops, swell and lane, and Auto Play lets the computer throw while you learn.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-stoneskippingdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-stoneskippingdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/skipstone-lake-skimming/icon-512.webp",
+  "hero": "assets/apps/skipstone-lake-skimming/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/skipstone-lake-skimming/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skipstone-lake-skimming/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skipstone-lake-skimming/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skipstone-lake-skimming/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.stoneskippingdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.stoneskippingdeluxe.app"
+  },
+  "related": []
+}

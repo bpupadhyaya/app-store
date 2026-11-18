@@ -1,0 +1,64 @@
+{
+  "slug": "featherkick-jianzi-freestyle",
+  "name": "Featherkick: Jianzi Freestyle",
+  "subtitle": "Keep the shuttle in the air",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "jianzi",
+    "feather-kick",
+    "chain-count",
+    "lantern-touch",
+    "feather-queen",
+    "peach-courtyard",
+    "lantern-market"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Slide your foot, flick to kick: chains, hoops and lanterns in four lit courtyards, duels with five rivals and eight lessons.",
+  "longDescription": "Jianzi is a Chinese game more than two thousand years old, played by keeping a weighted, feathered shuttle in the air with the sides of the foot. Featherkick brings it to your phone in four lit 3D courtyards.\n\nSlide your foot under the falling shuttle with one finger, then flick up to kick it. The speed of the flick sets the power, a flick to the side steers it, and a bright ring on the floor shows where the shuttle will come down. The shuttle flies by a real model of gravity, air drag and wind: it rises cork first, tumbles at the top and floats back down, so every kick is a small decision about height, rhythm and direction.\n\nThe Circuit has 24 contests in four courtyards: Peach Courtyard, Ginkgo Terrace, Snow Plaza and Lantern Market. Keep a chain going, drop the shuttle through glowing hoops in order, or touch every paper lantern with it. In Duels, keep a longer chain than one of five computer players, from beginner to the Feather Queen. Daily Feather sets one contest a day with the same wind and hoops for everyone and a streak. Free Court lets you pick a courtyard and a wind and just keep the feather up.\n\nEight short lessons teach the feather, sliding under it, flick power, steering, timing, wind, hoops and rhythm. Auto Play lets you watch the computer play any contest, with Pause and speed up to four times.\n\nUnlock six feathers and five shoes. Free with ads; go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-arcforge.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-arcforge.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/featherkick-jianzi-freestyle/icon-512.webp",
+  "hero": "assets/apps/featherkick-jianzi-freestyle/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/featherkick-jianzi-freestyle/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/featherkick-jianzi-freestyle/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/featherkick-jianzi-freestyle/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/featherkick-jianzi-freestyle/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.jianzideluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.jianzideluxe.app"
+  },
+  "related": []
+}

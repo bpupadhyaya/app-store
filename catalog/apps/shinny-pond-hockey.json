@@ -1,0 +1,65 @@
+{
+  "slug": "shinny-pond-hockey",
+  "name": "Shinny Pond Hockey",
+  "subtitle": "Pond hockey, no goalies",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "shinny",
+    "frozen-lake",
+    "snow-bank-rebound",
+    "cedar-pond",
+    "lantern-lake",
+    "aurora-bay",
+    "poke-check",
+    "pond-circuit"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Skate with a thumb, flick and bank the puck off snow banks: eight ponds, a 24-stop circuit and 24 skill drills.",
+  "longDescription": "Shinny is pond hockey as it is played on a frozen lake: no goalies, no checks, just ice, angles and a puck that goes where you flick it. Lace up.\n\nSkate with one thumb. Press anywhere and drag; the longer the drag, the faster you skate. Skates carve, so wide arcs keep your speed and a hard cut at full tilt can pop the puck off your stick. Sprint, watch the stamina bar and brake when you need to.\n\nFlick it and bank it. Swipe and lift: the swipe is your shot, and direction, power and accuracy all come from your finger. The puck rebounds off snow banks, boulders and posts, so bank shots are a real weapon. Tap a team-mate to pass. Tap in front of a carrier to poke the puck away.\n\nEight ponds are each different: Cedar Pond at noon, Birch Bay at dusk, Lantern Lake at night, rough drifted marsh ice, a boulder-guarded mill pond, a narrow quarry, a huge lake and an aurora bay. Quick ice, snow patches and obstacles change how the puck and your skates behave.\n\nPlay one-on-one or two-on-two against five levels of computer team, from Rookie to Legend. A 24-stop Pond Circuit has star goals, and 24 skill drills cover target shots, bank shots, slalom and breakaways. A new Daily Target Shot arrives every day, eight short lessons teach the moves, and thirty trophies and a rink page record your stats.\n\nAuto Play lets you watch the computer play with Pause, Think and Take over.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-pondhockeydeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-pondhockeydeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/shinny-pond-hockey/icon-512.webp",
+  "hero": "assets/apps/shinny-pond-hockey/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/shinny-pond-hockey/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shinny-pond-hockey/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shinny-pond-hockey/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shinny-pond-hockey/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.pondhockeydeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.pondhockeydeluxe.app"
+  },
+  "related": []
+}

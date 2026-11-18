@@ -1,0 +1,66 @@
+{
+  "slug": "marble-and-thread-tilt-maze",
+  "name": "Marble & Thread: Tilt Maze",
+  "subtitle": "Lean the board, follow thread",
+  "categories": [
+    "puzzle",
+    "word"
+  ],
+  "tags": [
+    "tilt-labyrinth",
+    "red-thread",
+    "knot-plates",
+    "short-spool",
+    "cellar-steps",
+    "great-labyrinth",
+    "pit-lane",
+    "felt-patch"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A wooden tilt labyrinth with a real marble, pits, ice and felt, and a red thread that shows every step you walked.",
+  "longDescription": "Tilt labyrinths are wooden toys that have been a pocket pastime for generations, and the maze with a thread goes back to the myth of Theseus and Ariadne. Marble and Thread brings both to your phone or tablet. A cobalt-and-gold marble rolls on a leaning board of lacquered walls, pits and polished ice, and a red thread unrolls behind it so you always see the way you came. Roll the marble into the golden cup.\n\nPress and drag anywhere to lean the board; a small drag is a gentle lean and a long drag is a steep one. Or use the device motion sensor and tilt the phone itself. The marble has real weight: it gathers speed, bounces softly off the walls and slides on ice.\n\nRound holes are cut right through the floor. Each pit that blocks a corridor leaves a lane just wide enough for the marble, so slow and steady wins. Pale ice keeps the marble sliding and green felt grips and slows it.\n\nThe thread runs from the spool through every cell you walk. Turn back and it winds in; walk a loop and the loop vanishes. Brass knot plates tie a knot as you pass, and a fall pulls you back to the last knot, not the start. On short-spool boards the thread is limited and tugs you back, so you must choose which dead ends to explore.\n\nThe journey is 48 boards in six chapters of eight, each with a different wood and a new idea, from the Cellar Steps to the Great Labyrinth.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-labyrinthdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-labyrinthdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/marble-and-thread-tilt-maze/icon-512.webp",
+  "hero": "assets/apps/marble-and-thread-tilt-maze/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/marble-and-thread-tilt-maze/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/marble-and-thread-tilt-maze/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/marble-and-thread-tilt-maze/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/marble-and-thread-tilt-maze/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.labyrinthdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.labyrinthdeluxe.app"
+  },
+  "related": []
+}

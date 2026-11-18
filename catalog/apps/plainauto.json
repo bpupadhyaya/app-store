@@ -1,0 +1,70 @@
+{
+  "slug": "plainauto",
+  "name": "PlainAuto",
+  "subtitle": "Your car in plain language",
+  "categories": [
+    "utilities",
+    "education"
+  ],
+  "tags": [
+    "car",
+    "auto",
+    "mechanic",
+    "obd",
+    "warning-light",
+    "torque",
+    "repair",
+    "maintenance",
+    "vehicle",
+    "diy",
+    "diagnostic"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Free with ads. Remove ads anytime with the one-time Remove Ads purchase.",
+  "longDescription": "PlainAuto explains your car — and the shop — in plain language.\n\nWhether you're a driver who wants to understand what that warning light means, or a technician who needs a quick torque spec, PlainAuto has you covered.\n\n### Car Owner Mode\n• Warning Lights — what every dashboard light means, color-coded by urgency\n  • Emergency Guide — flat tire, dead battery, overheating, fluid leaks, and more\n  • DIY Repair Guides — step-by-step with tool lists and difficulty ratings\n  • Maintenance Schedule — know exactly what's due and when\n  • Cost Estimator — typical repair costs so you're never caught off guard\n  • Mechanic Visit Prep — questions to ask, upsells to decline, your rights\n  • Service History Log — track all maintenance, repairs, and costs over time\n  • Seasonal Prep — winterizing, summer prep, pre-road-trip checklists\n  • Fluids Guide — engine oil, coolant, brake fluid, transmission, and more\n  • Buying & Selling Guide — pre-purchase inspection, trade-in, private sale tips\n\n### Mechanic / Tech Mode\n• OBD-II Code Library — 500+ codes with plain-language causes and fixes\n  • Torque Spec Database — lug nuts, head bolts, drain plugs, suspension, and more\n  • Repair Procedures — step-by-step with special tools and time estimates\n  • Diagnostic Decision Trees — symptom-based troubleshooting sequences\n  • Wiring Color Codes — by manufacturer (GM, Ford, Toyota, Honda, Chrysler)\n  • Customer Explainer Cards — shareable cards that explain repairs in plain terms\n  • Labor Time Estimator — standard labor times for common repairs\n  • Parts Cross-Reference — cross-references across major brands\n  • Fluid Capacities — by make, model, and year\n\nWORKS OFFLINE. No account required.",
+  "whatsNew": "Ads now appear in the free parts of the app. A one-time Remove Ads purchase turns them off (Restore Purchases is in Settings). Bug fixes and improvements.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-plainauto.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-plainauto.html",
+  "releasedAt": "2026-05-19",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/plainauto/icon-512.webp",
+  "hero": "assets/apps/plainauto/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/plainauto/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainauto/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainauto/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainauto/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/plainauto/id6768851056",
+    "bundleId": "com.equalinformation.plainauto.app",
+    "appleId": "6768851056"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.plainauto.app",
+    "package": "com.equalinformation.plainauto.app"
+  },
+  "related": []
+}

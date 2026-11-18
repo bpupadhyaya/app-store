@@ -1,0 +1,64 @@
+{
+  "slug": "pearl-banks-gulf-dive",
+  "name": "Pearl Banks: Gulf Dive",
+  "subtitle": "Dive the Gulf, open the shell",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "free-diving",
+    "oyster-banks",
+    "black-lip-oyster",
+    "baroque-pearl",
+    "breath-gauge",
+    "jellyfish-loop",
+    "pearl-book"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A first-person free dive on sunlit Gulf pearl banks: breath budget, three oysters, seven pearls and twenty-four banks.",
+  "longDescription": "For centuries the pearl banks of the Arabian Gulf were worked by free divers who held their breath, descended with a stone and a nose clip, and came up with oysters in a basket. Pearl Banks puts you in the diver's seat on a sunlit pearl bank, in real-time 3D. Kick through turquoise water, find oysters on the sea floor, open them and swim back up before your air runs out.\n\nPress and hold to kick. Where your finger is, relative to the middle of the screen, steers: sideways to turn, up or down to look up or down. Let go and you float up. Stop beside an oyster, let go and hold still: a ring fills as the shell opens.\n\nThe air gauge counts your breath in seconds. Kicking, depth and opening shells cost more. A small mark on the gauge shows what the way up would cost from here, so stay above it or you may black out and spill half your basket.\n\nThree oysters and seven pearls make the catch: Gulf, gold-lip and black-lip oysters live at different depths. Most shells are empty; the rest hold seed, white, cream, rose, golden, black or baroque pearls, and bigger shells grow bigger pearls.\n\nReef life fills the bank. Glowing jellyfish drift in slow loops, currents sweep you sideways, coral gardens and anemones surround you and schools of fish pass by.\n\nTwenty-four banks in four seas, eight short lessons, a Daily Bank, a Free Dive where you set depth and jellyfish, a Pearl Book and trophies complete the voyage, and Auto Play shows a dive.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-pearldivingdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-pearldivingdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/pearl-banks-gulf-dive/icon-512.webp",
+  "hero": "assets/apps/pearl-banks-gulf-dive/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/pearl-banks-gulf-dive/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pearl-banks-gulf-dive/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pearl-banks-gulf-dive/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pearl-banks-gulf-dive/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.pearldivingdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.pearldivingdeluxe.app"
+  },
+  "related": []
+}

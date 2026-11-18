@@ -31,7 +31,7 @@
   "icon": "assets/apps/physics-2-ap-voltmoor/icon-512.png",
   "screenshots": [],
   "ios": {
-    "status": "soon",
+    "status": "review",
     "url": "",
     "bundleId": "com.equalinformation.voltmoor.app"
   },

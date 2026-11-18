@@ -1,0 +1,64 @@
+{
+  "slug": "brasslock-crack-the-code",
+  "name": "Brasslock: Crack the Code",
+  "subtitle": "Open the cryptex by logic",
+  "categories": [
+    "board-strategy"
+  ],
+  "tags": [
+    "cryptex",
+    "gold-and-silver-studs",
+    "grand-vault",
+    "deduction-lens",
+    "code-ledger",
+    "seal-a-code",
+    "locksmith-rival"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A brass cryptex code game: five locks, build your own, duels, four rivals, a deduction lens and 48 generated puzzles.",
+  "longDescription": "Bulls and Cows is a pencil-and-paper code game older than any computer, and its descendants include Mastermind. Brasslock builds it as a heavy brass cryptex on a leather desk. Turn the dials to set your guess, press Try, and read the answer in studs: gold for a right symbol in the right place, silver for a right symbol in the wrong place. Crack the sealed code before the ledger runs out.\n\nFive locks range from a pocket lock with three symbols to a six-symbol Grand Vault, with or without repeated symbols, or build your own by choosing length, symbols, repeats and guesses. Choose numerals, letters or Greek on the dials and a Brass, Obsidian or Verdigris finish.\n\nBreak the Code against the lock, or Seal a Code of your own and watch a rival try to crack it, scored honestly for you. In Duel both sides hide a code and guess in turn. Pass and Play seats two people on one device with hand-off screens that hide the code. Four rivals run from an apprentice who sometimes wanders to a locksmith who minimises the worst case on every turn, plus an Adaptive rival.\n\nLearn as you play. Hint suggests the best next guess and explains it, the coach grades every guess by the information it gained, and the deduction lens crosses out symbols the clues have ruled out. Seven short lessons use worked examples and 48 generated puzzles test them.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-bullsandcowsdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-bullsandcowsdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/brasslock-crack-the-code/icon-512.webp",
+  "hero": "assets/apps/brasslock-crack-the-code/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/brasslock-crack-the-code/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/brasslock-crack-the-code/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/brasslock-crack-the-code/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/brasslock-crack-the-code/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.bullsandcowsdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.bullsandcowsdeluxe.app"
+  },
+  "related": []
+}

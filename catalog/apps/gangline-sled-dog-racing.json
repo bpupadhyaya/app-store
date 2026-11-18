@@ -1,0 +1,65 @@
+{
+  "slug": "gangline-sled-dog-racing",
+  "name": "Gangline: Sled Dog Racing",
+  "subtitle": "Mush a team to the final",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "mushing",
+    "gangline",
+    "booties-on-paws",
+    "checkpoint-rest",
+    "lane-radar",
+    "lapland-stage",
+    "whiteout-trail",
+    "dog-energy"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Be the musher: choose the team, set the gait, steer through forks and weather, and care for every dog at checkpoints.",
+  "longDescription": "Sled dog racing carries the long northern tradition of travel by dog team into a sport of stage races across tundra and spruce valleys. In Gangline you are the musher: choose the team, set the gait, steer the sled over snow, ice and bends, and decide how to care for every dog at each checkpoint. The dogs are real 3D dogs with skinned gaits.\n\nEvery dog has energy, spirits and paws. Run a sprint on a climb and the team pays for it a leg later. Praise a flagging dog, put booties on before glare ice, rest the team for two hours or push on: the race clock runs either way, and a tired, unhappy team slows down, balks or goes lame.\n\nRace a season of six stage races from Lapland to the Great Northern Final: spruce valleys, fjell winds, a frozen river in thaw, the black ice of a Siberian lake, night stages under the aurora and whiteouts that hide the trail. Choose a branch at forks, steer around logs, rocks, drifts and moose, and read the lane radar. Win prizes for your kennel of up to twelve dogs with traits and training, and recruit new dogs and equipment.\n\nRun in the runner's view from behind the handlebar, or switch to a chase camera. Use several fingers at once to lean the sled, slide the pace lever, kick, brake and praise, or tilt your phone.\n\nAlso included: Quick Race on any trail, a Daily Run with the same course for everyone, six Musher School lessons and Auto Play where an expert drives a whole race and explains every decision.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-sleddogdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-sleddogdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/gangline-sled-dog-racing/icon-512.webp",
+  "hero": "assets/apps/gangline-sled-dog-racing/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/gangline-sled-dog-racing/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gangline-sled-dog-racing/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gangline-sled-dog-racing/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gangline-sled-dog-racing/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.sleddogdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.sleddogdeluxe.app"
+  },
+  "related": []
+}

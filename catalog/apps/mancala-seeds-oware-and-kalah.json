@@ -1,0 +1,64 @@
+{
+  "slug": "mancala-seeds-oware-and-kalah",
+  "name": "Mancala Seeds: Oware & Kalah",
+  "subtitle": "Sow seeds, Oware and Kalah",
+  "categories": [
+    "board-strategy"
+  ],
+  "tags": [
+    "sowing-game",
+    "abapa-rules",
+    "grand-slam-rule",
+    "kalah-store",
+    "seed-capture",
+    "seedling-level",
+    "endgame-table"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Four mancala rule sets on a carved 3D board, a deep-searching opponent, a twelve-lesson course and 140 puzzles.",
+  "longDescription": "Mancala is a family of sowing games played for centuries across Africa and Asia, from Oware in Ghana to Kalah in the American games tradition. Mancala Seeds lets you sow seeds across a carved wooden board in a real-time 3D scene and play against a computer opponent that really thinks.\n\nTwo families, four rule sets. Oware (Abapa rules) has twelve pits, captures of twos and threes, first to 25 seeds, the feeding rule, the grand slam rule and laps of twelve seeds or more. Kalah has stores, extra turns and sweep captures in three sizes: Standard with 4 seeds, Quick with 3 and Grand with 6. Every rule is explained on the Rules pages, with text size up to 300 percent.\n\nLift the seeds from a pit and watch them rise, then drop one by one into the pits with real weight, bounce and settle against each other. Choose a Walnut and Brass, Ebony and Gold, Olive Wood or Carved Sandstone board, and glass beads, river stones, nicker seeds or cowrie shells. Soft shadows, brass-rimmed pits and a woven runner complete it.\n\nThe opponent is strong. Six levels run from Seedling to Grandmaster, plus Adaptive. The engine searches deep, remembers positions it has seen, looks past the horizon at captures, and uses a complete endgame table for Oware positions with eight seeds or fewer. Play a friend on one device if you prefer.\n\nA twelve-lesson course, a 140-position puzzle campaign, a daily puzzle and a daily game, review with analysis and heritage chapters round it out.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-mancaladeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-mancaladeluxe.html",
+  "releasedAt": "2026-10-16",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/mancala-seeds-oware-and-kalah/icon-512.webp",
+  "hero": "assets/apps/mancala-seeds-oware-and-kalah/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/mancala-seeds-oware-and-kalah/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/mancala-seeds-oware-and-kalah/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/mancala-seeds-oware-and-kalah/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/mancala-seeds-oware-and-kalah/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.mancaladeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.mancaladeluxe.app"
+  },
+  "related": []
+}

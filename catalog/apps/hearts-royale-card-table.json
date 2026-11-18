@@ -1,0 +1,64 @@
+{
+  "slug": "hearts-royale-card-table",
+  "name": "Hearts Royale: Card Table",
+  "subtitle": "Duck the Queen of Spades",
+  "categories": [
+    "board-strategy"
+  ],
+  "tags": [
+    "hearts",
+    "black-lady",
+    "shoot-the-moon",
+    "pass-three",
+    "trick-taking",
+    "dodge-the-lady",
+    "duck-or-win"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Hearts against opponents that imagine hundreds of deals: lessons, forty solved puzzles and Auto Play on a lit 3D table.",
+  "longDescription": "Hearts is the trick-taking game of avoidance: take as few points as you can, and above all do not be left holding the Queen of Spades. It rose to fame in nineteenth-century America and became the card game many people first met on a computer. Hearts Royale deals it on a lit 3D card table with opponents that really think.\n\nFour players, 52 cards, one goal. Pass three cards, follow suit, duck the dangerous tricks, dump the Queen of Spades on someone else, and watch for a rival shooting the moon.\n\nChoose Rookie, Regular, Skilled, Expert or Master opponents, or let Adaptive follow your rating. The strongest players imagine hundreds of possible deals before every card, so a win against Master means something. Cards lift, glide and settle under a warm lamp, and illegal cards are dimmed and say why when tapped. Hints give their reasons in plain words, and Undo and Last trick are always there.\n\nAuto Play, Watch and Learn, is one tap from the title screen: the computer plays all four seats while you pause, change speed, show every hand, press Think to read why the next card was chosen, or take over your own seat.\n\nTwelve short lessons teach the rules and the ideas behind good play, each with a position to solve. Forty puzzles show every hand and have exactly one best play, solved exactly, in five packs including Dodge the Lady, Leads that hold and Duck or win.\n\nThe table is felt with brass inlay and ivory cards with crest-style courts, in four themes and with four card backs.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-heartsdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-heartsdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/hearts-royale-card-table/icon-512.webp",
+  "hero": "assets/apps/hearts-royale-card-table/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/hearts-royale-card-table/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hearts-royale-card-table/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hearts-royale-card-table/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hearts-royale-card-table/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.heartsdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.heartsdeluxe.app"
+  },
+  "related": []
+}

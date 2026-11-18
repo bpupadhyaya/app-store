@@ -1,0 +1,64 @@
+{
+  "slug": "plainhygiene",
+  "name": "PlainHygiene",
+  "subtitle": "1,088 hygiene facts, offline",
+  "categories": [
+    "health",
+    "education"
+  ],
+  "tags": [
+    "hygiene",
+    "handwashing",
+    "sanitation",
+    "menstrual",
+    "germs",
+    "cleanliness",
+    "habit-tracker",
+    "health-education",
+    "who",
+    "cdc"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "PlainHygiene is a reference library of practical, sourced hygiene guidance — 1,088 features across 18 topics, from WHO's 6-step handwashing technique to…",
+  "longDescription": "PlainHygiene is a reference library of practical, sourced hygiene guidance — 1,088 features across 18 topics, from WHO's 6-step handwashing technique to menstrual health, food safety, disaster sanitation, and caregiving for kids, elders, and people with chronic conditions.\n\nEvery fact is drawn from public health authorities: the World Health Organization, the CDC, UNICEF, USDA, OSHA, EPA, FDA, FEMA, the Sphere Association, and similar bodies — with citations you can check yourself, right in the app.\n\n### What's Inside\n• Handwashing & hand hygiene (WHO's 6-step technique, a guided timer, hand sanitizer guidance)\n• Menstrual & reproductive hygiene\n• Food hygiene & safe handling\n• Body & personal hygiene\n• Sanitation infrastructure & waste management\n• Life-stage hygiene: infants, kids, teens, pregnancy, elders\n• Low-water, disaster & emergency hygiene\n• Disease prevention & hygiene science\n• Household, laundry & environmental hygiene\n• Occupational & workplace hygiene\n• Travel, outdoor & camping hygiene\n• Pet, animal & zoonotic hygiene\n• Community, school & public-space hygiene\n• Special populations, disability & chronic-condition hygiene\n• Culture, language & localization notes\n• A full reference library & glossary\n\nPlus routine-building, reminders, and habit-tracking tools to turn any of this into a daily practice — at your own pace, with no streak-shaming.\n\n### A Note on What This App Is\nPlainHygiene is educational hygiene guidance, not medical advice — it's not a substitute for professional medical advice or local public-health guidance. If you have a health concern, talk to a qualified professional.",
+  "whatsNew": "New: Apple Health support for handwashing. Optionally save every timer wash to Apple Health and count the washes your Apple Watch detects, all kept on your own devices. New one-tap Wash Timer on Apple Watch (watch face complication and Action Button), and the Watch app can now be installed straight from your watch. Bug fixes and improvements.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "17+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-plainhygiene.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-plainhygiene.html",
+  "releasedAt": "2026-09-18",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.4",
+  "icon": "assets/apps/plainhygiene/icon-512.webp",
+  "hero": "assets/apps/plainhygiene/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/plainhygiene/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainhygiene/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainhygiene/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/plainhygiene/id6809102776",
+    "bundleId": "com.equalinformation.plainhygiene.app",
+    "appleId": "6809102776"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.plainhygiene.app",
+    "package": "com.equalinformation.plainhygiene.app"
+  },
+  "related": []
+}

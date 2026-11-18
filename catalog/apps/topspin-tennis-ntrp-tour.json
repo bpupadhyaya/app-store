@@ -1,0 +1,64 @@
+{
+  "slug": "topspin-tennis-ntrp-tour",
+  "name": "Topspin Tennis: NTRP Tour",
+  "subtitle": "One swipe, every shot",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "ntrp-rating",
+    "slice-skid",
+    "clay-court",
+    "carpet-court",
+    "tiebreak",
+    "baseliner",
+    "serve-and-volley"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Tennis built on honest ball physics: swipe angle, speed and chop decide topspin, slice, drop and lob on four surfaces.",
+  "longDescription": "Tennis began as a game of the monastery cloister and royal courts of medieval France, and the modern game with its four surfaces and tiebreaks is a study in how a ball behaves. Topspin Tennis is real-time 3D tennis for your phone or tablet, built around one idea: the ball does what a ball really does.\n\nEvery shot is simulated. Air drag slows it, spin bends it, topspin dips and kicks, slice stays low and skids, and the bounce depends on the court under it. Play hard court, slow red clay, fast grass or indoor carpet and feel four different games.\n\nOne swipe makes every shot. Tap to toss and swipe up to serve. In a rally, swipe at the ball as it reaches your racket: the angle of the swipe is the angle of the shot, a faster swipe is harder and deeper, a slower longer swipe adds heavy topspin, a downward chop slices, a short soft swipe drops the ball over the net and a tap lobs. Timing and position decide the rest.\n\nThere are no people, just the game. Each player is a glowing ring and a racket. Lamps around the court flash green for the close ones and red for out. The stadium has stands, floodlights and a roof, and the light changes from daytime to golden hour to a night session.\n\nTen levels and seven styles follow the real NTRP ratings from 2.5 beginner to 7.0 world class, and the computer plays like a baseliner, big hitter, counter-puncher, serve-and-volleyer, slice artist, all-courter or grinder. Matches follow real scoring, including tiebreaks.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-tennisdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-tennisdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/topspin-tennis-ntrp-tour/icon-512.webp",
+  "hero": "assets/apps/topspin-tennis-ntrp-tour/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/topspin-tennis-ntrp-tour/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/topspin-tennis-ntrp-tour/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/topspin-tennis-ntrp-tour/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/topspin-tennis-ntrp-tour/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.tennisdeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.tennisdeluxe.app",
+    "package": "com.equalinformation.tennisdeluxe.app"
+  },
+  "related": []
+}

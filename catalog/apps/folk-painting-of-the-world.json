@@ -1,0 +1,65 @@
+{
+  "slug": "folk-painting-of-the-world",
+  "name": "Folk Painting of the World",
+  "subtitle": "Rosemaling, Madhubani & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "rosemaling",
+    "madhubani",
+    "petrykivka",
+    "tingatinga",
+    "kalamkari",
+    "kashmiri-papier-mache",
+    "luk-chup",
+    "pysanka"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "8 folk painting traditions to play: Rosemaling, Madhubani painting, Petrykivka painting and Tingatinga painting.",
+  "longDescription": "Folk Painting of the World: 8 folk painting traditions from 6 countries, in one app that works fully offline.\n\nInside: Rosemaling, Madhubani painting, Petrykivka painting, Tingatinga painting, Kalamkari pen painting, Kashmiri papier-mache painting, Luk chup and Pysanka.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can make traditional crafts, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/folk-painting-of-the-world/icon-512.webp",
+  "hero": "assets/apps/folk-painting-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/folk-painting-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/folk-painting-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/folk-painting-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/folk-painting-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.folkpaintingoftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.folkpaintingoftheworld",
+    "package": "com.equalinformation.whg.folkpaintingoftheworld"
+  },
+  "related": []
+}

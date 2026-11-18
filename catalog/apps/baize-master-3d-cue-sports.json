@@ -1,0 +1,65 @@
+{
+  "slug": "baize-master-3d-cue-sports",
+  "name": "Baize Master: 3D Cue Sports",
+  "subtitle": "Snooker, 8-ball and 9-ball",
+  "categories": [
+    "board-strategy",
+    "puzzle"
+  ],
+  "tags": [
+    "snooker-frame",
+    "free-ball",
+    "re-spotted-black",
+    "cue-ball-spin",
+    "9-ball-push-out",
+    "called-eight",
+    "baize"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Spin, throw and cushion physics on a full snooker table, plus 8-ball and 9-ball against six cue opponents that plan breaks.",
+  "longDescription": "Snooker was invented by British army officers in India in the 1870s, who added coloured balls to a game of pool and named it after a slang word for a first-year cadet. Baize Master brings the baize to your phone with a physics engine that models spin, cushions and pockets the way a real table behaves.\n\nThree games are included. Snooker is played on a full-size 12-foot table with 15 reds, or a short six-red frame on a 10-foot table. 8-ball has an open table, groups and a called eight. 9-ball has lowest-ball-first, push-out and the three-foul rule. The rule books are built exactly: ball on, nominating a colour, foul values of 4 to 7, snookers and the free ball, a replayed miss, re-spotted colours and the re-spotted black, breaks and ball in hand. Every rule is written out in the Rules pages.\n\nTop spin, back spin and side spin change where the cue ball goes. Balls slide, then roll; they throw each other on a cut; they leave cushions at the true angle, jam in the jaws and rattle out of pockets. Aim with a drag, tap a ball or pocket to line it up, fine-tune on the aiming strip, pull the power bar and let go. Choose between the whole table, a close view that follows the cue ball, or a low cue view.\n\nSix opponents think, from Rookie, Casual, Club player and County to Professional and Grandmaster, plus Adaptive, and they plan breaks and safety play.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-snookerdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-snookerdeluxe.html",
+  "releasedAt": "2026-10-16",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/baize-master-3d-cue-sports/icon-512.webp",
+  "hero": "assets/apps/baize-master-3d-cue-sports/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/baize-master-3d-cue-sports/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/baize-master-3d-cue-sports/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/baize-master-3d-cue-sports/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/baize-master-3d-cue-sports/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.snookerdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.snookerdeluxe.app"
+  },
+  "related": []
+}

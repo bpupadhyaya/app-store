@@ -1,0 +1,64 @@
+{
+  "slug": "aurora-ski-jump",
+  "name": "Aurora Ski Jump",
+  "subtitle": "Hold, flick, drag, tap, land",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "k-point",
+    "telemark-landing",
+    "angle-of-attack",
+    "hill-size",
+    "style-judges",
+    "gate-compensation",
+    "aurora-giant"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "One finger flies the whole jump on a real flight model: five hills, K-point scoring, judges, wind and a career.",
+  "longDescription": "Ski jumping grew out of Norwegian farm boys leaping off snowy slopes in the nineteenth century, and today's hills are engineered so the best jumpers fly more than 200 metres. Aurora Ski Jump is built on a real flight model. Gravity, snow friction, lift, drag, wind and gusts decide every metre, and one finger flies the whole jump.\n\nHold to crouch down the ice track. Flick upward on the beat at the edge. In the air, drag up for a steeper angle and sideways to keep the skis level. Tap in the last half second for the telemark. A guide band, an angle gauge, a balance bar and a wind forecast ribbon show what the air is doing.\n\nThe physics can be felt. Lift and drag depend on your angle of attack and air speed. Above about 36 degrees the air lets go and you stall. Head wind helps, tail wind hurts, gusts push your angle around and cold, dense air gives more lift. The same inputs always give the same jump.\n\nFive hills under five skies run from the small Birkedal hill to the 240 metre Aurora Giant beneath moving northern lights, in dawn, day, dusk and floodlit night, with snow and fog. Real hill terms apply: hill size, K-point, gates and the table.\n\nScoring is real: distance points around the K-point, five style judges with the high and low dropped, and gate and wind compensation, all shown on a judge card with a coach's notes.\n\nThree tours of four events against fields of up to 30 jumpers over two rounds make a career, with a daily jump and pass and play.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-skijumpdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-skijumpdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/aurora-ski-jump/icon-512.webp",
+  "hero": "assets/apps/aurora-ski-jump/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/aurora-ski-jump/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/aurora-ski-jump/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/aurora-ski-jump/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/aurora-ski-jump/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.skijumpdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.skijumpdeluxe.app"
+  },
+  "related": []
+}

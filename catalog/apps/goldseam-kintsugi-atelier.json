@@ -1,0 +1,65 @@
+{
+  "slug": "goldseam-kintsugi-atelier",
+  "name": "Goldseam: Kintsugi Atelier",
+  "subtitle": "Mend pots with liquid gold",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "kintsugi",
+    "turntable",
+    "shard-tray",
+    "seigaiha-glaze",
+    "tea-bowl",
+    "sake-flask",
+    "gold-seam",
+    "gallery-shelf"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Rebuild broken pottery on a turntable, then trace each crack in gold: 36 vessels, eight shapes, daily vessel and five lessons.",
+  "longDescription": "Kintsugi is the Japanese craft of mending broken pottery with lacquer dusted in gold, so the repair becomes the most beautiful part of the pot. Goldseam is a calm, hands-on game about that craft. Every vessel arrives in pieces on a turntable in a sunlit workshop. You fit the pieces back together, then trace each crack with liquid gold.\n\nPick up a shard from the tray and drag it onto the vessel. Turn it upright with the turn buttons, read the glaze and the cracks, and let go where it belongs; when it fits, it clicks in. Drag the background to spin the turntable, or let Face gap turn you to the next hole. When every piece is in, the cracks light up. Slide a finger slowly along each seam: the slower and steadier you are, the thicker and brighter the gold. Finish for a score and up to three stars, and the vessel goes on your gallery shelf.\n\nInside are 36 vessels in six workshops, from quiet tea bowls with four pieces to heirloom jars with nineteen. Eight shapes, a tea bowl, tea cup, sake flask, storage jar, flower vase, water jar, serving plate and small bowl, come in eight glazes and nine painted patterns from seigaiha waves to sakura petals. Because each vessel is spun from a turned profile and fractured by a Voronoi diagram, any seed gives a new pot. A vessel of the day is the same for every player, with a streak, and five short lessons cover picking up, turning, reading the glaze and pouring gold.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-kintsugideluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-kintsugideluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/goldseam-kintsugi-atelier/icon-512.webp",
+  "hero": "assets/apps/goldseam-kintsugi-atelier/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/goldseam-kintsugi-atelier/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/goldseam-kintsugi-atelier/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/goldseam-kintsugi-atelier/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/goldseam-kintsugi-atelier/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.kintsugideluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.kintsugideluxe.app"
+  },
+  "related": []
+}

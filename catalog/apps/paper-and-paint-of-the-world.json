@@ -1,0 +1,63 @@
+{
+  "slug": "paper-and-paint-of-the-world",
+  "name": "Paper & Paint of the World",
+  "subtitle": "Alebrije painting & more",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "alebrije-painting",
+    "alebrijes-de-oaxaca",
+    "chinese-knotting",
+    "kumiko-lattice",
+    "shibori-indigo-fold",
+    "mehndi"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "20 craft traditions to play: Alebrije painting, Chinese knotting, Temari thread-ball patterns and Kumiko lattice.",
+  "longDescription": "Paper & Paint of the World: 20 craft traditions from 14 countries, in one app that works fully offline.\n\nInside: Alebrije painting, Chinese knotting, Temari thread-ball patterns, Kumiko lattice, Shibori indigo fold, Matryoshka, Khokhloma pattern painting, Macau wave pavement, Mashrabiya Lattice Joinery, Truck art panel, Warli painting, Block printing, Lippan kaam mud-and-mirror relief, Mehndi Henna Pattern Drawing, Ndebele geometric wall painting, Bogolan mud cloth, Zulu beadwork, Kuba raffia cloth, Adinkra cloth stamping and Lukasa memory board.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can build traditional patterns and make traditional crafts, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-13",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/paper-and-paint-of-the-world/icon-512.webp",
+  "hero": "assets/apps/paper-and-paint-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/paper-and-paint-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/paper-and-paint-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/paper-and-paint-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/paper-and-paint-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.paperandpaintoftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.paperandpaintoftheworld",
+    "package": "com.equalinformation.whg.paperandpaintoftheworld"
+  },
+  "related": []
+}

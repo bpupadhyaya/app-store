@@ -1,0 +1,66 @@
+{
+  "slug": "windmill-putt-3d-mini-golf",
+  "name": "Windmill Putt: 3D Mini Golf",
+  "subtitle": "Fifty-four silly-physics holes",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "crazy-golf",
+    "windmill-sails",
+    "putt",
+    "frostpeak",
+    "pirate-cove",
+    "neon-nova",
+    "hole-clock",
+    "moon-gravity",
+    "slick-greens"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Six themed courses, medals, daily twists and a putt that really banks, jumps and teleports. Think shows a strong line.",
+  "longDescription": "Miniature golf began in the 1920s as a way to fit a golf afternoon onto a hotel lawn, and it has been trading skill for silliness ever since. Windmill Putt keeps the silliness and adds a ball that rolls like a real one.\n\nPull back anywhere on the screen like a slingshot, let go, and watch the ball bank, jump and teleport across 54 holes on six themed courses. Sunny Meadow teaches the basics with hedges, sand and a pond. Windmill Valley adds turning sails and lock gates. Pirate Cove has tide pools, swinging cutlasses and barrel tunnels. Frostpeak is ice, snowdrifts and sliding blocks. Sunken Ruins brings scarabs, pendulums and pits. Neon Nova is a night course of portals, rotors and boost pads.\n\nThe physics are honest. Slopes pull the ball downhill, ramps launch it through the air, sand grabs it and ice lets it slide, and the ball only drops if it arrives slowly enough, so speed matters as much as aim.\n\nTour the courses for bronze, silver, gold and platinum medals, or take the Daily Challenge: three holes, some mirrored, with one twist like slick greens or moon gravity, and a streak. Share a device with up to four players or add Rookie, Club, Pro, Champion or Adaptive computer golfers. Think shows a strong putt and explains it, seven short lessons teach one idea each, and Auto Play lets the computer play a course while explaining its choices.\n\nFree with ads. Go ad-free with an optional monthly pass, or earn ad-free time by watching videos. Ads never appear mid-putt.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-minigolfdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-minigolfdeluxe.html",
+  "releasedAt": "2026-10-16",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/windmill-putt-3d-mini-golf/icon-512.webp",
+  "hero": "assets/apps/windmill-putt-3d-mini-golf/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/windmill-putt-3d-mini-golf/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/windmill-putt-3d-mini-golf/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/windmill-putt-3d-mini-golf/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/windmill-putt-3d-mini-golf/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.minigolfdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.minigolfdeluxe.app"
+  },
+  "related": []
+}

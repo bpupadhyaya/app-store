@@ -1,0 +1,63 @@
+{
+  "slug": "craft-designs-of-the-world",
+  "name": "Craft Designs of the World",
+  "subtitle": "Tanghua, Wire car & more",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "kisii-soapstone-carving",
+    "tabaka-soapstone",
+    "lost-wax-bronze-casting",
+    "igun",
+    "lost-wax-casting",
+    "wire-car"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "8 craft traditions to play: Karesansui gravel garden, Kisii soapstone carving, Lost-wax bronze casting and Rishtan ceramics.",
+  "longDescription": "Craft Designs of the World: 8 craft traditions from 10 countries, in one app that works fully offline.\n\nInside: Karesansui gravel garden, Kisii soapstone carving, Lost-wax bronze casting, Rishtan ceramics, Tanghua, Tessellated mosaic making, Wire car and Zellij tile mosaic.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can build traditional patterns and make traditional crafts, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-13",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/craft-designs-of-the-world/icon-512.webp",
+  "hero": "assets/apps/craft-designs-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/craft-designs-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/craft-designs-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/craft-designs-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/craft-designs-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.craftdesignsoftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.craftdesignsoftheworld",
+    "package": "com.equalinformation.whg.craftdesignsoftheworld"
+  },
+  "related": []
+}

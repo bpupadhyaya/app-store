@@ -1,0 +1,65 @@
+{
+  "slug": "soapbox-rally-downhill-racing",
+  "name": "Soapbox Rally: Downhill Racing",
+  "subtitle": "No engine, only the hill",
+  "categories": [
+    "sports",
+    "board-strategy"
+  ],
+  "tags": [
+    "soapbox-kart",
+    "downhill-racing",
+    "tyre-pressure",
+    "brake-balance",
+    "ride-height",
+    "garage-tuning",
+    "glacier-chute"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Gravity-powered kart racing: eight hills, build and tune your kart in the Garage, six cups, ghosts and a daily hill.",
+  "longDescription": "Soapbox racing is gravity's own motorsport: a home-built kart, no engine and a steep road, a tradition in towns from Akron to the Alps. Soapbox Rally is a downhill racing game with no engine at all. Your speed comes from the hill, and every bend, surface and setup choice decides how fast you finish.\n\nDrive with one thumb. Slide left and right to steer, slide down to brake, and hold still on the straights so the kart tucks in for speed. A fast, honest physics model gives each kart real weight, tyre grip and slide.\n\nEight hills in real-time 3D wait: Meadow Lane, Harbour Steps, Pine Switchbacks, Terrace Drop, Old Quarter, Dune Run, Glacier Chute and the Grand Summit. Tarmac, cobbles, gravel, dirt, snow, ice and boardwalk all grip differently, and rain changes the road. Every hill can be mirrored.\n\nBuild your kart in the Garage. Choose wheels, frame, steering, brakes and body, then tune tyre pressure, weight balance, ride height, steering ratio and brake balance. The Coach drives your kart on a hill, tries changes one at a time and tells you in plain words what is faster and why. Paint it your way.\n\nSix season cups against ten rival drivers, from Learner to Legend, open new cups, hills and parts with medals. Race your own ghost, a Pro lap or the Gold lap, take medals for beating target times, and drive a freshly generated Daily Hill every day with a streak. Seven driving lessons help you start.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-soapboxdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-soapboxdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/soapbox-rally-downhill-racing/icon-512.webp",
+  "hero": "assets/apps/soapbox-rally-downhill-racing/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/soapbox-rally-downhill-racing/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/soapbox-rally-downhill-racing/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/soapbox-rally-downhill-racing/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/soapbox-rally-downhill-racing/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.soapboxdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.soapboxdeluxe.app"
+  },
+  "related": []
+}

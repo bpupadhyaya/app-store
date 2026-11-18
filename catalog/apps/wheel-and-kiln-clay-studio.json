@@ -1,0 +1,64 @@
+{
+  "slug": "wheel-and-kiln-clay-studio",
+  "name": "Wheel & Kiln: Clay Studio",
+  "subtitle": "Throw, trim, glaze, fire",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "potter-s-wheel",
+    "moon-jar",
+    "leather-hard",
+    "trim-foot-ring",
+    "gas-valve-firing",
+    "commissions",
+    "clay-rings"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Throw clay that keeps its volume, fill 24 commissions, glaze and fire in a kiln where the gas valve matters.",
+  "longDescription": "Wheel-thrown pottery is among the oldest human crafts, and the moment a lump of wet clay opens under a thumb is the same now as it was in the first workshops. Wheel and Kiln is a calm craft simulation. You throw real clay on a spinning wheel with your finger, and the pot grows and bends under your hand: thin a wall and it rises, widen a belly and it sinks. When the shape is right, trim it, glaze it and fire it in the kiln.\n\nThe clay is real. Every pot is a stack of rings of wet clay that keep their volume. Centre the lump, open it with a press, pull the wall up in several gentle passes and shape it from outside or inside. Throwing rings appear as you pull, and the rib smooths them away.\n\nTwenty-four clients commission tea bowls, bottle vases, ginger jars, moon jars and amphorae in four chapters. Each brief shows a dotted outline over the wheel, a height and the weight of clay to use, and a live Match figure tells you how close you are. Finished pots are scored on outline, height, walls, finish, glaze and kiln, and stars unlock the next chapters.\n\nLet the pot set to leather hard, trim a foot ring, then choose from nine glazes. Unfired glaze is pale and chalky; the kiln brings out its true colour. Drag the gas valve to follow the firing curve and hold the peak: too cool and the glaze stays dull, too hot and it runs.\n\nSeven lessons in the Studio School start from prepared pots, and Think shows what a good pot looks like at each step.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-potterydeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-potterydeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/wheel-and-kiln-clay-studio/icon-512.webp",
+  "hero": "assets/apps/wheel-and-kiln-clay-studio/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/wheel-and-kiln-clay-studio/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/wheel-and-kiln-clay-studio/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/wheel-and-kiln-clay-studio/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/wheel-and-kiln-clay-studio/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.potterydeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.potterydeluxe.app"
+  },
+  "related": []
+}

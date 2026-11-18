@@ -1,0 +1,69 @@
+{
+  "slug": "globalmonetarysystems",
+  "name": "GlobalMonetarySystems",
+  "subtitle": "How the world's money works",
+  "categories": [
+    "finance",
+    "education"
+  ],
+  "tags": [
+    "currency",
+    "inflation",
+    "economics",
+    "finance",
+    "centralbank",
+    "history",
+    "exchangerate",
+    "imf",
+    "worldbank",
+    "cbdc",
+    "gold"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Live rates from IMF, World Bank, BIS and central banks, sourced monetary history, on-device AI that explains, never advises. Has ads; remove with one purchase.",
+  "longDescription": "NOT A GOVERNMENT APP. Global Monetary Systems is an independent educational reference published by EqualInformation, LLC. It is not affiliated with, endorsed by, or acting for any government, central bank or international organization (including the U.S. Treasury, the Federal Reserve, the IMF, the World Bank and the BIS) and provides no government services.\n\nHow the world's money actually works — for anyone who wants to understand it, not just react to headlines about it.\n\nGlobal Monetary Systems is a sourced reference covering the full monetary system: how it works right now, how it got this way, and the design space for what could come next. It's built for three audiences at once — the general public, working professionals and policymakers, and graduate students and faculty — served by the same content in layers, never a \"lite\" version.\n\n• Live official data. Exchange rates, policy rates and inflation prints, refreshed on demand from the IMF, World Bank, BIS, ECB and national central banks — keyless, official APIs only. Bring your own FRED key for US series if you want them.\n\n• Every claim cited. Citations are tappable and open in-app, at full size, without losing your place, and each shows its original source web address. Sources are the IMF, World Bank, BIS, national central banks, treasuries, OECD and peer-reviewed research — never general media.\n\n• Country cards. The monetary system and central bank of all 193 UN member states.\n\n• History and the alternatives. From barter and the classical gold standard through Bretton Woods to the post-1971 floating era, plus hawala, mobile money, community currencies, stablecoins, DeFi and central bank digital currencies (CBDCs) — presented even-handedly, not as editorial positions.\n\n• Ask a model, on your phone. An on-device AI first answers from the app's own sourced pages and names the pages it used. If the app doesn't cover your question, it draws on its broader knowledge and says so. Nothing you ask ever leaves your phone — no server, no account, no analytics.\n\n• Explains, never advises. This app helps you understand mechanisms — inflation targeting, exchange-rate regimes, capital controls, sovereign debt — it never tells you what to buy, sell or invest in.\n\n• 100% offline capable. All content ships with the app. The only network activity is reader-initiated: refreshing live data, an opt-in auto-sync, and the citation pages you tap.\n\nOFFICIAL SOURCES (visit them directly to confirm anything in this app):\n• U.S. Federal Reserve: https://www.federalreserve.gov/monetarypolicy.htm\n• U.S. Treasury: https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service\n• U.S. Bureau of Labor Statistics: https://www.bls.gov/cpi/\n• IMF: https://www.imf.org/en/About\n• World Bank: https://www.worldbank.org/en/about\n• BIS: https://www.bis.org/about/index.htm\n• ECB: https://www.ecb.europa.eu/mopo/html/index.en.html\n\nDisclaimer: this app does not represent any government entity. For education and information only; not legal, tax or investment advice. Always confirm with the original source.\n\nGlobal Monetary Systems is the macro companion to PlainMoney, our plain-language guide to personal finance.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free, no ads, optional monthly subscription",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-globalmonetarysystems.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-globalmonetarysystems.html",
+  "releasedAt": "2026-09-16",
+  "updatedAt": "2026-11-17",
+  "version": "1.0",
+  "icon": "assets/apps/globalmonetarysystems/icon-512.webp",
+  "hero": "assets/apps/globalmonetarysystems/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/globalmonetarysystems/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/globalmonetarysystems/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/globalmonetarysystems/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/globalmonetarysystems/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.globalmonetarysystems.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.globalmonetarysystems.app",
+    "package": "com.equalinformation.globalmonetarysystems.app"
+  },
+  "related": []
+}

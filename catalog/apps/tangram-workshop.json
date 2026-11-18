@@ -1,0 +1,69 @@
+{
+  "slug": "tangram-workshop",
+  "name": "Tangram Workshop",
+  "subtitle": "Seven pieces, one outline",
+  "categories": [
+    "puzzle",
+    "board-strategy"
+  ],
+  "tags": [
+    "tangram",
+    "seven-pieces",
+    "puzzle",
+    "shapes",
+    "geometry",
+    "silhouette",
+    "logic",
+    "brain",
+    "dissection",
+    "workshop",
+    "magnet"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Seven lacquered pieces, one carved outline. Fill it, with magnets, hints that explain, 59 plates, the thirteen convex figures and a new daily plate.",
+  "longDescription": "Tangram Workshop is the classic seven-piece puzzle built as a real workshop: lacquered pieces on a wooden table, a figure pressed into the surface, and magnets that make every piece land flush. Fill the outline with all the pieces. They may touch but never overlap.\n\n### The Plates\nSix chapters take you from three pieces to the full set of seven: First Cuts, Four on the Bench, Five Pieces, Six-Piece Plates, The Full Set and The Thirteen, the thirteen convex figures that all seven pieces can make. In the early chapters the seams are drawn in and fitted pieces glow; later you get only the outline.\n\n### Learn As You Play\nHint lights the piece to try, then shows where it goes, then explains why in plain words. Five short lessons show how two small triangles make a square, how three pieces make a large triangle, why the parallelogram flips, and how pieces turn in eighths. Stars reward solving without hints and at a steady pace.\n\n### Auto Play\nWatch the computer solve a plate with a reason for each move. Pause for real, change the speed, press Think to hear why the next piece goes where it does, take over whenever you like and hand it back.\n\n### Every Day, and Two Players\nA new daily plate for everyone, with a streak to keep. Race a friend on one device: same plate, a hand-off screen, the faster time wins. Fourteen trophies and full statistics track your progress.\n\n### Your Workshop\nChoose Lacquer, Boxwood or Jade pieces and a Walnut, Slate or Indigo table. Magnets and glow can be switched off for a purer challenge. Portrait or landscape, phone or tablet, text up to 300 percent on every reading screen, optional sound and haptics. Free to play with ads, no account, and it works offline.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos. Lessons, Auto Play and the rules are always free.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-tangramworkshopdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-tangramworkshopdeluxe.html",
+  "releasedAt": "2026-11-08",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/tangram-workshop/icon-512.webp",
+  "hero": "assets/apps/tangram-workshop/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/tangram-workshop/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tangram-workshop/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tangram-workshop/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tangram-workshop/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.tangramworkshopdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.tangramworkshopdeluxe.app"
+  },
+  "related": []
+}

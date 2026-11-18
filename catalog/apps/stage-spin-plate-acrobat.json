@@ -1,0 +1,64 @@
+{
+  "slug": "stage-spin-plate-acrobat",
+  "name": "Stage Spin: Plate Acrobat",
+  "subtitle": "Circle to spin, lean to save",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "plate-spinning",
+    "pole-and-plate",
+    "critical-spin",
+    "tea-house-stage",
+    "night-market",
+    "jade-plate",
+    "moon-glass"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "The circus act in one finger: draw circles to add spin, chase the lean to save each plate across thirty shows.",
+  "longDescription": "Plate spinning is the old Chinese acrobatic act where a performer keeps dishes whirling on the tips of thin poles, hurrying from one to the next before any wobbles to the floor. Stage Spin puts the act in your hands. Plates sit on thin poles on a lantern-lit stage; you keep them spinning with one finger, run from pole to pole and rescue the ones that start to wobble.\n\nTouch a plate and draw small circles around its middle: the faster you circle, the faster it spins. Spin fades on its own. Below its critical spin a plate begins to lean, and the lean grows faster and faster. Put your fingertip under the side it leans toward and it stands up again. A plate that leans too far falls and breaks, and three breaks end the show. A ring around every plate shows its state.\n\nThe tour has five theatres and thirty shows: a Tea House stage, a Night Market, a Lantern Festival, a Grand Theatre and a Moonlit Pavilion. Plates get rarer and the poles multiply: porcelain, red lacquer, heavy jade, moon glass and gold, each with its own weight and fade. In the louder theatres the floor shakes and every plate gets a nudge.\n\nEight short lessons start you off. A Daily Show is the same for everyone, and the Studio lets you set the number of poles, the plates and the shaking of the floor. Auto Play lets the computer perform with one fingertip exactly like you, while you pause, speed it up, ask Think or take over.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-platespinningdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-platespinningdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/stage-spin-plate-acrobat/icon-512.webp",
+  "hero": "assets/apps/stage-spin-plate-acrobat/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/stage-spin-plate-acrobat/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/stage-spin-plate-acrobat/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/stage-spin-plate-acrobat/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/stage-spin-plate-acrobat/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.platespinningdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.platespinningdeluxe.app"
+  },
+  "related": []
+}

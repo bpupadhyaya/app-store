@@ -1,0 +1,65 @@
+{
+  "slug": "skyspool-diabolo-freestyle",
+  "name": "Skyspool: Diabolo Freestyle",
+  "subtitle": "Pump, toss and catch the spool",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "diabolo",
+    "spool-spin",
+    "pump-the-spin",
+    "sky-run",
+    "trick-book",
+    "circus-toy",
+    "rings-and-bells",
+    "string-catch"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A 3D diabolo with spin and wobble: thirty tricks in six stages, a Sky Run through rings and bells, and a daily show.",
+  "longDescription": "The diabolo is a circus toy with Chinese roots: a spool spun on a string between two sticks, tossed high and caught again. Skyspool lets you hold one, simulated in 3D with real weight, spin and wobble.\n\nDrag a finger and the hands follow, with the speed limits of a real arm. Move up and down in small strokes to pump the spin, because a fast spool is a steady spool. Shake the hands sideways to roll it along the string. Flick up and stop and the string goes slack so the spool flies; slide under it and go down with it so it lands softly on the string.\n\nThe Trick Book lists thirty tricks across six stages, from waking the spool to a full show with rings, bells, long carries and long hangs. Every trick is graded S to C by drops and softness. Finish four tricks of a stage to open the next, and unlock new spool finishes, sticks and venues.\n\nPlay your way. Eight short lessons with a coach teach the basics. A two-minute Sky Run threads rings and bells with a streak multiplier and three lives. A Daily Show is the same for everyone. Free Play has no goals. In Auto Play the computer performs tricks with the same physics while you watch: pause, speed it up, ask Think to explain the plan and show the spool's path, or take over and hand back.\n\nPortrait or landscape, text size to 300 percent, and sound and haptics optional.\n\nFree with ads. Go ad-free with an optional monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-diabolodeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-diabolodeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/skyspool-diabolo-freestyle/icon-512.webp",
+  "hero": "assets/apps/skyspool-diabolo-freestyle/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/skyspool-diabolo-freestyle/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skyspool-diabolo-freestyle/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skyspool-diabolo-freestyle/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/skyspool-diabolo-freestyle/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.diabolodeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.diabolodeluxe.app"
+  },
+  "related": []
+}

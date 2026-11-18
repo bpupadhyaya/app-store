@@ -1,0 +1,64 @@
+{
+  "slug": "music-and-dance-of-the-world",
+  "name": "Music & Dance of the World",
+  "subtitle": "Balkan Kolo, Dizi & more",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "balkan-kolo",
+    "bansuri-bamboo-flute",
+    "dabke-line-dance",
+    "dabke",
+    "dabka",
+    "fufu-pounding-rhythm",
+    "fufu-pounding"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "10 instruments and dances to play: Balkan kolo, Bansuri bamboo flute, Cueca and Dabke line dance.",
+  "longDescription": "Music & Dance of the World: 10 instruments and dances from 23 countries, in one app that works fully offline.\n\nInside: Balkan kolo, Bansuri bamboo flute, Cueca, Dabke line dance, Dizi, Fufu Pounding Rhythm, Mijwiz Double Clarinet, Ribbon-Pole Plaiting Dance, Schuhplattler and Ukulele strum-along.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can play instruments and dances, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-13",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/music-and-dance-of-the-world/icon-512.webp",
+  "hero": "assets/apps/music-and-dance-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/music-and-dance-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/music-and-dance-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/music-and-dance-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/music-and-dance-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.musicanddanceoftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.musicanddanceoftheworld",
+    "package": "com.equalinformation.whg.musicanddanceoftheworld"
+  },
+  "related": []
+}

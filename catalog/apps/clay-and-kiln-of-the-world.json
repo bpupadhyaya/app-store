@@ -1,0 +1,69 @@
+{
+  "slug": "clay-and-kiln-of-the-world",
+  "name": "Clay & Kiln of the World",
+  "subtitle": "Pottery of the Americas",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "pottery",
+    "ceramics",
+    "clay",
+    "kiln",
+    "barro-negro",
+    "atzompa",
+    "chamba",
+    "pomaire",
+    "chulucanas",
+    "mata-ortiz",
+    "metepec",
+    "craft"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "8 pottery and ceramic traditions of the Americas to play: Black clay jar, Green pitcher, Cooking pot and Red clay casserole.",
+  "longDescription": "Clay & Kiln of the World: 8 pottery and ceramic traditions of the Americas from 5 countries, in one app that works fully offline.\n\nInside: Barro negro black pottery, Atzompa green glaze, La Chamba cooking pots, Pomaire clay, Chulucanas leaf-resist pottery, Mata Ortiz thin-walled pottery, Metepec pottery and Saramenha ceramics.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can throw clay on the wheel, shape, decorate and fire traditional pottery, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/clay-and-kiln-of-the-world/icon-512.webp",
+  "hero": "assets/apps/clay-and-kiln-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/clay-and-kiln-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/clay-and-kiln-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/clay-and-kiln-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/clay-and-kiln-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.clayandkilnoftheworld"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.whg.clayandkilnoftheworld"
+  },
+  "related": []
+}

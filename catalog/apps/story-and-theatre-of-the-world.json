@@ -1,0 +1,63 @@
+{
+  "slug": "story-and-theatre-of-the-world",
+  "name": "Story & Theatre of the World",
+  "subtitle": "Yoke thé, Karagoz & more",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "wayang-shadow-puppets",
+    "wayang-kulit",
+    "yoke-the",
+    "loutkove-divadlo",
+    "karagoz",
+    "aragoz-hand-puppet-booth"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "10 theatre and storytelling traditions to play: Wayang Shadow Puppets, Water puppet pond theatre, Yoke thé marionette theatre and String Marionette Theatre.",
+  "longDescription": "Story & Theatre of the World: 10 theatre and storytelling traditions from 12 countries, in one app that works fully offline.\n\nInside: Wayang Shadow Puppets, Water puppet pond theatre, Yoke thé marionette theatre, String Marionette Theatre, Karagoz, Aragoz hand-puppet booth, Bayt-bazi verse chain, Kathputli string puppets, Sahel salt caravan and Hira gasy troupe contest.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can perform stories and theatre, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-13",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/story-and-theatre-of-the-world/icon-512.webp",
+  "hero": "assets/apps/story-and-theatre-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/story-and-theatre-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/story-and-theatre-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/story-and-theatre-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/story-and-theatre-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.storyandtheatreoftheworl"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.whg.storyandtheatreoftheworl"
+  },
+  "related": []
+}

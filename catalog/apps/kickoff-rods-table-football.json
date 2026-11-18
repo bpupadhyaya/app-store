@@ -1,0 +1,64 @@
+{
+  "slug": "kickoff-rods-table-football",
+  "name": "Kickoff Rods: Table Football",
+  "subtitle": "Flick rods, wind up shots",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "foosball-cabinet",
+    "steel-rods",
+    "wind-up-shot",
+    "golden-goal",
+    "icy-felt",
+    "turbo-table",
+    "corner-cafe-crew"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A 3D table-football cabinet with steel rods, wind-up power shots, a Cup of eight teams, drills and daily table conditions.",
+  "longDescription": "Table football, known as futbolin in Spain and foosball elsewhere, filled cafes and bars through the twentieth century with the sound of steel rods and a small ball. Kickoff Rods is the table made carefully: a real-time 3D cabinet, steel rods, little figures that swing as you flick, and a ball that behaves.\n\nSlide a rod by dragging anywhere near it. Flick up the pitch to kick, tap to pass, or hold still to wind back and release a power shot. Six computer levels run from Rookie to Legend, plus Adaptive. Play first to 3, 5 or 7 goals, or a timed three-minute match with golden goal. Two players share one screen, each playing their own half at the same time. Auto Play lets the computer play both sides while you pause, change speed, tap Think for its plan, or take over.\n\nCompete in the Cup, eight teams from the Corner Cafe Crew to the Golden Rod, with stars for each win. Eight training drills cover line-up, power flicks, wind-ups, beating the keeper, bank shots and two save machines. A Daily Challenge is the same match for everyone, with special table conditions such as Icy Felt, Tiny Goals or Turbo, and a streak. Eighteen achievements and full statistics stay on your device.\n\nFour tables, Tournament Oak, Midnight, Terracotta and Arctic, three balls and six team colours let you dress the cabinet. Portrait and landscape work on phones and tablets with a camera you can set low, broad or high.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-futbolindeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-futbolindeluxe.html",
+  "releasedAt": "2026-11-03",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/kickoff-rods-table-football/icon-512.webp",
+  "hero": "assets/apps/kickoff-rods-table-football/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/kickoff-rods-table-football/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/kickoff-rods-table-football/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/kickoff-rods-table-football/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/kickoff-rods-table-football/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.futbolindeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.futbolindeluxe.app"
+  },
+  "related": []
+}

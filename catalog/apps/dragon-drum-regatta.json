@@ -1,0 +1,66 @@
+{
+  "slug": "dragon-drum-regatta",
+  "name": "Dragon Drum Regatta",
+  "subtitle": "Drum the rhythm, steer",
+  "categories": [
+    "music",
+    "sports"
+  ],
+  "tags": [
+    "dragon-boat",
+    "drummer",
+    "thunder-drum",
+    "steering-gate",
+    "ghost-boat",
+    "moon-canal",
+    "misty-river",
+    "festival-rowing"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "You are the drummer: two drum heads, falling discs, no wheel. Left and right strikes steer the boat through four regattas.",
+  "longDescription": "Dragon boat racing began as a ritual on Chinese rivers and is now a worldwide festival sport, with a drummer in the bow keeping twenty paddlers in time. Dragon Drum Regatta puts you at that drum. Strike the left and right drum heads in time and the crew paddles to your rhythm, bears where you drum and carries you past three rival crews on real-time 3D water.\n\nThe rhythm is the rudder. Discs fall toward two drum heads, port and starboard; hit them on the beat for Perfect, Great or Good strokes. Hold the long discs for a long pull, and strike both heads on gold discs for a power stroke. There is no steering wheel: drum the left head more and the boat bears to port, drum the right more and it bears to starboard, so pass between the buoys of each steering gate. Crew stamina and sync matter, ease bars give stamina back, and a Perfect streak fills the Thunder drum for six seconds of extra power.\n\nCareer has four regattas of three rounds, from Misty River at dawn to the Moon Canal Grand Final at night, with up to three stars a race. Quick Race lets you choose the water, the distance from 200 to 800 metres and rivals from Gentle to Champions. A Daily Race shares one course each day, and Time Trial races your own best run as a ghost boat.\n\nSix short lessons teach the beat, the two heads, long pulls, together strikes, the rhythm rudder, Thunder and ease. Auto Play shows the drummer at work, and heritage notes tell the story of the festival.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-dragonboatdeluxe.html",
+  "supportUrl": "https://equalinformation.com/app-support-dragonboatdeluxe.html",
+  "releasedAt": "2026-11-03",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/dragon-drum-regatta/icon-512.webp",
+  "hero": "assets/apps/dragon-drum-regatta/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/dragon-drum-regatta/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dragon-drum-regatta/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dragon-drum-regatta/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dragon-drum-regatta/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.dragonboatdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.dragonboatdeluxe.app"
+  },
+  "related": []
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "millstone-morris",
+  "name": "Millstone Morris",
+  "subtitle": "Four mill games, one board",
+  "categories": [
+    "board-strategy"
+  ],
+  "tags": [
+    "merels",
+    "swinging-mill",
+    "flying-at-three",
+    "blockade",
+    "mill-puzzles",
+    "millstone-men",
+    "twelve-men-s-morris"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Three, Six, Nine and Twelve Men's Morris with an exact endgame table, fourteen lessons and nine chapters of forced mills.",
+  "longDescription": "The mill games are among the oldest board games known, scratched into temple roofs and cathedral cloisters across Europe and beyond. Millstone Morris gathers the family on a board you want to touch: Three, Six, Nine and Twelve Men's Morris, played with carved men shaped like small millstones on rosewood, midnight lacquer, honey maple or cream marble, with gold inlay and studio light.\n\nPlay any of the four games against six computer opponents, from a Novice that overlooks threats to a Grandmaster that is hard to trick. Choose Adaptive and the opponent follows your rating. Or sit down with a friend: the board turns to face whoever is on the move.\n\nThe endgame is exact. A table of every position in which each side has three to six men ships inside the app, so the strongest levels never miss a win and never lose a position that can be held. In Nine Men's Morris you can fly at three men or play without flying; Six and Twelve have the same option, and Three Men's Morris can add its diagonals.\n\nLearn by playing real positions. Fourteen lessons take you from the first mill to the swinging mill, the blockade, flying and the three-against-three endgame, and each step waits for your actual move. The puzzle campaign has nine chapters of forced mills; every puzzle was solved by exhaustive search, so the answer is a fact, and a hint can point at it.\n\nEvery day brings one puzzle and one match with the same opening for everyone.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-arcforge.html",
+  "supportUrl": "https://bpupadhyaya.github.io/games-site/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/millstone-morris/icon-512.webp",
+  "hero": "assets/apps/millstone-morris/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/millstone-morris/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/millstone-morris/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/millstone-morris/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/millstone-morris/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.ninemensmorrisdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.ninemensmorrisdeluxe.app"
+  },
+  "related": []
+}

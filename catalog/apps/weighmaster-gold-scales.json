@@ -1,0 +1,67 @@
+{
+  "slug": "weighmaster-gold-scales",
+  "name": "Weighmaster: Gold Scales",
+  "subtitle": "Deduce the false nugget",
+  "categories": [
+    "puzzle",
+    "word"
+  ],
+  "tags": [
+    "false-nugget",
+    "balance-puzzle",
+    "minimax-par",
+    "spring-scale",
+    "pouches",
+    "assay",
+    "counterfeit-coin",
+    "akan",
+    "weighings"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Weighing puzzles in a gold market: find the false nugget, rank hidden weights, name the short pouch. Par is exact.",
+  "longDescription": "Among the Akan of Ghana, gold dust was weighed with small cast brass weights shaped like seeds, animals and proverbs, and a weighmaster's honesty was a matter of public pride. Weighmaster borrows that sunlit market for a deduction game about the balance.\n\nA balance can say only three things, left, right or level, and every lot on your cloth hides one puzzle. Solve it in the fewest weighings any plan could promise.\n\nThree kinds of lot appear. In Assay, one nugget in the lot is false, heavier or lighter than its twins, and sometimes you are not told which. Drag nuggets onto the two pans, press Weigh and watch the beam swing; small marks show what each nugget could still be, and honest nuggets become helpers for the next weighing. In Order, rank stamped brass weights from lightest to heaviest using only one-against-one weighings, and the ledger remembers what follows. In Pouches, a spring scale reads grams: draw a different number of pieces from each pouch, take one reading, and name the short pouch, or the two short pouches.\n\nThe par is exact. Every lot has a par computed by a solver that checks every plan, and each of your weighings is graded against it. Three stars mean par with every weighing as sharp as possible.\n\nHint places the best weighing on the pans and explains it in numbers, and eight short lessons with drawings cover the three answers of the balance, spare nuggets and counting.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-akangoldweightdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-akangoldweightdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/weighmaster-gold-scales/icon-512.webp",
+  "hero": "assets/apps/weighmaster-gold-scales/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/weighmaster-gold-scales/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/weighmaster-gold-scales/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/weighmaster-gold-scales/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/weighmaster-gold-scales/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.akangoldweightdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.akangoldweightdeluxe.app"
+  },
+  "related": []
+}

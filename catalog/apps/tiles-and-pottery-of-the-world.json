@@ -1,0 +1,66 @@
+{
+  "slug": "tiles-and-pottery-of-the-world",
+  "name": "Tiles & Pottery of the World",
+  "subtitle": "Delftware, Iznik & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "delftware",
+    "jaipur-blue-pottery",
+    "marginea",
+    "boleslawiec",
+    "deruta",
+    "iznik",
+    "talavera",
+    "tile-painting",
+    "ceramics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "7 tile painting and pottery traditions to play: Delftware tile painting, Jaipur blue pottery, Marginea black pottery and Bolesławiec pottery.",
+  "longDescription": "Tiles & Pottery of the World: 7 tile painting and pottery traditions from 7 countries, in one app that works fully offline.\n\nInside: Delftware tile painting, Jaipur blue pottery, Marginea black pottery, Bolesławiec pottery, Deruta ceramics, Iznik tile painting and Talavera tile painting.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can paint tiles and decorate pottery in traditional styles, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/tiles-and-pottery-of-the-world/icon-512.webp",
+  "hero": "assets/apps/tiles-and-pottery-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/tiles-and-pottery-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tiles-and-pottery-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tiles-and-pottery-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/tiles-and-pottery-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.tilesandpotteryoftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.tilesandpotteryoftheworld",
+    "package": "com.equalinformation.whg.tilesandpotteryoftheworld"
+  },
+  "related": []
+}

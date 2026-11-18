@@ -1,0 +1,66 @@
+{
+  "slug": "clatterbox-shut-the-box",
+  "name": "Clatterbox: Shut the Box",
+  "subtitle": "Roll, shut tiles, clear it",
+  "categories": [
+    "board-strategy",
+    "puzzle"
+  ],
+  "tags": [
+    "hinged-tiles",
+    "single-die-rule",
+    "pub-box",
+    "grand-box",
+    "odds-rivals",
+    "archivist",
+    "leftover-digits",
+    "tile-case"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A walnut case of hinged tiles and tumbling dice: three box sizes, five rivals, solo or pass-and-play, 10 lessons and 60 puzzles.",
+  "longDescription": "Shut the box is an old tavern and fishing-port game from Normandy and the British Isles: roll two dice, shut the tiles that add up to the total, and keep going until nothing fits. Clatterbox is a shut-the-box game made with care: a walnut case of hinged ivory tiles, a felt tray, and a pair of dice that really tumble. Fewer points left open is better, and shutting the whole box is the prize.\n\nChoose the Classic box (tiles 1 to 9), the Pub box (1 to 10) or the Grand box (1 to 12). Tiles clack shut with weight and a sound keyed to their number. The dice are simulated as solid cubes on felt, with walls, bounces and a settle that is different every throw. Switch the box set between walnut, ebony, maple and rosewood and change the dice.\n\nPlay solo for a score, race one of five rivals, or pass the device around for up to four people. Matches run for one box, first to two or three rounds, or a five-box series. Keep the traditional single-die rule or switch it off, score by adding up or by reading the leftover digits, and decide whether shutting the box wins on the spot.\n\nThe rivals have character. Pip picks at random. Odalys knows the odds but has off days. Marlow always shuts the biggest tile he can. Hargreave plays the move with the best average. The Archivist plays the exact best move, and when he has a score to beat he plays for the best chance of beating it.\n\nTen lessons and sixty puzzles teach probability by doing.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-shuttheboxdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-shuttheboxdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/clatterbox-shut-the-box/icon-512.webp",
+  "hero": "assets/apps/clatterbox-shut-the-box/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/clatterbox-shut-the-box/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/clatterbox-shut-the-box/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/clatterbox-shut-the-box/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/clatterbox-shut-the-box/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.shuttheboxdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.shuttheboxdeluxe.app"
+  },
+  "related": []
+}

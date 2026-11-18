@@ -1,0 +1,66 @@
+{
+  "slug": "peg-solitaire-salon",
+  "name": "Peg Solitaire Salon",
+  "subtitle": "Jump pegs, leave only one",
+  "categories": [
+    "puzzle",
+    "word"
+  ],
+  "tags": [
+    "english-cross",
+    "european-board",
+    "triangle-board",
+    "oracle-light",
+    "brass-pegs",
+    "start-hole",
+    "250-puzzles",
+    "jump"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "The jumping puzzle with an exact Oracle that says whether a win is still possible, four boards and 250 solved puzzles.",
+  "longDescription": "Peg solitaire is a puzzle for one that may date to the court of Louis XIV, and its crossed board of 33 holes has been in drawing rooms ever since. Peg Solitaire Salon sets it on a table you want to touch. A warm lamp, a carved plate lined with brass, turned pegs of polished brass, wood or blown glass that leap over their neighbours with real weight, and a brass-and-felt tray that catches every peg you capture.\n\nJump a peg over one neighbour into an empty hole, remove the neighbour, and keep going until one peg is left. Simple to learn, famously hard to finish.\n\nThe Oracle is a light beside the board that answers the one question every player asks: can this still be won? Green means a win is still in reach, red means a dead end and amber means it is still searching. The answer is exact, never a guess, and it is checked after every jump. Ask for a hint and the Oracle lifts the peg and shows the jump; if you have gone wrong it tells you how many jumps to undo.\n\nChoose from four boards: the English cross of 33 holes, the European board of 37 holes, the 15-hole Triangle and the 21-hole Big Triangle. Pick your own empty starting hole and the app offers only the starts that can be cleared. On the European board the centre start cannot, and the app can prove it.\n\nFour chapters hold 250 puzzles, each a position with exactly one winning line found by playing the game backwards.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-pegsolitairedeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-pegsolitairedeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/peg-solitaire-salon/icon-512.webp",
+  "hero": "assets/apps/peg-solitaire-salon/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/peg-solitaire-salon/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/peg-solitaire-salon/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/peg-solitaire-salon/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/peg-solitaire-salon/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.pegsolitairedeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.pegsolitairedeluxe.app"
+  },
+  "related": []
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "kitchen-crafts-of-the-world",
+  "name": "Kitchen Crafts of the World",
+  "subtitle": "Mint tea, Lamian & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "tea",
+    "coffee",
+    "noodles",
+    "lamian",
+    "lavash",
+    "mint-tea",
+    "gongfu",
+    "jebena",
+    "cezve",
+    "taffy",
+    "wagashi",
+    "cooking"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "10 kitchen crafts and food traditions to play: Lamian, Lavash baking, Moroccan Mint Tea High Pour and Gongfu tea pour.",
+  "longDescription": "Kitchen Crafts of the World: 10 kitchen crafts and food traditions from around the world, in one app that works fully offline.\n\nInside: Lamian, Lavash baking, Moroccan Mint Tea High Pour, Gongfu tea pour, Hong Kong Milk Tea Pulling, Turkish coffee in the cezve, Jebena coffee brewing, Palm sugar boiling and mould-filling, Maple taffy on snow and Nerikiri wagashi sculpting.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can pull noodles, bake flatbread on an oven wall, pour tea, brew coffee, boil palm sugar and pour maple taffy, as cooks have done for generations, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/kitchen-crafts-of-the-world/icon-512.webp",
+  "hero": "assets/apps/kitchen-crafts-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/kitchen-crafts-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/kitchen-crafts-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/kitchen-crafts-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/kitchen-crafts-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.kitchencraftsoftheworld"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.whg.kitchencraftsoftheworld"
+  },
+  "related": []
+}

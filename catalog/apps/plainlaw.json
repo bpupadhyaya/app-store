@@ -1,0 +1,69 @@
+{
+  "slug": "plainlaw",
+  "name": "PlainLaw - Legal Reference",
+  "subtitle": "Law & Courts in Plain English",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "legal",
+    "law",
+    "rights",
+    "court",
+    "constitution",
+    "scotus",
+    "dictionary",
+    "lawyer",
+    "attorney",
+    "law-school",
+    "legal-reference"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Free offline legal reference. 1,000+ legal terms, Know Your Rights guides, court directory, and more — all in plain English. No account needed.",
+  "longDescription": "PlainLaw is your complete legal reference companion, written in plain English for everyone — no law degree required.\n\n### Pro Subscription\n• Full US Constitution with annotations — all 27 amendments\n  • Complete Federal Rules (FRCP & FRE)\n  • 50 landmark SCOTUS cases with plain-English summaries\n  • Federal court directory — all 94 district courts + 13 circuits\n  • State court systems — all 50 states\n  • Judicial profiles — current SCOTUS justices\n  • International law — UN, ICC, UNCLOS, WTO, regional courts\n  • 15-country legal profiles\n  • Legal writing guide + citation formats\n  • Circuit split tracker \n  • Practice area guides\n\nPlainLaw is for individuals navigating legal situations, law students, paralegals, journalists, and anyone who wants to understand the law.",
+  "whatsNew": "Adds ads served by Google AdMob. Remove them any time with the new one-time Remove Ads purchase (Settings). Bug fixes and improvements.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-plainlaw.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-plainlaw.html",
+  "releasedAt": "2026-05-18",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/plainlaw/icon-512.webp",
+  "hero": "assets/apps/plainlaw/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/plainlaw/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainlaw/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainlaw/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainlaw/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/plainlaw-legal-reference/id6768846777",
+    "bundleId": "com.equalinformation.plainlaw.app",
+    "appleId": "6768846777"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.plainlaw.app",
+    "package": "com.equalinformation.plainlaw.app"
+  },
+  "related": []
+}

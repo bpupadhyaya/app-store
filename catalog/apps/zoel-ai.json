@@ -1,0 +1,69 @@
+{
+  "slug": "zoel-ai",
+  "name": "Zoel AI",
+  "subtitle": "Your private, on-device AI",
+  "categories": [
+    "productivity",
+    "health"
+  ],
+  "tags": [
+    "private-ai",
+    "offline-ai",
+    "on-device",
+    "assistant",
+    "health",
+    "voice",
+    "local-llm",
+    "no-cloud",
+    "secure",
+    "knowledge"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A private AI that runs on your phone. Voice-first, multilingual, 15 domains. Health is free forever with no ads; other ads can be removed with one purchase.",
+  "longDescription": "Zoel AI is a private, on-device AI assistant. It runs entirely on your phone — your conversations, questions, and data never leave your device. No account. No cloud. Your conversations stay on your device.\n\n### What Makes Zoel Ai Different\n• 100% on-device — a small language model runs locally, so it works on a plane, in a tunnel, or anywhere with no signal.\n• Total privacy — nothing is uploaded. A clear \"on-device · private\" banner always tells you where each answer comes from.\n• Voice-first and multilingual — talk or type, and Zoel replies in your language.\n• A built-in, cited knowledge base across 15 life domains.\n\n15 KNOWLEDGE DOMAINS\nHealth, Safety, Learning, Finance, Work, Relationships, Family, Legal, Home Life, Travel, Productivity, Civic, Spiritual, Legacy, and Companion.\n\nHEALTH — FREE FOREVER\nThe full Health module is free for everyone: clear, sourced guidance on hundreds of conditions and topics — symptoms, medications, mental health, first aid, chronic care, women's and men's health, and more — with read-aloud and references from CDC, NIH, WHO, Mayo Clinic and other authoritative sources.\n\n### Bring Your Own Model or Key\nPrefer a larger on-device model, or your own cloud provider? Add it and Zoel uses it — you stay in control, and the privacy banner keeps you informed.\n\n### Accessibility\nRead-aloud on every knowledge page. Voice input and spoken answers.\n\n### Membership\n• Zoel Free — the Health module, plus AI conversation in every module.\n• Zoel Select ($4.99 one-time) — Health plus any 4 modules you choose, forever.\n• Zoel Unlimited ($4.99/month or $49.99/year) — every module, current and future.\n• Remove Ads ($1.99 one-time) — removes all ads in the app.\n\nZoel AI — your private AI, running entirely on your device.\n\n### Disclaimer\nZoel AI provides general information for educational purposes only. It is not a substitute for professional medical, legal, financial, or other advice, and it is not a medical device. AI-generated answers may be incomplete or inaccurate. Always consult a qualified professional before making decisions, and never disregard or delay seeking professional advice because of something you read in the app. In a medical emergency, contact your local emergency services immediately.",
+  "whatsNew": "Adds ads in some modules (Google AdMob; never in Health, My Health or AI chat) and an optional one-time Remove Ads purchase.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "17+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-zoel-ai.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-zoel-ai.html",
+  "releasedAt": "2026-06-22",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/zoel-ai/icon-512.webp",
+  "hero": "assets/apps/zoel-ai/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/zoel-ai/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zoel-ai/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zoel-ai/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/zoel-ai/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/zoel-ai/id6780248126",
+    "bundleId": "com.equalinformation.zoelai.app",
+    "appleId": "6780248126"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.zoelai.app",
+    "package": "com.equalinformation.zoelai.app"
+  },
+  "related": []
+}

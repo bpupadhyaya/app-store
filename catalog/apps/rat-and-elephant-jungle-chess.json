@@ -1,0 +1,65 @@
+{
+  "slug": "rat-and-elephant-jungle-chess",
+  "name": "Rat & Elephant: Jungle Chess",
+  "subtitle": "Rat topples the elephant",
+  "categories": [
+    "board-strategy"
+  ],
+  "tags": [
+    "dou-shou-qi",
+    "animal-chess",
+    "lion-leap",
+    "rune-traps",
+    "den-capture",
+    "temple-dusk",
+    "sunrise-savanna",
+    "cub-level"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Dou Shou Qi on a lit 3D table: carved animals, rivers, traps and dens, eight levels, coach and puzzles.",
+  "longDescription": "Jungle, called Dou Shou Qi in Chinese, is the animal-rank board game where the smallest creature can topple the largest. Rat and Elephant brings it to your phone or tablet: eight carved animals a side, two rivers, traps and a den to reach, simple to learn and deep to master.\n\nThe rules are true to the game: Rat 1 to Elephant 8, the Rat that captures the Elephant, rivers only the Rat can swim, Lion and Tiger leaps across the water, traps that strip rank, and the den that wins the game. The table is a real-time 3D scene with lacquered tokens carved in relief, a rippling river, glowing dens, fireflies and lamps. Three scenery themes, Temple Dusk, Moonlit Stone and Sunrise Savanna, come with three piece sets.\n\nPlay against eight computer levels from Cub to Legend, plus Adaptive, which follows your rating; the top levels search deep and punish loose play. Hints show the best move and explain it in plain words, undo is free, and a coach comments on every move you make. Pass and Play seats two people on one device, with the board turning to face each player.\n\nAuto Play, Watch and Learn, has the computer play both sides and explain each move. Pause, change speed, ask Think for the plan, or take over for either side and hand back. Lessons and puzzles teach the tactics of the rat, the leap and the trap.\n\nFree with ads. Go ad-free with an optional monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-junglechessdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-junglechessdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/rat-and-elephant-jungle-chess/icon-512.webp",
+  "hero": "assets/apps/rat-and-elephant-jungle-chess/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/rat-and-elephant-jungle-chess/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rat-and-elephant-jungle-chess/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rat-and-elephant-jungle-chess/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/rat-and-elephant-jungle-chess/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.junglechessdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.junglechessdeluxe.app"
+  },
+  "related": []
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "bamboo-copter-sky-workshop",
+  "name": "Bamboo Copter: Sky Workshop",
+  "subtitle": "Carve a rotor, ride the wind",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "bamboo-dragonfly",
+    "rotor-blades",
+    "pitch-and-twist",
+    "thermal-column",
+    "ridge-lift",
+    "pull-cord",
+    "spin-ring"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Design your own bamboo rotor, pull the cord and fly gates and lanterns, using thermals and hillside lift.",
+  "longDescription": "The bamboo-copter, or bamboo dragonfly, is one of the oldest flying toys: a rotor on a stick, spun between the palms and let go. Sky Workshop turns it into a flight toy with real aerodynamics.\n\nCarve a rotor in the workshop. Choose the radius, blade width, pitch, twist and ballast, two or three blades, the kind of bamboo and its paint. A short, steep rotor climbs hard and falls fast; a wide, shallow one glides far on its own spin. Test flights in still air show how each change affects climb, sink, flight time and weight, and you can save three designs of your own.\n\nPull the cord by dragging downward and releasing with the meter in the green band. The fastest part of your pull sets the spin: too soft gives less, a wild pull slips on the string.\n\nThen fly by leaning. Touch the sky and drag to tilt the rotor and the copter slides the way you lean. Spin is your fuel, height is your reserve and the wind carries you where it blows. Watch the spin ring, height, vertical speed, wind dial and air readout.\n\nRead the air: sun-warmed ground sends up columns of rising air, so find them, look for the birds, and climb without spending spin. Wind that meets a hillside is forced upward too, so soar along the cliff. Fly through gates and lanterns across five handsome 3D landscapes.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-bamboocopterdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-bamboocopterdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/bamboo-copter-sky-workshop/icon-512.webp",
+  "hero": "assets/apps/bamboo-copter-sky-workshop/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/bamboo-copter-sky-workshop/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bamboo-copter-sky-workshop/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bamboo-copter-sky-workshop/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bamboo-copter-sky-workshop/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.bamboocopterdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.bamboocopterdeluxe.app"
+  },
+  "related": []
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "dentistry-dentiwell",
+  "name": "Dentistry: Dentiwell",
+  "subtitle": "Dental anatomy and numbering",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "dentistry",
+    "dental",
+    "tooth-anatomy",
+    "hygiene",
+    "fdi",
+    "universal",
+    "palmer",
+    "molar",
+    "enamel",
+    "dentin",
+    "pulp",
+    "quiz"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Dentistry: rotate every tooth in interactive 3D, slice it open, scrub from baby teeth to wisdom teeth, and drill Universal, FDI and Palmer numbering. Free.",
+  "longDescription": "Dentistry and dental anatomy, in interactive 3D. Dentiwell is the 3D tooth anatomy study app for dental, dental hygiene and dental assisting students, and for anyone who wants to finally learn the teeth.\n\n### See Every Tooth in Interactive 3d\nSpin a full set of 32 permanent and 20 primary teeth on a lit 3D dental arch, or open any single tooth in the lab. Pinch to zoom, drag to orbit, tap a tooth to select it.\n\n### Cut It Open\nSlice a tooth three ways (mesiodistal, buccolingual and across) and slide the cutting plane to see enamel, dentin and pulp nest inside each other, down to the root canals. Switch tissues on and off, and tap a tissue on the model to pin a label to it.\n\n### Surfaces That Light Up\nMesial, distal, buccal or labial, lingual or palatal, occlusal or incisal: tap a name and that surface glows on the 3D tooth.\n\n### Watch Decay Progress\nSlide a cavity from the enamel through the dentin toward the pulp and see why the layers matter.\n\n### Universal, Fdi and Palmer\nA clear dental chart for all three numbering systems, for permanent and primary teeth, with every number tied to its tooth name. Tap any tooth to see its number in all three systems at once.\n\n### Eruption Timeline You Can Play\nPress play and watch teeth erupt on the 3D arch from the first primary incisor to the wisdom teeth, loosen and shed, with early, typical and late development. Scrub to any age from birth to 25.\n\n### Quizzes Built on the 3d Model\nTap the named tooth on the arch, name the glowing tooth, convert between numbering systems, identify a lit surface or tissue, and match eruption ages. Teeth you miss come back more often, and your accuracy and streak are saved.\n\n### Made for Studying\n- Works completely offline\n- A- and A+ text size on every screen, plus full support for your system text size\n- Designed for both iPhone and iPad, with a side-by-side layout on iPad\n- No account, no sign-up\n\n### Education Only\nDentiwell is a study aid. The 3D teeth are schematic educational models built from published mean dimensions, and eruption ranges are typical averages. It does not diagnose or treat anything and is not a substitute for professional dental care.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "12+",
+  "privacyUrl": "https://equalinformation.com/privacy-dentiwell.html",
+  "supportUrl": "https://equalinformation.com/app-support-dentiwell.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-17",
+  "version": "1.0",
+  "icon": "assets/apps/dentistry-dentiwell/icon-512.webp",
+  "hero": "assets/apps/dentistry-dentiwell/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/dentistry-dentiwell/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dentistry-dentiwell/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dentistry-dentiwell/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/dentistry-dentiwell/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.dentiwell.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.dentiwell.app"
+  },
+  "related": []
+}

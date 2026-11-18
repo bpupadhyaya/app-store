@@ -1,0 +1,65 @@
+{
+  "slug": "hnefatafl-the-king-s-hall",
+  "name": "Hnefatafl: The King's Hall",
+  "subtitle": "Hunt the king by candlelight",
+  "categories": [
+    "board-strategy"
+  ],
+  "tags": [
+    "brandubh",
+    "tablut",
+    "copenhagen-rules",
+    "fetlar",
+    "shieldwall",
+    "edge-fort",
+    "throne-square",
+    "rune-stones"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Four exact Tafl variants, a carved Norse table, six levels, thirteen lessons, fifty verified puzzles and an opening explorer.",
+  "longDescription": "Hnefatafl is the old Norse game of the hunted king, played across northern Europe a thousand years ago and carried by Vikings to Britain, Ireland and Iceland. Pull up a bench in the king's hall: a small band of defenders and their king against twice as many attackers, on a carved board by candlelight.\n\nFour real variants are included: Brandubh (7x7), Tablut (9x9), Copenhagen (11x11) and Fetlar (11x11), each with its own exact rules: corner or edge escape, how the king is captured, hostile throne and corners, and in Copenhagen the shieldwall, the edge fort and the iron ring.\n\nThe table is one you want to touch. Hand-carved basalt rune stones play against pale horn, a crowned king, a candle flickering beside a horn and a pewter tankard. Pieces lift, glide and are carried to a tray when captured. Choose from three board woods and three piece sets, an angled or top view, portrait or landscape.\n\nAn opponent plays back. Six levels run from Squire to Saga, plus Adaptive, which follows your rating, and the strongest levels search deeply and punish every loose piece. Play as either side or pass and play on one device.\n\nLearn by doing with thirteen hands-on lessons, fifty puzzles in five chapters with verified forced wins, a daily challenge with a streak and an opening explorer that searches live and explains each move in plain words.\n\nIn Auto Play the computer plays both sides and says why; pause, change speed, press Think or take over.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-tafldeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-tafldeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/hnefatafl-the-king-s-hall/icon-512.webp",
+  "hero": "assets/apps/hnefatafl-the-king-s-hall/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/hnefatafl-the-king-s-hall/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hnefatafl-the-king-s-hall/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hnefatafl-the-king-s-hall/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hnefatafl-the-king-s-hall/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.tafldeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.tafldeluxe.app"
+  },
+  "related": []
+}

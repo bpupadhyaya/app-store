@@ -1,0 +1,66 @@
+{
+  "slug": "woodcraft-and-metal-of-the-world",
+  "name": "Woodcraft & Metal of the World",
+  "subtitle": "Bidri, Najeon, Forge & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "bidriware",
+    "blacksmith",
+    "aranmula",
+    "najeon",
+    "channapatna",
+    "love-spoon",
+    "chip-carving",
+    "lacquer",
+    "woodcarving"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "13 woodcraft, lacquer and metalwork traditions to play: Bidriware silver inlay, Blacksmith's Forge, Aranmula metal mirror and Najeon chilgi.",
+  "longDescription": "Woodcraft & Metal of the World: 13 woodcraft, lacquer and metalwork traditions from 12 countries, in one app that works fully offline.\n\nInside: Bidriware silver inlay, Blacksmith's Forge, Aranmula metal mirror, Najeon chilgi, Channapatna lacquered toys, Maldivian lacquer vase, Love spoon, Carved stool, Szekler gate, Chip carving, Duck decoy, Wajima chinkin bowl and Tsugaru lacquer.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can forge, inlay, polish, carve and lacquer wood and metal in traditional crafts, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/woodcraft-and-metal-of-the-world/icon-512.webp",
+  "hero": "assets/apps/woodcraft-and-metal-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/woodcraft-and-metal-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/woodcraft-and-metal-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/woodcraft-and-metal-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/woodcraft-and-metal-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.woodcraftandmetaloftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.woodcraftandmetaloftheworld",
+    "package": "com.equalinformation.whg.woodcraftandmetaloftheworld"
+  },
+  "related": []
+}

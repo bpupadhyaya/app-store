@@ -1,0 +1,68 @@
+{
+  "slug": "nutrisize-health",
+  "name": "Nutrisize Health",
+  "subtitle": "Nutrition, Exercise & Health",
+  "categories": [
+    "health"
+  ],
+  "tags": [
+    "nutrition",
+    "exercise",
+    "health",
+    "meal-plan",
+    "fitness",
+    "diet",
+    "calories",
+    "nutrients",
+    "physiology",
+    "wellness"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Free with ads. Remove ads anytime with the one-time Remove Ads purchase.",
+  "longDescription": "Nutrisize Health is a comprehensive health intelligence app that puts personalized nutrition, exercise, and physiology tracking in your hands.\n\n### Nutrition\n• 4,995 world foods with nutrition data from USDA, WHO, and regional authorities\n  • 75 nutrients (33 macro + 42 micro) with daily values for 16 demographics\n  • Individualized weekly meal plans based on your health profile and sleep distance\n  • Food Browser with 23 categories and nutrient density scores\n  • Camera-based food recognition for grocery scanning\n  • Quick Meal Log for fast daily tracking\n\n### Exercise\n• 5,404 exercises across 6 categories: Strength, Cardio, Flexibility, Rehabilitation, Military, Balance\n  • Individualized workout plans personalized to your profile\n  • Exercise Browser with search, category filters, and calorie burn scoring\n  • Equipment scanning and recognition\n  • Quick Exercise Log for fast daily tracking\n\n### Health Intelligence\n• 10 KPI dashboard metrics: Nutrition Quality, Adequacy, Hydration, Activity Volume, Strength, Recovery, Vitals, Biofeedback, Body Composition, Adherence\n  • 200+ physiological parameters across 16 body systems with physician-grade content\n  • Basic Health Parameters with manual entry and history tracking\n  • Weekly health reports\n\n### Health Guides\n• 91 cited health guides — mental health, women's & men's health, chronic conditions, and more\n• Every guide sourced from CDC, NIH, Mayo Clinic, WHO, and leading medical bodies\n• Searchable knowledge base — find what you need in seconds\n• Private and on-device — nothing you look up leaves your phone\n\n### Coach\n• Daily readiness scoring from your wearable data\n• Ask the Coach — instant answers from your own data, fully offline\n• Adaptive plans that adjust to what you actually did\n• Weekly reviews — swipe through your week as a story or share a postcard\n\n### Additional Features\n• MDConnect for sharing health records with healthcare providers\n  • Meal Planner and Exercise Planner for weekly scheduling\n  • Nutrition and Exercise Knowledge Base\n  • Daily nutritional requirements by demographic\n  • Data Management with JSON export and backup",
+  "whatsNew": "More reliable reminders.\n- Hydration reminders are more reliable and keep arriving even if you do not open the app.\n- New Hydration Window setting (8 AM to 8 PM by default): no notifications at night.\n- Reminders are spread through your day based on your daily water goal and what you have logged, and stop once you reach your goal.\n- Smart Notifications is now the single on/off switch for all health reminders. Morning, evening and weekly reminders now stay inside your hydration window.\n- Free with ads; the one-time Remove Ads purchase turns them off.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "17+",
+  "privacyUrl": "https://equalinformation.com/privacy-nutrisizehealth.html",
+  "supportUrl": "https://equalinformation.com/appsupport-nutrisizehealth.html",
+  "releasedAt": "2026-04-16",
+  "updatedAt": "2026-11-17",
+  "version": "1.6.1",
+  "icon": "assets/apps/nutrisize-health/icon-512.webp",
+  "hero": "assets/apps/nutrisize-health/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/nutrisize-health/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/nutrisize-health/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/nutrisize-health/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/nutrisize-health/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/nutrisize-health/id6762168316",
+    "bundleId": "com.nutrisize.health",
+    "appleId": "6762168316"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.nutrisize.health",
+    "package": "com.nutrisize.health"
+  },
+  "related": []
+}

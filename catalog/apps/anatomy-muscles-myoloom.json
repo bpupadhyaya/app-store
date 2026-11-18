@@ -1,0 +1,68 @@
+{
+  "slug": "anatomy-muscles-myoloom",
+  "name": "Anatomy Muscles: Myoloom",
+  "subtitle": "Muscle anatomy in 3D",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "anatomy",
+    "muscles",
+    "myology",
+    "origin",
+    "insertion",
+    "action",
+    "nerve-supply",
+    "flashcards",
+    "quiz",
+    "nursing",
+    "student"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Muscle anatomy in 3D with Facts and Cases drills, a glossary, bookmarks, notes and guided tours, with page citations to Gray 1918.",
+  "longDescription": "Muscle anatomy, learned in 3D. Myoloom is a hands-on muscle lab for the shoulder, arm, forearm and wrist: drive a real 3D arm, then test what you know.\n\n### Drive the Arm\nRaise a muscle slider and the joint answers: a live simulation turns each muscle's pull into torque at the shoulder, elbow, forearm and wrist. Muscles shorten and bulge as they work, colour shows which fibres are shorter or longer than at rest, and arrows show the direction of pull on the bone.\n\n26 MUSCLES, ON REAL BONES\nTap a label or the muscle itself for its origin, insertion, action, nerve supply and blood supply, then see its leverage curve across the joint range. Turn bone, muscle, rib and label layers on or off, isolate one muscle, or drag the model to any angle. Bookmark muscles and keep your own notes.\n\n### Practise What You See\nFive drills use the same arm: find the prime mover of a movement, name the movement from muscles firing, match a ghost pose by choosing how hard each muscle works, answer fact questions, and work through short clinical cases. Spaced review brings your weakest muscles back first, and a 28-day calendar keeps your streak. A glossary of 28 terms and guided tours help you get started.\n\n### Check the Sources\nEvery claim lists its sources in Accuracy and sources, with page citations to Gray's Anatomy (1918) and a link to a reference article for each muscle. Schematic parts are labelled as such, and every muscle card has a Report an error link.\n\nWorks offline. No account. Text size from 100 to 194 percent with A- and A+. Portrait and landscape on iPhone and iPad.\n\nEducational use only. Myoloom does not diagnose or treat any condition and is not a substitute for professional training or clinical judgement.\n\nBone and muscle shapes: BodyParts3D, (c) The Database Center for Life Science, licensed under CC Attribution 4.0 International. Modified.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "12+",
+  "privacyUrl": "https://equalinformation.com/privacy-anatomy-muscles.html",
+  "supportUrl": "https://equalinformation.com/app-support-anatomy-muscles.html",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-17",
+  "version": "1.0",
+  "icon": "assets/apps/anatomy-muscles-myoloom/icon-512.webp",
+  "hero": "assets/apps/anatomy-muscles-myoloom/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/anatomy-muscles-myoloom/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/anatomy-muscles-myoloom/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/anatomy-muscles-myoloom/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/anatomy-muscles-myoloom/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.anatomy-muscles.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.anatomy-muscles.app"
+  },
+  "related": []
+}

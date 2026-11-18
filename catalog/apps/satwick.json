@@ -33,9 +33,9 @@
   "icon": "assets/apps/satwick/icon-512.png",
   "screenshots": [],
   "ios": {
-    "status": "soon",
+    "status": "review",
     "url": "",
-    "bundleId": ""
+    "bundleId": "com.equalinformation.satactprep.app"
   },
   "android": {
     "status": "soon",

@@ -1,0 +1,65 @@
+{
+  "slug": "jigsaw-atelier",
+  "name": "Jigsaw Atelier",
+  "subtitle": "Calm puzzles, painted fresh",
+  "categories": [
+    "puzzle",
+    "word"
+  ],
+  "tags": [
+    "jigsaw",
+    "dovetail-cut",
+    "ribbon-cut",
+    "facets-cut",
+    "gallery-campaign",
+    "piece-rotation",
+    "frame-pieces"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Real 3D pieces on a wooden table, fifteen picture studios painted on your device, 12 to 360 pieces and four cut styles.",
+  "longDescription": "The jigsaw puzzle began in the 1760s as a map pasted on wood and cut along the borders of countries, to teach geography. Jigsaw Atelier is a studio for people who love a calm, beautiful puzzle. Real 3D pieces lie on a lit wooden table, every picture is painted fresh for you, and nothing ever interrupts the quiet.\n\nChoose from fifteen picture studios, each with five colour schemes: balloons, stained glass, alpine ridges, northern lights, koi ponds, city lights, patchwork quilts, tile halls, marbled paper and more. Every new picture is different, because the artwork is generated on your device from a seed. Sizes run from 12 to 360 pieces in landscape, portrait or square.\n\nFour cuts change the feel: Classic knobs, Dovetail keys like old wooden puzzles, flowing Ribbon waves, and angular Facets with no tabs at all. Build on a mat, or on a bare table where clusters grow and join anywhere. Rotation is optional: tap a piece to turn it a quarter turn. Pinch to zoom, drag the table to look around, peek at the box picture, filter to frame pieces, tidy the table or light a hint.\n\nThe Gallery Campaign has fifteen exhibitions of five puzzles, 75 in all, growing from friendly twelve-piece warm-ups to marathon pictures, with up to three stars on each. A Daily Puzzle shares one picture, cut and size each day with a streak, and seven short lessons teach how to start.\n\nFree with ads. Go ad-free with a monthly pass, or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-jigsawdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-jigsawdeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/jigsaw-atelier/icon-512.webp",
+  "hero": "assets/apps/jigsaw-atelier/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/jigsaw-atelier/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jigsaw-atelier/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jigsaw-atelier/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/jigsaw-atelier/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.jigsawdeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.jigsawdeluxe.app",
+    "package": "com.equalinformation.jigsawdeluxe.app"
+  },
+  "related": []
+}

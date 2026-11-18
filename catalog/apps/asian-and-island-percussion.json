@@ -1,0 +1,68 @@
+{
+  "slug": "asian-and-island-percussion",
+  "name": "Asian & Island Percussion",
+  "subtitle": "Hourglass, Bronze & Log Drums",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "janggu",
+    "kendang",
+    "kakko",
+    "dong-son",
+    "dabakan",
+    "tavil",
+    "garamut",
+    "lali",
+    "kundu",
+    "lagerphone",
+    "drums"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "11 drums and percussion of Asia and the Pacific to play: Janggu, Kakko, Kendang and Dong Son bronze drum.",
+  "longDescription": "Asian & Island Percussion: 11 drums and percussion of Asia and the Pacific from 9 countries, in one app that works fully offline.\n\nInside: Janggu, Kakko, Kendang, Dong Son bronze drum, Dabakan, Tavil, Garamut, Lali, Kundu, Lagerphone and Stamping tubes.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can strike hourglass, bronze, barrel and log drums, bamboo tubes and a bottle-cap pole from Korea, Japan, Indonesia, Vietnam, the Philippines, India, Papua New Guinea, Fiji and Australia, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/asian-and-island-percussion/icon-512.webp",
+  "hero": "assets/apps/asian-and-island-percussion/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/asian-and-island-percussion/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/asian-and-island-percussion/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/asian-and-island-percussion/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/asian-and-island-percussion/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.asianandislandpercussion"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.asianandislandpercussion",
+    "package": "com.equalinformation.whg.asianandislandpercussion"
+  },
+  "related": []
+}

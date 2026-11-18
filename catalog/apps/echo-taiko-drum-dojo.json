@@ -1,0 +1,65 @@
+{
+  "slug": "echo-taiko-drum-dojo",
+  "name": "Echo Taiko: Drum Dojo",
+  "subtitle": "Listen, hold it, play it back",
+  "categories": [
+    "music"
+  ],
+  "tags": [
+    "call-and-response",
+    "odaiko",
+    "chu-daiko",
+    "rim-click",
+    "memory-halls",
+    "triplets",
+    "rhythm-recorder",
+    "drum-notation"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A call-and-response drum dojo: hear a phrase on three taiko, hold it in memory and answer in the next bar. 36 rounds.",
+  "longDescription": "Taiko, the thunderous drumming of Japan, grew out of temple, festival and village traditions in which one drummer calls a phrase and the group answers. Echo Taiko is a call-and-response drum dojo. A drummer plays a short rhythm on three Japanese-style drums. You listen, hold it in your head, and play it back in the next bar against a steady count.\n\nListen to the call: the drums light up, the sticks strike and beads travel across the score. On your turn the lanterns turn blue. Tap the middle of a drum for the deep skin sound, the outer band for the dry rim sound. Every hit is judged Perfect, Great, Good, Wrong drum or Extra, and every exchange gets an accuracy.\n\nThirty-six rounds in six halls climb from steady beats to triplets, quick rolls and eight-beat phrases. In the memory halls the notation stays on screen, then fades while you answer, then disappears. Ten short lessons teach skin and rim, rests, two drums, eighth notes, triplets, offbeats, long-short pairs and quick rolls. A new daily call keeps a streak, and trophies and star ratings mark your progress.\n\nFree play on all three drums has an adjustable tempo, a click and a recorder for your own takes. Auto Play lets you watch and learn: pause, slow it down, show the notation, take over and hand back.\n\nThe dojo is a real-time 3D hall with lacquer, brass studs, lanterns and a lattice wall, and every sound is synthesised in the app. The layout fits phones, 7-inch and 10-inch tablets, in portrait and landscape, with text zoom up to 300 percent.\n\nFree with ads. Go ad-free with a monthly pass or earn ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-taikodrumcircledeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-taikodrumcircledeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/echo-taiko-drum-dojo/icon-512.webp",
+  "hero": "assets/apps/echo-taiko-drum-dojo/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/echo-taiko-drum-dojo/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/echo-taiko-drum-dojo/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/echo-taiko-drum-dojo/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/echo-taiko-drum-dojo/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.taikodrumcircledeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.taikodrumcircledeluxe.app"
+  },
+  "related": []
+}

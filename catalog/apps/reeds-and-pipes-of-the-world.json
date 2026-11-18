@@ -1,0 +1,69 @@
+{
+  "slug": "reeds-and-pipes-of-the-world",
+  "name": "Reeds & Pipes of the World",
+  "subtitle": "Shehnai, Gaita & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "shehnai",
+    "nadaswaram",
+    "zurna",
+    "suona",
+    "zampogna",
+    "uilleann",
+    "gaita",
+    "gaida",
+    "tulum",
+    "bagpipes",
+    "shawm",
+    "reed"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "9 shawms and bagpipes to play: Shehnai, Nadaswaram, Zurna and Suona.",
+  "longDescription": "Reeds & Pipes of the World: 9 shawms and bagpipes from 7 countries, in one app that works fully offline.\n\nInside: Shehnai, Nadaswaram, Zurna, Suona, Zampogna, Uilleann pipes, Gaita, Gaida and Tulum.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can play shawms and bagpipes and learn their melodies, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/reeds-and-pipes-of-the-world/icon-512.webp",
+  "hero": "assets/apps/reeds-and-pipes-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/reeds-and-pipes-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/reeds-and-pipes-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/reeds-and-pipes-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/reeds-and-pipes-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.reedsandpipesoftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.reedsandpipesoftheworld",
+    "package": "com.equalinformation.whg.reedsandpipesoftheworld"
+  },
+  "related": []
+}

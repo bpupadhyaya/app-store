@@ -1,0 +1,66 @@
+{
+  "slug": "shuttle-strike-3d-badminton",
+  "name": "Shuttle Strike: 3D Badminton",
+  "subtitle": "One finger, every stroke",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "shuttlecock",
+    "smash",
+    "drop-shot",
+    "net-fox",
+    "rally-scoring",
+    "service-court",
+    "retriever",
+    "glowing-ring",
+    "net-cord"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Swipe clears, drops, smashes and blocks: twenty-five opponents in a five-tier tour, eight lessons and honest scoring.",
+  "longDescription": "Badminton came to Britain from the Indian game of poona and takes its name from a country house, Badminton, where it was played in the 1870s. Shuttle Strike makes it a game you play with one finger. Your racket floats over a glowing ring on a lit court, the ring runs for the shuttle, and you decide every stroke with a swipe.\n\nSwipe long and smooth for a high clear, flick short for a drop, swipe fast overhead for a smash, tap to block. Angle your swipe to aim; a glowing arc shows where the shuttle will land before you let go. The shuttle flies with real drag, flips after every strike and slows quickly, so a soft net shot and a 300 km/h smash feel nothing alike.\n\nRules follow the sport: rally scoring to 21, win by two, an interval at 11, service from the right box on even scores and the left on odd, diagonal service courts, lines that count as in, and net cords that dribble over.\n\nTen computer levels run from Newcomer to World class, each with a style: a retriever who waits for your mistake, a hard-hitting smasher, a drop-shot magician, a net fox, a counter-puncher. Climb a tour of five tiers and twenty-five opponents. Eight lessons teach the clear, aiming, drop, smash, net play, defence and serving, eight drills turn them into scores, and a daily challenge gives everyone the same opponent and twist.\n\nFree with ads. Go ad-free with a monthly pass or by watching videos for ad-free time.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-badmintondeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-badmintondeluxe.html",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/shuttle-strike-3d-badminton/icon-512.webp",
+  "hero": "assets/apps/shuttle-strike-3d-badminton/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/shuttle-strike-3d-badminton/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shuttle-strike-3d-badminton/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shuttle-strike-3d-badminton/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/shuttle-strike-3d-badminton/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.badmintondeluxe.app"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.badmintondeluxe.app",
+    "package": "com.equalinformation.badmintondeluxe.app"
+  },
+  "related": []
+}

@@ -29,7 +29,7 @@
   "icon": "assets/apps/act-prep-practice-actvane/icon-512.png",
   "screenshots": [],
   "ios": {
-    "status": "soon",
+    "status": "review",
     "url": "",
     "bundleId": "com.equalinformation.actprep.app"
   },

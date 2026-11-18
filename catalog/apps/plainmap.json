@@ -1,0 +1,63 @@
+{
+  "slug": "plainmap",
+  "name": "PlainMap",
+  "subtitle": "Offline safety, always",
+  "categories": [
+    "utilities",
+    "health"
+  ],
+  "tags": [
+    "offline-map",
+    "emergency",
+    "disaster",
+    "shelter",
+    "hospital-finder",
+    "crisis",
+    "safety",
+    "weather-alerts",
+    "medical-id"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A real offline map of the help around you — hospitals, shelters, water, emergency tools. Live weather alerts. No signal needed. No account. Free.",
+  "longDescription": "When you need real help and there's no signal, PlainMap shows you exactly where to go — completely offline.\n\nPlainMap is a real, working offline map of the help around you: hospitals and urgent care, pharmacies, emergency and domestic-violence shelters, cooling and warming centers, water points and food banks, fuel stations and EV charging, police and fire stations, transit, and outdoor/trail landmarks. Every facility comes from real OpenStreetMap community data — 623 facilities in the San Francisco launch region alone — with an honest \"verified vs. crowd-reported\" trust label on every entry, never fabricated.\n\n### Built to Work with No Signal\n• A real offline vector map (not just cached tiles) you can download per region and remove again to free space, any time.\n• Every facility, every safety article, every first-aid instruction works with the network off. There is no feature on the critical path that requires connectivity.\n• Optional background sync (off by default, Wi-Fi-only option) fetches only small, versioned public data files to keep your region current — entirely your choice, controlled from Settings.\n\n### For An Actual Emergency\n• Emergency Mode: one tap dials your region's real emergency number (911/999/112), shows the genuinely nearest hospital (never a guess — only shown with a real GPS fix), and can send an \"I'm Safe\" text with your coordinates to your emergency contact.\n• A real, working Low-Battery Mode that actually reduces GPS accuracy/polling to save power — not just a label.\n• Disaster Toolkits: pick your hazard (hurricane, flood, wildfire, earthquake, tornado, winter storm, heat wave) and see only the facility categories that matter for it, badged with any currently active NWS alert.\n• Live weather and hazard alerts from api.weather.gov, with local notifications when a new one is issued.\n\n### Your Medical Information, on Your Device Only\n• An optional Medical ID card — allergies, conditions, medications, blood type, emergency contact — stored on-device only, never uploaded, with a native-printed wallet card.\n\n### Learn Before You Need It\n• A Safety Education hub with 7 in-depth, plain-language articles: earthquake, flood, wildfire, lost in the wild, power outage, a go-bag checklist, and a mental-health crisis directory with real hotline numbers (988, 211).\n\n### In Your Language\n• Full English, Español, and 简体中文 support across every screen, including safety-critical content like first-aid steps and the Safety Education articles.",
+  "whatsNew": "Adds ads served by Google AdMob. Remove them any time with the new one-time Remove Ads purchase (Settings). Bug fixes and improvements.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "12+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-plainmap.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-plainmap.html",
+  "releasedAt": "2026-09-22",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.1",
+  "icon": "assets/apps/plainmap/icon-512.webp",
+  "hero": "assets/apps/plainmap/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/plainmap/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainmap/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainmap/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/plainmap/id6809295737",
+    "bundleId": "com.equalinformation.plainmap.app",
+    "appleId": "6809295737"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.plainmap.app",
+    "package": "com.equalinformation.plainmap.app"
+  },
+  "related": []
+}

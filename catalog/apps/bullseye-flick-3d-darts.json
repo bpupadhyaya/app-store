@@ -1,0 +1,67 @@
+{
+  "slug": "bullseye-flick-3d-darts",
+  "name": "Bullseye Flick: 3D Darts",
+  "subtitle": "Flick a dart into the sisal",
+  "categories": [
+    "sports"
+  ],
+  "tags": [
+    "501",
+    "180",
+    "double-out",
+    "killer-darts",
+    "around-the-clock",
+    "oche",
+    "checkout-chart",
+    "sisal-board",
+    "leg-and-set",
+    "tremble"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A flick throw that rewards a steady hand: 501, Cricket, Around the Clock, Killer, eight levels and a checkout coach.",
+  "longDescription": "Darts began as a pub pastime: soldiers throwing at the bottom of a barrel, then a numbered board and a chalked line called the oche. Bullseye Flick keeps the feel of that line. Touch the board, nudge the reticle onto your target, then flick upward to throw a dart that arcs, wobbles and thuds into the sisal.\n\nThe control rewards skill. Your hand trembles a little, settles, and tires if you hold too long. A smooth upward flick goes straight; too soft drops the dart low, too hard sends it high. Choose Relaxed, Standard or Pro steadiness, slow or fast aim, or a plain release. Wires and neighbouring darts can bounce a dart out if you want that realism.\n\nFive games are included: 501, 301 and 701 with straight, double or master in and out, played in legs and sets; Cricket, including Cut-throat and Marks only; Around the Clock with Classic, Jump and Doubles-only rules; Killer for up to four players; and practice drills. Scores only, nothing here is gambling.\n\nEight levels run from Rookie to World. Each computer player is a shooter with a real spread, hot and cold streaks and nerves on the doubles, and each works out the fastest finish for its own accuracy. Named characters bring habits, from bull lovers to double specialists. Adaptive follows your form, and a friend can play on the same device.\n\nA gold checkout line shows the usual finish under 171, with a chart to study. Four halls and six boards change the room and the light.\n\nFree with ads. Go ad-free with a monthly pass or by earning ad-free time from videos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://bpupadhyaya.github.io/privacy-dartsdeluxe.html",
+  "supportUrl": "https://bpupadhyaya.github.io/app-support-dartsdeluxe.html",
+  "releasedAt": "2026-10-16",
+  "updatedAt": "2026-11-17",
+  "version": "1.0.2",
+  "icon": "assets/apps/bullseye-flick-3d-darts/icon-512.webp",
+  "hero": "assets/apps/bullseye-flick-3d-darts/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/bullseye-flick-3d-darts/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bullseye-flick-3d-darts/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bullseye-flick-3d-darts/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/bullseye-flick-3d-darts/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.dartsdeluxe.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.dartsdeluxe.app"
+  },
+  "related": []
+}

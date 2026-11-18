@@ -1,0 +1,66 @@
+{
+  "slug": "hand-drums-of-the-world",
+  "name": "Hand Drums of the World",
+  "subtitle": "Dhol, Madal, Mridangam & more",
+  "categories": [
+    "casual"
+  ],
+  "tags": [
+    "madal",
+    "dhol",
+    "mridangam",
+    "konnakol",
+    "rabana",
+    "shekere",
+    "tombak",
+    "zarb",
+    "hand-drum"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "6 hand drums and drum rhythms to play: Madal, Dhol, Mridangam and Rabana.",
+  "longDescription": "Hand Drums of the World: 6 hand drums and drum rhythms from 6 countries, in one app that works fully offline.\n\nInside: Madal, Dhol, Mridangam, Rabana, Shekere and Tombak goblet drum rhythms.\n\nEach one has a short note on where it comes from and how it is played in the real world. You can play hand drums and learn their rhythms, learn by watching a demonstration, and read the rules at any time.\n\nNo account needed. Works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/world-heritage-games-site/privacy/",
+  "supportUrl": "https://equalinformation.com/world-heritage-games-site/support/",
+  "releasedAt": "2026-10-30",
+  "updatedAt": "2026-11-17",
+  "version": "1.1.0",
+  "icon": "assets/apps/hand-drums-of-the-world/icon-512.webp",
+  "hero": "assets/apps/hand-drums-of-the-world/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/hand-drums-of-the-world/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hand-drums-of-the-world/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hand-drums-of-the-world/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/hand-drums-of-the-world/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.whg.handdrumsoftheworld"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.whg.handdrumsoftheworld",
+    "package": "com.equalinformation.whg.handdrumsoftheworld"
+  },
+  "related": []
+}
