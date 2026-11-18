@@ -24,8 +24,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-derivane.html",
   "supportUrl": "https://equalinformation.com/app-support-derivane.html",
-  "releasedAt": "2026-11-16",
-  "updatedAt": "2026-11-16",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
   "version": "1.0.0",
   "icon": "assets/apps/calculus-ab-ap-derivane/icon-512.png",
   "screenshots": [
@@ -51,9 +51,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.derivane.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/calculus-ab-ap-derivane/id6835740843",
+    "bundleId": "com.equalinformation.derivane.app",
+    "appleId": "6835740843"
   },
   "android": {
     "status": "soon",

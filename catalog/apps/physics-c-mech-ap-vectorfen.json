@@ -24,8 +24,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-vectorfen.html",
   "supportUrl": "https://equalinformation.com/app-support-vectorfen.html",
-  "releasedAt": "2026-11-16",
-  "updatedAt": "2026-11-16",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
   "version": "1.0.0",
   "icon": "assets/apps/physics-c-mech-ap-vectorfen/icon-512.png",
   "screenshots": [
@@ -51,9 +51,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.vectorfen.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/physics-c-mech-ap-vectorfen/id6835770526",
+    "bundleId": "com.equalinformation.vectorfen.app",
+    "appleId": "6835770526"
   },
   "android": {
     "status": "soon",

@@ -23,8 +23,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-sampleford.html",
   "supportUrl": "https://equalinformation.com/app-support-sampleford.html",
-  "releasedAt": "2026-11-16",
-  "updatedAt": "2026-11-16",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
   "version": "1.0.0",
   "icon": "assets/apps/statistics-ap-sampleford/icon-512.png",
   "screenshots": [
@@ -50,9 +50,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.sampleford.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/statistics-ap-sampleford/id6835757471",
+    "bundleId": "com.equalinformation.sampleford.app",
+    "appleId": "6835757471"
   },
   "android": {
     "status": "soon",

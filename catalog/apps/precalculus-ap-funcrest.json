@@ -24,8 +24,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-funcrest.html",
   "supportUrl": "https://equalinformation.com/app-support-funcrest.html",
-  "releasedAt": "2026-11-16",
-  "updatedAt": "2026-11-16",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
   "version": "1.0.0",
   "icon": "assets/apps/precalculus-ap-funcrest/icon-512.png",
   "screenshots": [
@@ -51,9 +51,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.funcrest.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/precalculus-ap-funcrest/id6835758151",
+    "bundleId": "com.equalinformation.funcrest.app",
+    "appleId": "6835758151"
   },
   "android": {
     "status": "soon",

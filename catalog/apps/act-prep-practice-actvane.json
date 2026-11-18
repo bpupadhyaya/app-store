@@ -23,8 +23,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-actprep.html",
   "supportUrl": "https://equalinformation.com/app-support-actprep.html",
-  "releasedAt": "2026-11-16",
-  "updatedAt": "2026-11-16",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
   "version": "1.0.0",
   "icon": "assets/apps/act-prep-practice-actvane/icon-512.png",
   "screenshots": [
@@ -50,9 +50,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.actprep.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/act-prep-practice-actvane/id6835748613",
+    "bundleId": "com.equalinformation.actprep.app",
+    "appleId": "6835748613"
   },
   "android": {
     "status": "soon",

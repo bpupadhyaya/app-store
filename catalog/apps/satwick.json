@@ -27,8 +27,8 @@
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-satactprep.html",
-  "releasedAt": "2026-11-16",
-  "updatedAt": "2026-11-16",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
   "version": "1.0.0",
   "icon": "assets/apps/satwick/icon-512.png",
   "screenshots": [
@@ -54,9 +54,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.satactprep.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/sat-prep-digital-satwick/id6835746201",
+    "bundleId": "com.equalinformation.satactprep.app",
+    "appleId": "6835746201"
   },
   "android": {
     "status": "soon",

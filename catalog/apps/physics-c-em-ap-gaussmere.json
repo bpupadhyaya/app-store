@@ -24,8 +24,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-gaussmere.html",
   "supportUrl": "https://equalinformation.com/app-support-gaussmere.html",
-  "releasedAt": "2026-11-16",
-  "updatedAt": "2026-11-16",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
   "version": "1.0.0",
   "icon": "assets/apps/physics-c-em-ap-gaussmere/icon-512.png",
   "screenshots": [
@@ -51,9 +51,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.gaussmere.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/physics-c-e-m-ap-gaussmere/id6835773639",
+    "bundleId": "com.equalinformation.gaussmere.app",
+    "appleId": "6835773639"
   },
   "android": {
     "status": "soon",

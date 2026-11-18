@@ -24,8 +24,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-forcebrook.html",
   "supportUrl": "https://equalinformation.com/app-support-forcebrook.html",
-  "releasedAt": "2026-11-16",
-  "updatedAt": "2026-11-16",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
   "version": "1.0.0",
   "icon": "assets/apps/physics-1-ap-forcebrook/icon-512.png",
   "screenshots": [
@@ -51,9 +51,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.forcebrook.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/physics-1-ap-forcebrook/id6835762555",
+    "bundleId": "com.equalinformation.forcebrook.app",
+    "appleId": "6835762555"
   },
   "android": {
     "status": "soon",

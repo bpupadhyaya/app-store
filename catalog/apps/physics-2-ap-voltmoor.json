@@ -25,8 +25,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-voltmoor.html",
   "supportUrl": "https://equalinformation.com/app-support-voltmoor.html",
-  "releasedAt": "2026-11-16",
-  "updatedAt": "2026-11-16",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
   "version": "1.0.0",
   "icon": "assets/apps/physics-2-ap-voltmoor/icon-512.png",
   "screenshots": [
@@ -52,9 +52,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.voltmoor.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/physics-2-ap-voltmoor/id6835765643",
+    "bundleId": "com.equalinformation.voltmoor.app",
+    "appleId": "6835765643"
   },
   "android": {
     "status": "soon",

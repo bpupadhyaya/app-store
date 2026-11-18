@@ -23,8 +23,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-nursing-med-math.html",
   "supportUrl": "https://equalinformation.com/app-support-nursing-med-math.html",
-  "releasedAt": "2026-11-10",
-  "updatedAt": "2026-11-17",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
   "version": "1.0",
   "icon": "assets/apps/dosage-calculation-dosewick/icon-512.webp",
   "hero": "assets/apps/dosage-calculation-dosewick/hero.webp",
@@ -51,9 +51,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.nursing-med-math.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/dosage-calculation-dosewick/id6832898208",
+    "bundleId": "com.equalinformation.nursing-med-math.app",
+    "appleId": "6832898208"
   },
   "android": {
     "status": "soon",
