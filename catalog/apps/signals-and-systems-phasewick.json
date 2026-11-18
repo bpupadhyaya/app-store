@@ -1,0 +1,48 @@
+{
+  "slug": "signals-and-systems-phasewick",
+  "name": "Signals and Systems: Phasewick",
+  "subtitle": "Signals and Systems Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "signals and systems",
+    "convolution",
+    "fourier",
+    "laplace",
+    "z transform",
+    "sampling",
+    "aliasing",
+    "frequency response",
+    "lti",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive signals and systems course: convolution, sampling, Fourier, Laplace and z-transforms with five hands-on labs. Learning only.",
+  "longDescription": "Learn signals and systems the way a second-year electrical or computer engineering course teaches it, with practice that adapts to you and labs you can move with your finger.\n\n### What You Get\n- A signal chain home screen: fourteen topics from signal classification to stability and frequency response, joined by prerequisites, so you always see what unlocks next.\n- Adaptive practice: six-question sets chosen from your mastery, your repeated slips and your review dates. Every wrong choice is tagged with the specific slip it reflects.\n- 218 original questions: multiple choice, numeric entry, classification and yes/no. 199 computed questions were checked by two independent calculation methods; 19 conceptual questions are practice-only and never appear in exams.\n- Five interactive labs: convolution window (continuous and discrete), sampling and aliasing with reconstruction, pole-zero lab in the s-plane and z-plane, Fourier series synthesis with Gibbs overshoot, and a difference-equation explorer with a stability verdict.\n- Timed mock exams of twelve questions, with a score review by topic.\n- Worked solutions after every answer, always free.\n- Spaced review that brings back questions when you are about to forget them, a personalised path or the traditional order, and a progress view.\n- Citations to open course material (MIT, Berkeley, Stanford, Cambridge) and textbooks, linked for further reading. All explanations and questions are our own writing.\n- A- and A+ text size on every screen, and a two-pane layout on iPad.\n\n### Ads And Subscription\nThe app is free. Short ads may appear between practice sets, never during an exam. You can choose to watch an optional video to earn one extra practice set. A consent screen asks about ad personalisation where the law requires it.\nRemove ads with an auto-renewing monthly subscription. The price is shown by the App Store before you subscribe and may vary by country. New subscribers get a 7-day free trial; the subscription renews every month until cancelled. Cancel at any time in Settings, then Apple ID, then Subscriptions, at least 24 hours before the period ends. Payment is charged to your Apple ID account. Worked solutions and all labs stay free with or without the subscription.\n\nEducational use only: results here are for learning, not for design or safety decisions.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/signals-and-systems-phasewick/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-signals-and-systems.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_signals_and_systems.app"
+  },
+  "related": [
+    "fourier-analysis-spectrane",
+    "differential-equations-odelo"
+  ]
+}
