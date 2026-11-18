@@ -1,0 +1,49 @@
+{
+  "slug": "algebra-trig-radwick",
+  "name": "Algebra Trig: Radwick",
+  "subtitle": "Algebra and Trig practice labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "algebra",
+    "trigonometry",
+    "college algebra",
+    "unit circle",
+    "polynomials",
+    "logarithms",
+    "exponential",
+    "law of sines",
+    "law of cosines",
+    "precalculus",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive algebra and trigonometry course: functions, polynomials, logs, the unit circle and triangles with five hands-on labs. Free to use.",
+  "longDescription": "Algebra Trig: Radwick is a college algebra and trigonometry course you can carry in your pocket. Work through sixteen topics on a winding trail, from linear equations to the unit circle, the laws of sines and cosines, and polar form.\n\nAn adaptive plan decides what to practise next. It tracks mastery of every topic, brings older topics back at growing intervals, and notices which slips you repeat, such as flipping an inequality or shifting a graph the wrong way, then picks questions that target them. Prefer a fixed order? Switch to the traditional path at any time.\n\nWhat you get\n- 179 original questions with worked solutions; every numeric answer was checked by two independent calculation methods\n- Five interactive labs: a function transformer, a unit circle with live sine, cosine and tangent, a polynomial zeros and end behaviour lab, a growth and decay lab, and an ambiguous-case triangle solver\n- Timed 20-question mock exams, with the first one free\n- School-level refreshers and a look at what comes next for every topic\n- Source list with links to open university course material for further reading\n- A- and A+ buttons to change the text size on every screen\n- Works fully offline; no account and no sign-in\n\nFree to use. Lessons and worked solutions are always free. The app shows ads at natural breaks, such as after you finish a practice set, never during a timed exam. You can also watch an optional video for credits toward extra mock exams.\n\nRemove ads with the optional Algebra Trig Ad-Free Monthly subscription: auto-renewing monthly, starts with a 7-day free trial, then the price shown in the app store at purchase. Payment is charged to your Apple ID account at confirmation of purchase. The subscription renews automatically unless cancelled at least 24 hours before the end of the current period, and your account is charged for renewal within 24 hours before the period ends. Manage or cancel any time in your Apple ID account settings. Any unused part of a free trial is forfeited when you subscribe. You can restore a purchase from the More tab.\n\nAlgebra Trig: Radwick is an independent study aid and is not affiliated with any university or textbook publisher. Questions and explanations are original.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/algebra-trig-radwick/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-algebra-trigonometry.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_algebra_trigonometry.app"
+  },
+  "related": [
+    "precalculus-asymptra",
+    "calculus-i-course-epsilume"
+  ]
+}
