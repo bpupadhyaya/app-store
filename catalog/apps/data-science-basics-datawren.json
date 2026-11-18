@@ -1,0 +1,61 @@
+{
+  "slug": "data-science-basics-datawren",
+  "name": "Data Science Basics: Datawren",
+  "subtitle": "Statistics, charts and models",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "regression",
+    "bootstrap",
+    "p-value",
+    "sampling",
+    "visualization",
+    "pandas",
+    "simpson",
+    "eda"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Nine notebook-style analyses. Predict, run, then see the equation behind it.",
+  "longDescription": "A university-level data science course for your phone, built as a notebook of nine short analyses. Each cell starts with a real situation: a messy cafeteria spreadsheet, an ice-cream stand on a boardwalk, a lunch-line survey of 2,000 students, two hospitals with different patients, a study app on trial.\n\nPredict first, then run it. Drag the sliders and the picture, the numbers and the equation change together. Tap any symbol in the equation to see where it lives in the simulation. Then answer questions computed from the setup you just made.\n\nWhat you work through\n- The data science lifecycle and what data can and cannot say\n- Cleaning and wrangling: blanks, repeats, tidy tables\n- Exploring data: mean, median, spread, correlation and the traps in them\n- Visualisation principles: honest axes and how readers decode charts\n- Sampling and variability: standard error, bias and the bell shape\n- Estimation and hypothesis tests: shuffling, bootstrapping, p-values\n- Regression and prediction: least squares, R squared, held-out data\n- Confounding and causation: Simpson's paradox and experiments\n- Pipelines, reproducibility, leaks and reporting\n\nBuilt to respect your time: three-to-eight minute sessions, no timers, missed questions go to a gentle replay list. Text size from 85% to 200%. Works offline, no account, all data sets are made up for teaching.\n\nEvery claim carries sources you can open inside the app (UC Berkeley Data 8, Data 100 and Data 102 pages, open textbooks and original papers). Every numeric answer is re-computed by independent code. Not reviewed by an expert; not affiliated with any university.\n\nFree with ads at natural breaks. Optional monthly ad-free subscription ($3.99, 7-day free trial, cancel anytime; cancellation takes effect at the next billing cycle). Or watch a short video to earn credits.\n\nPrivacy Policy: https://bpupadhyaya.github.io/app-legal/datawren/privacy.html\nTerms of Use: https://bpupadhyaya.github.io/app-legal/datawren/terms.html",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/data-science-basics-datawren/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/data-science-basics-datawren/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/data-science-basics-datawren/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/data-science-basics-datawren/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/data-science-basics-datawren/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.datawren.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.datawren.app"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "python-coding-for-ai-pyrolo",
+  "name": "Python Coding for AI: Pyrolo",
+  "subtitle": "Learn Python by building",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "beginner",
+    "teen",
+    "ai",
+    "loops",
+    "lists",
+    "data",
+    "classifier",
+    "code"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Learn Python for AI the hands-on way: write real programs, see every variable change, and get checked by tests on your phone. Works offline, ages 13+.",
+  "longDescription": "Python Coding for AI is a beginner-friendly course that teaches you to write Python by building the small programs that sit underneath AI: cleaning data, drawing a chart, finding the nearest example, and teaching a model by adjusting one number.\n\nHOW IT WORKS\n- Read a short idea, run it, and step through it line by line while boxes show every variable changing.\n- See the real situation first (a pizza shared by friends, a cashier's till, a lost bus stop), play with a simulation, and then see the equation that describes what you just watched.\n- Write your own programs in a built-in code editor. Every program is checked by tests that run right on your phone, with clear messages when something is off.\n- Finish with short, optional checks. Wrong answers come back once with an explanation, never a penalty.\n\nWHAT YOU BUILD\n- Programs with variables, loops, lists and dictionaries\n- A playlist sorter, a quiz scorer and a nearest-bus-stop finder\n- A data cleaner that reads CSV files and handles missing values honestly\n- Bar, line and scatter charts drawn from your own lists\n- A nearest-neighbour classifier and a one-knob learning loop\n- A mini project that predicts rain from tiny weather data\n\n9 UNITS, 31 CODING TASKS, 166 QUESTIONS\nVariables and types, conditionals and loops, lists and dictionaries, functions and testing, reading and cleaning data, plotting, a first classifier, learning by adjusting a number, and a mini project with good habits.\n\nMADE FOR LEARNING\n- Runs offline. No account, no chat window, nothing sent anywhere.\n- Own Python-subset interpreter inside the app; every output and answer is computed by running the code.\n- Text size from 85% to 200%, VoiceOver and TalkBack labels, and icons plus words so colour is never the only clue.\n- Sources from university courses and the official Python tutorial open in an in-app window.\n\nFREE WITH ADS\nPyrolo is free with ads shown only at natural breaks, never while you are coding or answering. An optional monthly subscription removes ads (7-day free trial, cancel anytime in your account settings; cancellation takes effect at the next billing cycle). If you are under 18, ads are non-personalised and teen-appropriate.\n\nNot expert reviewed. Content as of 2026-11-17. Python is a trademark of the Python Software Foundation; this app is not affiliated with or endorsed by it.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/python-coding-for-ai-pyrolo/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/python-coding-for-ai-pyrolo/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/python-coding-for-ai-pyrolo/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/python-coding-for-ai-pyrolo/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/python-coding-for-ai-pyrolo/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": ""
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "learning-theory-boundwise",
+  "name": "Learning Theory: Boundwise",
+  "subtitle": "Bounds, VC, Rademacher labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "pac",
+    "generalization",
+    "statistics",
+    "hoeffding",
+    "sample complexity",
+    "margin",
+    "stability",
+    "graduate"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Equations you can see: a real situation first, then the typeset maths with every term colour-bound to the picture.",
+  "longDescription": "A graduate course in statistical learning theory for your phone, built around one idea: every equation describes a real situation, so you see the situation first and the typeset equation second.\n\nWHAT YOU DO\n- Watch a short film of shapes shattering point sets while captions and typeset equations light up term by term (sound optional, original, off by default)\n- Play with 24 labs: a quality inspector sampling a batch, polls with error bars checked by live Monte Carlo, rulers, fences and rectangles trying to separate every pattern, practice score racing exam score, noise-fitting spheres, the widest street in 3D, stability as swapping one homework, priors and posteriors\n- Tap any term of an equation and the matching part of the picture lights up in the same colour\n- Answer questions computed from what you just built: 226 questions, every numeric answer re-derived by independent code, every one with a worked reason\n\nEIGHT UNITS (about 45 hours in sessions of 3 to 8 minutes)\n1 PAC learning and sample complexity. 2 Concentration: Hoeffding, union bound, McDiarmid. 3 VC dimension, shattering, Sauer-Shelah. 4 VC bounds and structural risk. 5 Rademacher complexity and margins. 6 Stability, regularisation, PAC-Bayes. 7 Double descent, random labels, vacuous bounds. 8 Auditing assumptions and reading proofs.\n\nSOURCES YOU CAN OPEN\nEvery claim carries at least two checked citations (Shalev-Shwartz and Ben-David, Mohri et al., Valiant, Vapnik and Chervonenkis, Bartlett and Mendelson, Bousquet and Elisseeff, McAllester and course pages from CMU, MIT, Stanford, Berkeley and Oxford). Tap a citation to read it in a sheet that keeps your place; offline you see the stored record.\n\nFREE TO START\nLessons, labs, films, unit checks and worked reasons are always free. Mixed practice sets are free once a day, then cost a credit; watch an optional short video to earn credits. Ads appear only at natural breaks, never during a lab, a question or a film. Or go ad-free with the monthly plan ($3.99 per month after a 7-day free trial; renews automatically until cancelled; manage it in your store account). Cancel any time in your App Store or Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again. Cancellation takes effect at the next billing cycle. Prefer not to subscribe? Watch short videos to earn credits and unlock features.\n\nPRIVACY\nNo account. Your progress and answers stay on your device. If you say you are under 18 the app shows only non-personalised ads.\n\nHONEST LIMITS\nAll text, problems and figures are original. There is no expert review: numbers are checked by independent code and sources are checked against the real pages and records, but unusual errors are possible. Some sources are shown as records only because publishers block automatic checking. Content as of 2026-11-17. Not affiliated with or endorsed by any university, publisher or author cited.\n\nPrivacy Policy: https://equalinformation.com/privacy-boundwise.html\nTerms of Use: https://equalinformation.com/terms-boundwise.html",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/learning-theory-boundwise/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/learning-theory-boundwise/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/learning-theory-boundwise/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/learning-theory-boundwise/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/learning-theory-boundwise/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.boundwise.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.boundwise.app"
+  }
+}

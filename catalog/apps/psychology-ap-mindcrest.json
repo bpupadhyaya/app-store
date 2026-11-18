@@ -1,0 +1,59 @@
+{
+  "slug": "psychology-ap-mindcrest",
+  "name": "Psychology AP: Mindcrest",
+  "subtitle": "Psychology AP Mocks & FRQs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "psychology",
+    "exam prep",
+    "practice test",
+    "mock exam",
+    "memory",
+    "learning",
+    "neuroscience",
+    "disorders"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Practice AP Psychology offline: 438 questions with worked solutions, 5 labs, 12 free-response practice tasks and timed mock exams across every unit.",
+  "longDescription": "Psychology AP: Mindcrest is an offline study app for the AP Psychology exam. No account, no internet needed.\n\nWHAT YOU GET\n- All 5 course units and 35 topics from the College Board outline, plus a skills section for research methods and data\n- 438 practice questions, every one with a worked solution and a reason each wrong choice misses\n- Original key ideas and \"easy to mix up\" traps for every topic\n- 12 free-response practice tasks (Article Analysis and Evidence-Based) with point-by-point rubrics and model answers, built from invented studies\n- 5 labs you run yourself: Stroop reaction, serial position memory, reinforcement schedules, normal curve and correlation, and a just-noticeable-difference test\n- Timed quick and full multiple-choice mocks (75 questions, 90 minutes) with a rough 1 to 5 band\n\nA DIFFERENT WAY TO STUDY\nBefore each answer is revealed you say how sure you are. Mindcrest tracks your grasp of every topic, mixes your weakest topics into short daily sessions, replays misses after 1, 3 and 7 days, and shows whether \"Sure\" really means right. Large text (A- and A+) is on every screen.\n\nTOPICS COVERED\nBiological bases of behavior: heredity and environment, the nervous system, neurons and neurotransmitters, the brain, sleep, sensation.\nCognition: perception, thinking and decision making, memory (encoding, storage, retrieval, forgetting), intelligence.\nDevelopment and learning: lifespan development, language, classical and operant conditioning, social learning.\nSocial psychology and personality: attribution, attitudes, groups, conformity, personality theories, motivation, emotion.\nMental and physical health: stress, positive psychology, psychological disorders, treatment.\n\nFREE, WITH OPTIONAL AD-FREE\nMindcrest is free with ads. Watch an optional short video to earn credits for the full mock exam and extra labs. A monthly ad-free subscription removes the ads; it only removes ads. 7-day free trial for new subscribers. Cancel any time in your store account settings; cancellation takes effect at the next billing cycle.\n\nPrivacy Policy: https://equalinformation.com/privacy-mindcrest.html\nTerms of Use: https://equalinformation.com/terms-mindcrest.html\n\nAP is a trademark registered by the College Board, which is not affiliated with and does not endorse this app. Questions, explanations and practice studies are original; the 1 to 5 band is our own rough guess, not a College Board score.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/psychology-ap-mindcrest/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/psychology-ap-mindcrest/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/psychology-ap-mindcrest/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/psychology-ap-mindcrest/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/psychology-ap-mindcrest/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": ""
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "neural-nets-for-teens-nodely",
+  "name": "Neural Nets for Teens: Nodely",
+  "subtitle": "Build neural nets step by step",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "neural network",
+    "teen",
+    "machine learning",
+    "ai",
+    "deep learning",
+    "gradient",
+    "backprop",
+    "stem"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Tune a neuron, solve XOR, train a tiny digit reader. Equations you can play with. Free, offline.",
+  "longDescription": "Nodely teaches how neural networks work by letting you build tiny ones. Every idea starts with a real situation, becomes something you can tune with your fingers, and only then shows the equation behind it. Tap any symbol to see what it means in the simulation you just played with.\n\nEIGHT SHORT UNITS (4 to 7 minutes each)\n1. A neuron as a weighted vote: decide about the cinema from friends, rain and your mood.\n2. Layers and what they can do: why one neuron cannot solve XOR and how a hidden layer can.\n3. Forward pass by hand: follow numbers through a fraud-screen network to probabilities.\n4. Loss: score a weather forecaster and see why confident mistakes cost the most.\n5. Learning by nudging weights: a rolling ball, learning rates, overshoot.\n6. Backpropagation, simply: blame flowing back along a two-station factory line, checked by a nudge test.\n7. Tiny networks that see: slide a 3x3 stencil over a picture, then train a net to read hand-drawn digits and draw your own.\n8. Tiny networks for text and limits: words as arrows, a next-word net, and what nets cannot know.\n\nHOW IT KEEPS YOU ENGAGED, NOT EXHAUSTED\n- See it, build it, check it: manipulate first, name the concept second.\n- Questions are computed from what you just built.\n- Gentle replays, optional rounds, and \"good place to stop\" screens.\n- Text size A- and A+, labels for screen readers, check and cross icons (not only colours).\n\nSOURCES YOU CAN OPEN\nEvery card and equation cites textbooks, university courses and papers (for example Nielsen's book, Dive into Deep Learning, Stanford CS231n and CS224N, and the original papers). Tap a source to open it in a sheet and come straight back to your lesson.\n\nFOR TEENS, WITH CARE\nAges 13 and up. We ask only whether you are 18 or older, never your birth date. Under 18: ads are non-personalised, there is no tracking request, and ads are limited to teen-suitable content. No account, no server, works offline.\n\nFREE WITH OPTIONAL AD REMOVAL\nAll lessons, labs and questions are free. An optional monthly subscription only removes ads. Cancel anytime in your account settings; cancellation takes effect at the next billing cycle.\n\nNot expert reviewed: every claim is source-checked and every number is computed by code.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/neural-nets-for-teens-nodely/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/neural-nets-for-teens-nodely/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/neural-nets-for-teens-nodely/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/neural-nets-for-teens-nodely/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/neural-nets-for-teens-nodely/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": ""
+  }
+}

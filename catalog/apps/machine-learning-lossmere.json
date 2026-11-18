@@ -1,0 +1,61 @@
+{
+  "slug": "machine-learning-lossmere",
+  "name": "Machine Learning: Lossmere",
+  "subtitle": "Machine Learning Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "regression",
+    "classification",
+    "gradient descent",
+    "k-means",
+    "pca",
+    "svm",
+    "bias variance",
+    "data science"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Learn machine learning the way you would build it.",
+  "longDescription": "Learn machine learning the way you would build it. Machine Learning: Lossmere is a university-level course on your phone: ten short units, ten hands-on labs and more than five hundred checked questions.\n\nEvery equation starts as something real. Roll a ball down a hillside, throw darts at a target, test a whole town for a condition, place delivery depots, sweep an airport scanner. Then the equation is revealed on top of what you just saw: tap any symbol to find it in the picture, and watch the numbers come from the formula itself. Turn a 3-D loss valley with your finger.\n\nDrag a threshold and watch a confusion matrix change. Pull a line through points and see the squares add up. Turn a learning-rate dial until the ball overshoots. Shape a logistic curve, raise ridge lambda, vote with nearest neighbours, widen an SVM margin, slide a base rate, step k-means, sweep an ROC curve. Every lab ends with a question computed from what you just built.\n\nWhat you cover: data and metrics, least squares, gradient descent, logistic regression, regularisation and bias-variance, k-NN and trees, support vector machines, Bayes and naive Bayes, clustering and PCA, cross-validation and ROC.\n\nMade for short sessions: a few cards, one lab, a handful of questions, then a good place to stop. Questions you miss come back later, gently. A- and A+ buttons scale the text up to double size.\n\nWorks offline. No account. Free with ads at natural breaks, never during a question or lab. Earn credits by watching a short video, or subscribe monthly to remove ads ($3.99 per month after a 7-day free trial; cancel any time in your store account settings, and cancellation takes effect at the next billing cycle).\n\nEvery claim carries sources you can open without leaving the app: textbook sections, university lectures and the original papers, each checked against the real page or record.\n\nHow it is checked: no expert has reviewed this app; it is source-checked. Every numeric answer is recomputed by independent code, and every concept cites at least two sources (ISLR, Elements of Statistical Learning, CMU and Berkeley lectures, original papers) at section or lecture level. Course syllabi from major universities were used to choose topics; all text, problems and figures are original. Not affiliated with any university. For learning only; no professional advice.\n\nPrivacy Policy: https://bpupadhyaya.github.io/app-legal/lossmere/privacy.html\nTerms of Use: https://bpupadhyaya.github.io/app-legal/lossmere/terms.html",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/machine-learning-lossmere/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/machine-learning-lossmere/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/machine-learning-lossmere/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/machine-learning-lossmere/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/machine-learning-lossmere/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.lossmere.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.lossmere.app"
+  }
+}

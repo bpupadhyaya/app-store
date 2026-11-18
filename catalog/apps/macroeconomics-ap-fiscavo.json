@@ -1,0 +1,59 @@
+{
+  "slug": "macroeconomics-ap-fiscavo",
+  "name": "Macroeconomics AP: Fiscavo",
+  "subtitle": "Macro AP Mocks & FRQs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "macroeconomics",
+    "ap",
+    "mock exam",
+    "frq",
+    "ad-as",
+    "gdp",
+    "inflation",
+    "multiplier"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Practice AP Macroeconomics with 405 original questions, worked solutions, six interactive stations and timed mocks. No account. Works offline.",
+  "longDescription": "Prepare for the AP Macroeconomics exam on Friday, May 7, 2027 with original practice, graphs you can drag around, and mock exams that follow the real layout. No account, no internet needed.\n\nA DAILY BUDGET INSTEAD OF A DECK. Every topic holds a balance that grows when you answer well and depreciates while you ignore it. Each day the app spends ten questions on the topics where your balance is lowest and the exam weight is highest.\n\nTHE WHOLE COURSE. Six units and 42 topics, each with short idea cards, graph-labelling reminders and a formula list.\n\n405 ORIGINAL QUESTIONS. Every one has a worked solution that explains the reasoning, and calculation questions name the slip behind each wrong choice.\n\nSIX STUDIO STATIONS. AD-AS, the money market, multipliers and policy, loanable funds, the foreign exchange market, plus a number desk for CPI, unemployment, real GDP and the rule of 70. Shift a curve, watch the equilibrium move, then answer a question made from your own numbers.\n\nMOCK EXAMS. A quick mock of 20 questions in 20 minutes, and a full mock with 60 multiple-choice questions in 70 minutes followed by 3 free-response questions in 60 minutes. Twelve original free-response sets come with line-by-line rubrics for you to score yourself. The 1 to 5 estimate is only a rough guide built on our own cut points.\n\nCHECK OUR SOURCES. Each topic points to the College Board course description and to matching chapters of the OpenStax macroeconomics textbook, which is licensed CC BY-NC-SA 4.0 and is linked, never copied.\n\nFREE WITH FAIR ADS. Studying is free. Ads show up only between activities, never during a question, a mock or a graph. Earn credits by watching an optional short video, or choose the monthly plan at $3.99 with a 7-day free trial. The plan only removes ads; the three extra stations and the full mock are opened with credits. It renews every month, and you can cancel any time in your App Store or Google Play account settings; ad-free time you paid for stays active until it ends and no further charge is made.\n\nQuestions are our own writing and no teacher or subject expert has reviewed them. No real exam questions are included.\nAP is a trademark registered by the College Board, which is not affiliated with and does not endorse this app.\n\nPrivacy Policy: https://equalinformation.com/privacy-fiscavo.html\nTerms of Use: https://equalinformation.com/terms-fiscavo.html",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/macroeconomics-ap-fiscavo/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/macroeconomics-ap-fiscavo/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/macroeconomics-ap-fiscavo/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/macroeconomics-ap-fiscavo/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/macroeconomics-ap-fiscavo/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": ""
+  }
+}

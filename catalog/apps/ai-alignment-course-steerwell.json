@@ -1,0 +1,61 @@
+{
+  "slug": "ai-alignment-course-steerwell",
+  "name": "AI Alignment Course: Steerwell",
+  "subtitle": "Preferences, RLHF, DPO labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "reward model",
+    "ai safety",
+    "red teaming",
+    "kl divergence",
+    "machine learning",
+    "language model",
+    "ppo",
+    "graduate"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Steer a model with preferences: 16 labs, equations you can see, sources one tap away.",
+  "longDescription": "A graduate-level course on how AI models are steered with human preferences, built for your phone. Eight units take you from supervised fine-tuning and reward models to RLHF with a KL leash, direct preference optimisation, AI feedback, reward hacking, red-teaming and the open limits of alignment.\n\nEvery equation comes alive. Train a dog on a leash to see the KL penalty, let a taste-tester rank dishes to see Bradley-Terry reward models, watch a student game a grading rubric to see reward over-optimisation, and run a security test on a building to see attack success rate. Move the sliders, then reveal the equation behind what you saw and tap each symbol to find it in the picture. Sixteen labs, each ending with a question computed from your own settings.\n\nThe whole course lives on your phone and runs without a connection, with nothing to sign up for. Ads appear only after you finish a lab or a round, never in the middle of one. You can earn credits for worked steps by watching a short video, or take the monthly ad-free plan ($3.99 per month after a 7-day free trial; cancel whenever you like in your store account settings; the cancellation applies from the next billing cycle).\n\nSources open inside the app. Tap a chip beside any claim to read the original paper, the course page or the textbook section it rests on, then slide back to where you were.\n\nHonest note on checking: no outside specialist has read this app. Lab formulas are recomputed by separate code on thousands of random settings, generated answers are re-derived, and each source was opened by a script. Papers are cited as whole papers. Everything here is toy scale; it does not describe any company's systems and teaches no attack methods. No university or publisher is behind it. Made for study, not for professional advice.\n\nPrivacy Policy: https://bpupadhyaya.github.io/app-legal/steerwell/privacy.html\nTerms of Use: https://bpupadhyaya.github.io/app-legal/steerwell/terms.html",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/ai-alignment-course-steerwell/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/ai-alignment-course-steerwell/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-alignment-course-steerwell/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-alignment-course-steerwell/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-alignment-course-steerwell/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.steerwell.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.steerwell.app"
+  }
+}

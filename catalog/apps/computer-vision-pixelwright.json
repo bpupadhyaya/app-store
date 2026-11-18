@@ -1,0 +1,61 @@
+{
+  "slug": "computer-vision-pixelwright",
+  "name": "Computer Vision: Pixelwright",
+  "subtitle": "Convolution, CNNs, detection",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "image processing",
+    "object recognition",
+    "segmentation",
+    "transformer",
+    "edge",
+    "corner",
+    "neural network",
+    "filters"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Learn how phones see: slide a kernel over a photo, train a tiny CNN, score a detector, and read pictures like a Transformer.",
+  "longDescription": "Computer vision for your phone, taught the way you would explain it to a friend. Nine stages take you from a pinhole camera to Vision Transformers, and every stage starts with something real: a friend who shrinks as you step back, a street photo you can sharpen, a skyline you stitch into a panorama.\n\nWhat you do\n- Slide a 3 by 3 magnifier over a picture and watch the convolution run live on your phone's graphics chip, with the nine multiplications shown for the pixel you tap.\n- See edges as shadows at object boundaries, then find corners and vote with RANSAC to stitch two photos.\n- Train a tiny CNN on circles, squares and triangles and see exactly what each learned filter responds to.\n- Build a layer stack and watch the picture shrink and the parameter bill grow.\n- Draw a box and get its IoU, suppress duplicate detections, and watch average precision appear.\n- Colour in a street scene to score pixel accuracy against mean IoU, and learn why one can hide failures.\n- Cut a picture into patches like a Vision Transformer and tap one to see where it looks.\n- Nudge a stop sign with a tiny sticker and find the smallest change that flips a classifier; swap a cow's background and catch a shortcut.\n\nHow it teaches\nEach lab begins with a real situation, gives you controls, and only then shows the equation, as a description of what you just did. Tap any symbol to find it in the picture. Quiz questions are computed from your own setup, and every numeric answer is recomputed by independent code. 214 checked questions, 18 labs, unit checks of six questions, an optional final mock test, and a calm replay list for anything you miss.\n\nSources\nClaims are cited to courses and papers (Stanford CS231n, MIT 6.8300, CMU 16-385 and 16-720, UC Berkeley C280, Szeliski, ResNet, Faster R-CNN, U-Net, ViT, CLIP and more) and each opens in a window inside the app. All pictures are rendered by the app itself. Written and source-checked by our team; not reviewed by an external expert. Not affiliated with any university.\n\nGood to know\nWorks offline, no account. Free, with ads between sessions only; an optional ad-free monthly subscription ($3.99, 7-day free trial) removes them, and watching a short video earns a credit for the optional mock test. Cancel anytime; cancellation takes effect at the next billing cycle. Text size A- and A+ from 85 to 200 percent. Content as of 2026-11-17.\n\nPrivacy Policy: https://bpupadhyaya.github.io/app-legal/pixelwright/privacy.html\nTerms of Use: https://bpupadhyaya.github.io/app-legal/pixelwright/terms.html",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/computer-vision-pixelwright/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/computer-vision-pixelwright/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/computer-vision-pixelwright/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/computer-vision-pixelwright/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/computer-vision-pixelwright/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.pixelwright.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.pixelwright.app"
+  }
+}

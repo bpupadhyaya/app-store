@@ -1,0 +1,61 @@
+{
+  "slug": "deep-learning-labs-ridgevale",
+  "name": "Deep Learning Labs: Ridgevale",
+  "subtitle": "Advanced deep learning course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "graduate",
+    "initialization",
+    "residual",
+    "batchnorm",
+    "loss landscape",
+    "adam",
+    "double descent",
+    "scaling laws"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Run sixteen small experiments on initialisation, residual networks, loss landscapes and double descent, then see the equation they obey.",
+  "longDescription": "Advanced deep learning, learned by running small experiments you can touch. Deep Learning Labs: Ridgevale is a graduate-level course for people who build and debug deep networks.\n\nEvery equation comes with a real situation first. Turn a dial, watch a small world respond, and only then see the equation that describes it, with each symbol tappable to light up the number it controls.\n\nWHAT YOU WILL RUN\n- Initialisation as an amplifier chain: set the volume on fifty stages and watch the signal fade or blare, with Xavier and He initialisation.\n- Residual connections as express lanes on a motorway, and why an unscaled branch still grows with depth.\n- Normalisation as a calibration station on a factory line: batch, layer and RMS norm, and why a batch of two is noisy.\n- Optimisers as a hiker in the fog on a loss landscape: gradient descent, momentum and Adam, the 2/eta stability limit and the edge of stability.\n- Rescaling two weights to change sharpness without changing the function.\n- Wide networks as rubber bands: measure how far a real tiny network moves its own kernel.\n- A power-law ruler for scaling laws, a memoriser that counts how many random labels a model can fit, a student who memorises and then generalises (double descent), and a rope that loses its thinnest threads (pruning).\n- Precision and memory as packing a suitcase: bytes per parameter, loss scaling, activation checkpointing.\n- A giant menu of architectures, a wiggle test for gradients, a curve doctor and a seed counter.\n\nBUILT TO LEARN, NOT TO EXHAUST\n- Sessions of three to eight minutes, a question made from what you just built, no punishment for wrong answers, and a replay list that waits for you.\n- A bank of computed questions whose answers are re-derived by separate code, plus concept questions with sources.\n- Larger-text controls from 85 to 200 percent, plain light design, no account, works offline.\n\nSOURCES YOU CAN OPEN\nEvery card and lab cites primary papers (He et al., Ioffe and Szegedy, Ba et al., Kingma and Ba, Li et al., Belkin et al., Kaplan et al. and more), open textbooks and university course pages. Tap any source to read it in a sheet over the lesson and return to exactly where you were.\n\nHONEST ABOUT WHAT IT IS\nWritten and source-checked by our team; not reviewed by an external expert. The labs are toy-scale models of real effects and say where they simplify. Content is as of 2026-11-17.\n\nFREE WITH ADS, OR AD-FREE\nThe app is free with ads at natural breaks, never during a lab or a question. Watch a short video to earn credits, or subscribe monthly for an ad-free experience with a 7-day free trial.\n\nPrivacy Policy: https://bpupadhyaya.github.io/app-legal/ridgevale/privacy.html\nTerms of Use: https://bpupadhyaya.github.io/app-legal/ridgevale/terms.html",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/deep-learning-labs-ridgevale/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/deep-learning-labs-ridgevale/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/deep-learning-labs-ridgevale/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/deep-learning-labs-ridgevale/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/deep-learning-labs-ridgevale/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.ridgevale.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.ridgevale.app"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "ai-training-ai-loopmoor",
+  "name": "AI Training AI: Loopmoor",
+  "subtitle": "Distill, synthesize, judge",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "distillation",
+    "synthetic data",
+    "llm",
+    "model collapse",
+    "self-play",
+    "graduate",
+    "machine learning",
+    "self-instruct"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Build the loop where AI trains AI: distil a teacher, generate and filter data, catch biased judges, see model collapse, rate a self-play ladder. Offline labs.",
+  "longDescription": "Training AI with AI, taught by labs you run on your phone: Loopmoor is a graduate-level course on synthetic data, distillation and self-improvement. Everything works offline, with no account.\n\nHOW IT WORKS\nEight stations make a loop: why AI trains AI, knowledge distillation, synthetic data generation, filtering and verification, LLM-as-judge and its biases, model collapse and contamination, self-play and self-improvement, and evaluating recursive training. Each station has short cards (3 to 8 minutes), a lab you build, and a quick check computed from what you built.\n\nSEE EVERY EQUATION\nEvery equation is shown after a simulation of a real situation: a master teaching an apprentice with soft hints, a question factory stamping out duplicates, an airport scanner and a panel of noisy voters, a biased referee, photocopies of photocopies, two chess clubs rating each other, and a food label for data. Tap a symbol to see it inside the simulation, with live numbers.\n\nSOURCES YOU CAN OPEN\nCards cite primary papers (distillation, Self-Instruct, STaR, LLM-as-judge, model collapse, weak-to-strong and more) and university course pages. Tap a source to open it in a sheet and come back to exactly where you were. If you are offline you still see the stored reference.\n\nFOR LEARNERS\n- 8 units, 128 questions with worked solutions, 8 labs\n- Gentle replay of misses, \"good place to stop\" screens, no streak pressure\n- A- / A+ text size from 85% to 200%\n- Content as of 2026-11-17 card for fast-moving facts\n- Toy-scale simulations: they show mechanisms, not results for any real system\n- Written and source-checked by our team; not reviewed by an external expert\n\nFREE WITH OPTIONAL ADS\nThe app is free with ads at natural breaks, never during a lab or quiz. Optional videos earn credits for bonus rounds. Ad-Free Monthly removes ads only: $3.99 per month after a 7-day free trial. Cancel anytime in your account settings; cancellation takes effect at the next billing cycle.\n\nPrivacy Policy and Terms of Use are in the app under More.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/ai-training-ai-loopmoor/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/ai-training-ai-loopmoor/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-training-ai-loopmoor/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-training-ai-loopmoor/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-training-ai-loopmoor/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": ""
+  }
+}

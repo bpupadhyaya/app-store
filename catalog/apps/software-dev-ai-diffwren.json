@@ -1,0 +1,59 @@
+{
+  "slug": "software-dev-ai-diffwren",
+  "name": "Software Dev AI: Diffwren",
+  "subtitle": "Code with AI, check the work",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "coding",
+    "developer",
+    "review",
+    "unit tests",
+    "prompts",
+    "security",
+    "programming",
+    "automation"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Learn how developers get real work done with AI coding tools: pick the task, write the request, check the result, hand it off. Labs, quizzes, sources. Offline.",
+  "longDescription": "Learn how a software developer gets real work done with AI coding tools, and how to check the result before it ships. Diffwren turns a week at a fictional software team into eight short tickets. Each ticket follows the same path: the task, the tool category, the request, the verification, the hand-off.\n\nHANDS-ON LABS, NO CHAT WINDOW\nEvery lab is a rule-based work scenario that runs on your device. Nothing you type is sent anywhere, and no generative model runs inside the app.\n- Sort tasks by value and risk and see which an assistant may draft\n- Slide a time-saved ledger and watch review and rework eat the saving\n- Spot the unsupported claim in a drafted pull-request description\n- Check imports that may not exist, and rewrite a vague request with a six-point rubric\n- Review a drafted test: an unsafe query, a call that no longer exists, a check that checks nothing\n- Run a tiny test runner against twelve code changes and compare line coverage with mutation score\n- Scan a config for real secrets and redact a log before you paste it\n- Build a gated routine with a person's approval before anything that cannot be undone\n- Estimate how many outputs to review, set a flag threshold, and read a before-and-after band honestly\n- Write a disclosure line, rank risks and count audit minutes\n\nEach lab ends with an equation shown AFTER you play with the scenario: tap any symbol to see what it stands for and its value right now. Then one question computed from what you just built.\n\nSHORT SESSIONS, NO NAGGING\nThree to eight minutes per sitting. Small cards, instant feedback with the worked reason, a gentle replay for misses, a \"good place to stop\" screen, and a stamp for each ticket you pass. Text size from 85% to 200% with A- and A+.\n\nSOURCES YOU CAN OPEN\nEvery card and equation links to its source: standards bodies, security lists, peer-reviewed or preprint papers, open engineering guides and university course pages. Tap a source and it opens in a sheet inside the app. Sources we could not link-verify are shown as plain text and marked.\n\nFREE TO START\nEverything is free with ads at natural breaks, never inside a lab or a question. Optional short videos earn credits for bonus rounds. Or remove ads with one monthly plan ($2.99 per month after a 7-day free trial; renews automatically until cancelled). Cancel anytime in your account settings; cancellation takes effect at the next billing cycle. The plan only removes ads.\n\nHONEST LIMITS\nSource-checked, not expert-reviewed. This app gives no legal, security or professional advice. Numbers marked illustrative are teaching values, not statistics. Companies, people and code are fictional. The app names tool categories only and is not affiliated with any tool maker. For adults (18+).\n\nPrivacy policy and support pages are linked from the listing.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/software-dev-ai-diffwren/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/software-dev-ai-diffwren/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/software-dev-ai-diffwren/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/software-dev-ai-diffwren/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/software-dev-ai-diffwren/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": ""
+  }
+}

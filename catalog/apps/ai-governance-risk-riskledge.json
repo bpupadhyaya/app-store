@@ -1,0 +1,59 @@
+{
+  "slug": "ai-governance-risk-riskledge",
+  "name": "AI Governance Risk: Riskledge",
+  "subtitle": "Risk, policy, vendors, audit",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "ai risk",
+    "governance",
+    "compliance",
+    "policy",
+    "audit",
+    "nist",
+    "eu ai act",
+    "vendor"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Learn to run AI governance at work: registers, risk scores, vendor checks, policies and board reports. Labs, quizzes, sources. Not legal advice.",
+  "longDescription": "Riskledge teaches managers how to get work done with AI responsibly. Follow a fictional company, Harbourline Logistics, through ten folders: accountability and roles, the AI register, risk scoring, the NIST AI Risk Management Framework, the EU AI Act, management systems, privacy questions, vendor checks, policies and incidents, and the one-page board report.\n\nLearn by doing. Every folder has a work scenario and hands-on labs: build a RACI sheet, fill an AI register, find shadow AI in an expense list, move a control slider and watch the risk move on a heat map, sort activities into the framework functions, size a review sample, score vendors, test a pilot against its threshold, and watch an override-rate chart for a real alarm. Each lab ends with a question computed from what you built, and every equation is shown next to the situation it describes.\n\nHonest and checkable. Every statement carries a source record you can open in a full-width sheet, with the stored record available offline. Dated cards say what to verify. The EU AI Act dates were read from the Official Journal texts on 2026-11-17, including the 2026 amendment, and the app tells you to check the current text.\n\nWhat you get:\n- 10 folders, 21 labs, 190 questions plus a 20-question mixed check\n- Short sessions, a gentle replay of missed questions, no streak pressure\n- Sources from NIST, EU institutions, regulators, universities and standards bodies, with links verified on 2026-11-17\n- Text size from 85% to 200%, VoiceOver labels, works offline, no account\n\nFree with ads. An optional monthly subscription ($3.99 per month after a 7-day free trial) only removes ads; you can also watch an optional video for a credit. Cancel anytime in your account settings; cancellation takes effect at the next billing cycle.\n\nFor adults (18+). Riskledge gives no legal advice and does not certify compliance with any law or standard. All organisations and people are fictional; numbers in labs are illustrative unless a source is cited. Content as of 2026-11-17.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/ai-governance-risk-riskledge/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/ai-governance-risk-riskledge/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-governance-risk-riskledge/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-governance-risk-riskledge/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-governance-risk-riskledge/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": ""
+  }
+}

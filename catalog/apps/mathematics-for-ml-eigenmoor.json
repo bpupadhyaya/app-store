@@ -1,0 +1,61 @@
+{
+  "slug": "mathematics-for-ml-eigenmoor",
+  "name": "Mathematics for ML: Eigenmoor",
+  "subtitle": "Matrices, gradients and Bayes",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "linear algebra",
+    "eigenvalues",
+    "svd",
+    "pca",
+    "calculus",
+    "probability",
+    "likelihood",
+    "ridge"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Every equation comes alive as a real-world simulation, with sources you can open in the app.",
+  "longDescription": "The maths behind machine learning, one real situation at a time. Mathematics for ML: Eigenmoor brings an undergraduate maths-for-AI course to a phone, with ten short units, fifteen hands-on simulations and more than seven hundred checked practice questions.\n\nMost maths courses show an equation and stop. Here every equation starts as something you can move. Steer a sailboat in the wind to meet the dot product. Stretch a photo to see a determinant. Fit a line through six noisy sensor readings. Spin a plate and find the axes that stay steady. Squeeze a photo into a few layers with the singular value decomposition. Walk a hill map to feel a gradient. Test a thousand people in a clinic to understand Bayes. Let a ball tumble into a valley until your step size makes it bounce. Only afterwards does the formula appear, written over the scene you just explored. Touch a symbol and it lights up in the picture; every figure on screen is calculated by that very formula.\n\nWhat you cover: vectors and angles, matrices as maps, linear systems and rank, least squares, eigenvalues and eigenvectors, SVD and low-rank structure, PCA, gradients and the chain rule, probability and Bayes, expectation and variance, bell curves and maximum likelihood, gradient descent and step size, ridge regression.\n\nSessions take three to eight minutes: read a few cards, play with one simulation, answer a handful of questions and stop on a calm finish screen. Missed questions return later in a replay queue with no penalty. A- and A+ scale all text from 85% to 200%.\n\nEverything runs on the phone, with no account and no server. The app is free and shows ads only when you finish a session, never in the middle of a simulation or a quiz. You can earn credits for the optional mixed test by watching a short video, or remove ads with one monthly subscription ($3.99 per month after a 7-day free trial; cancel any time in your store account settings, and cancellation takes effect at the next billing cycle).\n\nOpen the evidence in the app: every card and every equation lists textbook sections, university lecture pages and original papers, each matched to the real page or record. A tap slides the source up over your lesson, and Back returns you to the exact spot you left.\n\nHonest note: a human expert has not reviewed this app. Claims are compared with their sources and every numeric answer is recalculated by separate code. Topics follow public university syllabi, while all wording, problems and pictures are original. No university or publisher is connected with this app. For learning only.\n\nPrivacy Policy: https://bpupadhyaya.github.io/app-legal/eigenmoor/privacy.html\nTerms of Use: https://bpupadhyaya.github.io/app-legal/eigenmoor/terms.html",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/mathematics-for-ml-eigenmoor/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/mathematics-for-ml-eigenmoor/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/mathematics-for-ml-eigenmoor/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/mathematics-for-ml-eigenmoor/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/mathematics-for-ml-eigenmoor/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.eigenmoor.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.eigenmoor.app"
+  }
+}

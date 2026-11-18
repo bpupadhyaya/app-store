@@ -1,0 +1,59 @@
+{
+  "slug": "optimization-for-ml-gradvale",
+  "name": "Optimization for ML: Gradvale",
+  "subtitle": "Gradient descent, Adam, KKT",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "convex",
+    "lagrange",
+    "lasso",
+    "sgd",
+    "momentum",
+    "saddle",
+    "newton",
+    "loss"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Move a simulation first, then meet the equation. Eight trails from the first slope to saddle points, with sources you can open in the app.",
+  "longDescription": "Optimization for machine learning, taught by simulations you can move.\n\nEvery equation in this course is first a real situation. Roll marbles on a bowl and on a mountain range. Send a hiker down a foggy hillside with different strides, momentum and adaptive boots. Ask a handful of villagers for directions. Shop with a budget and discover that the Lagrange multiplier is the price of the budget. Switch weak sensors off with an L1 penalty. Only after you have moved the world does the equation appear, with every symbol tappable so you can see what it is in the picture.\n\nEIGHT TRAILS (about 36 hours in short sessions of 3 to 8 minutes)\n1. Reading the slope: gradients, curvature, flat spots\n2. Bowl or mountain range: convexity, condition number\n3. The hiker's stride: gradient descent and step sizes\n4. Asking a few villagers: stochastic gradients, mini-batches, schedules\n5. Gear for the hiker: momentum, Nesterov, RMSProp, Adam\n6. Shopping with a budget: constraints, Lagrange prices, KKT, penalties\n7. Keeping only strong signals: L1, subgradients, proximal steps, lasso\n8. Valleys, passes and plateaus: saddles, sharp and flat minima, Newton\n\nWHAT YOU GET\n- 16 interactive labs with a flat map and a GPU 3D landscape view\n- Every checkpoint is computed from the settings you just chose\n- More than 170 unit-check questions, each with a worked reason\n- An optimiser bench: plain, heavy-ball, look-ahead and Adam on canyons of growing difficulty\n- Build threads: the small program you would write for each trail\n- Sources you can open inside the app: textbook sections, courses from CMU and Berkeley, and the original papers (Adam, large-scale optimization methods, saddle points and more)\n- Text size from 85% to 200%, screen-reader descriptions of every simulation\n- Works offline. No account. Your progress stays on your device.\n\nHONEST NOTES\nWritten and source-checked by our team; not reviewed by an external expert. Every number and answer is recomputed by separate verifier code. Content as of 2026-11-17.\n\nFREE WITH ADS, OR AD-FREE\nFree with ads at natural breaks only (never inside a lab or a question). An optional monthly subscription removes ads: 7-day free trial, then billed monthly. It only removes ads. Cancel any time in your App Store or Google Play account settings; cancellation takes effect at the next billing cycle.\n\nPrivacy Policy: https://bpupadhyaya.github.io/app-legal/gradvale/privacy.html\nTerms of Use: https://bpupadhyaya.github.io/app-legal/gradvale/terms.html",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/optimization-for-ml-gradvale/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/optimization-for-ml-gradvale/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/optimization-for-ml-gradvale/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/optimization-for-ml-gradvale/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/optimization-for-ml-gradvale/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": ""
+  }
+}

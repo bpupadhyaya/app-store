@@ -1,0 +1,59 @@
+{
+  "slug": "ai-literacy-work-clearpilot",
+  "name": "AI Literacy Work: Clearpilot",
+  "subtitle": "Use AI at work, and check it",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "ai literacy",
+    "work",
+    "professional",
+    "hallucination",
+    "privacy",
+    "deepfake",
+    "scam",
+    "bias"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Nine short stops for working professionals: practise real work scenarios with AI tools, spot errors, protect data and work out the time you really save.",
+  "longDescription": "AI Literacy Work: Clearpilot teaches working professionals how to get real work done with AI and AI tools, and how to know when to check the result. It is built for people with no technical background.\n\nYour day with AI is a timeline of nine short stops, from 08:30 to 16:45. Each stop is a work scenario: pick the task, choose a tool category, run the workflow, verify the output and hand it off. Every stop takes about five minutes.\n\nWhat you practise\n- Sort everyday tools into fixed rules, learned systems and generative tools.\n- See how an assistant writes: move a temperature dial and watch next-word odds change, then draw five replies and see why two runs differ.\n- Triage 20 work tasks using minutes saved, chance of error and the cost of a miss.\n- Review an AI-drafted memo with a source pack and find the planted errors: a wrong number, a made-up citation, an invented policy, an impossible date and a contradiction.\n- Price five verification checks: errors left against minutes spent.\n- Redact personal and confidential data from a fictional note, and place data in the right tool tier.\n- Run a swap test on two reference letters and pick mitigations that reduce bias.\n- Build a one-page team usage guideline and see which clauses are missing.\n- Spot the cues in a fake payment request and put the call-back protocol in order.\n- Match frameworks and rules to their purpose, choose starter tasks and calculate your net minutes saved per week.\n\nNumbers you can see\nEvery equation comes alive: tap a symbol and find it in the simulation, with the live values plugged in. Labs show error rates, time saved and risk figures. Every number is re-derived by separate code.\n\nSources you can open\nEach card and equation cites authoritative sources such as NIST, the OECD, EUR-Lex (EU AI Act), national cyber agencies, university courses and peer-reviewed or preprint papers. Tap a source to open it in a window that fills most of the screen and take it back to your lesson.\n\nGood to know\n- Free to use, with ads at natural breaks. An optional monthly subscription removes ads only.\n- Works offline for the lessons; opening a source needs a connection.\n- Text size control from 85 to 200 percent.\n- Tool categories only: no product names or endorsements.\n- All people, companies and documents are fictional. This app gives general education only, not legal, medical or financial advice. No outside expert review: content is source-checked and numbers are checked by code.\n- For adults aged 18 and over.\n\nThe optional subscription is $3.99 per month after a 7-day free trial. Cancel anytime in your account settings; cancellation takes effect at the next billing cycle.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/ai-literacy-work-clearpilot/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/ai-literacy-work-clearpilot/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-literacy-work-clearpilot/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-literacy-work-clearpilot/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-literacy-work-clearpilot/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": ""
+  }
+}

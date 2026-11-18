@@ -1,0 +1,59 @@
+{
+  "slug": "computer-science-a-ap-bytelet",
+  "name": "Computer Science A AP: Bytelet",
+  "subtitle": "Trace Java code, pop the stack",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "java",
+    "ap cs",
+    "practice",
+    "exam",
+    "mock",
+    "free response",
+    "arraylist",
+    "loops"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Practice the Java you will see on the exam: trace real code, fix every miss on your stack, and rehearse free-response questions with point-by-point scoring.",
+  "longDescription": "Bytelet is an independent study app for the AP Computer Science A exam. Every question is about real Java, and every answer to a code question was checked by actually running the code.\n\nHOW IT WORKS\nMiss a question and it lands on your stack. Pop the stack to drill that topic again with a fresh question. Nothing slips through, and a frame that keeps defeating you sinks to the bottom so you are never trapped.\n\nWHAT YOU GET\n- All 4 units and 53 topics of the course: using objects and methods, selection and iteration, class creation, data collections.\n- 179 multiple-choice questions, each with a full written solution and a reason for every wrong choice.\n- 8 original free-response questions in the four exam styles (methods and control structures, class design, ArrayList, 2D array) with point-by-point rubrics, model answers and a self-scoring checklist.\n- Trace stepper: watch real programs run line by line with the true variable values.\n- Number lab and String lab: integer division, remainder, overflow, substring, indexOf and compareTo, Java style.\n- Quick check (12 questions) and a full mock: 42 questions in 90 minutes, then 4 free-response questions in 90 minutes, with a rough 1 to 5 estimate.\n- Text size controls (A- and A+), works offline, no account.\n\nFREE, WITH OPTIONAL AD-FREE\nThe app is free and shows ads. Watch an optional video to earn credits for extra practice. A monthly ad-free subscription removes the ads and nothing else: $3.99 per month with a 7-day free trial for new subscribers. Cancel anytime; cancellation takes effect at the next billing cycle. Subscriptions renew automatically unless canceled at least 24 hours before the end of the period.\n\nPrivacy Policy: https://equalinformation.com/privacy-bytelet.html\nTerms of Use: https://equalinformation.com/terms-bytelet.html\n\nAP is a trademark registered by the College Board, which is not affiliated with and does not endorse this app.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/computer-science-a-ap-bytelet/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/computer-science-a-ap-bytelet/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/computer-science-a-ap-bytelet/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/computer-science-a-ap-bytelet/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/computer-science-a-ap-bytelet/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": ""
+  }
+}

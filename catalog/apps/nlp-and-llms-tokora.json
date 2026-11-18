@@ -1,0 +1,61 @@
+{
+  "slug": "nlp-and-llms-tokora",
+  "name": "NLP and LLMs: Tokora",
+  "subtitle": "Language models, hands on",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "tokenizer",
+    "attention",
+    "transformer",
+    "embeddings",
+    "n-gram",
+    "perplexity",
+    "bleu",
+    "deep learning"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Build the ideas behind language models: count, tokenise, embed, attend, decode and train a tiny model on your phone. Offline. No account.",
+  "longDescription": "NLP and LLMs: Tokora is a university-level course in natural language processing and language-model foundations that runs entirely on your phone. Learn by doing: every idea starts with a real situation, then a hands-on lab, and only then the equation that describes what you just saw.\n\nEleven units take you from counting words to a Transformer:\n1. Language as data: tokens, n-grams, smoothing and perplexity\n2. Tokenisation: byte-pair encoding, vocabulary size, token counts\n3. Word embeddings: cosine similarity and vector analogies on a meaning map\n4. Neural language models: cross-entropy loss and gradient descent\n5. Attention: queries, keys, values and a reading heat map\n6. The Transformer: counting weights by width, depth and context\n7. Pretraining and fine-tuning: masked and causal objectives\n8. Decoding: temperature, top-k, top-p and a seeded die\n9. Evaluation: BLEU, brevity penalty and what overlap misses\n10. Scaling laws, hallucination, bias and privacy\n11. Build a tiny language model: train it, sample from it, judge it on unseen text\n\nWhat makes it different\n- Eleven on-device labs: autocomplete from real counts, a keyboard-style tokeniser, an embedding map, an attention heat map, a dice-and-menu decoder, a Transformer weight counter, a scaling-law fit and a trainable tiny language model.\n- Every lab ends with questions computed from what you built, with a worked reason for every answer option.\n- Every number in the app comes from the equation shown, and every numeric answer is recomputed by independent code.\n- Over 440 practice questions, short sessions, a gentle replay queue for missed questions, and a good-place-to-stop screen. No streak pressure.\n- Sources are cited on every unit (university course pages and primary papers) and open in an in-app window that keeps your place.\n- Text size A-/A+ from 85% to 200%, screen-reader labels, and colour-independent correct and incorrect cues.\n- Works offline. No account. No chat window: the tutor is rule-based and on-device.\n\nFree with ads at natural breaks (never inside a lab or a quiz). Watch a short video to earn credits, or choose the optional monthly ad-free plan ($3.99 per month after a 7-day free trial). Cancel any time in your account settings; cancellation takes effect at the next billing cycle.\n\nNot expert reviewed: every claim is source-checked against public university course pages, standards and papers, and numbers are computed by code. Not affiliated with any university. Facts about specific AI systems change quickly, so the app dates them.\n\nPrivacy Policy: https://bpupadhyaya.github.io/app-legal/tokora/privacy.html\nTerms of Use: https://bpupadhyaya.github.io/app-legal/tokora/terms.html",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/nlp-and-llms-tokora/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/nlp-and-llms-tokora/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/nlp-and-llms-tokora/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/nlp-and-llms-tokora/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/nlp-and-llms-tokora/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.tokora.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.tokora.app"
+  }
+}

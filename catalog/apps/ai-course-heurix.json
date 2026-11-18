@@ -1,0 +1,61 @@
+{
+  "slug": "ai-course-heurix",
+  "name": "AI Course: Heurix",
+  "subtitle": "Search, logic, games, planning",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "artificial intelligence",
+    "ai",
+    "a*",
+    "minimax",
+    "constraint",
+    "logic",
+    "planning",
+    "bayes"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Build the classical toolkit of AI on your phone, one short lab at a time.",
+  "longDescription": "An undergraduate introduction to artificial intelligence for your phone. Eleven short units take you from agents and search to games, constraints, logic, planning, probability and decisions, finishing with how risk frameworks treat AI systems.\n\nIn every unit you build something small and watch it work: a vacuum-robot rulebook, a courier finding a route across a city map, a GPS with your own estimate, a cooling tour, a tic-tac-toe opponent with pruning, an exam timetable, a kitchen robot that reasons from clues, a dish-stacking planner, a diagnosis and weather reasoner, and a delivery robot on slippery roads. The equation appears afterwards as a description of what you just saw, and you can tap each symbol to find it in the picture. Questions are computed from the setup you made.\n\nEvery claim carries its sources (AIMA, Poole and Mackworth, Sutton and Barto, UC Berkeley CS 188, CMU 15-281, MIT 6.034, Cambridge, Harvard CS50 AI and the original papers) and each opens in a window inside the app. Numbers are recomputed by independent code. This course has not been expert reviewed.\n\nWorks offline, no account. Free with ads at natural breaks, never inside a lab or a question. Optional monthly ad-free subscription ($3.99, 7-day free trial, cancel anytime; cancellation takes effect at the next billing cycle). Text size A- and A+ up to 200 percent. Not affiliated with any university.\n\nPrivacy Policy: https://bpupadhyaya.github.io/app-legal/heurix/privacy.html\nTerms of Use: https://bpupadhyaya.github.io/app-legal/heurix/terms.html",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/ai-course-heurix/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/ai-course-heurix/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-course-heurix/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-course-heurix/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-course-heurix/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.heurix.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.heurix.app"
+  }
+}

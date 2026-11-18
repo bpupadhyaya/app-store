@@ -1,0 +1,61 @@
+{
+  "slug": "python-for-ml-arrayo",
+  "name": "Python for ML: Arrayo",
+  "subtitle": "Run NumPy-style code on phone",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "arrays",
+    "matrix",
+    "slicing",
+    "broadcast",
+    "gradient descent",
+    "seed",
+    "regression",
+    "data cleaning"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Learn the Python behind machine learning by running it: arrays, broadcasting, gradient descent and real projects, all on your phone.",
+  "longDescription": "Learn the Python that machine learning is built on, by writing and running it on your phone.\n\nArrayo is a hands-on course for undergraduates and self-taught learners. Every idea starts from a real situation, you move a slider or run a few lines, and only then do you meet the equation that describes what you just saw. Nothing needs an account, a server or a connection: an interpreter for a teaching subset of Python and NumPy-style arrays runs inside the app.\n\nNINE UNITS, BUILT UP IN ORDER\n1. Python core refresher: types, loops, functions, lists and dictionaries\n2. Arrays and shapes: ndarray, axes, slicing, masks, views and copies\n3. Vectorisation and broadcasting: replace loops, line up shapes\n4. Linear algebra in code: dot products, X @ w, matrix products, distance tables\n5. Tables and data cleaning: missing values, split-apply-combine\n6. Plotting and evaluation: scatter, line, bar and histogram figures, MSE and R squared\n7. Reproducible experiments: seeds, splits, configs\n8. From scratch: linear regression with gradient descent\n9. Performance and structure: counting work, defensive checks, moving averages\n\nHOW YOU LEARN\n- Run it: every idea has a short program you can edit and run\n- See it: a simulation of a real situation (grades, house prices, sensor columns, a forecaster) with sliders; tap any symbol of the equation to see what it is in the picture\n- Build it: 27 coding exercises checked by running your code against real expected output, with hints and worked answers\n- Four real projects: clean a sensor log, summarise and curve grades, treat a picture as an array, and predict ratings in a tiny recommender\n- Labs: a slice explorer that highlights exactly which cells you picked, a broadcasting checker, a matrix product lab and a timing lab that measures loop against vector on your own device\n- Checks: short, optional quizzes with a reason for every answer, computed from what you built\n\nBUILT TO BE TRUSTED\nEvery expected output in the course was produced by running the same program in real CPython and NumPy, and a test suite replays hundreds of programs through both apps. Every claim lists its sources (NumPy and Python documentation, Stanford, Berkeley and CMU course pages, open textbooks and papers). Tap a source to read it in a full-width window without leaving your place. Offline, the source details are still there.\n\nBEFORE YOU START\nArrayo teaches a subset of Python and NumPy and is not a replacement for a full installation. Random numbers come from Arrayo's own documented generator, so a seed gives the same numbers on every device. The course is original; it is not affiliated with NumPy, pandas, matplotlib or any university it cites.\n\nFree to use. Optional ads appear only between activities, never inside an exercise or a quiz. Remove ads with a monthly subscription (7 days free), or watch a short video to earn credits.\n\nText size can be changed with A- and A+ at any time.\n\nPrivacy Policy: https://bpupadhyaya.github.io/app-legal/arrayo/privacy.html\nTerms of Use: https://bpupadhyaya.github.io/app-legal/arrayo/terms.html",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/python-for-ml-arrayo/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/python-for-ml-arrayo/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/python-for-ml-arrayo/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/python-for-ml-arrayo/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/python-for-ml-arrayo/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.arrayo.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.arrayo.app"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "ai-literacy-for-teens-cogwick",
+  "name": "AI Literacy for Teens: Cogwick",
+  "subtitle": "Build AI, learn how it works",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "ai literacy",
+    "machine learning",
+    "neural network",
+    "teen",
+    "stem",
+    "high school",
+    "classifier",
+    "bias"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Learn how AI really works by building it. Eight hands-on labs, short lessons and questions made from what you built. Free, offline, no account.",
+  "longDescription": "Cogwick is an AI literacy course for ages 13 to 18. Instead of reading about artificial intelligence, you build small pieces of it on your phone and then answer questions about your own build.\n\nEIGHT STATIONS, EIGHT HANDS-ON LABS\n1. Is it AI? Write keyword rules for a spam filter and see where rules fail.\n2. How machines see. Paint a picture as numbers and slide an edge filter over it.\n3. Learning from examples. Add labelled dots and watch a nearest-neighbour model draw its regions.\n4. Neurons and nets. Set weights, then let the nudge rule teach a neuron.\n5. Maps, search and deciding. Draw walls and watch breadth-first search find the shortest path.\n6. Language models in plain words. Count which word follows which, and change the temperature.\n7. When AI goes wrong. See how skewed data hurts one group, then fix it with more data.\n8. Using AI safely and fairly. Move a decision threshold and compare mistakes for two groups; privacy, deepfakes and honest use.\n\nHOW IT WORKS\nShort cards of two or three sentences, one lab per unit, a quick question while you learn, an optional 8-question check and an 8-question bonus round. Missed questions come back once, gently. There are 128 questions with worked solutions, and every lab ends with a question computed from what you built.\n\nBUILT ON TRUSTED FRAMEWORKS\nAligned to the AI4K12 five big ideas (perception, representation and reasoning, learning, natural interaction, societal impact) and CSTA AI topics. Each unit lists its sources, including university AI courses and research papers. Numbers in questions are checked by independent code. Cogwick is not reviewed by an outside expert, and it says so.\n\nMADE FOR TEENS\nNo account, no sign-up, works offline. Text size from 85% to 200%. If you say you are under 18, only non-personalised ads are shown. Not directed to children under 13.\n\nFREE WITH OPTIONAL AD-FREE\nAll lessons and labs are free. Ads appear only at natural breaks, never inside a lab or a question. Watch an optional video for a credit that opens a bonus round, or subscribe to Ad-Free Monthly: $3.99 per month after a 7-day free trial; it only removes ads. Cancel anytime in your account settings; cancellation takes effect at the next billing cycle.\n\nContent as of 2026-11-17. Facts about current AI products and laws change, so the app marks its date and is refreshed regularly.\n\nPrivacy Policy and Terms of Use are linked in the app.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/ai-literacy-for-teens-cogwick/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/ai-literacy-for-teens-cogwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-literacy-for-teens-cogwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-literacy-for-teens-cogwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ai-literacy-for-teens-cogwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": ""
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "generative-ai-skills-tokwren",
+  "name": "Generative AI Skills: Tokwren",
+  "subtitle": "Prompts, Facts and Citing",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "chatbot",
+    "ai homework",
+    "academic honesty",
+    "fact check",
+    "teens",
+    "students",
+    "deepfake",
+    "privacy"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Learn to prompt, fact-check and cite AI, plus how it predicts words and makes pictures. Eight hands-on labs for teens 13+, 128 questions, offline, no account.",
+  "longDescription": "Generative AI skills for teens and students: how text generators work, good prompts, fact-checking, honest citing and safe use. Tokwren is a hands-on course in eight short jobs: you start with a flawed first try, fix it with a lab, learn why it works, and check yourself.\n\nEIGHT JOBS, EIGHT HANDS-ON LABS\n1. How a text generator works. Tune the boldness dial, top-k and top-p and watch the next-word chances change.\n2. Good prompts. Repair a vague prompt until it states the goal, audience, input, format, length and tone.\n3. Checking AI answers. Hunt for planted errors in three AI-style answers, then check precision and recall.\n4. Academic honesty and citing. Build a complete reference for AI help and a disclosure line.\n5. Using AI to learn better. Plan a week of rereading or practice tests and see recall change in a toy model.\n6. Images, audio and video. Watch noise turn into a picture step by step, and learn about fakes and labels.\n7. Privacy, safety and bias. Hide personal details in a message but keep the task words.\n8. Your AI use agreement. Choose clauses and test them against six real school situations.\n\nHOW IT WORKS\nA project tray carries one running assignment across the eight jobs. Every job has a lab, five short notes with sources, two myth-or-fact cards, an optional 8-question check and an 8-question bonus round. There are 128 questions with worked solutions, and every lab ends with a question computed from what you built. Missed questions come back once, gently.\n\nEQUATIONS YOU CAN SEE\nEach lab ends with the idea as an equation you can tap, symbol by symbol, with live numbers from your own settings.\n\nBUILT ON TRUSTED SOURCES\nEach unit lists its sources, including NIST, UNICEF, OECD, MLA, ISTE, Stanford and Berkeley courses and research papers. Tap any source to open it in a sheet inside the app. Numbers in questions are checked by independent code. Tokwren is not reviewed by an outside expert, and it says so.\n\nMADE FOR TEENS\nNo account, no sign-up, works offline. Text size from 85% to 200%. If you say you are under 18, only non-personalised ads are shown and there is no tracking prompt. Not directed to children under 13. There is no chat window and no generative AI inside the app; it teaches you to use the tools you already have.\n\nFREE WITH OPTIONAL AD-FREE\nAll lessons and labs are free. Ads appear only at natural breaks, never inside a lab or a question. Watch an optional video for a credit that opens a bonus round, or subscribe to Ad-Free Monthly: $3.99 per month after a 7-day free trial; it only removes ads. Cancel anytime in your account settings; cancellation takes effect at the next billing cycle.\n\nContent as of 2026-11-17. Facts about AI tools, school rules and laws change, so the app marks its date and is refreshed regularly. Tokwren does not give legal or professional advice; follow your own school's rules.\n\nPrivacy Policy and Terms of Use are linked in the app.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/generative-ai-skills-tokwren/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/generative-ai-skills-tokwren/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/generative-ai-skills-tokwren/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/generative-ai-skills-tokwren/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/generative-ai-skills-tokwren/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": ""
+  }
+}

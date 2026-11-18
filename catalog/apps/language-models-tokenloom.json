@@ -1,0 +1,61 @@
+{
+  "slug": "language-models-tokenloom",
+  "name": "Language Models: Tokenloom",
+  "subtitle": "Tokens, attention and scaling",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "llm",
+    "transformer",
+    "tokenizer",
+    "kv cache",
+    "perplexity",
+    "deep learning",
+    "nlp",
+    "graduate"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Touch the equations behind language models: attention, scaling laws, KV caches and more.",
+  "longDescription": "Language Models: Tokenloom is a graduate-level course in how large language models are built, sized and run, designed for your phone. You do not just read equations. Every equation starts as a real situation you can touch: a reader's eye moving across a sentence, a shipping agent packing text into containers, a notebook of past tokens, a budget split between a bigger model and more text.\n\nEight units, fourteen hands-on labs:\n- Tokenisation: train byte-pair merges and watch the token count fall.\n- The Transformer block: a reading-eye attention heat map with a causal mask, and a parameter counter.\n- Pretraining: a surprise meter for perplexity and a loss landscape you roll a ball down.\n- Scaling laws: a compute budget planner and a power-law fitter with held-out extrapolation.\n- Distributed training: memory per GPU across ZeRO stages, and utilisation.\n- Inference: the key/value cache notebook, speculative decoding, and weight quantisation.\n- Decoding: temperature, top-k and top-p as loaded dice.\n- Evaluation: an exam-leak probe for contamination and a mixture-of-experts router.\n\nAfter every lab you answer a question computed from the settings you just chose. A bank of more than 400 questions covers the course; generated answers are re-derived by separate verifier code, and every lesson card and concept question links to its source (papers such as the original Transformer, scaling-law and compute-optimal training papers, open textbook chapters, and public university course pages) with the exact section, in a sheet that opens over your lesson.\n\nShort sessions of a few minutes, a gentle replay queue for missed questions, text size from 85% to 200%, no account, works offline (sources need a connection). Toy scale only: nothing here trains or runs a real language model.\n\nFree with ads at natural breaks, never during a lab or quiz. Optional monthly ad-free subscription with a 7-day free trial; cancel any time in your store account settings, and cancellation takes effect at the next billing cycle. You can also watch short videos to earn credits.\n\nWritten and source-checked by our team; not reviewed by an external expert. Content as of 2026-11-17. Not affiliated with any university or company named in the sources.\n\nPrivacy Policy: https://bpupadhyaya.github.io/app-legal/tokenloom/privacy.html\nTerms of Use: https://bpupadhyaya.github.io/app-legal/tokenloom/terms.html",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/language-models-tokenloom/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/language-models-tokenloom/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/language-models-tokenloom/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/language-models-tokenloom/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/language-models-tokenloom/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.tokenloom.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.tokenloom.app"
+  }
+}

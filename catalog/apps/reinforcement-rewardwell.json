@@ -1,0 +1,61 @@
+{
+  "slug": "reinforcement-rewardwell",
+  "name": "Reinforcement: Rewardwell",
+  "subtitle": "Reinforcement Learning Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "mdp",
+    "bellman",
+    "policy gradient",
+    "bandit",
+    "agent",
+    "deep rl",
+    "sarsa",
+    "ai"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Eight hands-on units, from a delivery robot to a coach nudging a throw. Free to start.",
+  "longDescription": "A university-level reinforcement learning course for your phone. Eight units take you from the Markov decision process to bandits, dynamic programming, Monte Carlo and temporal-difference learning, SARSA and Q-learning, function approximation, policy gradients and reward design.\n\nEvery equation comes alive as a simulation of a real situation. Steer a delivery robot through a city grid and watch discounting turn rewards into a return. Watch rumours of a bonus spread backwards, one street per sweep, as value iteration. Choose between lunch counters you cannot see inside to feel exploration and regret. Play many commutes to compare learning at the end of a trip with learning at every junction. Walk a cliff edge and see why Q-learning and SARSA disagree. Coach a thrower toward a basket with a policy gradient, and catch a maze robot gaming its reward.\n\nLearn by doing first. Move a slider, tap a symbol in the equation to see what it means in the picture, then answer a question computed from what you just built. Quizzes are short, wrong answers return gently in a replay queue, and every session ends with a good place to stop.\n\nBuild your own city in the World tab: paint walls, goals, traps and a loophole bonus, then let the robot plan, learn, and export an experiment log.\n\nFeatures\n- 8 units, 40 short lesson cards, 8 interactive labs, 600+ questions, each with a worked reason\n- Every numeric answer is recomputed by independent code; the labs use the same equations you see on screen\n- Every claim lists at least two sources (textbook sections, university lecture pages, original papers) that open in a sheet inside the app, with Back, Forward and Reload\n- A-/A+ text size, screen-reader descriptions, no flashing, works offline, no account\n- Free with ads at natural breaks. Optional monthly ad-free subscription ($3.99, 7-day free trial). Cancel any time in your App Store or Google Play account settings; cancellation takes effect at the next billing cycle. Or watch short videos to earn credits for optional mock tests.\n\nHow it is checked: no expert has reviewed this app. It is source-checked: sections, lecture titles and paper records were verified against the live sources, and the examples, questions and figures are original. Content as of 2026-11-17. Not affiliated with, or endorsed by, any university or publisher.\n\nPrivacy Policy: https://bpupadhyaya.github.io/app-legal/rewardwell/privacy.html\nTerms of Use: https://bpupadhyaya.github.io/app-legal/rewardwell/terms.html",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/reinforcement-rewardwell/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/reinforcement-rewardwell/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/reinforcement-rewardwell/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/reinforcement-rewardwell/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/reinforcement-rewardwell/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.rewardwell.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.rewardwell.app"
+  }
+}

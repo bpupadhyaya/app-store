@@ -1,0 +1,59 @@
+{
+  "slug": "machine-learning-teens-datamo",
+  "name": "Machine Learning Teens: Datamo",
+  "subtitle": "Learn ML by experiments",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "machine learning",
+    "teens",
+    "data science",
+    "high school",
+    "stem",
+    "decision tree",
+    "k-means",
+    "regression"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Machine learning is easier to understand when you can touch it.",
+  "longDescription": "Machine learning is easier to understand when you can touch it. Datamo gives you eight benches, one idea at each, and every number on screen is computed by code on your phone.\n\nHOW A BENCH WORKS\n1. Story: a real situation in a few short cards.\n2. Guess: predict the answer before anything runs. Guessing earns prediction points and is never a \"wrong answer\".\n3. Try: drag, slide and step an experiment.\n4. Equation: see the equation that describes what you just watched. Tap any symbol to find it in the picture, with its live value.\n5. Check: two questions built from your own settings, two true-or-false myths, and an optional 8-question unit check.\n\nTHE EIGHT BENCHES\n- Fruit stall: rows, columns, features and labels.\n- Friends map: guess a new student's favourite sport with nearest neighbours, and see why scaling matters.\n- 20 questions: a decision tree plays the guessing game and measures how mixed a pile is.\n- Bus stop: fit a line and predict the wait.\n- Pop quiz: memorising versus understanding, training versus test error, cross-validation.\n- Spam filter: precision, recall, F1 and the cost of a miss.\n- Pizza kitchens: k-means clustering, step by step.\n- Data detective: biased samples, leaks, wrong labels, and choosing between a line, a tree and nearest neighbours.\n\nMADE FOR TEENS\n- Ages 13 and up. No account, no chat window, no data leaves your device.\n- Ads are never personalised for teens and no tracking prompt is shown.\n- Short sessions of 4 to 7 minutes, a gentle replay shelf for missed questions, no streak pressure, and a \"good place to stop\" at the end of each bench.\n- Text size from 85% to 200%, labels for screen readers, and shapes as well as colours on every chart.\n\nSOURCES YOU CAN OPEN\nEvery bench cites textbooks, university courses and primary papers. Tap a source to read it in a window that covers most of the screen; close it and you are back exactly where you were. Offline, you still see the full reference.\n\nContent as of 2026-11-17. Not expert reviewed. Every claim is source-checked and the numbers are computed by code.\n\nFREE, WITH AN OPTIONAL AD-FREE MONTHLY\nDatamo is free with ads at natural breaks, never in the middle of an experiment or a question. Ad-Free Monthly removes the ads and nothing else. It starts with a 7-day free trial and renews monthly until you cancel. Cancel anytime in your store account settings; cancellation takes effect at the next billing cycle.\n\nBy using Datamo you agree to the Privacy Policy and Terms of Use.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0.0",
+  "icon": "assets/apps/machine-learning-teens-datamo/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/machine-learning-teens-datamo/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/machine-learning-teens-datamo/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/machine-learning-teens-datamo/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/machine-learning-teens-datamo/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": ""
+  },
+  "android": {
+    "status": "soon",
+    "url": ""
+  }
+}
