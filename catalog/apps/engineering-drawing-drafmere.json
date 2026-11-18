@@ -1,0 +1,49 @@
+{
+  "slug": "engineering-drawing-drafmere",
+  "name": "Engineering Drawing: Drafmere",
+  "subtitle": "Engineering Drawing Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "engineering drawing",
+    "orthographic projection",
+    "sectioning",
+    "tolerancing",
+    "gd&t",
+    "sketch constraints",
+    "splines",
+    "cad",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "engineering"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive engineering drawing course: projections, sections, tolerances, sketches and curves, with five hands-on benches. Study aid only.",
+  "longDescription": "Engineering Drawing: Drafmere is a free, offline study app for a first university course in engineering drawing: how a three-dimensional part becomes a set of flat views, how those views are cut, dimensioned and toleranced, and how a sketch is pinned down with constraints.\n\n### What You Study\nStandards and line conventions, scale and units, orthographic projection in first and third angle, pictorial views, sections and auxiliary views, dimensioning, limits, fits and stacks, introductory GD&T symbols, sketch constraints, solid modelling ideas, assemblies, reading drawings, coordinates and transforms, and curves for design.\n\n### Adaptive Practice\nEach of the 14 topics has a skill gauge. The Personalised path brings back topics that are due and your weakest open topic; the Traditional path follows course order. Switch any time. Worked solutions are free beside every answer, and a hint can be earned or used before you answer.\n\n### 201 Original Questions\n123 numeric questions were each recomputed by a second calculation before release. 78 conceptual questions are practice-only and never appear in the mock exam.\n\n### Five Benches, Each With Cited Sources\n- Glass-Box Bench: drop a solid into a glass box, unfold the three planes by a slider or a play button, compare first and third angle, and read the dashed hidden lines on the flat sheet.\n- Section Slicer: slide a cutting plane through a layered part and watch the hatched true shape and its area change.\n- Fit and Stack Explorer: set hole and shaft limits, read the fit, then compare worst case, root-sum-square and a 20000-sample Monte Carlo stack.\n- Sketch Solver: drag the points of a profile while constraints hold, and watch the degrees of freedom.\n- Curve Bench: Bezier, B-spline and conic curves with draggable control points and the de Casteljau construction.\nA Sources button on every bench opens the cited pages inside the app, with back, forward, open in browser and close.\n\n### Mock Exam\nTwenty numeric questions in thirty minutes, with no hints and no ads.\n\n### Comfort\nText size buttons on every screen and panel, VoiceOver labels, a calm-motion switch that pauses animation, and a two-pane Table and Benches layout on iPad. No account, works offline.\n\n### Cost\nFree with ads at natural breaks, such as after a finished practice block. An optional video can earn hints. A monthly subscription called Engineering Drawing Ad-Free Monthly removes the ads, with a 7-day free trial. Payment is charged to your Apple ID after the trial; it renews automatically until you cancel in Settings, Apple ID, Subscriptions, at least 24 hours before the renewal date. The price is shown by the App Store when you subscribe.\n\nEducational study aid only. It is not a substitute for a drafting standard and must never be used for real design, manufacturing, inspection or safety decisions. Not affiliated with any university, standards body or publisher.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/engineering-drawing-drafmere/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-engineering-drawing-cad.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_engineering_drawing_cad.app"
+  },
+  "related": [
+    "engineering-statics-pivotry",
+    "engineering-dynamics-inertiq",
+    "materials-mechanics-torquill"
+  ]
+}
