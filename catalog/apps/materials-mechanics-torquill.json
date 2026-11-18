@@ -1,0 +1,50 @@
+{
+  "slug": "materials-mechanics-torquill",
+  "name": "Materials Mechanics: Torquill",
+  "subtitle": "Mechanics of Materials Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "mechanics of materials",
+    "stress",
+    "strain",
+    "beam",
+    "torsion",
+    "shear",
+    "bending",
+    "mohr",
+    "deflection",
+    "buckling",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive mechanics of materials course: stress, strain, beams, torsion, Mohr's circle and buckling with five hands-on labs. Learning only.",
+  "longDescription": "Materials Mechanics: Torquill is an adaptive, offline course app for undergraduate Mechanics of Materials: stress, strain, axial members, torsion, beams, combined loading, Mohr's circle, deflection, column buckling and failure criteria.\n\nPractise with questions that follow your gaps. The personalised path picks the weakest topic you have unlocked, brings back the exact mistakes you keep repeating (radius or diameter mix-ups, single or double shear, a missing factor of 2) and mixes in spaced reviews. Prefer the textbook order? Switch to the traditional path at any time.\n\n### What You Get\n- 14 topics in a prerequisite map: normal and shear stress, strain and Hooke's law, axial deformation, statically indeterminate bars, thermal stress, torsion of circular shafts, shear and bending-moment diagrams, bending stress, transverse shear, combined loading, stress transformation and Mohr's circle, beam deflection, Euler buckling, von Mises and Tresca failure criteria.\n- More than 250 original questions with a free worked solution beside every answer. Every numeric answer was recomputed by a second numerical program before it was included.\n- Five interactive labs: a Mohr's circle explorer with a draggable stress state, a beam bending and deflection lab with load placement and section choice, a torsion shaft lab, an axial and thermal bar lab with a gap to a rigid wall, and an Euler buckling lab.\n- 12-question timed mock exams made only of checked calculations. No ads while the clock runs.\n- Pop-up explanations of every key concept at three levels: plain words, first-year undergraduate and going further.\n- Citations for every source: tap one to open a full-width sheet with the licence, what we used it for and a link to the original.\n- Large text controls (A- and A+) on every screen, honest iPad and tablet layouts, no account, works offline.\n\n### Free With Optional Ad Removal\nThe app is free and shows ads only at natural breaks, such as after you finish a practice set. You can watch an optional video to earn an extra mock exam ticket. Worked solutions, explanations and every lab are always free. A monthly ad-free subscription removes the ads and gives unlimited mock exams. The price is shown by the store before you subscribe, there is a 7-day free trial, and the subscription renews each month until you cancel it in your store account settings.\n\n### Educational Use Only\nThis is a learning tool. Its numbers use simplified classroom models and must never be used for real structural, pressure-vessel or other safety design decisions. It makes no building-code, certification or accreditation claims.\n\nScope follows standard undergraduate syllabi such as those in widely used textbooks and university course pages; all text and problems are original. Not affiliated with any university, publisher or standards body.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/materials-mechanics-torquill/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-mechanics-of-materials.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_mechanics_of_materials.app"
+  },
+  "related": [
+    "analytical-mechanics-hamvale",
+    "classical-mechanics-lagrix"
+  ]
+}
