@@ -1,0 +1,49 @@
+{
+  "slug": "medical-physics-sievora",
+  "name": "Medical Physics: Sievora",
+  "subtitle": "Medical Physics Course, Labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "medical physics",
+    "ct reconstruction",
+    "mri",
+    "x-ray attenuation",
+    "dose",
+    "ultrasound",
+    "bloch equations",
+    "imaging physics",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive medical physics course: CT, MRI, X-ray attenuation, dose and ultrasound, with five hands-on labs. Learning only, not medical advice.",
+  "longDescription": "Medical Physics: Sievora is an undergraduate course in the physics behind medical imaging and radiation, built around five labs you can drag, tune and measure. It is educational physics only: it gives no medical advice, no diagnosis or treatment guidance, and is not a dosimetry or radiation-safety tool.\n\n### The Course\nFourteen topics run in a chain from the ray to the dose: radiation types and quantities, photon interactions, attenuation and half-value layers, X-ray production, projection contrast, CT numbers and reconstruction, ultrasound, MRI relaxation and the Bloch equations, radioactive decay and tracers, dose quantities and units, depth-dose, electron and proton beams, and image quality. The home screen is a console with a mastery dial and a skill bar for every topic.\n\n### Practice That Tracks Your Slips\n203 original questions, each with a worked answer. 151 are numeric, and every one was recomputed by a second, independent calculation. The app notices repeated slips such as Gy against Sv, keV against MeV or mm against cm, and brings those topics back on a spaced schedule. Choose a personalised path or follow the syllabus order.\n\n### Five Labs\nGantry Lab: a synthetic phantom is scanned from many angles; watch the sinogram form and see filtered back-projection rebuild the slice, with an error number beside an analytic check.\nSpin Lab: a Bloch sphere in 3D. Tip the magnetisation with an RF pulse, see T1 and T2 act, and run a spin echo.\nBeam Lab: a tube spectrum passes through filters and tissue; see the mean energy rise and the half-value layer grow. Attenuation data come from the NIST X-ray tables.\nDose Lab: compare photon, electron and proton depth-dose and build a spread-out Bragg peak.\nEcho Lab: a pulse-echo trace with reflections, attenuation and time-gain control.\nEvery lab shows its number next to an independent check, and a Sources button opens the references inside the app with back, forward and open in browser.\n\n### Mock Exam\nTwelve numeric questions in twenty minutes, with no hints and no ads.\n\n### Comfort\nText size buttons on every screen and panel, VoiceOver labels, a calm-motion switch that really stops autoplay, and a two-pane layout on iPad. No account, no patient data, works offline.\n\n### Cost\nFree with ads at natural breaks, such as the end of a practice block. An optional video can earn a helper. A monthly subscription called Medical Physics Ad-Free Monthly removes the ads, with a 7-day free trial; the price is shown by the App Store before you confirm.\n\nEducational model with simplified physics. Not medical advice; not for clinical, occupational or radiation-safety decisions. Reference attenuation values come from the NIST X-ray mass attenuation tables; tissue relaxation presets are approximate textbook values.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/medical-physics-sievora/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-medical-physics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_medical_physics.app"
+  },
+  "related": [
+    "biophysics-perrinel",
+    "nuclear-and-particle-hadrova",
+    "acoustics-course-cymaline"
+  ]
+}
