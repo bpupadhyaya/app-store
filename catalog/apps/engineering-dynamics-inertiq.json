@@ -1,0 +1,48 @@
+{
+  "slug": "engineering-dynamics-inertiq",
+  "name": "Engineering Dynamics: Inertiq",
+  "subtitle": "Engineering Dynamics Practice",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "engineering dynamics",
+    "kinematics",
+    "kinetics",
+    "rigid body",
+    "impact",
+    "vibration",
+    "work energy",
+    "momentum",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive engineering dynamics course: particle and rigid-body motion, work-energy, impact and vibration with five hands-on labs. Learning only.",
+  "longDescription": "Engineering Dynamics is a hands-on course for the second mechanics class of an engineering degree: how things move, and why. Work from a line of motion up to spinning rigid bodies and vibrating machines, one short practice set at a time.\n\nWhat you study\n- Particle kinematics: rectilinear motion, projectiles, normal-tangential and polar components\n- Relative and dependent motion with cables and pulleys\n- Newton's laws, friction, banked curves and circular motion\n- Work, energy, power, impulse, momentum and angular momentum\n- Impact with a coefficient of restitution\n- Planar rigid-body kinematics: instantaneous centre, relative velocity and acceleration, slider-crank\n- Planar rigid-body kinetics: moments of inertia, rolling, pulleys with mass, rod and pendulum problems\n- Introduction to vibration: natural frequency, damping ratio, damped frequency\n\nHow it adapts\nYour answers feed a mastery model for each of 13 topics. Every wrong option is tied to a named slip (for example a dropped factor or a wrong instantaneous centre), so the next question goes after the exact mistake. Choose the Personalised path, or follow the Traditional syllabus order, and switch any time. Spaced review brings old items back just before you forget them.\n\n208 original practice items, each with a worked solution that is always free. The numeric answers were checked offline against a second method (numerical integration and symbolic solving) before release.\n\nFive interactive labs\n- Projectile tracker with air drag and velocity component plots\n- Four-bar linkage with a live instantaneous-centre construction\n- Collision lab with restitution, momentum and energy bars\n- Rolling race for a ring, disk and sphere, plus a pulley with mass\n- Mass-spring-damper vibration with envelope and regime readout\n\nStudy tools\n- Timed 12-question mock exams without ads\n- Tap-to-open citations with licences and links to open course material and textbooks\n- Simpler and deeper pop-ups on every topic, from school level to later courses\n- A- and A+ text size on every screen, works offline, no account\n\nAds and subscription\nThe app is free with ads shown at natural breaks, never during a mock exam. Optional video ads can earn an extra mock-exam credit. An optional monthly ad-free subscription with a 7-day free trial removes ads and unlocks unlimited mock exams; the price is shown by the App Store before you subscribe, and you can cancel in Settings at any time.\n\nFor learning only. Results and simulations are educational and must never be used for real design or safety decisions. The app makes no professional or accreditation claim. Sources are cited and linked, not copied.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/engineering-dynamics-inertiq/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-engineering-dynamics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_engineering_dynamics.app"
+  },
+  "related": [
+    "materials-mechanics-torquill",
+    "analytical-mechanics-hamvale"
+  ]
+}
