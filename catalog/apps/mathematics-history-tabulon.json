@@ -1,0 +1,50 @@
+{
+  "slug": "mathematics-history-tabulon",
+  "name": "Mathematics History: Tabulon",
+  "subtitle": "Mathematics history timeline",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "history of mathematics",
+    "babylonian",
+    "egyptian fractions",
+    "archimedes",
+    "al-khwarizmi",
+    "cardano",
+    "newton",
+    "euler",
+    "cantor",
+    "godel",
+    "timeline",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive history of mathematics course: Babylon to Godel through historical-method calculations, labs and a timeline. Free to use.",
+  "longDescription": "Mathematics History: Tabulon is an adaptive course on how mathematical ideas developed, from Babylonian clay tablets to Goedel and Turing. You do not just read about the past: you calculate the way people did and see why their methods worked.\n\n### The Era Ribbon\nFifteen eras sit on one scrolling ribbon: Babylon, Egypt, Greece, Archimedes, India, Islamic algebra, Renaissance cubics, logarithms, analytic geometry, probability, Newton and Leibniz, Euler, non-Euclidean geometry, Cantor, and Goedel and Turing. Each era has a short original lesson, the people and texts involved, a school-level \"Before\" note and a graduate-level \"Beyond\" note.\n\n### Practice That Adapts\n- Over 240 calculation questions written for this course, plus conceptual questions for practice only\n- A personalised path that brings back eras you are due to review and the slips you make most often, or a chronological path\n- A worked solution after every answer, always free\n- A timed mock exam with ten calculation questions and no ads\n\n### Six Hands-On Labs\n- Babylon: average-and-divide square roots and a base-60 converter\n- Egypt: split a fraction into unit fractions and see a doubling table\n- Archimedes: double a polygon's sides and watch two bounds on pi close in\n- al-Khwarizmi: complete the square with real shapes\n- Newton and Leibniz: tangent steps toward a root, and rectangles that approach an area\n- Timeline map: scrub through the years and see who was working where\n\n### Cited, Not Copied\nEvery lesson and question is original. Sources from university history archives, journals and textbooks are cited and linked in a sheet inside the app. Where historians disagree about dates or priority, the app says so.\n\n### Free, With Optional Ad Removal\nThe course is free with ads shown only between sets, never during a mock exam. Watch an optional short video to earn a credit for a challenge set. Or choose Mathematics History Ad-Free Monthly: it removes all ads, with a 7-day free trial, then the monthly price shown by the App Store. Payment is charged to your Apple Account at confirmation of purchase after the trial. The subscription renews automatically each month unless cancelled at least 24 hours before the end of the current period. Manage or cancel in Settings under your name and Subscriptions. Everything else in the course stays free either way.\n\nWorks offline. No account needed. For education only.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/mathematics-history-tabulon/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-math-history-of-mathematics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_math_history_of_mathematics.app"
+  },
+  "related": [
+    "number-theory-euclora",
+    "intro-to-proofs-qedlark"
+  ]
+}
