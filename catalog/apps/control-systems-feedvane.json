@@ -1,0 +1,48 @@
+{
+  "slug": "control-systems-feedvane",
+  "name": "Control Systems: Feedvane",
+  "subtitle": "Control Systems Course Lab",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "control systems",
+    "feedback",
+    "root locus",
+    "bode",
+    "nyquist",
+    "pid",
+    "stability",
+    "routh hurwitz",
+    "transfer function",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive control systems course: transfer functions, root locus, Bode, PID and stability with five hands-on labs. Learning only.",
+  "longDescription": "Control Systems: Feedvane is an undergraduate feedback-control course you can practise on your own schedule, online or offline.\n\n### What You Practise\nFifteen topics: transfer functions, poles and zeros; block diagrams and feedback; state-space models (introduction); first-order and second-order response; steady-state error and system type; Routh-Hurwitz stability; root locus and root-locus design; Bode plots; Nyquist and stability margins; PID control and tuning; lead and lag compensation; an introduction to digital control.\n\n### How It Works\n- A loop diagram on the home screen: each block of a feedback loop (plant, controller, sensor) opens its topic.\n- Adaptive drill: eight questions at a time that follow your mistakes. Every wrong answer is tagged with the specific slip behind it, such as reading decibels as a plain ratio, using 3 time constants instead of 4, or flipping the sign of a pole.\n- 270 original practice questions, with typed numeric entry as well as choices. Every numeric answer was checked a second way before it shipped.\n- Five labs: root locus, Bode plot with gain and phase margin, PID step response, second-order response, and a Routh array builder.\n- A timed mock exam, spaced review of old topics, and a worked solution for every question, always free.\n- Source sheets with the textbooks and open course materials behind each topic (cite and link only; all wording is original).\n- A- and A+ text size on every text screen, VoiceOver labels, and a two-pane layout on iPad.\n\n### Ads And Subscription\nThe app is free. Short ads appear only at natural breaks, after a finished practice session. You can watch an optional video for an extra lab credit. Ad choices are asked for first, and you can say no.\nAd-Free Monthly: removes ads. Auto-renewing monthly subscription at the price shown on the subscription screen, with a 7-day free trial for new subscribers. Payment is charged to your Apple Account at confirmation of purchase after the trial. The subscription renews automatically unless cancelled at least 24 hours before the end of the current period. Manage or cancel in your Apple Account settings. Restore Purchases is on the same screen.\n\n### Important\nFor learning only. Never use this app for real control or safety-critical design, such as vehicles, aircraft, medical devices or industrial plants. It makes no certification or accreditation claims.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/control-systems-feedvane/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-control-systems.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_control_systems.app"
+  },
+  "related": [
+    "signals-and-systems-phasewick",
+    "differential-equations-odelo"
+  ]
+}
