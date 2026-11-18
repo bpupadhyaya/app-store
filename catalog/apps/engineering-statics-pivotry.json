@@ -1,0 +1,49 @@
+{
+  "slug": "engineering-statics-pivotry",
+  "name": "Engineering Statics: Pivotry",
+  "subtitle": "Engineering Statics Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "engineering statics",
+    "truss",
+    "free body diagram",
+    "equilibrium",
+    "beam",
+    "shear",
+    "friction",
+    "centroid",
+    "moment of inertia",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive engineering statics course: trusses, equilibrium, friction and beams with five hands-on labs. Learning only.",
+  "longDescription": "Engineering Statics: Pivotry is a free, offline study app for a first university course in engineering statics. It adapts to what you get right and wrong, so you spend your time on the topics that need it.\n\nLearn force vectors, moments and couples, particle equilibrium, free-body diagrams and support reactions, distributed loads, centroids, trusses by joints and sections, frames and machines, friction, moments of inertia and shear-moment diagrams.\n\nWhat you get\n- A Blueprint map of 12 statics topics with prerequisites, and two paths: a personalised path that follows your mastery and due reviews, or the textbook order.\n- 220 original practice questions with a worked solution after every answer. Numeric answers were checked by two independent calculation engines; conceptual questions are practice-only.\n- Misconception tags: when your wrong answer matches a classic slip (sine and cosine swapped, parallel-axis term forgotten, wrong centroid for a triangle load) the app tells you which one.\n- Five interactive labs: free-body reaction balancer with an equilibrium check, truss analyser with tension in red and compression in blue, shear and bending-moment explorer with movable loads, friction and ladder lab, centroid and moment-of-inertia composer.\n- Timed mock exams and topic checkpoints built only from verified numeric problems, with no ads and no hints.\n- Plain-language pop-ups that explain each idea at school level, first-year level and graduate level, and tappable citations to MIT OpenCourseWare, standard textbooks and other sources (cited and linked, never copied).\n- Text size controls on every screen and a layout that works on iPhone and iPad.\n\nAds and subscription\nThe app is free. Short ads appear only at natural breaks after practice sessions, never during a timed exam. You can choose to watch an optional video to earn credits for extra mock exams. Worked solutions are never locked. An optional monthly ad-free subscription (with a 7-day free trial) removes all ads; the price is shown by the App Store before you subscribe, it renews automatically until cancelled, and you can manage or cancel it in your Apple ID settings.\n\nFor learning only\nResults are teaching models. Never use them for real structural, mechanical or safety design decisions. The app makes no claim of professional certification or building-code compliance. Not affiliated with any university, textbook publisher or accreditation body named as a source.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/engineering-statics-pivotry/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-engineering-statics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_engineering_statics.app"
+  },
+  "related": [
+    "engineering-dynamics-inertiq",
+    "materials-mechanics-torquill"
+  ]
+}
