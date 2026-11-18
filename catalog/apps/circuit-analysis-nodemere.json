@@ -1,0 +1,48 @@
+{
+  "slug": "circuit-analysis-nodemere",
+  "name": "Circuit Analysis: Nodemere",
+  "subtitle": "Circuit Analysis Practice Labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "circuit analysis",
+    "kirchhoff",
+    "nodal analysis",
+    "thevenin",
+    "norton",
+    "op amp",
+    "rc circuit",
+    "transient",
+    "electrical engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive circuit analysis course: Kirchhoff, Thevenin, op-amps and transients with five hands-on labs. Learning only.",
+  "longDescription": "Circuit Analysis for undergraduate electrical engineering: learn DC circuit analysis with adaptive practice, worked solutions and five hands-on labs.\n\nNodemere takes you from voltage, current and power through Ohm's law and Kirchhoff's laws, series and parallel networks, voltage and current dividers, nodal and mesh analysis, supernodes and supermeshes, source transformation, superposition, Thevenin and Norton equivalents, maximum power transfer, ideal op-amp circuits, capacitors and inductors, and first-order RC and RL transients, ending with a first look at second-order RLC response.\n\n### Adaptive Practice\nPick a personalised path that targets your weakest unlocked topic and the slips you make most often (for example ignoring the load on a divider, or a sign error in a KCL sum), or follow the traditional syllabus order and switch any time. 216 original questions, a mock exam and spaced review keep topics fresh.\n\n### Worked Solutions, Always Free\nEvery question has a full worked solution. Every numeric answer was checked by a second solver, and the app re-solves circuit questions on your device.\n\n### Five Interactive Labs\n- Network Builder: drag between nodes to add resistors and sources and watch node voltages, KCL and KVL checks update live.\n- Thevenin Explorer: sweep the load and see power peak at the match.\n- Transient Scope: RC, RL and RLC step responses with a time-constant scrubber.\n- Op-Amp Bench: inverting, non-inverting and summing stages with rail clipping.\n- Matrix Lens: see the nodal equations G v = i as a coloured matrix.\n\n### Built For Study\nConcept pop-ups explain ideas from school level up to the next course, text size controls (A- and A+) work on every screen, and the layout adapts to iPad. Sources such as university course pages and standard textbooks are cited and linked; all lessons and problems are original.\n\n### Free With Optional Extras\nThe app is free with ads at natural breaks (never during a mock exam). Watch an optional video for extra practice credits, or subscribe monthly to remove ads. The monthly Ad-Free subscription includes a 7-day free trial, then renews each month at the price shown by the store until cancelled; cancel any time in your account settings. Lessons, practice and worked solutions are free either way.\n\n### For Learning Only\nResults are for learning and are never for real electrical design, wiring or safety decisions. Do not work on mains voltage, batteries or capacitors on the strength of this app. Not affiliated with any university, publisher or accreditor.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/circuit-analysis-nodemere/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-circuit-analysis-1.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_circuit_analysis_1.app"
+  },
+  "related": [
+    "electromagnetism-poyntara",
+    "signals-and-systems-phasewick"
+  ]
+}
