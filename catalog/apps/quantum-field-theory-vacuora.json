@@ -1,0 +1,49 @@
+{
+  "slug": "quantum-field-theory-vacuora",
+  "name": "Quantum Field Theory: Vacuora",
+  "subtitle": "Quantum Field Theory Labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "quantum field theory",
+    "path integral",
+    "feynman diagrams",
+    "casimir effect",
+    "symmetry breaking",
+    "scattering",
+    "lattice field",
+    "particle physics",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive quantum field theory course: path sums, diagrams, the Casimir effect and symmetry breaking, with five hands-on labs. Learning only.",
+  "longDescription": "Quantum Field Theory: Vacuora is an adaptive undergraduate course in introductory quantum field theory. It is about fields, not particles: what a field is, why it behaves like a set of oscillators, what the vacuum does, and how a handful of rules turn into numbers you can check.\n\n### The Course\nFourteen topics sit on a ring around your home screen: natural units and scales, relativistic kinematics, classical fields, oscillators and modes, quantised free fields, sums over paths, propagators and forces, tree diagrams, decays and lifetimes, cross sections, renormalisation intuition, the Casimir effect, symmetry breaking and lattice fields. Each topic opens with a short primer at three levels (everyday, course, beyond) and a set of numeric and conceptual questions.\n\n### How It Adapts\nA personal path picks the weakest topic whose prerequisites you have mostly mastered and brings back old questions on a spaced schedule. Or follow the course order. Every numeric answer is checked within a stated tolerance, shows its units, and comes with a worked solution. Each wrong answer is tagged with the habit behind it, and the Progress tab lists the slips to watch.\n\n### Five Labs\nLattice Field Sampler: watch a random field on a grid build up its correlation function and match the exact curve.\nPath-Sum Phasor Lab: add up the phasors of many paths and see why only the neighbourhood of the straight line survives.\nDiagram Builder: assemble the tree diagram for an electron pair turning into a heavier lepton pair, then read the cross section against energy and angle.\nCasimir Mode Counter: count the standing waves between two plates and watch the finite remainder settle as the cutoff grows.\nSymmetry-Breaking Surface: roll a ball on a 3D Mexican hat and meet the heavy mode and the flat mode.\nEvery lab has a Sources button that opens the cited references in a window inside the app, with back, forward and open in browser.\n\n### Mock Exam And Tools\nA timed 20-question mock exam draws on every topic, shows no ads, and ends with the answers and worked solutions. A text size control (A- and A+) works on every screen. A calm motion switch stops all animation. Everything works offline, with no account.\n\n### Honest Limits\nThis is educational practice. It is not a substitute for a textbook course, and the labs are simplified models, not tools for research or engineering decisions. Content is original and cites its sources by link only.\n\n### Cost\nFree with ads. An ad can appear after you finish a practice session, never in the mock exam, and you choose about personalised ads before any appear. A short optional video earns a few extra hints. Quantum Field Theory Ad-Free Monthly removes the ads and changes nothing else: the price is shown by the App Store, there is a 7-day free trial, it renews monthly until you cancel in Settings, and you can restore it on any device.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/quantum-field-theory-vacuora/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-quantum-field-theory-intro.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_quantum_field_theory_intro.app"
+  },
+  "related": [
+    "nuclear-and-particle-hadrova",
+    "quantum-mechanics-ketora",
+    "quantum-mechanics-ii-hilbrim"
+  ]
+}
