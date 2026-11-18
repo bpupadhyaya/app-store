@@ -1,0 +1,49 @@
+{
+  "slug": "engineering-economics-worthal",
+  "name": "Engineering Economics: Worthal",
+  "subtitle": "Engineering Economics Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "engineering economics",
+    "present worth",
+    "irr",
+    "depreciation",
+    "annuity",
+    "cash flow",
+    "break even",
+    "marr",
+    "payback",
+    "capital budgeting",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive engineering economics course: time value of money, IRR, depreciation, risk and capital budgeting with five labs. Learning only.",
+  "longDescription": "Engineering Economics: Worthal is a practice course for the decisions engineers make with money over time. You type a number, the app checks it, and when the number matches a known slip it tells you which one: a nominal rate used as an effective rate, salvage value left out, the wrong count of periods, a factor turned upside down.\n\n### What You Practise\n- Time value of money, nominal and effective interest, cash-flow series and gradients\n- Present, future and annual worth, rate of return, benefit-cost and payback\n- Alternatives with unequal lives, depreciation (straight line, declining balance, 5-year MACRS), after-tax cash flow\n- Inflation, break-even and sensitivity analysis, expected value and simulation, replacement analysis, capital budgeting\n\n### How It Works\n- Two paths: a personalised path that picks your next problem from spaced review and your recent slips, or the traditional topic order. Switch at any time.\n- 228 original numeric problems and 26 practice-only concept questions, 16 topics, a worked solution beside every answer. Worked solutions are always free.\n- Timed mock exams of ten numeric problems, with no ads during the exam.\n- Concept pop-ups at three levels: school, early university, beyond the course.\n- Citation sheets link the textbooks and course pages used as scope references.\n- A-minus and A-plus text size buttons on every text screen.\n\n### Five Interactive Labs\n- Cash-flow timeline: place receipts and costs on a year ruler and watch present, future and annual worth, rate of return and payback update.\n- Unequal-lives comparator: two machines, least common multiple or study-period horizon.\n- Depreciation and tax: schedules, book value and the tax shield side by side.\n- Break-even and tornado: see which input swings the result most.\n- Monte Carlo: seeded trials, histogram, spread and chance of a loss.\n\n### Free, Offline, No Account\nThe whole course works without an internet connection and without signing in. The app shows ads from Google AdMob at natural breaks, such as after you finish a set, never during a timed exam. On iPhone and iPad it asks for your permission before tracking and shows a consent form where required. You can also watch an optional short video to earn extra mock-exam credits.\n\n### Ad-Free Subscription\nRemove ads with Engineering Economics Ad-Free Monthly. The price is shown by the App Store before you subscribe. It includes a 7-day free trial, then renews automatically every month until cancelled. Payment is charged to your Apple ID at confirmation; the subscription renews unless cancelled at least 24 hours before the end of the period. Manage or cancel it in Settings, under your name, then Subscriptions. Any unused part of a free trial ends when you subscribe. Restore Purchases is in the Me tab.\n\n### For Learning Only\nThis app is for study. Its results are not financial, investment, tax or legal advice, and it is not affiliated with any exam, school or accrediting body.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/engineering-economics-worthal/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-engineering-economics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_engineering_economics.app"
+  },
+  "related": [
+    "probability-course-stochara",
+    "engineering-dynamics-inertiq"
+  ]
+}
