@@ -1,0 +1,48 @@
+{
+  "slug": "biophysics-perrinel",
+  "name": "Biophysics: Perrinel",
+  "subtitle": "Biophysics Course and Labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "biophysics",
+    "diffusion",
+    "membrane potential",
+    "nernst",
+    "hodgkin huxley",
+    "polymer",
+    "michaelis menten",
+    "hill equation",
+    "molecular motors",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive biophysics course: diffusion, membrane potentials, spikes, polymers and enzyme kinetics with five hands-on labs. Learning only.",
+  "longDescription": "Biophysics: Perrinel is an adaptive course on the physics of living matter, built for upper-level physics and biology students who want to practise the numbers that govern cells: nanometres, piconewtons, millivolts and kT.\n\n### What You Get\n- 14 topics in a trail: random walks, diffusion and the Einstein relation, life at low Reynolds number, Boltzmann statistics, free energy, protein folding energetics, polymer elasticity, molecular motors, enzyme kinetics, cooperative binding, Nernst and Goldman voltages, the membrane RC circuit and the Hodgkin-Huxley neuron.\n- 184 original questions. 142 are computed items whose numeric answers were checked by a second, independent calculation; 42 are conceptual items that are practice-only.\n- Typed numeric answers: a wrong value reveals the likely slip, such as a ln versus log10 mix-up, and the app brings that slip back later.\n- Personalised path or traditional course order, with spaced review.\n- 5 interactive labs: random-walk diffusion, membrane voltage, a Hodgkin-Huxley spike lab (a single point neuron at one temperature, with no signal travelling along the axon: the lab says so), polymer stretching, and enzyme and Hill binding curves.\n- Mock exams of 12 questions with no ads and no hints.\n- Worked solutions for every question, free.\n- Cited sources with links, text size controls (A- and A+), and a layout made for iPhone and iPad.\n\n### Free, With An Optional Ad-Free Subscription\nThe course is free. Short ads appear only at natural breaks between practice sets, never in exams. You can watch an optional video for an extra practice credit. Ad-Free Monthly removes ads: it starts with a 7-day free trial, then renews monthly at the price shown by the App Store until you cancel. Manage or cancel any time in your Apple ID subscription settings at least 24 hours before renewal.\n\n### Important\nBiophysics: Perrinel is for learning only. It is not medical, clinical or laboratory-safety advice, and every model is simplified. It is not affiliated with any university or publisher named in its source list.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/biophysics-perrinel/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-biophysics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_biophysics.app"
+  },
+  "related": [
+    "thermodynamics-entrovane",
+    "fluid-dynamics-vortelle"
+  ]
+}
