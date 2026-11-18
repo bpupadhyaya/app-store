@@ -1,0 +1,71 @@
+{
+  "slug": "plainshelter-build-a-shelter",
+  "name": "PlainShelter: Build a Shelter",
+  "subtitle": "Build a shelter, step by step",
+  "categories": [
+    "education",
+    "lifestyle"
+  ],
+  "tags": [
+    "shelter",
+    "survival",
+    "camping",
+    "bushcraft",
+    "outdoors",
+    "tarp",
+    "lean-to",
+    "snow-cave",
+    "knots",
+    "wilderness",
+    "build",
+    "debris-hut"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Tell PlainShelter what you have and where you are. It shows the fastest safe shelter, then walks you through it. Works offline, every step cited.",
+  "longDescription": "Build a shelter from what is around you.\n\nPick where you are (forest, snow, desert, marsh or coast) and tick what you have: a tarp, rope, branches, a shovel, snow. PlainShelter ranks the shelters you can actually build, fastest first, then walks you through one in numbered steps with a diagram and a citation on every step.\n\n### Survive First, Then Make It Better\n- 11 survival shelters, free: tarp lean-to, tarp tent, debris hut, snow cave, snow trench, tree-pit and fallen-tree snow shelters, swamp bed, beach and desert shade, and a pole lean-to.\n- Guided build: what to gather, then one step per screen. Read-aloud if you want it, and the screen stays awake. Resume where you left off.\n- Knots and lashings for frames, free.\n- Supporting guides, free: staying warm and dry, fire, and safe weather practices around your shelter.\n- The upgrade ladder (Pro): secure it against weather, make it comfortable and warm, ventilate and use fire safely, and build something that lasts: durable frames, walls, roofs and drainage, doors and air.\n\n### Shelters of the World\n- 298 guides to how people build on every continent and in every climate: tents, earth, adobe and rammed earth, timber and log, masonry, brick, concrete and lime, thatch and bamboo, snow and Arctic buildings, tropical and desert houses, and earthquake, flood and storm-resilient construction. Filter by climate, material, kind and region.\n- Practical construction: site and foundations, floors, walls, roofs, chimneys, doors and windows, drainage and moisture, with numbered steps and a citation on every one.\n\n### What You Can Do\n- Plan for your climate: pick your climate, how long you need the shelter and what you have; the planner ranks every guide, from build-now to worth-planning-for.\n- Find the right shelter: pick where you are and what you have, and the app ranks what you can really build.\n- Build step by step: guided mode with a gather checklist, numbered cited steps, diagrams, read-aloud and resume.\n- Check your site: an interactive safety checklist for the spot you chose.\n- Climb the ladder: mark upgrades done, see your progress from survive to thrive, and get your next step suggested.\n- Practise scenarios: get a situation, choose the shelter you would build, and learn why.\n- Search every guide offline; save guides, share the steps as text, and keep your own notes.\n\n### Every Recommendation Is Cited\n- Guidance comes from public-domain and open sources. Tap a citation to read the bundled excerpt, or open the original in the app and use Back to return to where you were.\n- Everything works offline. No signal needed.\n\n### Private and Clear\nPlainShelter is general information from public-domain and open sources. It is not professional, medical or emergency-service advice. In danger, call your local emergency number first. Never burn fire or fuel in a closed shelter.\n\nPlainShelter is built by one highly experienced engineer, amplified by the world's most advanced AI agents.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free, no ads, optional monthly subscription",
+  "ageRating": "12+",
+  "privacyUrl": "https://equalinformation.com/privacy-plainshelter.html",
+  "supportUrl": "https://equalinformation.com/app-support-plainshelter.html",
+  "releasedAt": "2026-11-18",
+  "updatedAt": "2026-11-18",
+  "version": "1.0",
+  "icon": "assets/apps/plainshelter-build-a-shelter/icon-512.webp",
+  "hero": "assets/apps/plainshelter-build-a-shelter/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/plainshelter-build-a-shelter/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainshelter-build-a-shelter/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainshelter-build-a-shelter/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/plainshelter-build-a-shelter/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/plainshelter-build-a-shelter/id6830061079",
+    "bundleId": "com.equalinformation.plainshelter.app",
+    "appleId": "6830061079"
+  },
+  "android": {
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.plainshelter.app",
+    "package": "com.equalinformation.plainshelter.app"
+  },
+  "related": []
+}
