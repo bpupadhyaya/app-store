@@ -1,0 +1,49 @@
+{
+  "slug": "acoustics-course-cymaline",
+  "name": "Acoustics: Cymaline",
+  "subtitle": "Acoustics: sound and waves",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "acoustics",
+    "sound waves",
+    "resonance",
+    "decibels",
+    "doppler effect",
+    "room acoustics",
+    "standing waves",
+    "fourier",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "physics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive acoustics course: sound waves, resonance, room modes and the Doppler effect, with five hands-on labs. Learning only.",
+  "longDescription": "Acoustics: Cymaline is a course in how sound behaves, built around things you can push, drag and listen to. You move a source across a room slice and watch the pressure spread, bounce off the walls and settle into standing patterns. You slide a piston along a pipe and see which notes it likes. You send a siren past a listener and count the crests.\n\n### The Path\nFourteen topics in a prerequisite map drawn as a row of keys: the wave equation and the speed of sound, decibels and levels, loudness and weighting, strings, tubes and resonators, room modes, reverberation, absorption, reflection and transmission at an interface, the Doppler effect, beats, Fourier spectra of sound, musical acoustics, and noise and hearing basics. Each page has the key relations, an everyday reading, a course reading and a deeper reading.\n\n### Practice That Follows Your Slips\n183 original questions, each with a worked solution. 141 are numeric: you type a number with its unit and it counts when it lands within the tolerance, and every one of them was recomputed with a different method before release. 42 are conceptual and are practice-only. The guided path picks your weakest open topic; the browse mode lets you choose one. Wrong answers are tagged by the slip behind them and collected in your notes.\n\n### Five Labs\nWave Tank: a pulse in a rigid-walled room slice, a draggable source and listener, the impulse response and the modes that appear when you record a second of room time.\nResonator Tube: open and closed pipes, end correction, the impedance spectrum and a Helmholtz bottle.\nDoppler Scene: wavefronts from a moving source, the pitch ahead and behind, and the cone that forms above Mach 1.\nSynthesiser and Beats: build square, saw and triangle waves from harmonics, watch the Gibbs overshoot and hear two close tones beat.\nInterface Lab: reflection and transmission between air, water and steel, with an optional matching layer.\nEvery lab shows its number next to an independent check, and a Sources button opens the references inside the app with back, forward and open in browser.\n\n### Mock Exam\nTwenty numeric questions across all fourteen topics in forty minutes, with no hints and no ads.\n\n### Comfort\nText size buttons on every screen and panel, VoiceOver labels, a calm-motion switch that really pauses animation, and a two-pane Course and Labs layout on iPad. No account, works offline.\n\n### Cost\nFree with ads at natural breaks, such as the end of a practice block. An optional video can earn a study credit. A monthly subscription called Acoustics Ad-Free Monthly removes the ads, with a 7-day free trial for new subscribers. The price is shown by the App Store before you confirm. Payment is charged to your Apple Account at the end of the trial and renews monthly unless cancelled at least 24 hours before the period ends. Manage or cancel in Settings under Apple Account, Subscriptions.\n\nEducational model of sound and waves; not for hearing-health, noise-control or building-design decisions. Audio in the labs is generated from the model for illustration. Not affiliated with any university or publisher named as a reference.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/acoustics-course-cymaline/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-phys-acoustics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_phys_acoustics.app"
+  },
+  "related": [
+    "geophysics-tellurex",
+    "quantum-field-theory-vacuora",
+    "fluid-dynamics-vortelle"
+  ]
+}
