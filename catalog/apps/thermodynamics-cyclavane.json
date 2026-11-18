@@ -1,0 +1,48 @@
+{
+  "slug": "thermodynamics-cyclavane",
+  "name": "Thermodynamics: Cyclavane",
+  "subtitle": "Thermodynamics for engineers",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "thermodynamics",
+    "rankine",
+    "brayton",
+    "otto",
+    "refrigeration",
+    "steady flow",
+    "entropy",
+    "psychrometrics",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive engineering thermodynamics course: cycles, property tables, steady-flow devices and refrigeration with six labs. Learning only.",
+  "longDescription": "Thermodynamics for engineers, built around one idea: you learn it by working states, cycles and devices yourself, and the app keeps track of what you are still getting wrong.\n\nThermodynamics: Cyclavane is a free, offline course in engineering thermodynamics. Twelve linked topics take you from properties and ideal gases through steam tables, the first and second laws, entropy, and then the cycles that power and cool the world: Rankine steam plants, Brayton gas turbines, Otto and Diesel engines and vapour-compression refrigeration, finishing with exergy and an introduction to psychrometrics.\n\n### Adaptive Practice\nEvery question updates a mastery estimate for its topic. The next question is chosen for you: the weakest topic you have unlocked, mixed with spaced review that returns after one, two, four, eight and sixteen days. Prefer the usual course order? Switch to the traditional path. Wrong answers that match a common slip, such as using Celsius where kelvin is needed or leaving out an isentropic efficiency, are named so you can see the pattern.\n\n### Worked Solutions Are Always Free\nEighty-four numeric problems come with full worked solutions and a stored reference answer, and a further set of conceptual questions is marked practice-only. Numeric answers are checked with a tolerance, and property values come from steam and R-134a tables stored on your device.\n\n### Six Interactive Labs\nCycle explorer: see Rankine, Brayton, Otto and refrigeration cycles on a temperature-entropy diagram and watch the state points move.\nRankine lab: boiler pressure, turbine inlet temperature, condenser pressure and reheat against efficiency and exit quality.\nCompression-ratio lab: efficiency and net work curves for Brayton, Otto and Diesel.\nSteady-flow devices: turbine, compressor, nozzle and throttle.\nRefrigeration COP lab: evaporator and condenser pressures for R-134a.\nPsychrometric point: humidity ratio, dew point and vapour pressure of moist air.\n\n### Mock Exams\nTen numeric problems, one per topic area, thirty minutes, no hints and no ads while you work. Your first attempt each day is free.\n\n### Built For Reading\nA- and A+ buttons on every text screen change the text size. Sources open in a panel that covers most of the screen and shows who the source is, its licence and what it was used for. Every explanation, problem and simulation in the app is original; textbooks and open course pages are cited and linked for scope only.\n\n### Free, With Optional Ads\nThe whole course is free. Ads appear only at natural breaks, never during a timed mock exam. You can watch an optional video for extra mock-exam attempts. A monthly subscription removes ads; the price and the 7-day free trial are shown by the store before you confirm. The subscription renews each month until you cancel it in your store account settings at least 24 hours before renewal.\n\nNO ACCOUNT. Your progress stays on your device.\n\n### Learning Only\nResults in this app are for study. Never use them for real design or safety decisions about boilers, pressure vessels, refrigerants or combustion. The app makes no certification, accreditation or code-compliance claims.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/thermodynamics-cyclavane/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-engineering-thermodynamics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.courseengengineeringthermodynamics.app"
+  },
+  "related": [
+    "thermodynamics-entrovane",
+    "heat-transfer-fluxwick"
+  ]
+}
