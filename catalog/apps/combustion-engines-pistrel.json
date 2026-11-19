@@ -1,0 +1,50 @@
+{
+  "slug": "combustion-engines-pistrel",
+  "name": "Combustion Engines: Pistrel",
+  "subtitle": "Internal Combustion Engines",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "combustion engines",
+    "internal combustion",
+    "otto cycle",
+    "diesel",
+    "knock",
+    "lambda",
+    "turbocharger",
+    "valve timing",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive internal combustion engines course: a turnable 3D engine, Otto and Diesel cycles, knock, exhaust and turbo in five labs. Study aid only.",
+  "longDescription": "Combustion Engines: Pistrel is a course in internal combustion engines built around one moving machine: a four-stroke cylinder you can turn by hand. Drag the crank and watch the piston, rod, valves, flame and the pressure-volume loop move together, then ask why one power stroke needs 720 degrees. It is for study only and is not for real engine design, tuning, calibration or safety decisions.\n\n### Five 3D Labs\n- Running Engine: exact slider-crank geometry, valve timing and a live p-V diagram.\n- Cycle Surface: ride the Otto and Diesel cycles on the ideal-gas surface and compare two ways of getting the efficiency.\n- Flame and Knock: advance the spark, change the octane and see the end gas autoignite ahead of the flame.\n- Lambda Ribbon: exhaust composition from rich to lean, and why lambda 1 matters to a three-way catalyst.\n- Turbo Rig: boost, compressor heating, intercooler and the extra air you really get.\nEvery lab has a Sources and formulas window whose citations open inside the app.\n\n### Practise Your Way\nAdaptive drills, course order, review of missed items and topic drills, in lengths you choose (5, 10, 20, 40 or your own number) and at levels from beginner to research. Fourteen topics run from engine geometry and the Otto cycle to knock, emissions, breathing, turbocharging, friction and engine dynamics. Timed mock exams are always ad-free and use only items checked by a second calculation. Works offline, no account.\n\n### Free, With Optional Ad Removal\nFree with ads between practice sessions, never during a question or a timed exam. An optional monthly subscription removes ads.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/combustion-engines-pistrel/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-internal-combustion-engines.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_internal_combustion_engines.app"
+  },
+  "related": [
+    "machine-design-gearvane",
+    "manufacturing-chipvane",
+    "finite-element-methods-triqel",
+    "systems-engineering-kestrix"
+  ]
+}
