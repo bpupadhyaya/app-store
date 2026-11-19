@@ -1,0 +1,50 @@
+{
+  "slug": "hvac-refrigeration-chillora",
+  "name": "HVAC Refrigeration: Chillora",
+  "subtitle": "HVAC Refrigeration Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "hvac",
+    "refrigeration",
+    "heat pump",
+    "psychrometrics",
+    "cop",
+    "vapour compression",
+    "duct",
+    "fan",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive HVAC and refrigeration course: fridge loop, coil, COP surface, duct and fan, room response in five 3D labs. Study aid only, not for real design.",
+  "longDescription": "HVAC Refrigeration: Chillora is a self-contained study app for a first course in heating, cooling and refrigeration. No sign-in, no account, works offline. It starts from machines you know: why the back of a refrigerator is warm, why an air handler drips water, why a heat pump struggles in the cold, why the far room gets weak air, how quickly a room warms up. It is for study only and is not for real system design, refrigerant handling or safety decisions.\n\n### Five 3D Labs\n- Fridge Loop: a vapour-compression loop with labelled evaporator, compressor, condenser and expansion valve, a live pressure-enthalpy chart and a first-law check.\n- Coil and Air: a finned coil with copper tubes, air streaks coloured by temperature, condensate dripping into a drain pan, and a psychrometric chart.\n- Heat-Pump Lift: a shaded COP surface over evaporating and condensing temperature with contour lines, a probe you can move and the Carnot limit as a translucent sheet.\n- Duct and Fan: a duct run tinted by remaining pressure, a spinning fan, flow streaks, and the fan curve meeting the system curve.\n- Room Response: a 3D room with heat gains and a cold supply plume, a time scrubber and the temperature history.\nEvery lab shows live formula chips and a short predict-then-test quiz, and opens its cited sources inside the app.\n\n### Practice And Tests\nChoose the length (5, 10, 20, 40 or your own number) and the level (beginner to research, or adaptive). 138 questions: numeric answers were checked against a second engine, conceptual ones are practice-only with a named source. The mock exam has no ads and an optional timer. 15 problem-first topic pages come with spaced review.\n\n### Accessible, Free With Optional Ad Removal\nText size buttons on every screen and a calm-motion switch. Free with ads at natural breaks, never during a mock exam. An optional monthly subscription removes ads.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/hvac-refrigeration-chillora/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-hvac-refrigeration.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_hvac_refrigeration.app"
+  },
+  "related": [
+    "machine-design-gearvane",
+    "combustion-engines-pistrel",
+    "systems-engineering-kestrix",
+    "manufacturing-chipvane"
+  ]
+}
