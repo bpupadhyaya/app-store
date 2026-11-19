@@ -1,0 +1,49 @@
+{
+  "slug": "numerical-methods-meshorin",
+  "name": "Numerical Methods: Meshorin",
+  "subtitle": "Numerical Methods Engineering",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "numerical methods",
+    "finite difference",
+    "finite element",
+    "root finding",
+    "stiff odes",
+    "least squares",
+    "conditioning",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "engineering mathematics"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive numerical methods course for engineers: heat, beams, root finding, stiff systems and fitting, with five hands-on labs. Study aid only.",
+  "longDescription": "Numerical Methods: Meshorin is a free, adaptive numerical methods course for engineering students and self-learners. It treats every method as an engineering situation with units and tolerances: pipe friction, cantilever frequency, channel depth, a cooling rod, a stiff RC circuit, a thermocouple calibration.\n\n### What You Study\n- Error budgets, units, significant digits and floating-point cancellation\n- Root finding for design equations: bisection, false position, Newton, secant, fixed-point iteration\n- Linear systems: elimination and pivoting, norms, conditioning and residuals, Jacobi and Gauss-Seidel\n- Interpolation, finite differences and numerical integration\n- Least squares for measured data\n- ODE one-step integrators, stiffness and stability\n- Heat conduction on a grid and beam deflection by finite elements\n- Spreadsheet-to-code verification habits\n\n### Five Labs\n- Heated Rod: explicit, implicit and Crank-Nicolson marching beside the exact series, with the mesh-ratio limit made visible.\n- Beam Deflection: drag the load, refine the finite-element mesh and read the error against the Euler-Bernoulli answer.\n- Root-Finding Race: four solvers on friction, beam-mode and channel-depth equations, with the observed order of convergence.\n- Stiff Arena: four integrators on a stiff circuit next to a stability map of the step size times the rate.\n- Calibration Fit Bench: normal equations against QR in single precision, with condition numbers.\nEvery lab has a Sources button that opens its cited references inside the app, with back, forward and open-in-browser controls.\n\n### How It Teaches\n- You type numbers. Each answer is accepted against a stated tolerance, and the question gives the unit.\n- A wrong answer is matched to a named common slip, and those slips shape your next questions together with spaced review.\n- Choose a personalised path or the traditional order at any time.\n- Every question has a free worked solution. 244 original questions: 183 numeric ones, each answer computed by two independent methods when the bank was built, and 61 conceptual ones that are practice-only and not checked against a source item by item.\n- A twelve-question mock exam draws only numeric questions, with no hints and no ads.\n- iPhone and iPad layouts, adjustable text size, Reduce Motion respected, VoiceOver labels.\n\n### Sources\nScope follows standard university numerical methods courses and the outcomes used for engineering accreditation. References are cited and linked, never copied; the questions and lessons are original. Not affiliated with any institution or author cited. The Sources pages need an internet connection; everything else works offline.\n\n### Free, With Optional Ad Removal\nThe app is free. Ads appear only at natural breaks, never during the mock exam. An optional rewarded video gives extra hints. An optional auto-renewing monthly subscription, Numerical Methods Ad-Free Monthly, removes ads. It starts with a 7-day free trial, the price is shown by the App Store before you subscribe, it renews monthly unless cancelled at least 24 hours before the period ends, and you can manage or cancel it in your Apple ID settings. Progress stays on your device; there is no account.\n\nEducational use only. Not for real design, analysis sign-off, certification or safety decisions.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/numerical-methods-meshorin/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-engineering-numerical-methods.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_engineering_numerical_methods.app"
+  },
+  "related": [
+    "numerical-analysis-iterova",
+    "numerical-algebra-pivotrix",
+    "differential-equations-odelo"
+  ]
+}
