@@ -1,0 +1,50 @@
+{
+  "slug": "machine-design-gearvane",
+  "name": "Machine Design: Gearvane",
+  "subtitle": "Machine Design Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "machine design",
+    "gears",
+    "fatigue",
+    "bolted joints",
+    "shafts",
+    "stress concentration",
+    "von mises",
+    "goodman",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive machine design course: stress, fatigue, gears, bolted joints and shafts, with five hands-on rigs. Study aid only, not for real design.",
+  "longDescription": "Machine Design: Gearvane is an offline study app for a first university machine design course. No account, no sign-in. It is for study only: it is NOT for real design, sizing, certification or safety decisions, because machine elements fail in ways that simplified teaching models do not capture.\n\n### Five Rigs You Can Touch\n- Stress Element and Yield Rig: turn a stress element, read Mohr's circle and watch where the state sits against the von Mises, Tresca and maximum normal stress envelopes, drawn as a live heat field.\n- Endurance Rig: build an endurance limit from the Marin factors, place a load on the Goodman, Soderberg, Gerber or elliptic line, and count a load history with rainflow and Miner damage.\n- Mesh Rig: unwind an involute, mesh two spur gears, see the line of action and how many tooth pairs carry the load, and read a Lewis bending stress.\n- Clamp Rig: preload a bolted joint and read the load-line diagram: stiffness, joint constant, proof load and separation.\n- Whirl Rig: find the critical speed of a shaft with discs, compare Rayleigh, Dunkerley and finite element answers, and watch it whirl.\nEvery formula is checked against a second method inside the app, and every rig has a Sources window that opens the cited pages in the app.\n\n### Practise At Your Level\n220 original questions across 15 topics, from stress concentration and static failure to fatigue, shafts and keys, bolted joints, springs, spur gears, gear tooth loading, bearings, belts and chains, brakes and clutches, and tolerances and safety factors. The app learns where you slip, tags the mistake (diameter or radius, Kf or Kt, base or pitch circle) and brings the topic back at the right time. A worked solution follows every answer, free. Follow your own path or the syllabus order. A timed 20-question Proof Test with a results breakdown shows where you stand. 58 conceptual questions are practice-only and are not scored in the Proof Test.\n\n### Made To Read\nA- and A+ buttons work on every screen on top of your system text size, and animations pause on request and follow Reduce Motion. Works on iPhone and iPad.\n\n### Free, With Optional Ad Removal\nLessons, rigs and worked solutions are free and supported by ads shown at natural breaks, never during the Proof Test. You can watch an optional video for one hour without ads. Machine Design Ad-Free Monthly is an auto-renewable monthly subscription that removes the ads; it starts with a 7-day free trial, and the price is shown by the App Store. Payment is charged to your Apple Account at confirmation of purchase, after the trial. The subscription renews automatically unless cancelled at least 24 hours before the end of the period; manage or cancel it in your Apple Account settings.\n\nSources are cited and linked only; the questions, engine and rigs are original work.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/machine-design-gearvane/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-machine-design.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_machine_design.app"
+  },
+  "related": [
+    "materials-mechanics-torquill",
+    "engineering-statics-pivotry",
+    "engineering-dynamics-inertiq",
+    "engineering-drawing-drafmere"
+  ]
+}
