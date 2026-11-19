@@ -1,0 +1,50 @@
+{
+  "slug": "mechanical-vibrations-quivera",
+  "name": "Mechanical Vibrations: Quivera",
+  "subtitle": "3D Mechanical Vibrations Labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "mechanical vibrations",
+    "resonance",
+    "damping",
+    "modal analysis",
+    "isolation",
+    "quarter car",
+    "cantilever",
+    "eigen",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive mechanical vibrations course: shake a tower, ramp a washing machine, ride a quarter car, pluck a beam in five 3D labs. Study aid only.",
+  "longDescription": "Mechanical Vibrations: Quivera turns an undergraduate vibrations course into things you can grab and shake. It is for study only and is not for real design, certification or safety decisions.\n\n### Start With A Real Object\nA six-storey tower in an earthquake. A washing machine that bangs on a slow spin. A car crossing a speed bump. A compressor on rubber mounts. A diving-board beam. Each opens as a 3D scene: change one physical thing (stiffness, damping, speed, length) and watch the maths move with it, with the governing formula and its live number drawn over the picture.\n\n### Five 3D Labs\n- Tower Modes: a six-storey shear building, mode shapes from our own eigen solver, a ground shaker sweep and a damping control.\n- Washing Machine Mount: rotating unbalance, a speed ramp through resonance and a live amplitude curve.\n- Quarter-Car Ride: bump response, spring and damper sliders, a body acceleration trace and the wheel-hop mode.\n- Isolation Table: the transmissibility curve with the live operating point and the root-two crossover.\n- Cantilever Modes: the first three Euler-Bernoulli modes, with node markers and slow motion.\nEvery lab ends with a question generated from the numbers on screen.\n\n### Practice At Your Level And Length\n144 questions across 13 topics, from free vibration and damping to absorbers, beams, shock and nonlinear oscillators. Choose 5, 10, 20, 40 or your own number of questions, and a level from beginner to research-level, or let the adaptive path decide. Every numeric exam question was re-derived by a second numerical program. Mock exams, timed or untimed, are always ad-free.\n\n### Sources You Can Open\nEach lab lists its textbook chapters and course pages (link-only). They open in a sheet inside the app with back and open-in-browser controls. The lessons and the maths work offline, and text size buttons are on every screen.\n\n### Free, With Optional Ad Removal\nFree with occasional ads at natural breaks, an optional ad to earn extra hints, and ad-free mock exams. An optional monthly subscription removes ads.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/mechanical-vibrations-quivera/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-mechanical-vibrations.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_mechanical_vibrations.app"
+  },
+  "related": [
+    "machine-design-gearvane",
+    "finite-element-methods-triqel",
+    "combustion-engines-pistrel",
+    "systems-engineering-kestrix"
+  ]
+}
