@@ -1,0 +1,49 @@
+{
+  "slug": "circuit-analysis-2-polevane",
+  "name": "Circuit Analysis II: Polevane",
+  "subtitle": "3D Circuit Analysis Labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "circuit analysis",
+    "phasors",
+    "resonance",
+    "laplace",
+    "bode",
+    "three-phase",
+    "smith chart",
+    "transients",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive Circuit Analysis II course: tuner helix, pole landscape, rail ringing, three-phase field and Smith helix in five 3D labs. Study aid only.",
+  "longDescription": "Circuit Analysis II: Polevane takes the second undergraduate circuits course (AC steady state, resonance, Laplace-domain circuits, transients, frequency response, two-ports and three-phase) and puts each idea on a real object you can turn in three dimensions. It is for study only and is not for real circuit or electrical design, or for mains or electrical safety decisions.\n\n### Start From A Real Object\nA radio tuning dial. An audio resonator. A phone-charger power rail. A motor supply. A line filter. Each opens as a 3D scene with the governing formula and its live number drawn over the picture, so you see what a change in resistance, damping or frequency does before you compute it.\n\n### Five 3D Labs\n- Tuner Helix: voltage and current phasors wound along time inside a projection box; look down the time axis to see the phasor diagram and watch the helices lock at resonance.\n- Pole Landscape: the magnitude of H(s) over the s-plane as a coloured surface with draggable poles and a zero; the cut along the jw axis is the Bode curve.\n- Rail Ringing: the state trajectory of a switched RLC rail with a tolerance window, with overshoot and settling read out live.\n- Three-Phase Field: three rotating phasors build the stator field; add imbalance and watch the neutral current and the field locus.\n- Smith Helix: a reflection-coefficient helix over frequency on the Smith disc, an LC ladder cascade, and the gain on the wall.\nCitations open in an in-app window with back and open-in-browser.\n\n### Practice At Your Level And Length\n160 questions across 14 topics. Pick the length (5, 10, 20, 40 or your own number) and the level, from beginner to research-level, or let the adaptive path choose. The numeric items were recomputed with a second numerical program, and each shows a worked solution. Works offline, with text size controls on every screen.\n\n### Free, With Optional Ad Removal\nEvery lesson, lab and exam is free. Ads appear only at natural breaks outside exams, and a video earns 30 ad-free minutes. An optional monthly subscription removes ads.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/circuit-analysis-2-polevane/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-circuit-analysis-2.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_circuit_analysis_2.app"
+  },
+  "related": [
+    "circuit-analysis-nodemere",
+    "systems-engineering-kestrix",
+    "mechanical-vibrations-quivera"
+  ]
+}
