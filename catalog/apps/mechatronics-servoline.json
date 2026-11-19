@@ -1,0 +1,50 @@
+{
+  "slug": "mechatronics-servoline",
+  "name": "Mechatronics: Servoline",
+  "subtitle": "Mechatronics Rig Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "mechatronics",
+    "dc motor",
+    "pid",
+    "sampling",
+    "aliasing",
+    "stepper",
+    "h-bridge",
+    "feedback control",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive mechatronics course: a DC motor, robot joint PID, sampling and aliasing, a balancing wheel and a stepper in five 3D rigs. Study aid only.",
+  "longDescription": "Mechatronics: Servoline teaches how machines sense, decide and move. Start at the workbench, pick a rig, and push its sliders until the numbers make sense. It is for study only and is not for designing or operating real machines, robots or safety systems.\n\n### The Bench\n- Drive: a brushed DC motor behind an H-bridge. Duty, chopping rate and load change the switching edges, winding current and the torque-speed line, while the stator skin shows the field.\n- Joint: a one-axis robot arm with a PID loop. Fire a step, retune Kp, Ki and Kd, add gravity or a torque ceiling, and watch the arm glow where tracking error is worst.\n- Signal: a tone meets a sampler and a converter. Pass half the sample rate and an alias appears; drop the bits and the staircase gets coarser.\n- Balance: a wheel under a falling mass. Hunt for the least gain that keeps it up, shove it, then read the phase portrait and where the closed-loop poles landed.\n- Stepper: whole steps against microsteps, rotor ringing, and the pulse trains that make it skip.\nEach rig prints the relations it is using with live values, asks for your prediction first, and links its sources in a window that stays inside the app.\n\n### Test Yourself\nChoose 5, 10, 20, 40 or any number of questions, from beginner to research level, or let the app adapt. The bank holds 173 problems over 14 topics. The numeric ones were recomputed independently by simulation, FFT, ODE integration or linear algebra, and the concept checks are practice only. The mock exam can be timed and has no ads.\n\n### Made To Be Readable\nA- and A+ sit on every screen, motion slows when Reduce Motion is on, and tablets get the scene and controls side by side.\n\n### Free, With Optional Ad Removal\nFree, with ads at natural pauses and none in the mock exam. An optional video silences ads for an hour, and an optional monthly subscription removes them.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/mechatronics-servoline/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-mechatronics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_mechatronics.app"
+  },
+  "related": [
+    "control-systems-feedvane",
+    "circuit-analysis-2-polevane",
+    "systems-engineering-kestrix",
+    "machine-design-gearvane"
+  ]
+}
