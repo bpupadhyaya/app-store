@@ -1,0 +1,49 @@
+{
+  "slug": "engineering-ethics-oathmere",
+  "name": "Engineering Ethics: Oathmere",
+  "subtitle": "Engineering Ethics Case Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "engineering ethics",
+    "case studies",
+    "risk",
+    "fault tree",
+    "professional responsibility",
+    "safety",
+    "whistleblowing",
+    "challenger",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study",
+    "engineering"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive engineering ethics course: documented cases, risk and fault-tree rigs, and decision practice. Discussion tool only, not legal advice.",
+  "longDescription": "Engineering Ethics: Oathmere is a study companion for an undergraduate engineering-ethics course. Learn the major ethical frameworks, the duties set out in professional codes, public safety, risk and expected harm, risk communication, fault trees, whistleblowing, conflicts of interest, data integrity, intellectual property, sustainability and introductory privacy and algorithm ethics. Real, documented failures are studied from public investigation reports.\n\nSix hands-on rigs\n- Harm Ledger: sample thousands of simulated years and compare with the exact binomial, tails included.\n- Failure Chain: build a fault tree with AND/OR gates and a shared cause; see three ways of computing the top event.\n- Weighing Scales: one hypothetical scenario scored by four lenses with printed rules and no hidden answer.\n- Launch-Night Record: the documented 23-flight O-ring table, two fits, and the edge of the data.\n- Branch Court: a fictional dilemma tree with a reflection ledger.\n- Disclosure Dial: one screening result told as natural frequencies.\n\nAdaptive practice with a personalised or traditional path, spaced review, a timed numeric hearing, worked explanations, and plain-words and going-deeper notes. Every rig has a Sources button that opens cited sources in a window inside the app.\n\nEducational discussion tool only. It is not legal advice, not professional-engineering licensure or ethics-board guidance, and never for a real design or safety decision. Contested cases are presented as contested. Works offline, no account. Ads appear only at natural breaks; an optional monthly subscription removes them (7-day free trial; price shown by the App Store; renews until cancelled in Settings).",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/engineering-ethics-oathmere/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-engineering-ethics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_engineering_ethics.app"
+  },
+  "related": [
+    "engineering-economics-worthal",
+    "engineering-drawing-drafmere",
+    "engineering-statics-pivotry"
+  ]
+}
