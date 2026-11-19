@@ -1,0 +1,50 @@
+{
+  "slug": "electrical-machines-fluxmere",
+  "name": "Electrical Machines: Fluxmere",
+  "subtitle": "Electrical Machines Lab Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "electrical machines",
+    "transformer",
+    "induction motor",
+    "synchronous generator",
+    "dc motor",
+    "torque slip",
+    "magnetic flux",
+    "back emf",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive electrical machines course: transformer, induction motor, alternator, DC drill and fan motor in five 3D machines. Study aid only, not for real design.",
+  "longDescription": "Electrical Machines: Fluxmere starts from the machines you actually own and asks the question you have probably wondered about. Why does a phone charger get warm with nothing plugged in? How can a car motor spin with no moving magnet? What limits the power one generator can push into the grid? It is for study only and is not for real electrical machine design or mains-voltage safety decisions.\n\n### Five 3D Machines, One Formula At A Time\nEach machine is a live scene you can change. Slide the air gap of a transformer core and watch the flux heat map and the numbers move. Turn the slip of an induction motor and see the rotating field, the rotor speed and the torque curve together. Push the load angle of an alternator toward pull-out. Jam a drill and watch back-EMF vanish. Run a ceiling fan's capacitor motor and see its field turn from a standing wave into a circle.\n- Live formula chips show the equation with your present numbers filled in.\n- A probe line names what you are looking at, and plots mark your operating point on the curve.\n- A Sources button opens the cited pages inside the app.\n\n### Practice That Fits Your Time\nPick 5, 10, 20, 40 or any number of questions, and a level path: adaptive, course order, foundation, core, advanced or research-level. The numeric questions were each re-computed by a second method, and the conceptual ones are marked practice-only. Hints, worked solutions, and a mock exam that never shows ads.\n\n### Covers\nMagnetic circuits, ideal and real transformers, losses and efficiency, three-phase basics, the rotating field, induction motor slip and torque, DC machines and back-EMF, synchronous generators, load angle and V-curves, and single-phase motors.\n\n### Free With Light Ads\nA short ad may appear after a finished practice session, and an optional video earns extra hints. An optional monthly subscription removes the break ads.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/electrical-machines-fluxmere/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-electrical-machines.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_electrical_machines.app"
+  },
+  "related": [
+    "circuit-analysis-2-polevane",
+    "mechatronics-servoline",
+    "systems-engineering-kestrix",
+    "electromagnetism-poyntara"
+  ]
+}
