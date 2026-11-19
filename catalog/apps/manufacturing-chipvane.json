@@ -1,0 +1,50 @@
+{
+  "slug": "manufacturing-chipvane",
+  "name": "Manufacturing: Chipvane",
+  "subtitle": "Manufacturing Processes Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "manufacturing processes",
+    "casting",
+    "machining",
+    "metal forming",
+    "tool life",
+    "process capability",
+    "chvorinov",
+    "merchant circle",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive manufacturing processes course: casting, cutting, forming, tool life and capability, with five hands-on rigs. Study aid only, not for real production.",
+  "longDescription": "Manufacturing: Chipvane is an offline study app for a first university course on manufacturing processes. No account, no sign-in. It is for study only: it is NOT for real process planning, machine set-up, tooling selection, safety or quality-release decisions.\n\n### Five Rigs You Can Touch\n- Pour: a casting solidification mould. Watch heat leave a melt, see the freezing front sweep inward on the GPU, and test Chvorinov's rule across section sizes and mould materials.\n- Chip: a Merchant circle cutting lab. Drag the shear plane, read the force circle and see where cutting force is smallest.\n- Stock: forming with strain grids. Upset, roll or extrude a billet and watch a drawn grid distort while friction piles pressure toward the centre.\n- Life: tool life and cost. Slide cutting speed along Taylor's curve and find the speed that costs least and the speed that is fastest.\n- Gauge: process capability. See a histogram, a control chart, Cp and Cpk, with parts out of spec simulated by Monte Carlo.\nEvery rig shows two independent ways to reach its key number, and a Sources window opens the cited pages inside the app.\n\n### A Question Bank That Follows Your Slips\n155 original questions over 14 topics, from solidification and gating through bulk forming, chip mechanics, machining power, tool life, welding heat, additive builds, capability indices, control charts and lot-size cost. Practice adapts to what you miss, and mock exams are ad-free.\n\n### Readable On Any Screen\nA- and A+ buttons rescale text everywhere. Animation can be paused and respects Reduce Motion. iPhone and iPad.\n\n### Free, With Optional Ad-Free\nLessons, rigs and solutions are free. Short ads appear at natural pauses in practice, never in the mock exam. An optional video earns 24 hours without interstitials, and an optional monthly subscription removes ads.\n\nSources are cited and link-only; the questions, engines and rigs are original work.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/manufacturing-chipvane/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-manufacturing-processes.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_manufacturing_processes.app"
+  },
+  "related": [
+    "machine-design-gearvane",
+    "engineering-drawing-drafmere",
+    "materials-mechanics-torquill",
+    "numerical-methods-meshorin"
+  ]
+}
