@@ -1,0 +1,48 @@
+{
+  "slug": "constitutional-law-us-amendra",
+  "name": "Constitutional Law US: Amendra",
+  "subtitle": "U.S. Supreme Court Case Study",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "constitutional law",
+    "supreme court",
+    "scotus",
+    "marbury",
+    "due process",
+    "first amendment",
+    "irac",
+    "bluebook",
+    "law school",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Study 115 Supreme Court cases with cited opinions, six 3D simulations and adaptive practice. Education only, not legal advice.",
+  "longDescription": "Constitutional Law US: Amendra is a study course in United States federal constitutional law, built around real Supreme Court decisions and problems you can see in 3D.\n\nStart from the problem, then the case. A bill drifts through Congress; a city restricts some speech; Congress reaches for a farmer's wheat. Each topic opens with the question the Court faced, then the decisions that answered it.\n\nWhat is inside\n- 115 Supreme Court cases in 15 topics, each with a Bluebook citation and our own plain-words summary of the holding.\n- Every case opens its Cornell Legal Information Institute opinion page in a panel that covers 85 percent of the screen, with Back, Forward and Close, an offline summary card and an Open in browser link.\n- Six simulations: Gate Hall (bill to law, veto, override, judicial review), Scrutiny Terrain (rational basis, intermediate and strict scrutiny as a landscape), Commerce Reach Map, Incorporation Tower (rights joining the states by year), Forum Tree (which free speech test applies) and Precedent Web (lines of authority between cases).\n- Analyze tab: twelve fictional fact patterns solved two ways, a written IRAC outline and a small tier or element model, so you can see where they agree.\n- Practice with about 376 questions. You choose the length (5, 10, 20, 40 or any number) and the level, from beginner to advanced, or follow the course order or an adaptive path that revisits your weak topics. Mock exams are always ad-free and can be timed.\n- Text size controls and an iPad layout with a topic list beside the cases.\n\nFree to use. Ads appear only between study sets, and never in a mock exam. An optional monthly ad-free plan removes them, and you can also watch a short video for 30 minutes without ads.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/constitutional-law-us-amendra/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-law-constitutional-law-us.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_law_constitutional_law_us.app"
+  },
+  "related": [
+    "real-analysis-i-deltavane",
+    "probability-course-stochara",
+    "discrete-mathematics-lemmora"
+  ]
+}
