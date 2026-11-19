@@ -1,0 +1,50 @@
+{
+  "slug": "systems-engineering-kestrix",
+  "name": "Systems Engineering: Kestrix",
+  "subtitle": "Systems Engineering Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "systems engineering",
+    "requirements",
+    "reliability",
+    "fmea",
+    "queueing",
+    "rocket equation",
+    "trade study",
+    "redundancy",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive systems engineering course: power, redundancy, queueing, pointing control and staging, with five 3D labs. Study aid only, not for real design.",
+  "longDescription": "Systems Engineering: Kestrix teaches undergraduate systems engineering by letting you engineer one small Earth-observation satellite, Kestrel-1, from the first need to the launch vehicle. Every topic opens on a real problem and a decision you must make, then asks you to check it with numbers. It is for study only and is not for real design, safety, medical or financial decisions.\n\n### Five 3D Mission Bays\n- Power Bay: set orbit altitude, load, array and battery, watch the Earth's shadow cut the array off and see whether the battery survives eclipse. Two eclipse calculations are shown side by side.\n- Redundancy Bay: vote 2-of-3 and 3-of-5 computers, break parts, add a common-cause failure and compare the exact reliability with a simulation.\n- Triage Bay: an emergency department as a queue. Change beds, arrivals and service rate and watch the Erlang wait appear.\n- Attitude Bay: a pointing loop with sensor delay and reaction-wheel limits; see where a stable design becomes oscillation.\n- Staging Bay: the rocket equation as a stack. Trade engine quality, structure and stage count against the payload that reaches orbit.\n\n### Practice At Your Level And Length\n- 198 original questions over 15 topics, from lifecycle and requirements through reliability, queueing, control and staging to cost, schedule and ethics.\n- Five levels from foundations to research-level. Choose 5, 10, 20, 40 or your own number of questions. Adaptive, course-order and mission-case paths.\n- Every numeric answer was recomputed with a second method before shipping, with worked solutions after each answer.\n- A timed mock exam with no ads.\n- A Sources button in every lab opens the cited textbook, standard or agency handbook page in an in-app window. Works offline, with text size controls on every screen.\n\n### Free, With Optional Ad Removal\nFree with ads shown only at natural breaks and never in exams. An optional video pauses ads for an hour, and an optional monthly subscription removes ads.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/systems-engineering-kestrix/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-systems-engineering.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_systems_engineering.app"
+  },
+  "related": [
+    "machine-design-gearvane",
+    "manufacturing-chipvane",
+    "engineering-ethics-oathmere",
+    "engineering-drawing-drafmere"
+  ]
+}
