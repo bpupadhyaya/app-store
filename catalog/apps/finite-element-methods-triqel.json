@@ -1,0 +1,49 @@
+{
+  "slug": "finite-element-methods-triqel",
+  "name": "Finite Element Methods: Triqel",
+  "subtitle": "Finite Element Methods Course",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "finite element methods",
+    "fem",
+    "mesh",
+    "truss",
+    "stiffness",
+    "galerkin",
+    "quadrature",
+    "shape functions",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive finite element methods course: truss, bracket, fin, beam and quadrature in six 3D labs. Study aid only, not for real design.",
+  "longDescription": "Finite Element Methods: Triqel is an offline study app for a first university finite element methods course. Every topic starts from a real object: a footbridge, a steel bracket, a cooling fin, a diving board, a machine frame. It is for study only and is not for real design, safety or certification decisions.\n\n### Six 3D Labs\n- Convergence Bench: refine a rod mesh or raise the element degree and watch the error fall on a log-log chart.\n- Footbridge Truss: tap a joint to move the load, tap a member to remove it, and see tension and compression in colour.\n- Bracket Contours: stress contours painted per pixel on the GPU for an L-shaped bracket; compare element types and see locking and a sharp corner.\n- Heat-Sink Fin: finite element temperature along a fin against the exact solution.\n- Vibrating Beam: mode shapes and frequencies, animated, against the exact roots.\n- Quadrature: a tapered four-node element with its integrand standing in 3D and Gauss points as weighted pillars.\nEach lab opens its cited sources inside the app.\n\n### Learn At Your Own Length And Level\n- 14 topics from the weak form to isoparametric elements, locking and modelling practice.\n- Quizzes, tests and a mock exam: choose 5, 10, 20, 40 or your own number of questions, and a level from beginner to research-level, adaptive or in course order.\n- Numeric answers are checked against a second calculation engine; conceptual questions are marked practice-only.\n- Worked explanations, A-/A+ text size, and it works offline.\n\n### Free, With Optional Ad Removal\nFree with ads at natural breaks, never in mock exams. An optional monthly subscription removes ads.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/finite-element-methods-triqel/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-finite-element-methods.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_finite_element_methods.app"
+  },
+  "related": [
+    "numerical-methods-meshorin",
+    "machine-design-gearvane",
+    "materials-mechanics-torquill"
+  ]
+}
