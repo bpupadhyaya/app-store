@@ -1,0 +1,50 @@
+{
+  "slug": "robotics-kinematics-armeline",
+  "name": "Robotics Kinematics: Armeline",
+  "subtitle": "Robotics Kinematics Labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "robotics",
+    "kinematics",
+    "inverse kinematics",
+    "jacobian",
+    "denavit-hartenberg",
+    "quaternion",
+    "trajectory",
+    "pure pursuit",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive robotics kinematics course: arm frames, inverse kinematics, rover pursuit, joint move profiles and gimbal lock in five 3D labs. Study aid only.",
+  "longDescription": "Robotics Kinematics: Armeline teaches how robots move by starting from a real machine and letting the mathematics follow. It is for study only and is not for real robot design, commissioning or safety decisions.\n\n### Five 3D Labs\n- Frame Forge: a six-joint bench arm picking parts from a tray. Move each joint and watch the Denavit-Hartenberg frames carry the tool tip while the pose matrix updates live.\n- Reach Atlas: drag a target and let damped least-squares inverse kinematics chase it. The reachable workspace is coloured by manipulability, and a velocity ellipsoid from the Jacobian changes colour and pulses as the arm nears a singularity.\n- Rover Track: a warehouse rover follows a painted lane by pure pursuit. Switch between differential drive and Ackermann steering, change the lookahead, and read curvature, wheel speeds and cross-track error.\n- Move Profiles: cubic, quintic and trapezoid joint motion with position, speed and acceleration traces beside the moving arm.\n- Spin Lab: a three-ring gimbal that locks at 90 degrees of pitch, and quaternion slerp compared with Euler-angle interpolation.\nEvery formula is cited and every number is cross-checked.\n\n### Learn Your Way\n- Choose the length of every quiz: 5, 10, 20, 40 or your own number.\n- Choose the level, from beginner to research-level, or follow the course order, or let adaptive practice pick the next item.\n- 136 items across 14 topics; numeric answers are generated from the same formulas the labs use and re-derived by an independent method.\n- A timed mock exam that never shows ads, mastery by topic and a review queue, and text size controls on every screen.\n\n### Sources You Can Open\nEvery lab has a Sources button that opens the cited textbook or paper page inside the app. Citations are links only.\n\n### Free With Optional Ad-Free Plan\nFree and works offline. Ads appear only at natural breaks, never in a mock exam. An optional monthly subscription removes ads, and one video pauses ads for an hour.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/robotics-kinematics-armeline/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-robotics-kinematics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_robotics_kinematics.app"
+  },
+  "related": [
+    "mechatronics-servoline",
+    "engineering-dynamics-inertiq",
+    "machine-design-gearvane",
+    "control-systems-feedvane"
+  ]
+}
