@@ -1,0 +1,50 @@
+{
+  "slug": "electromagnetics-poyntel",
+  "name": "Electromagnetics: Poyntel",
+  "subtitle": "Electromagnetics Fields Waves",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "electromagnetics",
+    "maxwell",
+    "gauss law",
+    "biot savart",
+    "wireless charging",
+    "transmission line",
+    "poynting",
+    "coil",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive electromagnetics course in five cited 3D benches: touch sensor, coil, wireless charger, wave at glass, cable echo. Study aid only.",
+  "longDescription": "Electromagnetics: Poyntel teaches a first engineering electromagnetics course by letting you push on the physics. Each topic starts from a real device, and a 3D bench answers back while the numbers on screen are computed live.\n\nFIVE BENCHES\nField Pad: a fingertip over a touchscreen sense cell. A potential surface, field lines and a Gauss-law flux check show why a finger steals charge from the electrode.\nCoil Bench: a solenoid or a Helmholtz pair. Field lines close on themselves, and the axial plot comes from a numerical Biot-Savart sum over the wire.\nCharger Pair: wireless charging. Slide the coils apart or off-centre and watch mutual inductance, emf and link efficiency change.\nWave Cell: a microwave-band plane wave meets a dielectric or conducting slab. E, B and the Poynting arrow are drawn with the correct sign and impedance scaling.\nEcho Line: a voltage pulse runs down a cable, hits a mismatch and comes back. The echo ratio measured on the line is shown beside the reflection-coefficient formula.\n\nLEARN YOUR WAY\nPredict first, then test it on the bench. Choose how many questions you want (5, 10, 20, 40 or your own number) and a level from Beginner to Research. Practice shows a worked line after every answer. The mock exam uses numeric questions only, with an optional timer and no ads. A course path tracks fourteen topics, from Coulomb's law to transmission lines.\n\nCHECKED AND CITED\nEvery numeric answer was recomputed by a second numerical method. Tap Sources on any screen to open the references (Cheng, Hayt, Griffiths, Sadiku, Ulaby, Pozar and MIT OpenCourseWare) in a window that returns you to the same place.\n\nFREE WITH ADS\nShort ads appear only at natural breaks and never during a mock exam. An optional monthly subscription (price shown by the App Store, 7-day free trial) removes them. Work stays on your device. No sign-in.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/electromagnetics-poyntel/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-electromagnetics-engineering.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_electromagnetics_engineering.app"
+  },
+  "related": [
+    "electromagnetism-poyntara",
+    "electrical-machines-fluxmere",
+    "circuit-analysis-2-polevane",
+    "mechatronics-servoline"
+  ]
+}
