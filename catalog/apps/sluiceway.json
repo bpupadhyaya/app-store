@@ -28,7 +28,7 @@
   "privacyUrl": "https://equalinformation.com/privacy-sluiceway.html",
   "supportUrl": "https://equalinformation.com/app-support-sluiceway.html",
   "releasedAt": "2026-11-06",
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-19",
   "version": "1.0.0",
   "icon": "assets/apps/sluiceway/icon-512.png",
   "hero": "assets/apps/sluiceway/hero.webp",
@@ -66,8 +66,8 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/sluiceway-canal-lock-puzzle/id6831265019",
     "appleId": "6831265019",
     "bundleId": "com.equalinformation.sluiceway.app"
   },

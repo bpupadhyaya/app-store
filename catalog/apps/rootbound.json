@@ -27,8 +27,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-rootbound.html",
   "supportUrl": "https://equalinformation.com/app-support-rootbound.html",
-  "releasedAt": "2026-11-06",
-  "updatedAt": "2026-11-06",
+  "releasedAt": "2026-11-19",
+  "updatedAt": "2026-11-19",
   "version": "1.0.0",
   "icon": "assets/apps/rootbound/icon-512.png",
   "hero": "assets/apps/rootbound/hero.webp",
@@ -66,8 +66,8 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/rootbound-root-garden-puzzle/id6831265830",
     "appleId": "6831265830",
     "bundleId": "com.equalinformation.rootbound.app"
   },
