@@ -1,0 +1,50 @@
+{
+  "slug": "power-systems-gridmere",
+  "name": "Power Systems: Gridmere",
+  "subtitle": "Power Systems Grid Labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "power systems",
+    "load flow",
+    "per unit",
+    "transmission line",
+    "power factor",
+    "fault analysis",
+    "swing equation",
+    "stability",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive power systems course in five cited 3D benches: trip a line, tune a long line, fix power factor, clear a fault. Study aid only.",
+  "longDescription": "Power Systems: Gridmere is an offline study app for a first power systems course. Every lesson starts with a real problem and lets you move the grid yourself.\n\nFIVE 3D BENCHES\n- Grid mesh: trip a line on a three-bus city grid and watch the power reroute.\n- Long line: slide the load along a 400 km transmission line and see the voltage ribbon rise or sag.\n- Factory power factor: switch in capacitor stages and watch the power triangle shrink.\n- Fault laboratory: choose a fault type and see the sequence networks link as three stacked layers.\n- Swing rotor: change the clearing time and see whether the rotor swings back or slips.\nEvery bench shows a second method computed on the spot, so you can see two independent calculations agree.\n\nPRACTICE THAT ADAPTS\nPick 5, 10, 20, 40 or your own number of questions and a level from beginner to research. Missed topics come back sooner. A mock exam uses numeric problems only, with an optional timer and no ads.\n\nCITED AND HONEST\nSources open in a window inside the app: textbooks and the MIT OpenCourseWare course page, linked and never copied. Gridmere is for study only, never for real design, protection settings or electrical safety decisions.\n\nFREE WITH OPTIONAL AD REMOVAL\nFree with ads at natural breaks. Watch one ad for 30 minutes without ads, or subscribe monthly to remove ads . No account, and your progress stays on your device.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/power-systems-gridmere/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-power-systems.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_power_systems.app"
+  },
+  "related": [
+    "electrical-machines-fluxmere",
+    "electromagnetics-poyntel",
+    "circuit-analysis-2-polevane",
+    "mechatronics-servoline"
+  ]
+}
