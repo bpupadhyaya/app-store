@@ -1,6 +1,6 @@
 {
   "slug": "twirlwell",
-  "name": "Twirlwell",
+  "name": "Twirlwell: Ball Drop Tower",
   "subtitle": "Spin the stone, fall through",
   "categories": [
     "casual"
@@ -27,7 +27,7 @@
   "privacyUrl": "https://equalinformation.com/privacy-twirlwell.html",
   "supportUrl": "https://equalinformation.com/app-support-twirlwell.html",
   "releasedAt": "2026-11-06",
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-20",
   "version": "1.0.0",
   "icon": "assets/apps/twirlwell/icon-512.png",
   "hero": "assets/apps/twirlwell/hero.webp",
@@ -65,8 +65,8 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
+    "status": "live",
+    "url": "https://apps.apple.com/app/twirlwell-ball-drop-tower/id6831473672",
     "appleId": "6831473672",
     "bundleId": "com.equalinformation.twirlwell.app"
   },
