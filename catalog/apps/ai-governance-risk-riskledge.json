@@ -22,8 +22,8 @@
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
-  "releasedAt": "2026-11-18",
-  "updatedAt": "2026-11-18",
+  "releasedAt": "2026-11-21",
+  "updatedAt": "2026-11-21",
   "version": "1.0.0",
   "icon": "assets/apps/ai-governance-risk-riskledge/icon-512.png",
   "screenshots": [
@@ -49,8 +49,10 @@
     }
   ],
   "ios": {
-    "status": "soon",
-    "url": ""
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/ai-risk-management-riskledge/id6837487969",
+    "bundleId": "com.equalinformation.riskledge.app",
+    "appleId": "6837487969"
   },
   "android": {
     "status": "soon",

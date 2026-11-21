@@ -27,7 +27,7 @@
   "whatsNew": "First release of First Robotics: Gearwick, an introductory course: 3D robot labs, build guides, practice quizzes, cited sources and an optional ad-free monthly plan.",
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
-  "ageRating": "12+",
+  "ageRating": "4+",
   "releasedAt": "2026-11-21",
   "updatedAt": "2026-11-21",
   "version": "1.0.0",
@@ -60,8 +60,8 @@
     }
   ],
   "ios": {
-    "status": "soon",
-    "url": "",
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/first-robotics-gearwick/id6837574043",
     "bundleId": "com.equalinformation.gearwick.app",
     "appleId": "6837574043"
   },

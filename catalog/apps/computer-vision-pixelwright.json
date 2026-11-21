@@ -22,8 +22,8 @@
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
-  "releasedAt": "2026-11-18",
-  "updatedAt": "2026-11-18",
+  "releasedAt": "2026-11-21",
+  "updatedAt": "2026-11-21",
   "version": "1.0.0",
   "icon": "assets/apps/computer-vision-pixelwright/icon-512.png",
   "screenshots": [
@@ -49,9 +49,10 @@
     }
   ],
   "ios": {
-    "status": "soon",
-    "url": "",
-    "bundleId": "com.equalinformation.pixelwright.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/computer-vision-pixelwright/id6837481078",
+    "bundleId": "com.equalinformation.pixelwright.app",
+    "appleId": "6837481078"
   },
   "android": {
     "status": "soon",
