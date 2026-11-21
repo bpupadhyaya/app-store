@@ -1,0 +1,73 @@
+{
+  "slug": "first-robotics-gearwick",
+  "name": "First Robotics: Gearwick",
+  "subtitle": "Build your first robots",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "robotics",
+    "robot building",
+    "STEM",
+    "PID",
+    "kinematics",
+    "sensors",
+    "motors",
+    "microcontroller",
+    "engineering",
+    "high school",
+    "simulation",
+    "3D",
+    "course",
+    "maker"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Build 8 robots in 3D: watch parts fly in, snap them together, power on and test drive. Lessons and quizzes work offline, no account needed.",
+  "longDescription": "Introduction to Robotics: Build Your First Robots.\n\nFirst Robotics is an independent introductory robotics course. It is not affiliated with, endorsed or sponsored by FIRST (For Inspiration and Recognition of Science and Technology), the FIRST Robotics Competition, FIRST Tech Challenge or FIRST LEGO League.\n\nLearn how robots work by building and testing them on your phone: watch a robot assemble in 3D, then build it yourself. First Robotics: Gearwick is an introductory applied robotics course made of short, hands-on lessons, interactive 3D robot labs, step-by-step build guides and practice quizzes.\n\n### What You Will Learn\n- Sensors and actuators: how robots sense the world and move\n- Motors, gears and drive systems: speed, torque and wheel layouts\n- Control: feedback, PID tuning and following a line\n- Kinematics: arms, joints and reaching a target\n- Navigation: mapping, path planning and avoiding obstacles\n- Programming robots: loops, state machines and simple behaviours\n- Building: parts lists, wiring ideas and safe assembly steps for small robots (Arduino-style microcontroller boards are discussed in general terms; the app is not affiliated with any hardware maker)\n\n### How It Teaches\n- Build mode for all eight robots: the parts float apart in an exploded view, fly in and snap together (or snap them in yourself), then you power on and test drive\n- 3D robot labs: rotate, drive and tune a virtual robot, then see the result at once\n- Build guides: clear steps for beginner-friendly projects\n- Practice quizzes with instant feedback, and progress that stays on your device\n- Beginner friendly: no engineering degree needed, just curiosity\n- A-/A+ text size controls for comfortable reading\n\n### Good Sources, Cited\nTopics follow what is taught in well-known university robotics courses at MIT, Stanford, CMU and Berkeley. Lessons are written originally; sources are cited with links that open in a sheet inside the app. We are not affiliated with or endorsed by any university.\n\n### Works Offline\nLessons, labs and quizzes are bundled in the app. Only opening a cited web source needs a connection.\n\n### Private By Design\nNo account and no sign-up. We collect no personal data. On first launch the app asks whether you are 18 or older; your answer stays on your device. Adults can choose whether to allow personalised ads. Under 18, ads are non-personalised and there is no tracking prompt. For ages 13 and up.\n\n### Free With Optional Ad-Free Plan\nFirst Robotics: Gearwick is free and shows ads from Google AdMob at natural breaks. An optional monthly ad-free subscription (3.99 USD per month, with a 7-day free trial; price may vary by country) removes the ads. It renews monthly until cancelled in your App Store or Google Play account settings. Restore purchases is on the subscription screen.\n\nEducational use only. Not professional engineering or safety advice; follow the safety instructions of your own parts and tools when building real hardware.",
+  "whatsNew": "First release of First Robotics: Gearwick, an introductory course: 3D robot labs, build guides, practice quizzes, cited sources and an optional ad-free monthly plan.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "12+",
+  "releasedAt": "2026-11-21",
+  "updatedAt": "2026-11-21",
+  "version": "1.0.0",
+  "icon": "assets/apps/first-robotics-gearwick/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/first-robotics-gearwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/first-robotics-gearwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/first-robotics-gearwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/first-robotics-gearwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/first-robotics-gearwick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.gearwick.app",
+    "appleId": "6837574043"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.gearwick.app"
+  }
+}
