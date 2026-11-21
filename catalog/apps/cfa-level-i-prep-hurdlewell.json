@@ -1,0 +1,65 @@
+{
+  "slug": "cfa-level-i-prep-hurdlewell",
+  "name": "CFA Level I Prep: Hurdlewell",
+  "subtitle": "CFA Level I Practice & Mocks",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "CFA",
+    "Level 1",
+    "finance",
+    "investing",
+    "ethics",
+    "exam prep"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Practice CFA Level I the way the exam asks: three-choice questions, worked answers, finance calculators and timed mocks.",
+  "longDescription": "CFA Level I Prep: Hurdlewell is a focused study companion for candidates preparing for the CFA Level I exam on the 2027 curriculum outline.\n\n### Practice The Way The Exam Asks\n- 179 original three-choice questions across all ten Level I topics: Ethical and Professional Standards, Quantitative Methods, Economics, Financial Statement Analysis, Corporate Finance, Equities, Fixed Income, Derivatives and Risk Management, Alternative Investments and Portfolio Construction.\n- Every answer comes with a short worked explanation and a source you can open in a sheet without leaving the app.\n- Numeric answers are recomputed by the app's own formulas, so the figures you study are checked by code.\n\n### Labs You Can Play With\n- TVM calculator: solve for N, I/Y, PV, PMT or FV, with end or begin mode.\n- Bond pricing lab: drag the yield and watch price, duration and convexity move along the price-yield curve.\n- Numeric drills: fresh problems every time for future value, annuities, bond price, effective rate, NPV, WACC, Sharpe ratio, Gordon growth and hedge fund fees.\n- Statement analysis: read an original income statement and balance sheet, then compute margins, ROE, current ratio, coverage and more.\n\n### Timed Mocks\n- A 90-question session mock with a 135-minute timer, matching the length of one Level I exam session, and a 30-question quick mock.\n- Topic mix follows the official weight ranges. Results show a per-topic breakdown and the explanations for what you missed. Scores are practice estimates only.\n\n### Study Smarter\n- 20-question diagnostic and a daily focus topic.\n- Spaced review brings missed questions back at the right time.\n- A- and A+ buttons make every screen easier to read.\n- Works offline. No account needed.\n\n### Levels Ii And Iii\nLevel II and Level III packs are planned and are not included in this version.\n\n### Free With Optional Ads\nThe app is free with ads. Subscribe to remove ads: monthly subscription with a 7-day free trial, then $3.99 per month, auto-renewing until cancelled. Cancel any time in your App Store or Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again. Prefer not to subscribe? Watch short videos to earn credits and unlock features. Restore purchase is on the More tab.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "version": "1.0.0",
+  "icon": "assets/apps/cfa-level-i-prep-hurdlewell/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/cfa-level-i-prep-hurdlewell/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cfa-level-i-prep-hurdlewell/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cfa-level-i-prep-hurdlewell/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cfa-level-i-prep-hurdlewell/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cfa-level-i-prep-hurdlewell/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.hurdlewell.app",
+    "appleId": "6837455279"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.hurdlewell.app"
+  }
+}

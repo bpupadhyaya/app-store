@@ -1,0 +1,65 @@
+{
+  "slug": "pe-civil-exam-prep-trussly",
+  "name": "PE Civil Exam Prep: Trussly",
+  "subtitle": "PE Civil Practice and Mocks",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "PE exam",
+    "civil engineering",
+    "NCEES",
+    "hydraulics",
+    "construction",
+    "exam prep"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Prep for the PE Civil exam: Construction and Water Resources depths, worked calculations, six engineering labs and timed mocks.",
+  "longDescription": "PE Civil Exam Prep: Trussly turns the long road to the Professional Engineer license into short, honest practice sessions on your phone. Choose the Construction or the Water Resources and Environmental depth and study the same knowledge areas the computer-based exam covers.\n\n### What You Get\n- More than 300 original practice questions with a worked solution for every one. Every number was computed by code and re-checked by a second, independent method before it shipped.\n- Calculation questions you can answer by choosing or by typing the number, like the fill-in items on the computer-based exam.\n- Six engineering labs with live pictures: open-channel flow, a beam with a moving load, a pressure pipe with pump, a critical-path network, a gravity retaining wall and an alternatives and NPV chart. Units are handled on screen, in SI or US customary where it matters.\n- A diagnostic across every knowledge area, a weak-area drill, spaced review of what you missed, and timed mock exams of 20, 40 or the full 80 questions.\n- A reference sheet of original lookup tables, and a citation behind each topic that opens in a sheet inside the app. Summaries work offline.\n- Adjustable text size, no account, your progress stays on your device.\n\n### Honest Limits\nScore numbers are rough practice estimates, not an NCEES result, and the app predicts no pass or fail. The practice content was written for this app and has not been reviewed by a licensed engineer. This version covers the Construction and the Water Resources and Environmental depths of the PE Civil exam; other depths are not included. For adults (18+). Not a design reference for real projects.\n\n### Free To Use\nTrussly is free with ads. A monthly ad-free subscription removes ads and unlocks every mock exam and lab, with a 7-day free trial. Cancel any time in your App Store or Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again. Prefer not to subscribe? Watch short videos to earn credits and unlock features. Restore purchase is available on the More tab.\n\nNCEES, the Principles and Practice of Engineering (PE) exam and its exam names belong to the National Council of Examiners for Engineering and Surveying. NCEES is not affiliated with and does not endorse this app. This app contains no NCEES exam questions, solutions, handbook text or logos.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "version": "1.0.0",
+  "icon": "assets/apps/pe-civil-exam-prep-trussly/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/pe-civil-exam-prep-trussly/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pe-civil-exam-prep-trussly/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pe-civil-exam-prep-trussly/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pe-civil-exam-prep-trussly/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pe-civil-exam-prep-trussly/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.trussly.app",
+    "appleId": "6837455340"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.trussly.app"
+  }
+}

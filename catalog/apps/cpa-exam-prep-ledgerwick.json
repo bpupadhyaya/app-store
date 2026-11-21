@@ -1,0 +1,64 @@
+{
+  "slug": "cpa-exam-prep-ledgerwick",
+  "name": "CPA Exam Prep: Ledgerwick",
+  "subtitle": "CPA exam task-based sims",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "CPA",
+    "accounting",
+    "audit",
+    "tax",
+    "simulations",
+    "exam prep"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Practice the CPA exam sections with original multiple-choice questions and task-based simulations: journal entries, reconciliations, schedules and research...",
+  "longDescription": "CPA Exam Prep: Ledgerwick is an independent study aid for people preparing for the Uniform CPA Examination. Practise the three core sections (AUD, FAR, REG) and the disciplines (BAR, ISC, TCP) with original questions and task-based simulations that work offline, with no account.\n\nSIMULATIONS ARE THE POINT. Work journal entries, bank reconciliations, depreciation and lease schedules, sampling and analytical-procedure tables, partner and S corporation basis roll-forwards, like-kind exchange and NOL calculations, and research tasks where you pick the right codification topic, auditing standard or Internal Revenue Code section. Every answer cell is graded and explained.\n\nORIGINAL, VERIFIED QUESTIONS. Hundreds of original multiple-choice questions for all six sections, each with step-by-step working. Every numeric answer is recomputed by a second independent method before it ships. Rules-based content is stamped with an as-of date so you know when it was checked.\n\nSTUDY THE WAY THE EXAM TESTS. Short lessons by content area, practice by area, a diagnostic, spaced review of what you miss, and timed mocks in the real five-testlet shape (two multiple-choice, three simulation) with a four-hour clock.\n\nSOURCES YOU CAN CHECK. Every explanation cites an authoritative source (NASBA, AICPA, FASB, GASB, IRS, the Code, NIST and open textbooks) that opens inside the app.\n\nHONEST SCORES. Practice results are labelled estimates. The real exam is scaled for difficulty, and 75 is not 75 percent correct, so the app never claims to predict your score.\n\nFREE, FAIRLY. Core study is free with ads only at natural breaks, never inside a question, simulation or mock. Watch an optional short video to earn credits for timed mocks, or subscribe monthly (7-day free trial) to remove ads and unlock unlimited mocks. Cancel any time in your App Store or Google Play account settings. If you cancel, you keep ad-free until the end of the period you already paid for, and you will not be charged again.\n\nFor adults aged 18 and over. A study aid, not professional, tax or legal advice. Questions are original and have not been reviewed by a licensed CPA. This app contains no real exam questions.\nCPA and Uniform CPA Examination are used only to describe the exam this app helps you prepare for. This independent app is not affiliated with, endorsed or approved by the AICPA, NASBA or any state board of accountancy.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "version": "1.0.0",
+  "icon": "assets/apps/cpa-exam-prep-ledgerwick/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/cpa-exam-prep-ledgerwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cpa-exam-prep-ledgerwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cpa-exam-prep-ledgerwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cpa-exam-prep-ledgerwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/cpa-exam-prep-ledgerwick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.ledgerwick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.ledgerwick.app"
+  }
+}

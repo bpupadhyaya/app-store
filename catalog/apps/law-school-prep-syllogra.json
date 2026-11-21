@@ -1,0 +1,65 @@
+{
+  "slug": "law-school-prep-syllogra",
+  "name": "Law School Prep: Syllogra",
+  "subtitle": "Logic, reading, writing prep",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "LSAT",
+    "law school",
+    "logic",
+    "reasoning",
+    "argument",
+    "reading",
+    "exam prep"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Train arguments, reading and writing for law school admission tests. Argument-map trainer, timed mocks in both formats. Free, offline, no account.",
+  "longDescription": "Syllogra is a practice studio for law school admission test preparation: sharpen how you read arguments, read dense passages and write a position under time pressure. Every question is original and written for this app.\n\n### Reason: Argument Maps And Logic Drills\n- Argument-map trainer: tap each statement to label it conclusion, premise, counterpoint or background, draw the arrows from premise to claim, then pick the unstated assumption. The correct map is drawn back for you.\n- 75 logical reasoning questions by type: strengthen, weaken, assumption, flaw, inference, main point, method, principle, resolve the paradox, parallel reasoning, evaluate.\n- A reason after every answer, including why each wrong choice fails.\n\n### Read: Six Long Passages\n- Six original passages, one comparative pair, 40 questions, with paragraph-by-paragraph explanations.\n\n### Write: Argumentative Writing Practice\n- Eight everyday decisions, each with three perspectives. Take a position, engage the others, and use the on-device self-check. Drafts stay on your phone.\n\n### Mock: Both Formats\n- The current four-section format with an unscored variable section, and the format that LSAC has announced from August 2027 (reading first, then two logic sections, with unscored questions mixed in). Timed section by section, no ads.\n- A score estimate on the 120-180 scale. It is our estimate from a rough curve, not an official score.\n\nSOURCES: every cited page opens inside the app, with Back and Close.\n\nFree to use with ads. The optional monthly ad-free subscription only removes ads: every question, passage and mock stays the same for everyone. Prefer not to subscribe? Watch optional videos to earn credits. Cancel any time in your App Store settings; cancelling takes effect at the next billing cycle.\n\nIndependent app. Not affiliated with, endorsed or approved by the Law School Admission Council. Study aid only; not legal advice.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "version": "1.0.0",
+  "icon": "assets/apps/law-school-prep-syllogra/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/law-school-prep-syllogra/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/law-school-prep-syllogra/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/law-school-prep-syllogra/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/law-school-prep-syllogra/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/law-school-prep-syllogra/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.syllogra.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.syllogra.app"
+  }
+}

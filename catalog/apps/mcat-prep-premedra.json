@@ -1,0 +1,67 @@
+{
+  "slug": "mcat-prep-premedra",
+  "name": "MCAT Prep: Premedra",
+  "subtitle": "MCAT Prep Labs and Timed Mocks",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "MCAT",
+    "premed",
+    "pre-med",
+    "medical school",
+    "CARS",
+    "biochem",
+    "passage",
+    "exam prep"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Original passage-based practice for all four MCAT sections, five interactive science labs, spaced review and timed mocks. Every explanation cites its source.",
+  "longDescription": "Premedra is independent preparation for the MCAT(R) exam. It is built around the four sections the exam tests, and every question, passage and lab in it is original.\n\n### Practice That Follows The Blueprint\n- Chemical and Physical Foundations, Critical Analysis and Reasoning Skills (CARS), Biological and Biochemical Foundations, and Psychological, Social, and Biological Foundations of Behavior.\n- Passage-based sets that keep each passage with its questions, plus stand-alone items, tagged to the content categories in the published AAMC outline.\n- A 16-question diagnostic that finds your weakest section, then sets that start there.\n- Spaced review: questions you miss come back after 1, 3, 7, 14 and 30 days.\n\n### Learn By Doing\n- Five interactive labs: a buffer and titration curve, enzyme kinetics with a competitive inhibitor, an ideal-gas isotherm, Hardy-Weinberg genotype frequencies and a thin-lens image. Drag a slider and every number updates from the real formula.\n- Short study notes for each foundational concept, written for this app.\n\n### Timed Mocks\n- Section mocks run at the real pace of each section, with no ads and no feedback until you finish, then a per-question review.\n- A scaled full-length mock covers all four sections. It is shorter than the real exam, which has 230 questions, and score estimates are rough practice estimates only.\n\n### Cited, Offline, Yours\n- Every explanation links to its source, which opens in a full-width sheet inside the app with Back and Close.\n- The whole app works offline; only opening a source needs a connection.\n- Text size controls (A- and A+) on the More tab.\n\n### Free, With An Optional Ad-Free Monthly Subscription\nPremedra is free. Ads appear only between practice sets and never during a mock. Prefer not to subscribe? Watch short optional videos to earn credits for timed mocks. Premedra Ad-Free is a monthly subscription with a 7-day free trial. It only removes ads: every question, lab and mock is the same for everyone. Payment is charged to your account at confirmation of purchase and renews monthly unless cancelled at least 24 hours before the period ends. Cancel any time in your account settings; you keep ad-free until the end of the period you already paid for.\n\nFor learners aged 18 and over. Educational practice material, not medical advice.\n\nMCAT(R) is a registered trademark of the Association of American Medical Colleges (AAMC). Premedra is not affiliated with, endorsed by or approved by the AAMC.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "version": "1.0.0",
+  "icon": "assets/apps/mcat-prep-premedra/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/mcat-prep-premedra/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/mcat-prep-premedra/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/mcat-prep-premedra/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/mcat-prep-premedra/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/mcat-prep-premedra/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.premedra.app",
+    "appleId": "6837454924"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.premedra.app"
+  }
+}

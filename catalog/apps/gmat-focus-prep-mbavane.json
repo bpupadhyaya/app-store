@@ -1,0 +1,66 @@
+{
+  "slug": "gmat-focus-prep-mbavane",
+  "name": "GMAT Focus Prep: Mbavane",
+  "subtitle": "GMAT Focus Prep, Data Insights",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "GMAT",
+    "MBA",
+    "quant",
+    "verbal",
+    "data insights",
+    "business school",
+    "exam prep"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Practice all three GMAT Focus sections with original questions, a sortable table, adaptive timed mocks in any order, instant explanations and spaced review.",
+  "longDescription": "Prepare for the GMAT Focus Edition the way the exam is built: three sections, 45 minutes each, with the order of your choice.\n\nSTART IN A MINUTE. A 12-question diagnostic sets your starting level in Quantitative Reasoning, Verbal Reasoning and Data Insights, then practice picks questions near that level and brings missed ones back on a spaced schedule.\n\nPRACTICE BY SECTION AND TOPIC. About 480 original questions: problem solving without geometry, critical reasoning, reading passages, data sufficiency, table analysis, graphics interpretation, two-part analysis and multi-source reasoning. Every answer comes with a worked explanation, a short strategy card and a source you can open without leaving the app.\n\nDATA INSIGHTS THAT FEELS LIKE THE REAL THING. Tap a column heading to sort a table, read charts, switch between memo, table and note tabs, and answer several linked questions about the same sources.\n\nLEARN BY DOING. Two interactive labs turn ideas into something you can move: a work-rate lab where two pumps fill one tank, and a sufficiency explorer where statements shrink the set of possible answers.\n\nADAPTIVE MOCKS. Full mocks use 21 Quant, 23 Verbal and 20 Data Insights questions with 45 minutes per section, six section orders, an optional ten-minute break, and a review step where you may change up to three answers per section. The next question depends on how you are doing. Short mocks give the same flow in about 45 minutes. Scores shown are rough estimates only and cannot predict an official result.\n\nFREE, FAIRLY. Study is free with ads at natural breaks, never inside a question or a mock. Watch one short video to earn a credit for another full mock, or subscribe for a monthly fee after a 7-day free trial to remove ads. Cancel any time in your store account settings.\n\nWorks offline after install. For adults preparing for graduate business school. Questions are original and have not been reviewed by a subject expert.\n\nGMAT is a registered trademark of the Graduate Management Admission Council. This app is independent, is not affiliated with or endorsed by GMAC, and contains no official GMAT questions.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-20",
+  "updatedAt": "2026-11-20",
+  "version": "1.0.0",
+  "icon": "assets/apps/gmat-focus-prep-mbavane/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/gmat-focus-prep-mbavane/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gmat-focus-prep-mbavane/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gmat-focus-prep-mbavane/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gmat-focus-prep-mbavane/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gmat-focus-prep-mbavane/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.mbavane.app",
+    "appleId": "6837455023"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.mbavane.app"
+  }
+}
