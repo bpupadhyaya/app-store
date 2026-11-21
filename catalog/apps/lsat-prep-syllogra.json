@@ -1,6 +1,6 @@
 {
-  "slug": "law-school-prep-syllogra",
-  "name": "Law School Prep: Syllogra",
+  "slug": "lsat-prep-syllogra",
+  "name": "LSAT Prep: Syllogra",
   "subtitle": "Logic, reading, writing prep",
   "categories": [
     "education"
@@ -24,30 +24,30 @@
   "releasedAt": "2026-11-20",
   "updatedAt": "2026-11-20",
   "version": "1.0.0",
-  "icon": "assets/apps/law-school-prep-syllogra/icon-512.png",
+  "icon": "assets/apps/lsat-prep-syllogra/icon-512.png",
   "screenshots": [
     {
-      "src": "assets/apps/law-school-prep-syllogra/shot-1.webp",
+      "src": "assets/apps/lsat-prep-syllogra/shot-1.webp",
       "device": "phone",
       "caption": ""
     },
     {
-      "src": "assets/apps/law-school-prep-syllogra/shot-2.webp",
+      "src": "assets/apps/lsat-prep-syllogra/shot-2.webp",
       "device": "phone",
       "caption": ""
     },
     {
-      "src": "assets/apps/law-school-prep-syllogra/shot-3.webp",
+      "src": "assets/apps/lsat-prep-syllogra/shot-3.webp",
       "device": "phone",
       "caption": ""
     },
     {
-      "src": "assets/apps/law-school-prep-syllogra/shot-4.webp",
+      "src": "assets/apps/lsat-prep-syllogra/shot-4.webp",
       "device": "phone",
       "caption": ""
     },
     {
-      "src": "assets/apps/law-school-prep-syllogra/shot-5.webp",
+      "src": "assets/apps/lsat-prep-syllogra/shot-5.webp",
       "device": "phone",
       "caption": ""
     }
