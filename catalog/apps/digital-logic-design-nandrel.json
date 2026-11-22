@@ -1,0 +1,46 @@
+{
+  "slug": "digital-logic-design-nandrel",
+  "name": "Digital Logic Design: Nandrel",
+  "subtitle": "Gates, K-maps, FSMs, 3D labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "digital logic",
+    "boolean algebra",
+    "karnaugh map",
+    "flip-flop",
+    "adder",
+    "state machine",
+    "fpga",
+    "verilog",
+    "timing",
+    "quiz",
+    "undergraduate",
+    "engineering"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive digital logic course with seven 3D labs: state machines, adders, K-maps, hazards and LUTs. Choose your quiz length and level. Free to study.",
+  "longDescription": "Nandrel is an adaptive Digital Logic Design course for undergraduate engineering students.\n\n### Seven 3D labs\nStep a traffic-light state machine, race two adders along a track, minimise a seven-segment decoder on a Karnaugh landscape, watch a hazard glitch on a scope, and explore flip-flop timing, LUT fabrics and signal edges. Every lab shows a live second-method check and opens its cited sources in an in-app window.\n\n### Your level, your length\nPick 5, 10, 20, 40 or your own number of questions, from beginner to research level, adaptive or in course order. Mock exams stay ad-free.\n\n### What is covered\nNumber systems, Boolean algebra, gates, Karnaugh maps, combinational building blocks, adders, flip-flops, counters, finite state machines, timing and hazards, memory, programmable logic and introductory Verilog.\n\nFree with short ads at natural breaks, never during a timed test, with an optional monthly ad-free plan. Your progress stays on your device. No account needed.",
+  "whatsNew": "First release: seven 3D logic labs, checked questions in 15 topics, adaptive or mock-exam quizzes of the length and level you choose.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/digital-logic-design-nandrel/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-digital-logic-design.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_digital_logic_design.app"
+  },
+  "related": [
+    "calculus-i-course-epsilume"
+  ]
+}
