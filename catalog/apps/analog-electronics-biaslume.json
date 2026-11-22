@@ -1,0 +1,50 @@
+{
+  "slug": "analog-electronics-biaslume",
+  "name": "Analog Electronics: Biaslume",
+  "subtitle": "3D Circuit Benches and Quizzes",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "analog electronics",
+    "transistor",
+    "amplifier",
+    "op amp",
+    "rectifier",
+    "filter",
+    "oscillator",
+    "bode",
+    "engineering",
+    "undergraduate",
+    "quiz",
+    "adaptive",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive analog electronics course in six cited 3D benches: pedal amp stage, charger rectifier, Miller bode, op-amp loop. Study aid only.",
+  "longDescription": "Analog electronics is hard to picture. Biaslume turns six classic circuits into 3D benches you can orbit, with the maths solved twice so you can trust every number.\n\nSIX BENCHES, EACH STARTING FROM A REAL DEVICE\n- Pedal Stage: a guitar-pedal transistor. See the collector-current surface, the DC load line, the Q point and the clipped output wave.\n- Bridge Rectifier: a phone-charger supply. Move the capacitor and load and read ripple, conduction angle and the diode current pulses.\n- Miller Surface: a radio front end. Poles appear as sinkholes over the s-plane; slide the gate-drain capacitor and watch the dominant pole fall.\n- Loop Gain Bench: a headphone-amplifier buffer. Close the feedback loop and read crossover, phase margin, damping and overshoot.\n- Filter Landscape: an audio-board Sallen-Key low-pass. Set resistor, capacitor, gain and order and compare with the Butterworth poles.\n- Start-Up Scope: a Wien-bridge oscillator. Watch a tiny noise voltage grow until the amplitude limits.\n\nTRUST THE NUMBERS\nEvery bench shows a second, independent method next to the first (for example a nodal solve against a closed form, or a time-domain run against an exact steady state) and tells you how closely they agree. Sources open in a window inside the app: textbooks and course pages are cited and linked, never copied.\n\nPRACTICE YOUR WAY\nPick 5, 10, 20, 40 or your own number of questions, choose levels from beginner to research, and let adaptive mode bring back what you missed. Course order and a timed mock exam are included. Worked solutions are always free.\n\nFREE, WITH LIGHT ADS\nBiaslume is free. A short ad may appear between finished practice sets, never during the mock exam. Watch one optional rewarded video for 30 minutes without ads, or choose the optional monthly subscription (7-day free trial) to remove ads. The plan renews monthly until cancelled in your Apple ID settings. Everything works offline, with no account.\n\nFor study only: the models are not for real circuit design or safety decisions.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/analog-electronics-biaslume/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-analog-electronics.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_analog_electronics.app"
+  },
+  "related": [
+    "circuit-analysis-2-polevane",
+    "electromagnetics-poyntel",
+    "power-systems-gridmere",
+    "electrical-machines-fluxmere"
+  ]
+}
