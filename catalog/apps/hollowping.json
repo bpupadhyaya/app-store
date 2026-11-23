@@ -27,8 +27,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://equalinformation.com/privacy-hollowping.html",
   "supportUrl": "https://equalinformation.com/app-support-hollowping.html",
-  "releasedAt": "2026-11-06",
-  "updatedAt": "2026-11-06",
+  "releasedAt": "2026-11-23",
+  "updatedAt": "2026-11-23",
   "version": "1.0.0",
   "icon": "assets/apps/hollowping/icon-512.png",
   "hero": "assets/apps/hollowping/hero.webp",
@@ -66,8 +66,8 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/hollowping-moth-sonar-puzzle/id6831359020",
     "appleId": "6831359020",
     "bundleId": "com.equalinformation.hollowping.app"
   },

@@ -22,8 +22,8 @@
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
-  "releasedAt": "2026-11-18",
-  "updatedAt": "2026-11-18",
+  "releasedAt": "2026-11-23",
+  "updatedAt": "2026-11-23",
   "version": "1.0.0",
   "icon": "assets/apps/ai-literacy-for-teens-cogwick/icon-512.png",
   "screenshots": [
@@ -49,8 +49,10 @@
     }
   ],
   "ios": {
-    "status": "soon",
-    "url": ""
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/ai-literacy-for-teens-cogwick/id6837555268",
+    "appleId": "6837555268",
+    "bundleId": "com.equalinformation.cogwick.app"
   },
   "android": {
     "status": "soon",

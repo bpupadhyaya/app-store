@@ -1,0 +1,98 @@
+{
+  "slug": "netwren",
+  "name": "College Costs: Netwren",
+  "subtitle": "College Costs, Aid & Loans",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "College Costs: Netwren teaches how college is really paid for, with three working tools, real public data and short lessons for students and families.",
+  "longDescription": "College Costs: Netwren teaches how college is really paid for, with three working tools, real public data and short lessons for students and families.\n\n### Twelve Short Units\nSticker price vs net price; how grants, loans and work-study work; FAFSA and CSS Profile in principle; scholarships; comparing aid offers; loans and repayment; budgeting; community college and transfer; graduating with less debt; work and internships; taxes and aid; and spotting scholarship scams. Each unit has a story, a try-it, a build-it, and a check-it quiz. Choose Beginner, Curious or Scientist depth.\n\n### Three Tools\n- Net price planner: enter costs and aid, run what-if scenarios (commute, merit award not renewed, tuition rising) and see the gap year by year.\n- Aid-offer comparer: put two to four offers side by side on equal terms and see net price, borrowing and repayment.\n- Loan simulator: see balance, monthly payment, interest and payoff with typeset amortisation formulas.\n\n### Real Data, Cited\nLook up cost and outcome numbers for more than 2,300 colleges from the U.S. Department of Education College Scorecard (file dated 2026-11-02). Every source opens in a sheet inside the app with its access date.\n\n### Practice\n240 original questions with reasons, a daily challenge, streaks and badges. A- and A+ buttons scale all text from 50% to 300%. Works offline. No account needed.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-netwren.html",
+  "supportUrl": "https://equalinformation.com/app-support-netwren.html",
+  "releasedAt": "2026-11-23",
+  "updatedAt": "2026-11-23",
+  "version": "1.0.0",
+  "icon": "assets/apps/netwren/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/netwren/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/netwren/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/netwren/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/netwren/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/netwren/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/netwren/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/netwren/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/netwren/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/netwren/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/netwren/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/netwren/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/netwren/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/college-costs-netwren/id6837882277",
+    "bundleId": "com.equalinformation.netwren.app",
+    "appleId": "6837882277"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.netwren.app"
+  },
+  "related": []
+}

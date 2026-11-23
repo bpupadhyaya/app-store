@@ -30,14 +30,15 @@
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
-  "releasedAt": "2026-11-16",
-  "updatedAt": "2026-11-22",
+  "releasedAt": "2026-11-23",
+  "updatedAt": "2026-11-23",
   "version": "1.0.0",
   "icon": "assets/apps/calculus-ii-course-sumlark/icon-512.png",
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.course-math-calculus-2.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/calculus-ii-course-sumlark/id6837931803",
+    "bundleId": "com.equalinformation.course-math-calculus-2.app",
+    "appleId": "6837931803"
   },
   "android": {
     "status": "soon",

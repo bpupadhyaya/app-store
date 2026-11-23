@@ -22,8 +22,8 @@
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
-  "releasedAt": "2026-11-18",
-  "updatedAt": "2026-11-18",
+  "releasedAt": "2026-11-23",
+  "updatedAt": "2026-11-23",
   "version": "1.0.0",
   "icon": "assets/apps/optimization-for-ml-gradvale/icon-512.png",
   "screenshots": [
@@ -49,8 +49,10 @@
     }
   ],
   "ios": {
-    "status": "soon",
-    "url": ""
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/optimization-for-ml-gradvale/id6837475941",
+    "appleId": "6837475941",
+    "bundleId": "com.equalinformation.gradvale.app"
   },
   "android": {
     "status": "soon",

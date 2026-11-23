@@ -1,0 +1,98 @@
+{
+  "slug": "draftmere",
+  "name": "College Essays: Draftmere",
+  "subtitle": "Craft your own college essays",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Learn to write a college essay that sounds like you. Draftmere teaches the craft in 12 short units, gives you a private place to draft, and checks your…",
+  "longDescription": "Learn to write a college essay that sounds like you. Draftmere teaches the craft in 12 short units, gives you a private place to draft, and checks your understanding with questions that explain every answer. It never writes your essay. Every word stays yours.\n\n### How Each Unit Works\nStory: a student with a real writing problem. Try it: a guided exercise that finds your own material. Build it: steps, plus a short worked example from an invented student with notes on what the writer did. Check it: a self-check list for your own draft.\n\n12 UNITS\nFinding your story. Structure. Voice. Specific details. The personal statement. Supplements and \"why us\". Revising. Common mistakes. Integrity. Activity descriptions. A recommendation-friendly profile. Interview stories.\n\n### Your Drafting Space\nWrite privately on your phone or tablet with a live word count against the limit you choose, character count and read-aloud time. A five-pass revision checklist (story, shape, voice, detail, clean-up) keeps each rewrite focused. Drafts are stored only on your device.\n\n### Practice That Adapts\n216 original questions with a reason for every answer. Missed questions come back sooner. Pick Beginner, Curious or Scientist depth, quiz lengths of 5, 10 or 20, and a daily challenge with badges and a streak.\n\n### Built for Honest Writing\nDraftmere has no essay generator and no rewriting tool. A pledge screen and plain-language integrity notes explain what help is fine and what is not. Examples are invented and labelled for study, never for copying.\n\n### Sources You Can Open\nAdvice is backed by university writing centres and application bodies. Every source opens in a reading sheet inside the app.\n\n### Made for Teens\nWorks offline, no account. Text size from 50% to 300%. For ages 13 and up. The app asks your age once; people under 18 see only non-personalised ads, and under-13s cannot use it.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-draftmere.html",
+  "supportUrl": "https://equalinformation.com/app-support-draftmere.html",
+  "releasedAt": "2026-11-23",
+  "updatedAt": "2026-11-23",
+  "version": "1.0.0",
+  "icon": "assets/apps/draftmere/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/draftmere/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/draftmere/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/draftmere/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/draftmere/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/draftmere/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/draftmere/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/draftmere/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/draftmere/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/draftmere/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/draftmere/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/draftmere/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/draftmere/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/college-essays-draftmere/id6837882333",
+    "bundleId": "com.equalinformation.draftmere.app",
+    "appleId": "6837882333"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.draftmere.app"
+  },
+  "related": []
+}
