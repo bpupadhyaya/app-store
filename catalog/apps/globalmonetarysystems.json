@@ -28,8 +28,8 @@
   "ageRating": "4+",
   "privacyUrl": "https://bpupadhyaya.github.io/privacy-globalmonetarysystems.html",
   "supportUrl": "https://bpupadhyaya.github.io/app-support-globalmonetarysystems.html",
-  "releasedAt": "2026-09-16",
-  "updatedAt": "2026-11-17",
+  "releasedAt": "2026-11-23",
+  "updatedAt": "2026-11-23",
   "version": "1.0",
   "icon": "assets/apps/globalmonetarysystems/icon-512.webp",
   "hero": "assets/apps/globalmonetarysystems/hero.webp",
@@ -56,9 +56,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.globalmonetarysystems.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/globalmonetarysystems/id6812950698",
+    "bundleId": "com.equalinformation.globalmonetarysystems.app",
+    "appleId": "6812950698"
   },
   "android": {
     "status": "live",

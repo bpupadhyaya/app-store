@@ -22,8 +22,8 @@
   "price": "Free",
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
-  "releasedAt": "2026-11-18",
-  "updatedAt": "2026-11-18",
+  "releasedAt": "2026-11-23",
+  "updatedAt": "2026-11-23",
   "version": "1.0.0",
   "icon": "assets/apps/nlp-and-llms-tokora/icon-512.png",
   "screenshots": [
@@ -49,9 +49,10 @@
     }
   ],
   "ios": {
-    "status": "soon",
-    "url": "",
-    "bundleId": "com.equalinformation.tokora.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/nlp-and-llms-tokora/id6837492934",
+    "bundleId": "com.equalinformation.tokora.app",
+    "appleId": "6837492934"
   },
   "android": {
     "status": "soon",
