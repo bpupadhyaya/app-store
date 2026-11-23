@@ -1,0 +1,42 @@
+{
+  "slug": "biochemical-engineering-zymex",
+  "name": "Biochemical Engineering: Zymex",
+  "subtitle": "Biochemical Engineering Study",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "bioreactor",
+    "enzyme",
+    "fermentation",
+    "Monod",
+    "chemostat",
+    "kLa",
+    "Michaelis-Menten",
+    "sterilisation",
+    "quiz",
+    "undergraduate"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Follow a microbe or an enzyme from rate law to reactor. Seven live labs, 16 builds and adaptive practice with kind feedback. Free with ads.",
+  "longDescription": "Biochemical Engineering: Zymex is a study app for students who meet living catalysts in an engineering course: enzymes, microbes and cultured cells inside a vessel. It keeps asking one thing: how fast does it go, what limits it, and how would you make a bigger tank behave like the small one?\n\nTwo ways in, one record. The classroom route has 16 units: stoichiometry and yields, enzyme kinetics and inhibition, bead diffusion, cell growth, batch to chemostat operation, oxygen transfer, mixing and power, scale-up, heat kill of contaminants, downstream recovery, metabolic flux, gene expression, mixed cultures, medical uses, traditional industries and costing. The build route hands you something to make, such as a feed schedule or a harvest train, and opens a lesson when you need it. There are 16 builds with 83 checked steps, and progress carries across when you switch.\n\nSeven labs run on your phone's graphics chip. Slide the dilution rate and watch a culture wash out. Bend the aeration setting and follow dissolved oxygen. Map an inhibitor on a double-reciprocal plot. Shape a fed-batch feed. Heat a broth and read the survivor field. Probe a porous bead. Push a column to breakthrough. Each lab states its equation, cites a source and checks its numbers a second way.\n\nPractice learns you. 738 original questions sit on four levels, Beginner to Research. 423 are numeric, fitted or regime-identification items, each solved by two independent methods before it was written in; 315 are reasoning items for practice. Thirteen multi-step problems and two timed 120-minute paper-style mocks (96 marks each) add depth. A miss brings a plain-spoken hint, the lesson behind it and a fresh item on the same idea. Pick 5, 10, 20, 40 or your own number of questions.\n\nExact coverage: 83 of 83 mapped course points covered with 8 or more questions each. The Coverage screen shows every point, its proof line and its sources. Against outside outlines the map is partial, for example 15 of 25 sessions of one open university course and 7 of 10 items read from an engineering exam specification; this is not an exam product.\n\nCitations open in a wide sheet you close with one tap. Text size runs from 50 to 300 percent. No sign-in, everything works offline, and your progress stays on your device.\n\nFree with ads at natural breaks, never inside a timed paper. A short video opens extra features for a day. An optional monthly subscription removes ads and opens everything, billed every month until you cancel in your account settings; the store shows the price before you confirm, and Restore is under More. Lessons, worked solutions, feedback and progress are never locked.\n\nTeaching only. Models are simplified and there are no culturing instructions; nothing here is guidance for running a real plant or for any medical decision. No tie to any university, standards body or publisher named in the sources.\n\nPrivacy Policy: https://equalinformation.com/privacy-biochemical-engineering-zymex.html\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+  "whatsNew": "First release: adaptive Biochemical Engineering course with practice, labs and quizzes of the length and level you choose.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/biochemical-engineering-zymex/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-biochemical-engineering.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_biochemical_engineering.app"
+  },
+  "related": []
+}
