@@ -1,0 +1,42 @@
+{
+  "slug": "mechanical-behavior-yieldora",
+  "name": "Mechanical Behavior: Yieldora",
+  "subtitle": "Mechanical Behavior Materials",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "fatigue",
+    "fracture",
+    "creep",
+    "plasticity",
+    "dislocation",
+    "stress",
+    "strain",
+    "Mohr circle",
+    "quiz",
+    "undergraduate"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Learn why materials yield, creep, fatigue and fracture: 3D yield surfaces, dislocations, crack tips and 18 cited labs, with adaptive quizzes. Free with ads.",
+  "longDescription": "Mechanical Behavior: Yieldora explains why solids bend, flow, wear out and break, and gives you the numbers to predict it. It follows an upper-level materials course, from elastic constants to fracture, and is for engineering and materials-science students.\n\nPick how to study. The classical view runs 14 chapters and 74 teaching points: elasticity and anisotropy, yield criteria, dislocations and strengthening, hardening and necking, fracture mechanics, fatigue crack growth, creep, statistical strength, contact, hydrogen and more. The real-world view starts from a thing to check or build, for example a pressure-vessel yield margin, and opens the lesson when the next step needs it. 19 builds and the course share one record, so switching view keeps your progress.\n\n18 interactive labs draw on the graphics chip: drag a 3D von Mises or Tresca yield surface, tilt the plane of a 3D Mohr circle, push a dislocation through a lattice and watch it pile up, probe the stress field at a crack tip, read a creep map, grow a plastic zone or a void, trace a Weibull curve and place a point on a failure-assessment diagram. Every lab cites its relation and checks itself with an independent second method.\n\nPractice adapts. 688 original quiz questions run over four levels from Beginner to Research; numeric answers were each computed twice by different routes, and 246 concept items are for practice. The app follows what you know, resurfaces what is slipping and links each miss to the lesson behind it, kindly and specifically. Choose 5, 10, 20 or 40 questions, or your own length. 18 case studies and 3 timed paper-style practice exams are included.\n\nCoverage, stated plainly: 67 of 74 points cite a topic of an opened MIT OCW course or a NASA standard, 7 rest on encyclopedia headings only. We do not claim to cover every topic of any course or textbook; the Coverage screen lists what is not covered, such as multiaxial fatigue criteria and crystal plasticity finite elements.\n\nSources open in a wide sheet with Back and Close. Text can be sized from 50 to 300 percent. No sign-in, no network needed, and your progress stays on your device.\n\nFree with ads at natural breaks. A short video unlocks Plus features for a day, or an optional monthly subscription removes ads and unlocks everything. Lessons, worked solutions and progress are never locked. The subscription renews monthly until cancelled in your account settings, and the store shows the price before you confirm. Restore purchases is under More.\n\nFor study only; not design approval, certification or failure-investigation advice. No affiliation with any university, standards body or publisher named in the sources.\n\nPrivacy Policy: https://equalinformation.com/privacy-mechanical-behavior-yieldora.html\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+  "whatsNew": "First release: adaptive Mechanical Behavior course with practice, labs and quizzes of the length and level you choose.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "releasedAt": "2026-11-16",
+  "updatedAt": "2026-11-16",
+  "version": "1.0.0",
+  "icon": "assets/apps/mechanical-behavior-yieldora/icon-512.png",
+  "ios": {
+    "status": "soon",
+    "url": "",
+    "bundleId": "com.equalinformation.course-eng-mechanical-behavior-materials.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.course_eng_mechanical_behavior_materials.app"
+  },
+  "related": []
+}
