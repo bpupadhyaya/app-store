@@ -57,8 +57,8 @@
     "bundleId": "com.equalinformation.stoneskippingdeluxe.app"
   },
   "android": {
-    "status": "live",
-    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.stoneskippingdeluxe.app",
+    "status": "soon",
+    "url": "",
     "package": "com.equalinformation.stoneskippingdeluxe.app"
   },
   "related": []
