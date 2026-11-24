@@ -35,8 +35,8 @@
     "bundleId": "com.equalinformation.ieltsprep.app"
   },
   "android": {
-    "status": "soon",
-    "url": "",
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.ieltsprep.app",
     "package": "com.equalinformation.ieltsprep.app"
   },
   "related": []

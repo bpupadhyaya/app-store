@@ -58,8 +58,8 @@
     "appleId": "6835765643"
   },
   "android": {
-    "status": "soon",
-    "url": "",
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.voltmoor.app",
     "package": "com.equalinformation.voltmoor.app"
   },
   "related": [],
