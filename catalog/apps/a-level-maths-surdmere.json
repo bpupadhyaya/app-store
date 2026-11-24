@@ -1,0 +1,95 @@
+{
+  "slug": "a-level-maths-surdmere",
+  "name": "A Level Maths: Surdmere",
+  "subtitle": "AS and A level maths practice",
+  "categories": [
+    "education"
+  ],
+  "tags": [],
+  "developer": "EqualInformation",
+  "shortDescription": "Practise A level and AS Maths with a desk that checks what you know and serves the next idea you need.",
+  "longDescription": "Practise A level and AS Maths with a desk that checks what you know and serves the next idea you need.\n\n### What You Get\n- 75 concepts mapped to every DfE A level maths content statement (88), split into 178 assessable points, each with at least 8 original practice questions. Pure, statistics and mechanics, with an AS toggle. A Coverage screen shows every point, your mastery and the sources.\n- Over 2,800 original questions, each with a worked explanation. Computed answers were checked a second way in code.\n- Seven labs you can play with: calculus (tangents and area), graph transformations, trigonometry, vectors and forces, distributions and hypothesis tests, projectile motion, and Newton-Raphson and the trapezium rule.\n- A Real-World view with 15 build-led problems (design a roller-coaster hill, plan a launch, run quality control for a factory, plan savings and loans, model a medicine dose, check a loaded beam and more): each step teaches just what it needs, then you check it, and finished builds go on your Made-it shelf. Switch between Syllabus and Real-world with one tap.\n- A Data desk with an original practice data set for cleaning, outliers and sampling, plus notes on how AQA, Pearson Edexcel and OCR treat their Large Data Set.\n\n### Personalized, in Plain Words\nSurdmere remembers, on your device only, how well you hold each concept and how recently you practised it. After every quick check it shows you exactly what to reread, links to the example or lab for it, and tells you in one line why it suggests a concept next. Concepts you have not seen for a while come back for review. Study in syllabus order, or switch to the Build-it path; your progress is shared.\n\nOTHER BOARDS (OPTIONAL)\nA quiet Other boards chip on each topic and a Curriculum map show where it sits in GCSE, IB and AP, with what differs, so you can prepare extra material if you move between systems. It is free, approximate and can be switched off.\n\n### Tests\nUnit tests, a cumulative test, 30-minute practice papers and 36 full-length mock papers (2 hours, about 40 questions) in the structure of AQA, Pearson Edexcel, OCR A and OCR B (MEI) papers, each ending with a report and a study plan. Practice papers are original; marks are ours, not a board mark scheme.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-alevel-maths-surdmere.html",
+  "releasedAt": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "version": "1.0.0",
+  "icon": "assets/apps/a-level-maths-surdmere/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/a-level-maths-surdmere/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-maths-surdmere/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-maths-surdmere/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-maths-surdmere/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-maths-surdmere/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-maths-surdmere/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-maths-surdmere/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-maths-surdmere/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-maths-surdmere/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-maths-surdmere/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-maths-surdmere/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-maths-surdmere/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/a-level-maths-surdmere/id6838481142",
+    "bundleId": "com.equalinformation.surdmere.app",
+    "appleId": "6838481142"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.surdmere.app"
+  },
+  "related": []
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "gcse-science-prep-orbitane",
+  "name": "GCSE Science Prep: Orbitane",
+  "subtitle": "Combined Science practicals",
+  "categories": [
+    "education"
+  ],
+  "tags": [],
+  "developer": "EqualInformation",
+  "shortDescription": "GCSE Combined Science revision that adapts to you. Orbitane covers biology, chemistry and physics for the Double Award (Trilogy and Synergy style courses…",
+  "longDescription": "GCSE Combined Science revision that adapts to you. Orbitane covers biology, chemistry and physics for the Double Award (Trilogy and Synergy style courses; suitable alongside AQA, Pearson Edexcel and OCR Gateway specifications), for Foundation and Higher tier.\n\n### Learn Like a Lab\nNine required-practical simulators let you do the experiment, not just read about it: microscope and magnification, potato osmosis, amylase and pH, pondweed and light, rate of reaction, circuits and I-V graphs, force and acceleration, ripple-tank waves and specific heat capacity. Plan the variables, take readings, plot your own data, then answer questions worked out from your results.\n\n### Teacher-Style Adaptive Practice\n59 topics follow the Department for Education subject content, each with short lessons, typeset formulas, a worked example and common mistakes. 4,386 original questions with explained answers. After every quiz you get Fix it links to the exact lesson card for what you missed, plus the next best topic and one line on why. Weak topics return on a spaced schedule. Progress stays on your device.\n\n### Two Ways to Study, One Progress\nSyllabus view follows the course in order from Biology to Physics. Real-World view, Investigate it, has you build things step by step: ten builds such as a smart greenhouse, a vaccine clinic or a safer car. Each step teaches just what you need, then checks it, and finished builds go on your Made-it shelf. Switch any time with one tap; your progress is the same in both. Weak spots and Lab first views are also there.\n\n### Tests with a Report\nUnit tests, cumulative tests and quick mocks, with a report of weak topics and a 7-day study plan. Board-style practice papers follow the paper structures of AQA, Pearson, OCR and Eduqas (44 papers, Foundation and Higher), and full mocks are available with a 24 hour unlock.\n\n### See What Is Covered\nA Coverage screen tracks your mastery on 519 specification points drawn from the DfE Combined Science content and the AQA, Pearson, OCR and Eduqas specifications, each with at least 8 original questions. An optional Other boards chip shows where each topic sits in A Level, IB and AP (approximate: check your own specification).",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-orbitane.html",
+  "releasedAt": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "version": "1.0.0",
+  "icon": "assets/apps/gcse-science-prep-orbitane/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/gcse-science-prep-orbitane/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-science-prep-orbitane/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-science-prep-orbitane/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-science-prep-orbitane/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-science-prep-orbitane/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-science-prep-orbitane/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-science-prep-orbitane/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-science-prep-orbitane/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-science-prep-orbitane/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-science-prep-orbitane/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-science-prep-orbitane/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-science-prep-orbitane/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/gcse-science-prep-orbitane/id6838471925",
+    "bundleId": "com.equalinformation.orbitane.app",
+    "appleId": "6838471925"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.orbitane.app"
+  },
+  "related": []
+}

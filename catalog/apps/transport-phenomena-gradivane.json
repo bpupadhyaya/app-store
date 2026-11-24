@@ -24,14 +24,15 @@
   "price": "Free",
   "monetization": "Free core course, optional monthly Plus",
   "ageRating": "4+",
-  "releasedAt": "2026-11-16",
-  "updatedAt": "2026-11-23",
+  "releasedAt": "2026-11-24",
+  "updatedAt": "2026-11-24",
   "version": "1.0.0",
   "icon": "assets/apps/transport-phenomena-gradivane/icon-512.png",
   "ios": {
-    "status": "soon",
-    "url": "",
-    "bundleId": "com.equalinformation.course-eng-transport-phenomena.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/transport-phenomena-gradivane/id6838232174",
+    "bundleId": "com.equalinformation.course-eng-transport-phenomena.app",
+    "appleId": "6838232174"
   },
   "android": {
     "status": "soon",

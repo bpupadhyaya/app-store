@@ -1,0 +1,97 @@
+{
+  "slug": "pe-electrical-exam-prep-joulz",
+  "name": "PE Electrical Exam Prep: Joulz",
+  "subtitle": "PE Electrical Power Practice",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "PE Electrical Exam Prep: Joulz is an independent practice app for adults preparing for the NCEES PE Electrical and Computer: Power exam.",
+  "longDescription": "PE Electrical Exam Prep: Joulz is an independent practice app for adults preparing for the NCEES PE Electrical and Computer: Power exam. It covers every subtopic NCEES publishes in its Power exam specification (nine knowledge areas, 39 subtopics) and shows your progress on each one. It is study material, not the exam.\n\n### What You Get\n- 19 study units, each with a short applied story, something to try, something to build and a check question\n- 960+ original questions with a worked solution that names the common slip; numeric answers are recomputed by a second method before release\n- Eight full-length 80-question practice mocks in a computer-based style: question navigator, flag for review, strike-through, on-screen scientific calculator with phasor conversion, exam clock, optional break and a score-by-area report; plus half-day, 20 and 40 question timed sets, area tests and subtopic quizzes (scaled practice estimates, never an NCEES score)\n- 11 labs you can move: phasors, three-phase power, transformer, per-unit, fault currents, motors, power-factor correction, protection coordination, power flow, stability and voltage regulation\n- 10 interactive 3D simulations: three-phase fields, transformer, induction motor, synchronous machine, one-line power flow, transmission line, faults and relays, grounding grid, lightning protection and a solar-battery microgrid\n- Typeset equations with tappable symbols, 85 verified relations\n- A coverage screen with your mastery on every NCEES subtopic, quick checks after each lesson, and a report that links what you missed back to the right material; learn in NCEES order or by building real projects\n- A state guide for licensure: your board, education, experience, FE and exam steps with a source link and verified date on every fact; where a fact could not be confirmed it says check with the board\n- Works offline, with no account; text size from 50 to 300 percent\n\n### Codes and References\nQuestions cite, and never reproduce, the editions the exam scores against: NEC (NFPA 70) 2020, NFPA 70E 2021, NFPA 497 and 499 2021, NFPA 30B 2023 and NESC (ANSI C2) 2017. Candidates also receive the NCEES PE Electrical and Computer: Power Reference Handbook through MyNCEES; learn to use it, it is not included here.\n\n### Adults Only\nThis app is for adults aged 18 and over.\n\n### Not Affiliated with Ncees\nNCEES and PE are marks of their owners and are used only to identify the exam. This app is not affiliated with, endorsed by or sponsored by NCEES. All questions, text and figures are original. Licensure rules vary by state: always confirm with your board. Study material only, not a design reference for real projects.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-ampwick.html",
+  "releasedAt": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "version": "1.0.0",
+  "icon": "assets/apps/pe-electrical-exam-prep-joulz/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/pe-electrical-exam-prep-joulz/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pe-electrical-exam-prep-joulz/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pe-electrical-exam-prep-joulz/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pe-electrical-exam-prep-joulz/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pe-electrical-exam-prep-joulz/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pe-electrical-exam-prep-joulz/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pe-electrical-exam-prep-joulz/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pe-electrical-exam-prep-joulz/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pe-electrical-exam-prep-joulz/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pe-electrical-exam-prep-joulz/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pe-electrical-exam-prep-joulz/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/pe-electrical-exam-prep-joulz/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/pe-electrical-exam-prep-joulz/id6837935897",
+    "bundleId": "com.equalinformation.ampwick.app",
+    "appleId": "6837935897"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.ampwick.app"
+  },
+  "related": []
+}

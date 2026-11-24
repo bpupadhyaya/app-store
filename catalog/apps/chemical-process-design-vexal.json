@@ -24,14 +24,15 @@
   "price": "Free",
   "monetization": "Free core course, optional monthly Plus",
   "ageRating": "4+",
-  "releasedAt": "2026-11-16",
-  "updatedAt": "2026-11-23",
+  "releasedAt": "2026-11-24",
+  "updatedAt": "2026-11-24",
   "version": "1.0.0",
   "icon": "assets/apps/chemical-process-design-vexal/icon-512.png",
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.course-eng-chemical-process-design.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/chemical-process-design-vexal/id6838232634",
+    "bundleId": "com.equalinformation.course-eng-chemical-process-design.app",
+    "appleId": "6838232634"
   },
   "android": {
     "status": "soon",

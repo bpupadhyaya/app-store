@@ -1,0 +1,95 @@
+{
+  "slug": "gcse-physics-prep-physvane",
+  "name": "GCSE Physics Prep: Physvane",
+  "subtitle": "Physics equations & practicals",
+  "categories": [
+    "education"
+  ],
+  "tags": [],
+  "developer": "EqualInformation",
+  "shortDescription": "GCSE Physics revision that adapts to you. Physvane covers the whole separate-science (triple) physics course for Foundation and Higher tier, with the equation…",
+  "longDescription": "GCSE Physics revision that adapts to you. Physvane covers the whole separate-science (triple) physics course for Foundation and Higher tier, with the equation sheet at the centre. Suits AQA, Pearson Edexcel and OCR Gateway courses; O Level and IGCSE learners will find much of it similar.\n\nCOVERAGE YOU CAN SEE: a built-in Coverage screen tracks your mastery against every point of the DfE GCSE physics content and the AQA, Pearson Edexcel and OCR specifications. In our own check, every point in the DfE content and in OCR J249 and J259 is covered, AQA 8463 is covered for 158 of 159 points and Pearson 1PH0 for 295 of 296 (the one gap is an interactive infrared-surfaces lab; the lesson and questions are there). Independent study aid, not affiliated with or endorsed by AQA, Pearson, OCR, Ofqual or the DfE.\n\n### Equation Deck and Solver\nEvery GCSE physics equation is a live card. Tap one, choose the unknown, type what you know with its units, and Physvane converts prefixes, checks your rearrangement, shows the working step by step and flags unit mistakes such as milliamps used as amps. Forty-two equations, each linked to its lessons.\n\n### Eight Practicals You Run Yourself\nSpecific heat capacity, thermal insulation, resistance and I-V, density, force and extension, force mass and acceleration, ripple-tank waves and refraction through a block. For each one you plan the variables, set up, take readings, plot your own graph and write a conclusion, then answer a question worked out from your results.\n\n### Separate-Science Depth\nMoments and levers, fluid pressure, lenses and ray diagrams, ultrasound and seismic waves, black-body radiation, fission and fusion, generators, microphones, loudspeakers and transformers, gas pressure and volume, and the life cycle of stars with red-shift are full topics, not footnotes. Triple-only content is badged.\n\n### Practice That Personalises\n58 topics, over 690 original questions with explained answers. After every quiz you get a Fix it link to the exact lesson card for what you missed, the next best topic and one line on why. Weak topics come back on a schedule. Everything runs on your device; no account.\n\n### Two Ways to Study\nSyllabus view follows the course in order, with Weak spots, Equation-first and Triple-only modes. Real-World view has you make things step by step: design a low-energy classroom, wire a safe night-light, design a crash-safe car, build a ray-and-wave studio or plan a mission to Mars. Switch any time; your progress is shared.\n\n### See Where Each Topic Sits Next\nAn optional Other boards chip on each topic shows the nearest A Level, IB and AP unit, how closely it matches and what differs, with a short practice set on the gap.\n\n### Tests with a Report\nUnit tests, cumulative tests and mock papers for Foundation or Higher, with a report of weak topics and a seven-day study plan.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-gcse-physics-physvane.html",
+  "releasedAt": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "version": "1.0.0",
+  "icon": "assets/apps/gcse-physics-prep-physvane/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/gcse-physics-prep-physvane/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-physics-prep-physvane/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-physics-prep-physvane/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-physics-prep-physvane/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-physics-prep-physvane/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-physics-prep-physvane/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-physics-prep-physvane/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-physics-prep-physvane/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-physics-prep-physvane/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-physics-prep-physvane/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-physics-prep-physvane/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-physics-prep-physvane/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/gcse-physics-prep-physvane/id6838178077",
+    "bundleId": "com.equalinformation.gcsephysicsphysvane.app",
+    "appleId": "6838178077"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.gcsephysicsphysvane.app"
+  },
+  "related": []
+}

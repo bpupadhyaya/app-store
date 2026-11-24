@@ -1,0 +1,97 @@
+{
+  "slug": "a-level-psych-prep-mindvale",
+  "name": "A Level Psych Prep: Mindvale",
+  "subtitle": "AQA Edexcel OCR Eduqas",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A Level Psych Prep: Mindvale is A Level Psychology revision that adapts to you. After every short lesson a quick quiz updates a private learner model on your…",
+  "longDescription": "A Level Psych Prep: Mindvale is A Level Psychology revision that adapts to you. After every short lesson a quick quiz updates a private learner model on your device, then links you straight to the exact lesson for anything you missed and tells you why that comes next.\n\nWhat is inside\n- 215 lessons across 16 units: core topics (social influence, memory, attachment, psychopathology, approaches, biopsychology, research methods, statistics, issues and debates) plus the topics each board adds. Pick AQA 7182, Pearson Edexcel 9PS0, OCR H567 or WJEC Eduqas in Settings.\n- Coverage screen: 555 specification points tracked across the four boards (AQA 125, Edexcel 201, OCR 152, Eduqas 77), each with at least eight original questions, and your mastery per point. Exact counts and the source of every list are on that screen.\n- Design Studio: eight research questions where you judge each design decision (hypothesis, design, sampling, controls, test) and see why every option works or fails.\n- Stats labs: drag scores and watch mean, median and standard deviation respond; run a sign test and predict N and S; drag points on a scattergram and watch Spearman's rho change.\n- Two ways to study, one tap apart: the Syllabus view (curriculum order, the default) or the Real-World view, Investigate it, where you build real things such as a study plan, a results section or a campaign plan, and each step teaches the idea you need just in time. Finished builds go on your Made-it shelf.\n- Unit tests, cumulative tests and three timed paper-style mocks per board (30 multiple-choice questions, 45 minutes, following the paper's topics and timing), each ending with a report, weak concepts and a study plan.\n- Other boards: an optional, quiet map of where each topic sits in GCSE, A Level, IB and AP.\n- Over 3,700 original questions and explanations with cited specification sections; multiple-choice practice, not a replacement for written practice or past papers.\n- Text size from 50% to 300%. Works offline. No account.\n\nA Level Psych Prep is free to start, with optional Mindvale Plus. Plus is one monthly subscription that adds the Sign test and Correlation labs, design cases 3 to 8, thirteen more Real-World builds and paper-style mock papers for every board. Cancel any time: if you cancel, Plus stays active until the end of the month you have paid for and you are not charged again. Subscriptions renew monthly until cancelled in your account settings.\n\nNot affiliated with or endorsed by AQA, Pearson, OCR, WJEC/Eduqas, Ofqual or the Department for Education. Specifications change: check your board's current document.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-alevel-psychology-mindvale.html",
+  "releasedAt": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "version": "1.0.0",
+  "icon": "assets/apps/a-level-psych-prep-mindvale/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/a-level-psych-prep-mindvale/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-psych-prep-mindvale/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-psych-prep-mindvale/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-psych-prep-mindvale/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-psych-prep-mindvale/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-psych-prep-mindvale/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-psych-prep-mindvale/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-psych-prep-mindvale/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-psych-prep-mindvale/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-psych-prep-mindvale/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-psych-prep-mindvale/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-psych-prep-mindvale/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/a-level-psych-prep-mindvale/id6838476799",
+    "bundleId": "com.equalinformation.mindvale.app",
+    "appleId": "6838476799"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.mindvale.app"
+  },
+  "related": []
+}

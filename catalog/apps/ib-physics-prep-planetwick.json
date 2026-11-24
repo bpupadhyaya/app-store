@@ -1,0 +1,97 @@
+{
+  "slug": "ib-physics-prep-planetwick",
+  "name": "IB Physics Prep: Planetwick",
+  "subtitle": "IB SL & HL practice and labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "IB Physics Prep: Planetwick helps IB Physics SL and HL students practise, understand and revise. It works offline, with no account.",
+  "longDescription": "IB Physics Prep: Planetwick helps IB Physics SL and HL students practise, understand and revise. It works offline, with no account.\n\n### Learn Your Way\n- Syllabus view: follow the five themes in order, A Space, time and motion; B The particulate nature of matter; C Wave behaviour; D Fields; E Nuclear and quantum physics.\n- Real-World view: build things, from a safe roller-coaster loop to a wave measurement plan, and meet the physics exactly when each step needs it. Your builds go on a Made-it shelf.\n- Switch between the two views at any time. Your progress is shared.\n- SL and HL toggle: HL-only content stays hidden at SL.\n\n### Practise and Adapt\n- Short quizzes after every lesson, with question lengths of 5, 10, 20 or all.\n- Wrong answers link straight to the material you missed, with a one-line reason for what to study next.\n- Unit tests, mixed practice and mock-style sets with a report and study plan.\n- Command-term trainer: learn what Define, Explain, Calculate, Evaluate and the others ask for, then drill them.\n- Internal assessment coach: checklists and questions that help you plan your own investigation. It never writes your work.\n\n### See It Move\n- Interactive labs for projectile motion, springs, double slit, radioactive decay, the photoelectric effect, gas laws and circuits.\n\n### Readable and Honest\n- Text zoom from 50 to 300 percent, with large, clear type.\n- Optional Other boards chip and Curriculum map show where a topic has similar content in A Level and AP courses.\n- Every question and explanation is original. Topic names and SL/HL levels follow the published IB Physics subject brief; check your own guide and teacher for exact requirements.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-ib-physics-planetwick.html",
+  "releasedAt": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "version": "1.0.0",
+  "icon": "assets/apps/ib-physics-prep-planetwick/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/ib-physics-prep-planetwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-physics-prep-planetwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-physics-prep-planetwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-physics-prep-planetwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-physics-prep-planetwick/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-physics-prep-planetwick/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-physics-prep-planetwick/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-physics-prep-planetwick/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-physics-prep-planetwick/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-physics-prep-planetwick/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-physics-prep-planetwick/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-physics-prep-planetwick/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/ib-physics-prep-planetwick/id6838473895",
+    "bundleId": "com.equalinformation.ibphysicsplanetwick",
+    "appleId": "6838473895"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.ibphysicsplanetwick"
+  },
+  "related": []
+}
