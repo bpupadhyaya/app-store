@@ -102,8 +102,8 @@
     "appleId": "6834737375"
   },
   "android": {
-    "status": "soon",
-    "url": "",
+    "status": "live",
+    "url": "https://play.google.com/store/apps/details?id=com.equalinformation.examieltsvocab.app",
     "package": "com.equalinformation.examieltsvocab.app"
   },
   "related": []
