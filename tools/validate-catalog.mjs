@@ -18,7 +18,7 @@ for (const a of cat.apps) {
   for (const k of ['name', 'subtitle', 'shortDescription', 'longDescription', 'price', 'monetization', 'ageRating', 'icon']) if (!isStr(a[k])) err(w, 'missing ' + k);
   if (a.developer !== 'EqualInformation') err(w, 'developer must be EqualInformation');
   if (a.price !== 'Free') err(w, 'price must be Free');
-  if (isStr(a.monetization) && !/ads/i.test(a.monetization)) err(w, 'monetization must disclose ads');
+  if (isStr(a.monetization) && !/ads|plus|subscription/i.test(a.monetization)) err(w, 'monetization must state how the app earns (ads, Plus or subscription)');
   if (isStr(a.shortDescription) && a.shortDescription.length > 160) err(w, 'shortDescription > 160 chars');
   if (!Array.isArray(a.categories) || !a.categories.length) err(w, 'categories needs >=1'); else for (const c of a.categories) if (!catIds.has(c)) err(w, 'unknown category ' + c);
   if (!date(a.releasedAt)) err(w, 'releasedAt YYYY-MM-DD'); if (!date(a.updatedAt)) err(w, 'updatedAt YYYY-MM-DD');
