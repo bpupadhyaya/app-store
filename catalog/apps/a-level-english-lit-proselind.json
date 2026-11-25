@@ -56,9 +56,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.proselind.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/a-level-english-lit-proselind/id6839287239",
+    "bundleId": "com.equalinformation.proselind.app",
+    "appleId": "6839287239"
   },
   "android": {
     "status": "soon",

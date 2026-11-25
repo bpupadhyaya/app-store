@@ -56,9 +56,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.terrawick.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/a-level-geography-terrawick/id6839292273",
+    "bundleId": "com.equalinformation.terrawick.app",
+    "appleId": "6839292273"
   },
   "android": {
     "status": "soon",

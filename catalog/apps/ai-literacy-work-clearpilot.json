@@ -49,8 +49,9 @@
     }
   ],
   "ios": {
-    "status": "soon",
-    "url": ""
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.clearpilot.app"
   },
   "android": {
     "status": "soon",

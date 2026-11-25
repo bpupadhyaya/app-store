@@ -56,9 +56,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.quartwren.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/gcse-statistics-quartwren/id6839332824",
+    "bundleId": "com.equalinformation.quartwren.app",
+    "appleId": "6839332824"
   },
   "android": {
     "status": "soon",

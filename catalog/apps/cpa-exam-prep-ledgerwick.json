@@ -52,7 +52,7 @@
     }
   ],
   "ios": {
-    "status": "soon",
+    "status": "review",
     "url": "",
     "bundleId": "com.equalinformation.ledgerwick.app"
   },

@@ -51,7 +51,8 @@
   "ios": {
     "status": "live",
     "url": "https://apps.apple.com/us/app/ai-assisted-coding-diffwren/id6837555983",
-    "appleId": "6837555983"
+    "appleId": "6837555983",
+    "bundleId": "com.equalinformation.diffwren.app"
   },
   "android": {
     "status": "soon",

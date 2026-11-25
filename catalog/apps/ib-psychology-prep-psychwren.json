@@ -56,9 +56,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.ibpsychologypsychwren.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/ib-psychology-prep-psychwren/id6839285032",
+    "bundleId": "com.equalinformation.ibpsychologypsychwren.app",
+    "appleId": "6839285032"
   },
   "android": {
     "status": "soon",
