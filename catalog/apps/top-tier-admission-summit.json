@@ -1,0 +1,97 @@
+{
+  "slug": "top-tier-admission-summit",
+  "name": "Top-Tier Admission: Summit",
+  "subtitle": "Highly selective, US and UK",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Highly selective admissions in the US and UK, explained honestly: no guarantees, no chances, just how it works and how to plan.",
+  "longDescription": "Highly selective admissions in the US and UK, explained honestly: no guarantees, no chances, just how it works and how to plan.\n\nTop-Tier Admission: Summit is an independent course for students and families aiming at very selective universities, including the Ivy League and peers in the United States and Oxford and Cambridge in the United Kingdom. It is not affiliated with or endorsed by any university, UCAS, the Common App, College Board, ACT or any test provider; names are used only to describe things.\n\nFifteen units, each with a story, a decision to try, something to build and a check with reasons. 437 original questions cover 45 admissions topics, tied to cited sources.\n\n### The Us Route\n- How holistic review really works, and what the published numbers do and do not mean\n- Spike versus breadth, academics and rigour, SAT and ACT realities\n- Activities, recommendations, essays, supplements and interviews\n- Early plans, hooks, legacy and recruited athletes, ethically\n- Waitlists, rejection and a strong plan B\n\n### The Oxford and Cambridge Route\n- UCAS step by step: five choices, only one of Oxford or Cambridge, the 15 October deadline, college choice versus open application\n- Predicted grades and typical offers, the personal statement, references\n- Admissions tests and interviews, with original worked reasoning questions\n- Oxford versus Cambridge, international applicants, fees and funding\n\n### Seven Planning Tools\n- Spike-versus-breadth profile simulator: ranges against published bands, never probabilities\n- Very-selective list balancer: every very selective school is treated as a reach, with a plan B check\n- Oxbridge application checklist and timeline\n- Early-versus-regular decision planner\n- US and UK deadline timeline\n- UK course profile: predicted grades, tests and super-curricular depth\n- Numbers explorer: admit rates and score bands for 60+ schools, with sources and dates\n\n### Personalized Practice\nThe app keeps a private, on-device model of what you know. Short quizzes tell you which concept you missed and link straight to its explanation; a cumulative test gives a report with weak concepts and a study plan. Switch between the syllabus order and Build-it: guided builds that teach each idea just when you need it while you make your US list, your Oxford or Cambridge application or your story plan, and keep the finished plan.\n\n### Real Data, Cited\nAdmission rates and score ranges from the US Department of Education College Scorecard and the universities' own admissions pages, with dates shown. Every lesson cites its sources, and each source opens in a sheet inside the app. A Coverage screen lists every topic with its question counts. Always confirm details on each school's own page.\n\n### Private By Design\nNo account and no sign-up. We collect no personal data; progress, lists and plans stay on your device. Works offline. Text size 50% to 300%, and iPad uses the whole screen with side-by-side panes.\n\nEducational only; no admission is predicted or guaranteed.\n\nQuestions or corrections: support@equalinformation.com",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-summit.html",
+  "releasedAt": "2026-11-24",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/top-tier-admission-summit/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/top-tier-admission-summit/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/top-tier-admission-summit/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/top-tier-admission-summit/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/top-tier-admission-summit/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/top-tier-admission-summit/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/top-tier-admission-summit/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/top-tier-admission-summit/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/top-tier-admission-summit/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/top-tier-admission-summit/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/top-tier-admission-summit/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/top-tier-admission-summit/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/top-tier-admission-summit/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/top-tier-admission-summit/id6837927962",
+    "bundleId": "com.equalinformation.summit.app",
+    "appleId": "6837927962"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.summit.app"
+  },
+  "related": []
+}
