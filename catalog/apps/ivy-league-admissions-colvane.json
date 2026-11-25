@@ -1,0 +1,97 @@
+{
+  "slug": "ivy-league-admissions-colvane",
+  "name": "Ivy League Admissions: Colvane",
+  "subtitle": "Ivy admissions, made honest",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Most strong applicants to the eight Ivy League schools are rejected. Colvane teaches how those applications really work, with no guarantees and no chances, so…",
+  "longDescription": "Most strong applicants to the eight Ivy League schools are rejected. Colvane teaches how those applications really work, with no guarantees and no chances, so you can build a balanced plan with excellent options.\n\nColvane is an independent course for students and families. Not affiliated with or endorsed by the Ivy League or any university. Brown, Columbia, Cornell, Dartmouth, Harvard, Penn, Princeton and Yale are named only to describe facts about their published application rules. The app uses no logos, crests, seals or imagery of any school.\n\nWhat you get\n- 12 short units: what the Ivy League is and is not, how to read the numbers, academics and rigour, tests, activities and recruited athletes, recommendations and alumni interviews, essays, early plans, hooks and legacy explained as published, paying for it, balanced lists, and rejection resilience.\n- Each unit: a story, a decision to try, something to build for your own plan, and a check of questions with reasons.\n- 200+ original questions with explanations, a daily challenge and badges.\n- A workbench for each of the eight schools: published numbers with source and date, a requirements checklist, early plans, essay themes to study, aid policy as published, interviews and notes.\n- Six planning tools: early-plan decision planner, side-by-side comparison, reach-everywhere list builder with non-Ivy matches, essay lab, plan B and resilience kit, and a deadline timeline.\n- Typeset equations with a typed version, text size from 50% to 300%, and every source opens in the app.\n\nHonest by design\nNumbers come from public sources (US Department of Education College Scorecard, each school's Common Data Set and own pages) with dates shown. Policies change: always confirm on each school's own page. Educational information only, not admissions, legal or financial advice.\n\nFree, with ads at natural breaks. An optional monthly subscription removes ads (7-day free trial; cancel any time in your account settings). Everything works offline, no account needed. Under-13 users see no ads; 13 to 17 see non-personalised ads only.\n\nNot affiliated with or endorsed by the Ivy League or any university.\n\nQuestions or corrections: support@equalinformation.com",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-colvane.html",
+  "releasedAt": "2026-11-24",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/ivy-league-admissions-colvane/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/ivy-league-admissions-colvane/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ivy-league-admissions-colvane/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ivy-league-admissions-colvane/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ivy-league-admissions-colvane/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ivy-league-admissions-colvane/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ivy-league-admissions-colvane/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ivy-league-admissions-colvane/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ivy-league-admissions-colvane/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ivy-league-admissions-colvane/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ivy-league-admissions-colvane/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ivy-league-admissions-colvane/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ivy-league-admissions-colvane/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/ivy-league-admissions-colvane/id6837928262",
+    "bundleId": "com.equalinformation.colvane.app",
+    "appleId": "6837928262"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.colvane.app"
+  },
+  "related": []
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "data-center-course-rackmere",
+  "name": "Data Center Course: Rackmere",
+  "subtitle": "Data Center: grid to rack",
+  "categories": [
+    "education"
+  ],
+  "tags": [],
+  "developer": "EqualInformation",
+  "shortDescription": "Data Center Course: Rackmere is a step-by-step course that takes you from the utility grid to the rack, so you understand every choice behind where a data…",
+  "longDescription": "Data Center Course: Rackmere is a step-by-step course that takes you from the utility grid to the rack, so you understand every choice behind where a data center gets built.\n\n### Study Your Way\n- The course adapts to you: short check-ins after each lesson, links to exactly the material you missed, a suggested next topic with the reason, unit and cumulative tests with a report and study plan.\n- Build things, not just read: 4 guided builds (site a 100 MW campus, design a cooling plant for a hot climate, plan power and a PPA for a GPU training campus, site under water limits). Each step gives you the goal, the lesson you need right then, a lab to try your own numbers and a short check; you finish with a report you can keep. Prefer the classic order? Switch any time; progress is shared.\n- 14 units from beginner to researcher: power supply and interconnection, tariffs and demand charges, campus power-train and availability, fiber and latency, cooling and PUE, water, land and physical risk, policy and permitting, sovereignty and export controls, cost and supply chain, talent and security, sustainability, and putting it all together.\n- 1,464 original practice questions with explanations, 98 siting criteria in the Coverage screen, 14 case studies from public sources. You choose the length and the level.\n- Typeset equations for PUE, WUE, availability, latency, load and cost, with the meaning of every symbol one tap away.\n\n### See It in 3d and on a Map\n- Campus layout, grid one-line diagram with load flow and contingencies, cooling and airflow, PUE against climate, water use, latency and availability labs.\n- A map of 60+ markets with public-data layers, each with its source, licence and date.\n\n### Score It\n- Pick candidate regions, set your own weights, switch on go/no-go knockouts and get a ranked, explained result with sensitivity analysis. Presets cover GPU training campuses, inference at the edge, enterprise colocation, low carbon, low cost, disaster recovery, metro edge and water-constrained sites.\n\n### Honest By Design\n- 218 cited public sources open inside the app. Substation headroom and utility queue positions are generally not public, so results are educational proxies, not siting advice.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-rackmere.html",
+  "releasedAt": "2026-11-24",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/data-center-course-rackmere/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/data-center-course-rackmere/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/data-center-course-rackmere/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/data-center-course-rackmere/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/data-center-course-rackmere/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/data-center-course-rackmere/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/data-center-course-rackmere/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/data-center-course-rackmere/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/data-center-course-rackmere/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/data-center-course-rackmere/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/data-center-course-rackmere/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/data-center-course-rackmere/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/data-center-course-rackmere/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/data-center-course-rackmere/id6838080300",
+    "bundleId": "com.equalinformation.rackmere.app",
+    "appleId": "6838080300"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.rackmere.app"
+  },
+  "related": []
+}

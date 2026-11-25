@@ -1,0 +1,97 @@
+{
+  "slug": "gcse-maths-prep-algebrix",
+  "name": "GCSE Maths Prep: Algebrix",
+  "subtitle": "Adaptive Foundation & Higher",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "offline"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "GCSE maths revision that adapts to you. Algebrix covers the whole GCSE mathematics subject content (number, algebra, ratio and rates, geometry and measures…",
+  "longDescription": "GCSE maths revision that adapts to you. Algebrix covers the whole GCSE mathematics subject content (number, algebra, ratio and rates, geometry and measures, probability, statistics) for both Foundation (grades 1 to 5) and Higher (grades 4 to 9), whichever exam board you sit (AQA, Pearson Edexcel, OCR, WJEC Eduqas).\n\n### How It Teaches\n- Short check-ins after every idea: 5, 10, 20 or all questions, at the difficulty you choose or let the app choose.\n- The app remembers, on your device only, what you know and when it is fading. Every miss links straight to the worked example for that topic and tells you why it suggests the next one.\n- Unit tests, a cumulative test and two timed practice papers (calculator and non-calculator) end with a report: weak topics, links to fix them and a short study plan.\n\n### Two Ways to Study, One Progress\n- Syllabus: the national subject content in its published order.\n- Solve it: build real things (a school trip budget, a ramp, a phone-plan comparison, an arch bridge, a drone survey and more). Each step teaches what it needs, just in time, then checks you. Finished builds go on your Made-it shelf.\n\n### The Bench\nMove the numbers and watch every step: an equation mover, an area-grid factoriser, quadratics with discriminant and turning point, simultaneous equations on a graph, graph and transformation plotting, right-angled triangles, probability trees and a histogram builder.\n\n### Everything Else\n- 51 topics and nearly 4,000 original questions with a worked solution for each, covering all 97 DfE subject-content paragraphs (175 assessable points) with at least 8 questions per tier for each, plus Foundation and Higher practice papers and a Coverage screen that shows your mastery for every spec point.\n- Other boards: an optional, quiet chip shows where each topic sits in A Level, IB and AP, so you can see what extra to prepare.\n- Typeset maths, formula list and cited sources.\n- Text size from 50% to 300%. Works offline. No account.\n\nNot affiliated with or endorsed by AQA, Pearson Edexcel, OCR, WJEC/Eduqas, Ofqual or the Department for Education. Practice only; it does not predict grades.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-gcse-maths-algebrix.html",
+  "releasedAt": "2026-11-24",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/gcse-maths-prep-algebrix/icon-512.png",
+  "screenshots": [
+    {
+      "src": "assets/apps/gcse-maths-prep-algebrix/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-maths-prep-algebrix/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-maths-prep-algebrix/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-maths-prep-algebrix/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-maths-prep-algebrix/shot-5.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-maths-prep-algebrix/shot-6.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-maths-prep-algebrix/shot-7.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-maths-prep-algebrix/shot-8.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-maths-prep-algebrix/tablet-1.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-maths-prep-algebrix/tablet-2.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-maths-prep-algebrix/tablet-3.webp",
+      "device": "tablet",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-maths-prep-algebrix/tablet-4.webp",
+      "device": "tablet",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/gcse-maths-prep-algebrix/id6838199849",
+    "bundleId": "com.equalinformation.gcse-maths-algebrix.app",
+    "appleId": "6838199849"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.gcse-maths-algebrix.app"
+  },
+  "related": []
+}

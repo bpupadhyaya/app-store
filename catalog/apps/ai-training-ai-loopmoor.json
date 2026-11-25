@@ -23,7 +23,7 @@
   "monetization": "Free with ads, optional monthly ad-free",
   "ageRating": "4+",
   "releasedAt": "2026-11-18",
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-25",
   "version": "1.0.0",
   "icon": "assets/apps/ai-training-ai-loopmoor/icon-512.png",
   "screenshots": [
@@ -49,11 +49,15 @@
     }
   ],
   "ios": {
-    "status": "soon",
-    "url": ""
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/synthetic-data-loopmoor/id6837555991",
+    "bundleId": "com.equalinformation.loopmoor.app",
+    "appleId": "6837555991"
   },
   "android": {
     "status": "soon",
-    "url": ""
-  }
+    "url": "",
+    "package": "com.equalinformation.loopmoor.app"
+  },
+  "related": []
 }
