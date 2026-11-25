@@ -1,0 +1,70 @@
+{
+  "slug": "ib-chemistry-prep-reagmere",
+  "name": "IB Chemistry Prep: Reagmere",
+  "subtitle": "IB Chemistry SL/HL labs, mocks",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "ib-chem",
+    "revision",
+    "quiz",
+    "mock",
+    "mole",
+    "titration",
+    "equilibrium",
+    "organic",
+    "ph",
+    "enthalpy",
+    "exam",
+    "study"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "IB Chemistry practice that adapts to you: adaptive quizzes, 10 labs, guided builds and mock papers for SL and HL. Works offline. No account.",
+  "longDescription": "IB Chemistry Prep: Reagmere is a revision companion for IB Chemistry at standard and higher level. It follows the current course topics, Structure and Reactivity, with HL extensions clearly marked.\n\n### Learn Your Way\n- Syllabus view in classical order, or Real-World view with guided builds\n- Lessons with worked examples, common mistakes and real-world hooks\n- Original questions: multiple choice, calculations, short answer and explain, each with marking-style feedback\n- Adaptive plan: wrong answers lead to the idea to revise, and the app explains why each step is next\n\n### Practise Like the Exam\n- Quizzes by topic, by command term or by your gaps\n- Timed mock papers in the style of Paper 1A, Paper 1B and Paper 2 with a report and study plan\n- Command term trainer and an internal assessment coach with an uncertainty tool\n\n### Labs and Builds\n- Ten interactive simulations: moles, gas laws, molecular shapes, equilibrium, emission spectra, energy cycles, collision theory, pH and titration curves, voltaic cells and curly-arrow mechanisms\n- Four guided builds: check the acid in vinegar, compare a fuel, plan an ester synthesis, identify an unknown from its data\n\n### Made for Every Screen\n- Text size from 50% to 300%, phone and tablet layouts, works offline\n- A Coverage screen showing exactly what is included, and an Other boards map to GCSE, A Level and AP equivalents",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-ib-chemistry-reagmere.html",
+  "supportUrl": "https://equalinformation.com/app-support-ib-chemistry-reagmere.html",
+  "releasedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/ib-chemistry-prep-reagmere/icon-512.webp",
+  "hero": "assets/apps/ib-chemistry-prep-reagmere/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/ib-chemistry-prep-reagmere/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-chemistry-prep-reagmere/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-chemistry-prep-reagmere/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-chemistry-prep-reagmere/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/ib-chemistry-prep-reagmere/id6839105836",
+    "bundleId": "com.equalinformation.ibchemistryreagmere.app",
+    "appleId": "6839105836"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.ibchemistryreagmere.app"
+  },
+  "related": []
+}

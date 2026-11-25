@@ -1,0 +1,69 @@
+{
+  "slug": "ib-computer-science-nodewren",
+  "name": "IB Computer Science: Nodewren",
+  "subtitle": "IB Comp Sci SL/HL practice",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "revision",
+    "quiz",
+    "programming",
+    "algorithms",
+    "databases",
+    "networks",
+    "machine-learning",
+    "ia",
+    "paper-1",
+    "paper-2",
+    "hl",
+    "sl"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Revise IB Computer Science your way: adaptive quizzes, 39 labs, IA planner and timed papers. Every learning statement of the 2027 guide, SL and HL marked.",
+  "longDescription": "Revise IB Computer Science with a study plan that adapts to you. Nodewren covers every learning statement of the Diploma Programme Computer science guide for first assessment in 2027: 112 statements, 68 at standard level and higher level and 44 at higher level only. Topics include computer fundamentals, networks, databases, machine learning, computational thinking, programming, object-oriented programming and, at higher level, abstract data types.\n\n### How It Helps\n- Adaptive practice: every quiz updates a mastery map. Wrong answers lead to the lesson and a short fix-it set, then the app picks your next best step.\n- Two ways to study: follow the syllabus order, or switch to Build-it order and learn through real problems.\n- 1,048 original practice questions, at least eight for every learning statement. Numeric and trace answers are checked by running code.\n- 39 hands-on labs: CPU cycle, number bases, logic gates, packet routing, sorting and searching traces, SQL, regression and more.\n- Internal Assessment planner with a self-check for each criterion, case-study method cards and command-term cards.\n- Timed practice in the style of Paper 1 and Paper 2, plus a short mini mock.\n- Other boards: see where each topic meets A Level, GCSE and AP content.\n- Text size from 50% to 300%, built for phones and tablets, works offline.\n\n### What You Get\nFree: 62 of the 112 lessons with their questions, 12 labs, the planner's first two criteria, the case-study method and a mini mock.\nNodewren Plus: one monthly subscription unlocks the remaining lessons, 27 more labs, the rest of the planner, further case-study challenges and the timed papers. Cancel any time in your store account settings.\n\n### Coverage\nEach learning statement has its own lesson and at least eight original questions. Study material is written in our own words and is not copied from IB papers, past papers or mark schemes. The annual pre-seen case study is not reproduced; the app teaches a general method on invented systems.\n\n### Important\nNodewren is an independent study aid. It is not affiliated with or endorsed by the International Baccalaureate Organization. Practice results do not predict a grade.\n\nA short notice appears on first opening. Optional usage information helps us improve the course and can be changed at any time under More, Settings, Privacy and data. Diagnostics and feedback are sent only when you tap Send.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-ib-computer-science-nodewren.html",
+  "supportUrl": "https://equalinformation.com/app-support-ib-computer-science-nodewren.html",
+  "releasedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/ib-computer-science-nodewren/icon-512.webp",
+  "hero": "assets/apps/ib-computer-science-nodewren/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/ib-computer-science-nodewren/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-computer-science-nodewren/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-computer-science-nodewren/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-computer-science-nodewren/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.ibcomputersciencenodewren.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.ibcomputersciencenodewren.app"
+  },
+  "related": []
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "ib-history-prep-chronelle",
+  "name": "IB History Prep: Chronelle",
+  "subtitle": "IB History SL/HL practice",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "revision",
+    "quiz",
+    "sources",
+    "paper-1",
+    "paper-2",
+    "paper-3",
+    "essay",
+    "ia",
+    "investigation",
+    "hl",
+    "sl",
+    "historical-inquiry"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Revise IB History your way: adaptive quizzes, source lab, timeline and essay builders. Built for the 2028 course, SL and HL marked.",
+  "longDescription": "Chronelle is an independent study aid for the IB Diploma History course first assessed in May 2028: short focused lessons, quizzes that adapt to you, and hands-on labs for the skills the papers reward.\n\n### How You Study\n- Two ways in. Follow the course in its Classical order (concepts, skills, focused studies, thematic studies, regional study), or switch to Real-World order and start from a problem or question first, then work back to the content.\n- Adaptive practice. Every quiz updates a mastery estimate for each topic. A missed question links straight to the part of the lesson that fixes it, and the app suggests what to study next. You choose how long each quiz is.\n- Timed mocks in the style of Paper 1 and Paper 2 (and Paper 3 for HL), with a per-topic breakdown.\n- Source Lab: judge the origin, purpose, value and limitations of practice sources, with feedback.\n- Timeline Builder: put events in order and see how well you understand the sequence.\n- Essay Bay: choose a claim, add evidence and a counter-argument, and check the balance of your plan. Your writing stays on your device.\n- Cause Web: rank causes and the links between them for cause and consequence questions.\n- Level switch: SL or HL (HL adds Paper 3 and the regional study).\n- A- and A+ controls scale all text from 50% to 300%, and layouts use the full screen on iPad.\n\nWHAT THE APP COVERS (EXACT, NOT A BLANKET CLAIM)\n- The new IB History course, first assessed May 2028. The previous course (prescribed subjects and the world history topics, last assessed 2027) is not covered.\n- The four concepts, and skills for Paper 1, Paper 2, Paper 3 and the historical investigation.\n- Focused studies: all five options, with both case studies of each option.\n- Thematic studies: all four themes, at the level of the inquiry strands.\n- Regional study: Europe only (twelve studies). The other three regions are not covered yet.\n- The Coverage screen lists exact counts of topics and questions and marks case-study, strand and regional titles taken from teacher resources (the full guide is not public) as UNVERIFIED. Check them against your school's guide.\n- All questions, summaries and practice sources are original and written for this app. They are not past papers, mark schemes or extracts from the guide.\n- An optional Other boards chip on each topic opens a Curriculum map of related material in other systems.\n\n### Works Offline\nAll study content is in the app, so it works without a connection.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-ib-history-chronelle.html",
+  "supportUrl": "https://equalinformation.com/app-support-ib-history-chronelle.html",
+  "releasedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/ib-history-prep-chronelle/icon-512.webp",
+  "hero": "assets/apps/ib-history-prep-chronelle/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/ib-history-prep-chronelle/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-history-prep-chronelle/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-history-prep-chronelle/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-history-prep-chronelle/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.ibhistorychronelle.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.ibhistorychronelle.app"
+  },
+  "related": []
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "a-level-law-lexwren",
+  "name": "A Level Law: Lexwren",
+  "subtitle": "A Level Law cases and quizzes",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "aqa",
+    "ocr",
+    "eduqas",
+    "statutes",
+    "tort",
+    "contract",
+    "criminal",
+    "human-rights",
+    "essay-plans",
+    "revision",
+    "quiz",
+    "exam"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Revise A Level Law with case cards, statute notes, adaptive quizzes and problem questions for AQA, OCR and Eduqas. Free to start, optional Lexwren Plus.",
+  "longDescription": "A Level Law: Lexwren is an independent revision app for students of A Level Law in England and Wales. It offers short lessons, case and statute cards, adaptive quizzes, problem questions and interactive labs,.\n\n### What Is Covered\n- 38 topics and 201 specification points across the legal system, law making, the nature of law, criminal law, the law of tort, the law of contract and human rights.\n- 558 case entries and 253 statute entries, each with a short study summary and an as-at date.\n- 1,840 original practice questions: 1,689 multiple-choice questions and 151 problem-question scenarios, with explanations. Every specification point has at least 8.\n- Mapped to AQA 7162, OCR H418 and WJEC Eduqas A150QS.\n\nBOARDS AND OPTIONS (as of 2026-11-25)\n- AQA 7162: all 180 specification points linked to a lesson and questions. Core papers plus your choice of contract or human rights.\n- OCR H418: all 163 points linked. Core components plus your choice of human rights or contract. The earlier H415 is withdrawn and is not the target.\n- WJEC Eduqas A150QS: all 158 points linked. The fixed component plus your choice of three areas from contract, tort, crime and human rights.\n- The Coverage screen lists each point, so you always see what is covered and where to look elsewhere.\n\n### Learn and Practise\n- Lessons with key cases, statutes, exam technique, essay angles and specification references\n- Adaptive quizzes: the app tracks mastery for each point, shows \"Fix these first\" after a quiz, and links each weak point back to its lesson and to fresh questions\n- Test builder with adjustable length and assessment-objective filter\n- Choose Syllabus order or Real-World problems, then switch at any time\n- An \"Other boards\" chip and a Curriculum map show how topics line up across AQA, OCR and Eduqas, useful if you change course or want extra practice from another specification\n- Text size from 50% to 300%, with phone and tablet layouts\n\n### Eight Interactive Labs\n- Precedent Court Ladder, Statutory Interpretation Workshop and Case Recall Cards are free\n- Lexwren Plus adds the Criminal Liability Builder, Negligence Builder, Contract Formation Flow, Essay Plan Studio and Mock Paper\n\n### Important\nThis app is independent. It is not produced, endorsed or approved by AQA, OCR, WJEC or Eduqas, and it is not an official specification, past paper, mark scheme or textbook. Board names and codes are used only to describe course content. The app is not legal advice: summaries of cases and statutes are simplified for study and stated as at 25 November 2026. Check the current specification for your course, and consult a qualified solicitor or barrister about any real legal matter. No result or grade is guaranteed.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-lexwren.html",
+  "supportUrl": "https://equalinformation.com/app-support-lexwren.html",
+  "releasedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/a-level-law-lexwren/icon-512.webp",
+  "hero": "assets/apps/a-level-law-lexwren/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/a-level-law-lexwren/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-law-lexwren/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-law-lexwren/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-law-lexwren/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.lexwren.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.lexwren.app"
+  },
+  "related": []
+}

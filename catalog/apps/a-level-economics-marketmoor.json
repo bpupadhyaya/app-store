@@ -1,0 +1,70 @@
+{
+  "slug": "a-level-economics-marketmoor",
+  "name": "A Level Economics: Marketmoor",
+  "subtitle": "Diagrams, mocks & essay coach",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "aqa",
+    "edexcel",
+    "ocr",
+    "eduqas",
+    "micro",
+    "macro",
+    "elasticity",
+    "supply",
+    "demand",
+    "revision",
+    "year-12",
+    "year-13"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Learn A Level economics by moving the curves: 12 interactive diagram labs, adaptive quizzes, mock papers and an essay coach.",
+  "longDescription": "A Level Economics: Marketmoor is an independent revision app for A Level economics. Learn by moving the curves: every diagram is a working model with sliders, live numbers and a challenge.\n\n### Learn\n- 104 topics covering the DfE A Level economics subject content, mapped to AQA 7136, Pearson Edexcel A (9EC0) and B (9EB0), OCR H460 and WJEC Eduqas A520QS (mapped at specification topic level; see the Coverage screen)\n- Every topic: a real-world hook, the model, key terms, a worked example, common slips, a chain of reasoning and evaluation lenses\n- 936 original practice questions, with explanations; every calculation was checked two ways\n- Quantitative skills and exam-technique topics: percentages, index numbers, real terms, elasticity, data response, command words\n\n### Practise\n- Adaptive quizzes that follow your mastery and link straight back to the lesson you need\n- Board-style mock papers for each board, essay and evaluation coach, data-response sets and a command-word trainer\n- Choose your exam board and the app prioritises its topics; an Other boards map shows where each topic sits in the other specifications\n\n### Simulate and Build\n- 12 diagram labs: supply and demand with tax and price controls, elasticity, externalities, cost curves and market structures, the labour market and minimum wage, Lorenz curve and Gini, aggregate demand and supply, the multiplier (in 3D), exchange rates, tariffs and quotas, comparative advantage and the Phillips curve\n- Real-World builds: advise on a carbon tax, respond to a recession, judge a trade deal, set interest rates, review a minimum wage, design a levy\n\n### Made for Phone and Tablet\nText size from 50% to 300% on everything, and a multi-pane layout on tablets.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-marketmoor.html",
+  "supportUrl": "https://equalinformation.com/app-support-marketmoor.html",
+  "releasedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/a-level-economics-marketmoor/icon-512.webp",
+  "hero": "assets/apps/a-level-economics-marketmoor/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/a-level-economics-marketmoor/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-economics-marketmoor/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-economics-marketmoor/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-economics-marketmoor/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/a-level-economics-marketmoor/id6839094462",
+    "bundleId": "com.equalinformation.marketmoor.app",
+    "appleId": "6839094462"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.marketmoor.app"
+  },
+  "related": []
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "a-level-english-lang-lectmere",
+  "name": "A Level English Lang: Lectmere",
+  "subtitle": "A Level English Language labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "aqa",
+    "edexcel",
+    "ocr",
+    "eduqas",
+    "linguistics",
+    "child-speech",
+    "dialect",
+    "ipa",
+    "nea",
+    "transcript",
+    "essay-plans",
+    "mock-exam"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Revise A Level English Language for AQA, Edexcel, OCR and Eduqas with hands-on labs, annotated texts, essay plans and adaptive quizzes.",
+  "longDescription": "Lectmere is an independent study companion for A Level English Language (AQA 7702, Pearson Edexcel 9EN0, OCR H470, WJEC Eduqas A700QS).\n\n### Learn\n- 64 teaching points in ten units: the language toolkit, texts and representation, spoken language, child language acquisition, language diversity, language change, discourses and the 21st century, creative writing and commentary, investigations and board guides.\n- Every lesson has an original annotated specimen text: tap a feature to see what it does.\n- Switch between Syllabus order and Real-World missions at any time.\n\n### Practise\n- Original questions for every point, with instant feedback and links back to the exact section to revisit.\n- Adaptive study plan that puts weak points first and schedules reviews.\n- Board-style essay plans, unseen-text drills and timed mocks.\n\n### Labs\n- Sound Studio (IPA), Feature Hunter, Grammar Spotter, Debate Lens, Transcript Lab, Child Language Lab, Time Machine, Variation Bench, Investigation Bench and Essay Planner.\n\n### Open and Honest\n- A Coverage screen lists exactly what is covered for each board and what is not. The app cannot mark your essays or non-exam assessment.\n- An optional Curriculum map shows similar content in GCSE, IB and AP English.\n- Text size from 50 to 300 percent, phone and tablet layouts, works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-lectmere.html",
+  "supportUrl": "https://equalinformation.com/app-support-lectmere.html",
+  "releasedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/a-level-english-lang-lectmere/icon-512.webp",
+  "hero": "assets/apps/a-level-english-lang-lectmere/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/a-level-english-lang-lectmere/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-english-lang-lectmere/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-english-lang-lectmere/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-english-lang-lectmere/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.lectmere.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.lectmere.app"
+  },
+  "related": []
+}

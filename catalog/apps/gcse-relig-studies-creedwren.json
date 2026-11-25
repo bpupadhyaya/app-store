@@ -1,0 +1,69 @@
+{
+  "slug": "gcse-relig-studies-creedwren",
+  "name": "GCSE Relig Studies: Creedwren",
+  "subtitle": "GCSE Religious Studies AQA",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "rs",
+    "8062",
+    "christianity",
+    "catholic",
+    "islam",
+    "judaism",
+    "buddhism",
+    "hinduism",
+    "sikhism",
+    "ethics",
+    "quiz",
+    "12-mark"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Revise AQA GCSE Religious Studies A: adaptive quizzes, lessons on seven religions and the themes, and 12-mark answer builders. Free to start, Plus for more.",
+  "longDescription": "GCSE Relig Studies: Creedwren is an independent revision companion for students taking GCSE Religious Studies. It follows the AQA GCSE Religious Studies A (8062) specification: Component 1 beliefs and practices for Christianity, Catholic Christianity, Islam, Judaism, Buddhism, Hinduism and Sikhism, and Component 2 thematic studies (Themes A to F) with the two St Mark's Gospel themes.\n\n### What You Get\n- Short lessons for every specification point, with key terms and the teachings and sources to know, written in our own words\n- Beliefs and practices described fairly and attributed to the groups that hold them (\"Many Christians believe...\", \"Sunni Muslims teach...\"), with differences inside traditions shown where the course asks\n- Quizzes, unit tests and mock quizzes mixing recall (AO1) and analysis (AO2) questions; a wrong answer links straight to the lesson that fixes it\n- A study route that adapts to you: weak points come first, then spaced review, then new material\n- Answer builders: choose the strongest sentence at each step to build a 12-mark answer (point, evidence, development, counter-view, judgement)\n- Syllabus or Real-World order: study in specification order or start from everyday situations\n- Coverage screen with exact counts and honest limits, plus an optional Other boards guide\n- Text size from 50% to 300%, built for phones and tablets, works offline\n\n### Honest Coverage\nThis is AQA GCSE Religious Studies A (8062) content. Other boards (Pearson Edexcel, OCR, WJEC Eduqas) overlap in many topics, but are not covered as complete courses; use your own specification as the authority. The app does not contain past papers, cannot mark written work and does not predict grades.\n\nIndependent app, not affiliated with or endorsed by AQA, Pearson, OCR, WJEC or any religious organisation.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-gcse-religious-studies-creedwren.html",
+  "supportUrl": "https://equalinformation.com/app-support-gcse-religious-studies-creedwren.html",
+  "releasedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/gcse-relig-studies-creedwren/icon-512.webp",
+  "hero": "assets/apps/gcse-relig-studies-creedwren/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/gcse-relig-studies-creedwren/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-relig-studies-creedwren/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-relig-studies-creedwren/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-relig-studies-creedwren/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.gcsereligiousstudiescreedwren.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.gcsereligiousstudiescreedwren.app"
+  },
+  "related": []
+}

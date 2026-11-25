@@ -1,0 +1,69 @@
+{
+  "slug": "ib-maths-ai-prep-modelwick",
+  "name": "IB Maths AI Prep: Modelwick",
+  "subtitle": "Adaptive IB AI maths practice",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "mathematics",
+    "applications",
+    "interpretation",
+    "sl",
+    "hl",
+    "calculus",
+    "statistics",
+    "exploration",
+    "mock",
+    "revision",
+    "gdc",
+    "quiz"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive IB Maths AI practice for SL and HL: lessons, quizzes, labs, real-world builds and timed mock papers. Works offline, no account.",
+  "longDescription": "Modelwick is a study companion for IB Diploma Mathematics: applications and interpretation, at standard level and higher level. It teaches, tests and then decides what you should do next, using your own answers.\n\n### Learn It Properly\nEvery point of the course content listing has short lessons in plain language, worked examples with method, accuracy and reasoning marks, typeset maths and a glossary. Try-it questions sit inside the lessons, so you practise as you read.\n\n### Practise with a Teacher's Eye\n- 899 original questions with worked solutions: multiple choice, numeric and written-answer\n- Each question is tagged by difficulty and command term, and numeric answers are checked two independent ways in our build process\n- Adaptive quizzes choose what you meet next from how you have been answering\n- After a quiz, every miss links to the lesson that explains it and to the prerequisite you may need first, with a one-line reason\n- Mastery rings for every point show where you are secure and where you are not\n- A command-terms check helps you answer exactly what the question asks\n\n### See the Maths Move\n22 labs run on your own numbers: graphs and transformations, tangents and optimisation, normal and binomial distributions, regression and hypothesis tests, finance and loans, population models, epidemics, cooling and predator and prey. A scientific calculator pad is always at hand.\n\n### Real-World Builds\nSwitch from the classical order to the Real-World view and learn by making something: compare loan offers, model an epidemic, plan a delivery route, choose where to put the next clinic, design the cheapest can. Each step teaches the concept just in time, runs a lab with your figures and ends with check questions that update your mastery.\n\n### Exam Practice\n12 timed papers and topic checks in the style of Paper 1, Paper 2 and Paper 3, with mark-by-mark reports. An Exploration planner helps you choose an idea, pace the milestones and scan a draft for mathematical vocabulary, in your own words.\n\n### Other Boards\nMoving between countries or planning for university? Each topic has a quiet \"Other boards\" link to equivalent content in GCSE, A Level, other IB maths and AP courses, with honest match levels.\n\n### Built for Comfort\nLight, clear design, text size from 50 to 300 percent, layouts for iPhone and iPad, and no account needed. Your progress stays on your device.\n\n### About the Content\nWritten for the current course, first assessed in 2021, with its final assessment in November 2028. A newer course, first assessed in 2029, is not covered by this version. Your guide and your teacher decide what is examined; this app does not guarantee any grade.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-ib-maths-ai-modelwick.html",
+  "supportUrl": "https://equalinformation.com/app-support-ib-maths-ai-modelwick.html",
+  "releasedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/ib-maths-ai-prep-modelwick/icon-512.webp",
+  "hero": "assets/apps/ib-maths-ai-prep-modelwick/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/ib-maths-ai-prep-modelwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-maths-ai-prep-modelwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-maths-ai-prep-modelwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-maths-ai-prep-modelwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.ibmathsaimodelwick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.ibmathsaimodelwick.app"
+  },
+  "related": []
+}

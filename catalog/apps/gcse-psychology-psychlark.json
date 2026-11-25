@@ -1,0 +1,69 @@
+{
+  "slug": "gcse-psychology-psychlark",
+  "name": "GCSE Psychology: Psychlark",
+  "subtitle": "GCSE Psychology labs, mocks",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "aqa",
+    "edexcel",
+    "ocr",
+    "memory",
+    "brain",
+    "revision",
+    "quiz",
+    "mock",
+    "study",
+    "research-methods",
+    "sleep",
+    "social"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Study GCSE Psychology your way: clear lessons, hands-on labs, adaptive quizzes and timed mocks for AQA, Pearson Edexcel and OCR.",
+  "longDescription": "GCSE Psychology: Psychlark is a complete study companion for GCSE Psychology. It covers the content areas of AQA 8182, Pearson Edexcel 1PS0 and OCR J203 in 12 units and 139 short topics, with 139 lessons, 43 key studies and 1286 original practice questions.\n\n### Learn\nEvery topic is one short lesson: a big idea in plain words, what to know, key terms, the named studies, a weigh-it-up section, a worked scenario, common slips and an exam tip. Switch between Syllabus order and Real-World problems, where you start from an everyday question and build something as you learn.\n\n### Practise\nQuizzes choose questions from your weakest and newest topics, then send you straight to the part of the lesson that fixes a mistake. Multiple choice, short written answers that you mark against the mark points, and calculations for research methods. Spaced review brings questions back when they are due.\n\n### Experiment\nRun the classic experiments yourself in ten interactive labs: a serial-position memory test, a Stroop test, a statistics bench, a tappable brain map, a multi-store memory simulator, a conformity task, conditioning, sampling, a study designer and a sleep-cycle explorer.\n\n### Know Where You Stand\nA mastery map, streaks, unit progress rings and a study plan built around your exam month. A coverage screen shows exactly which board references every topic carries, and an optional Curriculum map shows where each unit sits in A Level, IB and AP.\n\n### Built for Every Screen\nText size from 50% to 300%, a light, easy-on-the-eyes design, and purpose-built layouts for phones and tablets.\n\n### Independent Study Aid\nPsychlark is not produced by, affiliated with or endorsed by AQA, Pearson Edexcel, OCR, Ofqual or the Department for Education. It supports, and does not replace, your teacher and your own specification. Boards and papers differ, so check your own course documents; no grade is promised.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-gcse-psychology-psychlark.html",
+  "supportUrl": "https://equalinformation.com/app-support-gcse-psychology-psychlark.html",
+  "releasedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "version": "1.0",
+  "icon": "assets/apps/gcse-psychology-psychlark/icon-512.webp",
+  "hero": "assets/apps/gcse-psychology-psychlark/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/gcse-psychology-psychlark/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-psychology-psychlark/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-psychology-psychlark/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-psychology-psychlark/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.psychlark.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.psychlark.app"
+  },
+  "related": []
+}
