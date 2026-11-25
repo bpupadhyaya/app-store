@@ -1,0 +1,70 @@
+{
+  "slug": "a-level-sociology-verstane",
+  "name": "A Level Sociology: Verstane",
+  "subtitle": "A Level Sociology labs, mocks",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "aqa",
+    "ocr",
+    "durkheim",
+    "marx",
+    "crime",
+    "deviance",
+    "families",
+    "education",
+    "research-methods",
+    "essay-plans",
+    "theory",
+    "exam"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Learn A Level Sociology with live simulations, study cards, essay planners and adaptive quizzes for AQA and OCR. Free to start, optional Verstane Plus.",
+  "longDescription": "A Level Sociology revision for AQA and OCR students: Verstane is an independent study companion. It follows the AQA 7192 content areas and every OCR H580 option, and it adapts to what you get right and wrong.\n\n### Learn\n- 98 topics across 12 units: culture and identity, education, methods and theory, families, health, work and poverty, beliefs, global development, media, stratification, crime and deviance and youth subcultures.\n- Every topic has a clear lesson, key terms, 499 study and thinker summaries with evaluation points, an exam tip and a real-world build task.\n- Choose Syllabus order or Real-World order: start from a live question such as why some pupils fall behind, and pull in the theory and evidence you need.\n\n### Practise\n- 784 original questions, at least 8 for every topic, mixing recall, application and evaluation.\n- Adaptive Today plan: fix recent slips, spaced review, then the next new topic, each with a reason.\n- Check-ins, unit tests and a timed mock, with explanations and links back to the exact part of the lesson.\n\n### Experiment\n- Sampling lab, the dark figure of crime and the labelling loop, plus a theory lens that compares perspectives side by side.\n- With Plus: social mobility machine, population pyramid, moral panic spiral, media effects explorer, essay plan builder and methods-in-context planner.\n\n### Know What Is Covered\n- A Coverage screen lists exactly which specification areas are included, and a curriculum map shows how units line up with GCSE Sociology and related IB study. Pearson does not offer an A Level in sociology, so the app does not cover one.\n- Text size from 50% to 300%, built for iPhone and iPad.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-verstane.html",
+  "supportUrl": "https://equalinformation.com/app-support-verstane.html",
+  "releasedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/a-level-sociology-verstane/icon-512.webp",
+  "hero": "assets/apps/a-level-sociology-verstane/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/a-level-sociology-verstane/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-sociology-verstane/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-sociology-verstane/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-sociology-verstane/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/a-level-sociology-verstane/id6839228504",
+    "bundleId": "com.equalinformation.verstane.app",
+    "appleId": "6839228504"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.verstane.app"
+  },
+  "related": []
+}

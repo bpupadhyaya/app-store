@@ -1,0 +1,69 @@
+{
+  "slug": "a-level-cs-prep-bytewick",
+  "name": "A Level CS Prep: Bytewick",
+  "subtitle": "Adaptive revision, labs, code",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "algorithms",
+    "python",
+    "sql",
+    "networks",
+    "aqa",
+    "ocr",
+    "eduqas",
+    "oop",
+    "boolean",
+    "theory",
+    "practice",
+    "nea"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive A Level computer science revision: interactive labs, a code bench, real-world builds, mock papers and quizzes that fix your gaps. No account.",
+  "longDescription": "A Level CS Prep that adapts to you: A Level computer science revision from Bytewick. It covers the DfE A level subject content and the specification points we mapped from AQA 7517, OCR H446 and WJEC Eduqas: programming and paradigms, data structures, algorithms and complexity, theory of computation, functional programming, data representation, Boolean logic, computer systems and architecture, networks and the web, databases and SQL, Big Data, ethical, legal and environmental issues, and the software development process.\n\n### How It Teaches\n- A short check-in after every idea: 5, 10, 20 or all questions, at the difficulty you choose or let the app choose.\n- The app remembers, on your device only, what you know and when it is fading. Every miss links straight to the lesson for that topic and says why it suggests the next one.\n- Unit tests, a cumulative test and four timed board-style mock papers (AQA 7517 and OCR H446 structure, our own questions and mark schemes) end with a report: marks by objective and topic, weak topics, links to fix them and a study plan.\n\n### The Machine Room and Code Bench\n- Nineteen interactive labs: stacks, queues, linked lists, trees, graphs, Dijkstra, sorting races, recursion, Big-O, Turing machines, finite state machines, Little Man Computer, SQL, logic, floating point, RSA, packet routing, regular expressions and BNF. Most ask you to predict the next step before it happens.\n- Code Bench: scrub through real Python runs line by line, and repair faulty programs against a tests panel.\n\n### Two Ways to Study, One Progress\n- Syllabus: the topics in specification order.\n- Real-World: 10 builds (a library database, a route planner, an expression calculator, a chat protocol, a mini virtual machine and more). Each step teaches what it needs just in time, then checks you.\n- NEA coach: a guided path through the coursework project.\n\n### Everything Else\n- 86 topics and 1,317 original questions with an explanation for each, mapped to 139 specification points (102 from the DfE subject content, the rest from the board specifications), with at least 8 questions per point, and a Coverage screen that shows your mastery for every point.\n- Other boards: an optional chip shows where each topic sits in GCSE, IB and AP.\n- Text size from 50% to 300%. Works offline. No account.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-alevel-comp-sci-bytewick.html",
+  "supportUrl": "https://equalinformation.com/app-support-alevel-comp-sci-bytewick.html",
+  "releasedAt": "2026-11-23",
+  "updatedAt": "2026-11-25",
+  "version": "1.0",
+  "icon": "assets/apps/a-level-cs-prep-bytewick/icon-512.webp",
+  "hero": "assets/apps/a-level-cs-prep-bytewick/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/a-level-cs-prep-bytewick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-cs-prep-bytewick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-cs-prep-bytewick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-cs-prep-bytewick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.alevel-comp-sci-bytewick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.alevel-comp-sci-bytewick.app"
+  },
+  "related": []
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "a-level-english-lit-proselind",
+  "name": "A Level English Lit: Proselind",
+  "subtitle": "A Level English Lit revision",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "aqa",
+    "edexcel",
+    "ocr",
+    "eduqas",
+    "shakespeare",
+    "poetry",
+    "novel",
+    "essay",
+    "unseen",
+    "quiz",
+    "othello",
+    "hamlet"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Revise A Level English Literature with original text guides, adaptive quizzes, essay and unseen labs, and timed mocks.",
+  "longDescription": "Proselind is a study companion for students of A Level English Literature. It teaches the skills the courses share, the genres and ideas behind them, and original guides to commonly studied plays, novels and poets, then tests you with short quizzes that decide what you study next.\n\n### What You Get\n- 47 topics: 10 skills topics (the five assessment objectives, essay craft, unseen work, critical theory, independent study), 12 genre and idea topics (tragedy, comedy, love, crime, protest, the Gothic, dystopia, forms, performance) and 25 text guides.\n- 376 original multiple-choice questions, eight for every topic, each with an explanation of why the other options tempt.\n- Quizzes that adapt: your answers update a mastery estimate for each topic, and the app suggests what to re-read, retry or review next.\n- Two ways to follow the course: Classical (syllabus order) or Real-World (six missions that each end with something you make).\n- Six labs: scansion, a paragraph builder, critical lenses, a context timeline, an essay planner and an unseen-poem annotator.\n- Timed mocks, a mastery map, progress by assessment objective, and an Other boards screen that shows similar content in GCSE, IB and AP.\n- Text size from 50 percent to 300 percent, and layouts that use the whole screen on phones and tablets.\n\n### Original and Honest\nEvery lesson, question and practice passage was written for this app. Texts are described in original words; short quotations appear only from works out of copyright. Practice poems and extracts are constructed. The app covers selected commonly studied texts and the skills shared by AQA, Pearson and OCR courses; it does not cover every set text on every board. The Coverage screen lists exactly what is and is not included. Check your own specification for your texts and options.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-proselind.html",
+  "supportUrl": "https://equalinformation.com/app-support-proselind.html",
+  "releasedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/a-level-english-lit-proselind/icon-512.webp",
+  "hero": "assets/apps/a-level-english-lit-proselind/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/a-level-english-lit-proselind/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-english-lit-proselind/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-english-lit-proselind/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-english-lit-proselind/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.proselind.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.proselind.app"
+  },
+  "related": []
+}

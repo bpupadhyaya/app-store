@@ -36,9 +36,10 @@
   "version": "1.0.0",
   "icon": "assets/apps/statistics-course-sigmora/icon-512.png",
   "ios": {
-    "status": "soon",
-    "url": "",
-    "bundleId": "com.equalinformation.course-math-statistics.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/statistics-course-sigmora/id6835682625",
+    "bundleId": "com.equalinformation.course-math-statistics.app",
+    "appleId": "6835682625"
   },
   "android": {
     "status": "soon",

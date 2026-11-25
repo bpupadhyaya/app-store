@@ -1,0 +1,68 @@
+{
+  "slug": "college-admissions-applywick",
+  "name": "College Admissions: Applywick",
+  "subtitle": "Plan your college applications",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "sat",
+    "act",
+    "essay",
+    "deadlines",
+    "scholarship",
+    "high-school",
+    "counselor",
+    "fafsa",
+    "financial-aid",
+    "waitlist",
+    "transfer"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "12 units, 200+ questions and 3 planning tools: build your list, balance reach, match and safety, and plan every deadline. Works offline, no account.",
+  "longDescription": "College admissions explained: how it works, and your plan.\n\nCollege Admissions: Applywick is an independent course that explains how US college admissions really work, so students and families can plan with confidence instead of guessing. It is not affiliated with, endorsed or sponsored by any college, the Common App, College Board, ACT or the US Department of Education. Those names are used only to describe things.\n\nTwelve short units, each with a story, a real decision to try, something to build for your own plan, and a check of 18 or more questions with reasons.\n\n### What You Will Learn\n- How admissions really work: who reads an application and what they are trying to do\n- Building your profile from real choices\n- Choosing a college list: reach, match and safety\n- Tests and scores, and what a college's middle 50% means\n- Course rigour and grades\n- Activities and honours: depth over a long list\n- Recommendations and interviews\n- Deadlines and plans: early and regular\n- Waitlists and decisions, transfers and gap years\n- A four-year plan for grades 9 to 12\n\n### Three Planning Tools\n- Profile builder: see how your scores and choices change your RANGE of outcomes at a college, using published College Scorecard figures. Ranges and rules of thumb, never predictions or guarantees.\n- List balancer: check your list is not all reaches, and see the balance of reach, match and safety.\n- Deadline planner: choose a plan for each college and get a dated timeline you can tick off.\n\n### Real Data, Cited\nMore than 100 colleges with published admission rates, test-score ranges and graduation rates from the US Department of Education College Scorecard (data dates are shown in the app). Every lesson cites its sources, and each source opens in a sheet inside the app. Always confirm details on each college's own page.\n\n### More\n- Three depths: Beginner, Curious and Scientist\n- Daily challenge, streaks and badges\n- Typeset equations with a typed version\n- A-/A+ text size from 50% to 300%\n- Works offline; progress stays on your device\n\n### Private By Design\nNo account and no sign-up. We collect no personal data. On first launch the app asks your age band; the answer stays on your device. Under 18, ads are non-personalised and there is no tracking prompt. Under 13, there are no ads at all.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free, no ads, optional monthly subscription",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-applywick.html",
+  "supportUrl": "https://equalinformation.com/app-support-applywick.html",
+  "releasedAt": "2026-11-21",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/college-admissions-applywick/icon-512.webp",
+  "hero": "assets/apps/college-admissions-applywick/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/college-admissions-applywick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/college-admissions-applywick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/college-admissions-applywick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/college-admissions-applywick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.applywick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.applywick.app"
+  },
+  "related": []
+}

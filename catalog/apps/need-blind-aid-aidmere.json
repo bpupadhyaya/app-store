@@ -1,0 +1,67 @@
+{
+  "slug": "need-blind-aid-aidmere",
+  "name": "Need-Blind Aid: Aidmere",
+  "subtitle": "At top schools, explained",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "financial",
+    "fafsa",
+    "scholarship",
+    "grants",
+    "loans",
+    "tuition",
+    "net-price",
+    "college-cost",
+    "appeal",
+    "award-letter"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Learn how aid at top colleges really works: see real net prices, compare award letters, read each school's own policy, draft an appeal. About half free.",
+  "longDescription": "Need-Blind Aid: Aidmere explains how financial aid at the wealthiest US colleges really works, and helps your family see real net prices before you apply.\n\nSticker prices frighten families away from schools that may cost less than the local public option. Aidmere shows why, in plain language, with every claim cited to a public source.\n\n### Learn in 12 Short Units\nNeed-blind, need-aware and full-need: what the words mean, and who they apply to (often only US citizens and permanent residents). Sticker price versus net price. How need is worked out in principle. FAFSA and the CSS Profile. How to read a school's own aid policy page. Net price calculators and what they miss. Divorced parents, home equity, small businesses, several children in college. International students. Merit versus need aid. Comparing award letters. Appeals. Loans, work-study and graduating with little debt.\n\nEach unit: a story, a real decision to try, something to build for your own family, then a check of questions with reasons. 385 original questions across 48 topic points, three depth levels (Beginner, Curious, Scientist), a daily challenge and badges. A Coverage screen lists every topic point with its sources and the questions that test it.\n\n### Five Tools\n- Net price scenarios: compare a full-need school, a merit-only school and a public option with a transparent, editable teaching rule and typeset formulas.\n- Published policy explorer: what 27 schools' own pages say about need-blind, full-need and no-loan policies and income statements, with the page and the date it was read. Blank means the page did not clearly say.\n- Aid offer comparer: put award letters side by side, see gift aid, loans, work-study and the gap.\n- Appeal letter workshop: a guided, evidence-first draft and checklist.\n- Loan and work comparison: monthly payment, interest, and the hours of work that borrowing replaces.\n\n### Personalized Practice\nAidmere remembers what you know on your device only. After every quick check you see the lessons for what you missed and a next best step with the reason. Choose the Syllabus view (twelve units in order) or the Real-world view with four guided builds (what college will really cost, comparing award letters, an aid appeal, and aid for international applicants): each step teaches the idea just in time, sets a task with your numbers, and ends with a short check. One shared progress record.\n\n### Honest By Design\nEstimates only, never a promise of aid or admission. Educational, not financial advice. Policies change every year: always confirm with each school and with studentaid.gov. Works offline, no account, text size from 50% to 300%, sources open inside the app. No tracking.\n\nNot affiliated with, endorsed or sponsored by any college, the U.S. Department of Education, FAFSA, or the College Board (CSS Profile). Names appear only to describe the topic.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-aidmere.html",
+  "supportUrl": "https://equalinformation.com/app-support-aidmere.html",
+  "releasedAt": "2026-11-22",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/need-blind-aid-aidmere/icon-512.webp",
+  "hero": "assets/apps/need-blind-aid-aidmere/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/need-blind-aid-aidmere/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/need-blind-aid-aidmere/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/need-blind-aid-aidmere/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/need-blind-aid-aidmere/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.aidmere.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.aidmere.app"
+  },
+  "related": []
+}

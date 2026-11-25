@@ -1,0 +1,70 @@
+{
+  "slug": "a-level-business-stakeford",
+  "name": "A Level Business: Stakeford",
+  "subtitle": "Labs, mocks & case studies",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "aqa",
+    "edexcel",
+    "ocr",
+    "revision",
+    "break-even",
+    "marketing",
+    "finance",
+    "essay",
+    "mock",
+    "year-12",
+    "year-13",
+    "exam"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Learn A Level Business by doing: 12 interactive labs, adaptive quizzes, mock papers, case studies and an essay coach. Free to start, optional Stakeford Plus.",
+  "longDescription": "Stakeford is an independent revision app for A Level Business. Learn each idea, test yourself, then use it: move break-even charts, forecast cash flow, appraise investments, read ratios, build decision trees and plan a critical path.\n\n### What You Get\n- 87 lessons covering the topics in the AQA 7132, Pearson Edexcel 9BS0 and OCR H431 specifications, each with a hook, key terms, a worked example, common slips, a chain of reasoning and evaluation lenses.\n- 783 original practice questions with explanations, adaptive quizzes that start with your weakest topics, and a link back to the lesson after every mistake.\n- 12 interactive labs and 6 real-world builds: start a bakery, price a launch, choose how to fund a factory, turn a business around, go abroad and cut costs without losing quality.\n- Case studies with real calculations, an essay coach with a plan and an evaluation checklist, a command-word trainer and board-style mock papers with timers.\n- Syllabus order or Real-World view: follow the specification or learn through the problems a business faces.\n- Coverage screen with exact counts, an Other boards map and a Curriculum map comparing topics with GCSE Business, IB Business Management and AP Business with Personal Finance.\n- Text size from 50% to 300%, made for phones and tablets, works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-stakeford.html",
+  "supportUrl": "https://equalinformation.com/app-support-stakeford.html",
+  "releasedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/a-level-business-stakeford/icon-512.webp",
+  "hero": "assets/apps/a-level-business-stakeford/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/a-level-business-stakeford/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-business-stakeford/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-business-stakeford/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-business-stakeford/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/a-level-business-stakeford/id6839102123",
+    "bundleId": "com.equalinformation.stakeford.app",
+    "appleId": "6839102123"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.stakeford.app"
+  },
+  "related": []
+}

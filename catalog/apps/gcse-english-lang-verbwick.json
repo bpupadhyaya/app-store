@@ -1,0 +1,69 @@
+{
+  "slug": "gcse-english-lang-verbwick",
+  "name": "GCSE English Lang: Verbwick",
+  "subtitle": "Reading, writing and SPaG labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "aqa",
+    "edexcel",
+    "ocr",
+    "eduqas",
+    "unseen",
+    "annotation",
+    "creative",
+    "transactional",
+    "revision",
+    "mock",
+    "9-1",
+    "analysis"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Mark up unseen passages in an annotation lab, plan and time your writing, and let quick quizzes steer you to the exact lesson you need. Offline.",
+  "longDescription": "GCSE English Language, taught by a tutor that keeps track of what you know. Verbwick practises every subject-content point in the DfE GCSE English language content (64 points) plus 16 paper and task points from the AQA, Pearson Edexcel, OCR and WJEC Eduqas specifications, each with at least 8 original questions (707 in all): reading unseen fiction and non-fiction, analysing language and structure, comparing viewpoints, descriptive and narrative writing, transactional and viewpoint writing, and accuracy in spelling, punctuation and grammar. It is written for the GCSE 9 to 1 English Language courses from AQA, Pearson Edexcel, OCR and WJEC Eduqas, with question styles tagged by paper type.\n\n### How It Teaches\nTwelve units follow the national subject content: you read an explanation, study a worked example, try it in a lab, make something, and check yourself with five questions. Miss one and the app links you straight to the paragraph that teaches it. A private model on your phone tracks 22 concepts, from finding information to semicolons. Switch the course view any time: Classical (specification order), Build-it (learn what a real writing project needs, step by step) or Weakest first.\n\n### Coverage You Can Check\nOpen Coverage to see every point, the exam board sections it maps to, how many questions test it and how well you are doing, then practise any point. It is practice coverage, not a promise of any grade.\n\n### Other Boards, Optional\nA quiet chip on each unit shows where the topic sits in A Level English Language, IB Language and Literature and AP English Language and Composition, with a Curriculum map screen. Approximate: check your own specification. Switch it off any time.\n\n### The Annotation Lab\nEight original passages, from a storm-lit nineteenth-century opening to a speech about school start times. Tap the first and last word of a phrase, name the technique, and check your marks against an expert key that explains why each feature works. Anything you miss links back to the lesson.\n\n### The Timed Writing Planner\nFourteen original tasks across creative writing, transactional writing and writing a viewpoint. Plan in boxes, pick devices to try, run a 45 or 30 minute countdown split into plan, write and check, write in the app, and see counts of sentences, sentence openers and punctuation. Then tick eight clear descriptors for your own estimate and get links to the units that fix what you left unticked. You stay in charge of every word.\n\n### Drills, Tests and Reports\nAdaptive drills of 5, 10 or 20 questions with a reason for every answer; unit tests, cumulative tests and a timed mock reading paper, each ending in a report by assessment objective with a three step study plan.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-gcse-english-lang-verbwick.html",
+  "supportUrl": "https://equalinformation.com/app-support-gcse-english-lang-verbwick.html",
+  "releasedAt": "2026-11-23",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/gcse-english-lang-verbwick/icon-512.webp",
+  "hero": "assets/apps/gcse-english-lang-verbwick/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/gcse-english-lang-verbwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-english-lang-verbwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-english-lang-verbwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-english-lang-verbwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.gcseenglangverbwick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.gcseenglangverbwick.app"
+  },
+  "related": []
+}

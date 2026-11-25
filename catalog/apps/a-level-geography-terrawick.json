@@ -1,0 +1,69 @@
+{
+  "slug": "a-level-geography-terrawick",
+  "name": "A Level Geography: Terrawick",
+  "subtitle": "Adaptive A Level geography",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "aqa",
+    "edexcel",
+    "ocr",
+    "eduqas",
+    "revision",
+    "coasts",
+    "tectonics",
+    "hazards",
+    "cities",
+    "climate",
+    "fieldwork",
+    "rivers"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Revise A Level Geography your way: adaptive practice, 11 interactive labs, a case-study atlas and a map to GCSE, IB and AP. Free to start.",
+  "longDescription": "A Level Geography: Terrawick is an adaptive revision app for A Level Geography. It turns the specification topics into short lessons, diagrams, worked examples and original practice questions, and it adapts to what you know.\n\n### What You Get\n- 78 teaching points in 14 units: skills and fieldwork, water and carbon cycles, coasts, glaciers, drylands, hazards, ecosystems, weather and climate, global systems and governance, changing places, urban environments, population, resource security, and superpowers and development.\n- 624 original multiple-choice questions, eight for every point, with an explanation of why each answer is right and what error each wrong option reflects.\n- Adaptive practice: every answer updates your mastery of that topic, missed questions are saved for repair, and reviews return after 1, 3, 7 and 16 days. A next best step tells you what to do now.\n- Two ways to learn: Classical (specification order) or Real-World (nine problem groups such as living with hazards, water, food and security, and cities and places).\n- 71 real case studies, each with a locator map, verified facts and sources, all on a world Atlas.\n- 11 interactive labs: storm hydrographs, water budgets, the carbon cycle, waves and cliff retreat, sea level, glacier mass balance, plate boundaries, the Park model, demographic transition, Spearman's rank and atmospheric circulation.\n- Timed mock papers with a unit-by-unit breakdown.\n- An optional Other boards chip on each topic and a Curriculum map showing where topics sit in AQA, Pearson Edexcel, OCR and WJEC Eduqas A Level geography, GCSE, IB and AP.\n- Text size from 50% to 300%, a layout built for phones and tablets, and everything works offline.\n\n### Honest Coverage\nSpecifications read: AQA 7037, Pearson Edexcel 9GE0, OCR H481 and WJEC Eduqas A110QS. The Coverage screen shows, board by board, which specification areas are covered, which only in part and which not at all (for example the Eduqas Economic Growth and Challenge country themes are not included). The app does not include your own fieldwork, your independent investigation or the place studies your school chooses; it teaches the methods and concepts for them. It is an independent study aid, not affiliated with or endorsed by any examination board, and it cannot promise a grade. Check the specification you are entered for.\n\nAll lessons, questions, diagrams and case summaries are original. Maps are drawn from Natural Earth public-domain data.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-terrawick.html",
+  "supportUrl": "https://equalinformation.com/app-support-terrawick.html",
+  "releasedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/a-level-geography-terrawick/icon-512.webp",
+  "hero": "assets/apps/a-level-geography-terrawick/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/a-level-geography-terrawick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-geography-terrawick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-geography-terrawick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-geography-terrawick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.terrawick.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.terrawick.app"
+  },
+  "related": []
+}

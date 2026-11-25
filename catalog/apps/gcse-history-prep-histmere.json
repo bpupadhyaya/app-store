@@ -1,0 +1,69 @@
+{
+  "slug": "gcse-history-prep-histmere",
+  "name": "GCSE History Prep: Histmere",
+  "subtitle": "GCSE History: Edexcel 1HI0",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "revision",
+    "weimar",
+    "nazi",
+    "cold-war",
+    "medicine",
+    "crime",
+    "migration",
+    "russia",
+    "mock",
+    "papers",
+    "quiz",
+    "exam"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Every Pearson Edexcel GCSE History 1HI0 option with adaptive quizzes, real-world case files and timed practice papers. Free to start, Plus for more.",
+  "longDescription": "GCSE History revision for Pearson Edexcel (9-1) 1HI0, with every option in the specification: Paper 1 thematic studies with their historic environments (crime and punishment with Whitechapel, medicine with the Western Front, warfare with London in the Second World War, migrants with Notting Hill); Paper 2 period and British depth studies (Anglo-Saxon and Norman England, Richard I and John, Henry VIII, Early Elizabethan England; Spain and the New World, British America, the American West, the Cold War, the Middle East); Paper 3 modern depth studies (Russia, Weimar and Nazi Germany, Mao's China, the USA 1954-75). More than 2,500 original practice questions, at least 8 for every topic, matched to the specification topic lists.\n\nIt learns how you are doing. Every topic keeps a private score on your device. Short check-ins show what you missed, link you to the exact lesson, worked example or source, and tell you why that topic is next. Weak topics return just before you would forget them. Unit tests, cumulative tests and practice papers end with a report and a short study plan.\n\nTwo ways to study, one set of progress:\n- Syllabus view follows the order of the specification topics.\n- Real-World view: Investigate it. Build case files step by step, such as why a democracy handed power to Hitler or why the USA failed in Vietnam. Each step teaches what you need, then checks it.\n\nTimed practice papers follow the Pearson paper timings and section totals: Paper 1 (80 minutes), Paper 2 (110 minutes) and Paper 3 (90 minutes). You write your own answers, then mark yourself against checklists. Source and interpretation questions use practice sources written for this app.\n\nAlso inside: a Source Desk, a Timeline you can rebuild, an Essay Bench, a Coverage screen that lists every option and specification point, an optional Curriculum map showing where topics sit in GCSE, A Level, IB and AP (similar content, not official equivalence), text size from 50% to 300%, and offline use with no account.\n\nFree to start, with Histmere Plus for more. Much of Histmere is free: eight full Pearson options, the historical skills, adaptive quizzes and the Coverage screen. Histmere Plus is one optional monthly subscription (about $2.99; price varies by country) that unlocks nine more options, the timed practice papers and the study tools (Source Desk utility tasks, Essay Bench, Timeline lab, long quizzes and Stretch level). No free trial. Cancel any time: cancelling takes effect at the end of the month you have paid for, and you are not charged again.\n\nContent is original and follows the topic lists in the Pearson Edexcel GCSE (9-1) History specification (Issue 6). Practice sources and papers are written for this app and are not real exam papers or mark schemes. Not affiliated with or endorsed by Pearson, Edexcel, Ofqual or the Department for Education. Board names describe which course the content supports.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-gcse-history-histmere.html",
+  "supportUrl": "https://equalinformation.com/app-support-gcse-history-histmere.html",
+  "releasedAt": "2026-11-23",
+  "updatedAt": "2026-11-25",
+  "version": "1.0",
+  "icon": "assets/apps/gcse-history-prep-histmere/icon-512.webp",
+  "hero": "assets/apps/gcse-history-prep-histmere/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/gcse-history-prep-histmere/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-history-prep-histmere/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-history-prep-histmere/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-history-prep-histmere/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.gcse-history-histmere.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.gcse-history-histmere.app"
+  },
+  "related": []
+}

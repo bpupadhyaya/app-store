@@ -53,9 +53,10 @@
     }
   ],
   "ios": {
-    "status": "soon",
-    "url": "",
-    "bundleId": "com.equalinformation.syllogra.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/lsat-prep-syllogra/id6837552642",
+    "bundleId": "com.equalinformation.syllogra.app",
+    "appleId": "6837552642"
   },
   "android": {
     "status": "soon",

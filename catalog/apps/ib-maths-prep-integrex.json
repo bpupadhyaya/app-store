@@ -1,0 +1,69 @@
+{
+  "slug": "ib-maths-prep-integrex",
+  "name": "IB Maths Prep: Integrex",
+  "subtitle": "IB Maths SL/HL practice, labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "mathematics",
+    "analysis",
+    "approaches",
+    "calculus",
+    "statistics",
+    "ia",
+    "command-terms",
+    "mock",
+    "exam",
+    "revision",
+    "algebra"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "IB maths practice that adapts to you: quizzes, labs, real-world builds, command terms, SL and HL. No account.",
+  "longDescription": "IB Maths Prep: Integrex helps you practise, understand and revise IB Mathematics: analysis and approaches, at SL and HL. It works offline, with no account.\n\n### Learn Your Way\n- Syllabus view: follow the five components in order: number and algebra, functions, geometry and trigonometry, statistics and probability, calculus.\n- Real-World view: learn by building. Design a ski-jump ramp, plan a savings schedule, read an earthquake scale, fit a bridge arch and more, and meet each idea exactly when a step needs it. Your builds go on a Made-it shelf.\n- Switch views at any time; your progress is shared. An SL and HL switch hides the HL-only topics at SL.\n\n### Practise and Adapt\n- 79 points, each with a lesson, a worked example and a common-slip warning, and 1,479 original questions with worked solutions. Every numerical answer is checked by code and a second method.\n- Short quizzes after every lesson. A wrong answer links straight to the material you missed, with a one-line reason for what to study next.\n- Unit tests, a cumulative test, and Paper 1, Paper 2 and (HL) Paper 3 style practice sets, with reports and a study plan.\n- Command-term trainer: learn what Find, Show that, Hence, Determine and the others ask for, then drill them.\n- Exploration coach: choose a topic, test your question, plan your time and check every criterion. It coaches; it never writes your Exploration.\n\n### See It Move\n- Eight interactive labs: calculus (tangent and area), graph transformations, trigonometry, vectors and the dot product, distributions with inverse normal, motion, Euler's method and slope fields, and complex numbers on the Argand diagram.\n\n### Readable and Honest\n- Text zoom from 50 to 300 percent, with large, clear type, on phones and tablets, with layouts that use a tablet's whole screen.\n- Optional Other boards chip and Curriculum map show where a topic has similar content in GCSE, A Level and AP courses.\n- Every question and explanation is original. The topic list is our own breakdown of the course, built around the five components, teaching hours and paper formats in the public IB subject brief. We list exact counts on the Coverage screen and do not claim to cover every statement of the guide: check your own guide and teacher.\n- Practice sets use multiple-choice items, so they train the maths but not written working.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-ib-maths-integrex.html",
+  "supportUrl": "https://equalinformation.com/app-support-ib-maths-integrex.html",
+  "releasedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "version": "1.0",
+  "icon": "assets/apps/ib-maths-prep-integrex/icon-512.webp",
+  "hero": "assets/apps/ib-maths-prep-integrex/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/ib-maths-prep-integrex/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-maths-prep-integrex/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-maths-prep-integrex/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-maths-prep-integrex/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/ib-maths-prep-integrex/id6838950999",
+    "bundleId": "com.equalinformation.ibmathsintegrex.app",
+    "appleId": "6838950999"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.ibmathsintegrex.app"
+  },
+  "related": []
+}

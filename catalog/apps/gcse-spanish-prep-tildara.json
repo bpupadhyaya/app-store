@@ -1,0 +1,70 @@
+{
+  "slug": "gcse-spanish-prep-tildara",
+  "name": "GCSE Spanish Prep: Tildara",
+  "subtitle": "Adaptive GCSE Spanish practice",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "vocabulary",
+    "verbs",
+    "speaking",
+    "listening",
+    "mock",
+    "aqa",
+    "edexcel",
+    "eduqas",
+    "exam",
+    "study",
+    "grammar",
+    "dictation"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "GCSE Spanish revision that adapts to you: 87 spec points, vocab, verb drills, speaking practice and mock quizzes. Works offline. No account.",
+  "longDescription": "GCSE Spanish Prep: Tildara is a revision companion for GCSE Spanish in England. It is organised into 87 specification points that run from sounds and numbers through the three themes, core language, Foundation and Higher grammar, and the four skills, so you can see what you have covered and what is left.\n\n### Learn Your Way\n- Classical order by default, or a Real-World view with guided builds\n- Short lessons with worked examples and common mistakes\n- Original questions with feedback; a wrong answer links to the idea to revise, and the app tells you why each next step was chosen\n- Foundation and Higher content is marked clearly\n\n### Vocabulary and Verbs\n- A vocabulary trainer with spaced review, built around the word list in the AQA 8692 specification\n- Verb drills with full conjugation tables, a tense timeline and a sound lab for spelling, accents and stress\n\n### Speaking, Listening, Writing and Translation\n- Listening practice with slow and normal speech from voices on your device, so you can repeat and shadow\n- Speaking studio: role-plays, photo cards and read-aloud tasks. You record yourself, play it back and self-mark against a model answer and checklist. Your recordings stay on your device and are never uploaded\n- Writing and translation tasks with model answers for self-marking\n- Sentence builder with grammar-aware tiles\n\n### Mock Practice\n- Timed mock papers in listening and reading. The mocks are multiple choice questions; speaking and writing are practised and self-marked, so no automatic grade is given for them\n\n### Made for Every Screen\n- Text size from 50% to 300%, phone and tablet layouts, works offline\n- A Coverage screen showing exactly what is in the app, and an Other boards map\n\n### What It Covers, Stated Plainly\nThe 87 points are mapped to the Department for Education 2025 GCSE subject content for French, German and Spanish, and to AQA 8692, Pearson Edexcel 1SP1 and WJEC Eduqas C810. OCR J731 is not mapped: we could not verify its specification, so we do not claim it. Boards differ in vocabulary lists and assessment, so check your own board's current specification. This is practice, not a guarantee of a grade.\n\nTildara is an independent study aid. It is not affiliated with or endorsed by AQA, Pearson Edexcel, WJEC Eduqas, OCR, Ofqual or the Department for Education. Content is original and is not a past paper, recording or mark scheme. Speech comes from voices on your device and is not examination audio.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-gcse-spanish-tildara.html",
+  "supportUrl": "https://equalinformation.com/app-support-gcse-spanish-tildara.html",
+  "releasedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/gcse-spanish-prep-tildara/icon-512.webp",
+  "hero": "assets/apps/gcse-spanish-prep-tildara/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/gcse-spanish-prep-tildara/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-spanish-prep-tildara/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-spanish-prep-tildara/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-spanish-prep-tildara/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/gcse-spanish-prep-tildara/id6839214107",
+    "bundleId": "com.equalinformation.tildara.app",
+    "appleId": "6839214107"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.tildara.app"
+  },
+  "related": []
+}

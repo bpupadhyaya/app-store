@@ -53,8 +53,8 @@
     }
   ],
   "ios": {
-    "status": "soon",
-    "url": "",
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/gmat-focus-prep-mbavane/id6837455023",
     "bundleId": "com.equalinformation.mbavane.app",
     "appleId": "6837455023"
   },

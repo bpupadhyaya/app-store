@@ -1,0 +1,67 @@
+{
+  "slug": "gcse-chemistry-prep-chemvale",
+  "name": "GCSE Chemistry Prep: Chemvale",
+  "subtitle": "AQA Edexcel OCR labs and mocks",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "revision",
+    "quiz",
+    "titration",
+    "electrolysis",
+    "molecules",
+    "periodic-table",
+    "mock",
+    "higher",
+    "foundation",
+    "lab"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive GCSE Chemistry revision: lessons, quizzes that link to what you missed, a 3D molecule viewer, labs and board-style mocks for AQA, Pearson Edexcel and…",
+  "longDescription": "GCSE Chemistry revision that adapts to you. Chemvale is built for separate-science GCSE Chemistry, Foundation and Higher, with AQA 8462, Pearson Edexcel 1CH0 and OCR Gateway J248 specification codes mapped to every topic.\n\n### How It Works\n- Pick your tier and board. Short lessons with worked examples, then quizzes that adapt to what you get wrong.\n- Every wrong answer links to a Fix it lesson; your weakest points come back at the right time.\n- 200 specification points, each practised with at least 8 original questions, including every statement in the DfE GCSE chemistry subject content.\n- Switch any time between Syllabus order and Real-World builds: make a fertiliser plant, turn sea water into drinking water, build a cell, choose a bus fuel.\n- Coverage screen shows your mastery of every point and which board codes it belongs to. Other boards map shows how each topic appears in A Level, IB and AP.\n- Text size from 50% to 300% for comfortable reading on phone or tablet. Works offline. No account.\n\n### Labs and Simulations\nPeriodic Table Explorer, 3D Molecule Viewer, Titration Lab (free). Electrolysis, Rates, Chromatography, Equilibrium, Energy and Ion Test labs, plus mock papers in the style of AQA, Pearson Edexcel and OCR, are in Chemvale Plus.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-gcse-chemistry-chemvale.html",
+  "supportUrl": "https://equalinformation.com/app-support-gcse-chemistry-chemvale.html",
+  "releasedAt": "2026-11-24",
+  "updatedAt": "2026-11-25",
+  "version": "1.0",
+  "icon": "assets/apps/gcse-chemistry-prep-chemvale/icon-512.webp",
+  "hero": "assets/apps/gcse-chemistry-prep-chemvale/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/gcse-chemistry-prep-chemvale/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-chemistry-prep-chemvale/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-chemistry-prep-chemvale/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-chemistry-prep-chemvale/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.chemvale.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.chemvale.app"
+  },
+  "related": []
+}

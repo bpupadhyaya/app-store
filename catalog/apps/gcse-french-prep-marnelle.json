@@ -1,0 +1,70 @@
+{
+  "slug": "gcse-french-prep-marnelle",
+  "name": "GCSE French Prep: Marnelle",
+  "subtitle": "Adaptive GCSE French practice",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "vocabulary",
+    "verbs",
+    "speaking",
+    "listening",
+    "mock",
+    "aqa",
+    "edexcel",
+    "eduqas",
+    "exam",
+    "study",
+    "grammar",
+    "dictation"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "GCSE French revision that adapts to you: 91 spec points, vocab cards, verb tables, speaking practice and mock quizzes. Works offline. No account.",
+  "longDescription": "GCSE French Prep: Marnelle is a revision companion for GCSE French in England. It is organised into 91 specification points that run from sounds and numbers through the three themes, core language, Foundation and Higher grammar, and the four skills, so you can see what you have covered and what is left.\n\n### Learn Your Way\n- Syllabus order by default, or a Real-World route built around everyday missions in French\n- Short lessons with worked examples, exam tips and common mistakes\n- Original questions with an explanation for every answer; a wrong answer points to the lesson card to revise, and the app says why it chose each next step\n- Foundation and Higher content is marked clearly\n\n### Vocabulary, Verbs and Sounds\n- 1,915 vocabulary rows with example sentences, built around the word list in the AQA 8652 specification, with spaced-repetition flashcards and generated word quizzes\n- Conjugation tables for 70 verbs, typed verb drills, a clock lab for telling the time in French and a sound lab for spelling, accents and liaison\n\n### Speaking, Listening, Writing and Translation\n- Listening practice read aloud by voices on your device, with a transcript after each answer\n- Speaking studio: role-plays, photo cards, read-aloud and conversation tasks. You record yourself, play it back and self-mark against a model answer and checklist. Your recordings stay on your device and are never uploaded\n- Writing, translation and dictation tasks with model answers and marking units\n- Sentence builder and agreement lab that make word order and agreement visible\n\n### Mock Practice\n- Timed multiple-choice mock sections with the paper timings of AQA, Pearson Edexcel or WJEC Eduqas. Speaking and writing are practised and self-marked, so no automatic grade is given for them\n\n### Made for Every Screen\n- Text size from 50% to 300%, phone and tablet layouts, works offline\n- A Coverage screen that shows exactly what is in the app, and an Other boards map to A Level, IB and AP\n\n### What It Covers, Stated Plainly\nThe 91 points are mapped to the Department for Education GCSE subject content for French, German and Spanish, and to AQA 8652, Pearson Edexcel 1FR1 and the WJEC Eduqas French specification (the Eduqas text used was its 2024 draft). Other boards are not mapped. Boards differ in vocabulary lists and assessment, so check your own board's current specification. This is practice, not a guarantee of a grade.\n\nMarnelle is an independent study aid. It is not affiliated with or endorsed by AQA, Pearson Edexcel, WJEC Eduqas, Ofqual or the Department for Education. Content is original and is not a past paper, recording or mark scheme. Speech comes from voices on your device and is not examination audio.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-gcse-french-marnelle.html",
+  "supportUrl": "https://equalinformation.com/app-support-gcse-french-marnelle.html",
+  "releasedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/gcse-french-prep-marnelle/icon-512.webp",
+  "hero": "assets/apps/gcse-french-prep-marnelle/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/gcse-french-prep-marnelle/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-french-prep-marnelle/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-french-prep-marnelle/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-french-prep-marnelle/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/gcse-french-prep-marnelle/id6839232039",
+    "bundleId": "com.equalinformation.marnelle.app",
+    "appleId": "6839232039"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.marnelle.app"
+  },
+  "related": []
+}

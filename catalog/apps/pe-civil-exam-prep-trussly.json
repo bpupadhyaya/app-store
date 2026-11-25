@@ -52,8 +52,8 @@
     }
   ],
   "ios": {
-    "status": "soon",
-    "url": "",
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/pe-civil-exam-prep-trussly/id6837455340",
     "bundleId": "com.equalinformation.trussly.app",
     "appleId": "6837455340"
   },

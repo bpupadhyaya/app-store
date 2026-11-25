@@ -1,0 +1,67 @@
+{
+  "slug": "gcse-geography-prep-atlasmere",
+  "name": "GCSE Geography Prep: Atlasmere",
+  "subtitle": "GCSE Geography: maps and labs",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "aqa",
+    "edexcel",
+    "ocr",
+    "eduqas",
+    "hydrograph",
+    "climate-graph",
+    "population-pyramid",
+    "fieldwork",
+    "grid-reference",
+    "contours"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive GCSE geography revision: a map you can measure, flood and climate labs, fieldwork and board-style mocks for AQA, Edexcel, OCR and Eduqas. No account.",
+  "longDescription": "Revise GCSE geography the way a good teacher would teach it. Atlasmere checks what you know, shows you the exact lesson for what you missed, and chooses what to practise next. It works for AQA, Pearson Edexcel (A and B), OCR (A and B) and WJEC Eduqas (A and B) courses. Open Coverage, pick your board and see its specification points, each practised with at least 8 original questions (245 points in all).\n\n### How It Adapts\n- Short quizzes after every lesson and lab, at the length and difficulty you choose.\n- Your mastery of each topic is stored on your device only and fades over time, so topics you have not seen for a while come back for review.\n- After a quiz or test you get links to the exact lessons you missed and a one-line reason for what comes next.\n- Unit tests, a cumulative check and paper-style mock papers for your board (real timings and mark shares) end with a report and a study plan.\n- Optional Curriculum map: see where each topic sits in A Level, IB and AP Human Geography, and prepare extra material from another board.\n\n### Two Ways to Study\n- Syllabus view: follow the specification in order, paper by paper.\n- Real-World view: investigate it. Build a flood-ready town brief, a coastal defence recommendation, a fieldwork enquiry or a climate and population data report. Each step teaches what you need just in time, checks you, and puts the finished deliverable on your Made-it shelf.\n\n### Skills You Can See and Move\n- Map Desk: a new map every time. Four and six-figure grid references, scale, bearing, gradient, cross sections and line of sight.\n- Hydrograph Lab: change urban land, slope, soil and vegetation and watch lag time and peak discharge.\n- Pyramid Lab: set life expectancy and children per woman and see the pyramid, dependency ratio and stage of the demographic transition model.\n- Climate Lab: eight stations to read and name.\n- Fieldwork Lab: mean, median, interquartile range, scatter graphs, lines of best fit and a checked conclusion.\n\nIncludes original case-study summaries (Tohoku and Nepal, Typhoon Haiyan, the Amazon, Holderness, the River Tees, the Lake District, Lagos, Bristol and Nigeria) tagged by exam board, a sources page, and text zoom from 50 to 300 percent. Everything works offline.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-gcse-geography-atlasmere.html",
+  "supportUrl": "https://equalinformation.com/app-support-gcse-geography-atlasmere.html",
+  "releasedAt": "2026-11-23",
+  "updatedAt": "2026-11-25",
+  "version": "1.0",
+  "icon": "assets/apps/gcse-geography-prep-atlasmere/icon-512.webp",
+  "hero": "assets/apps/gcse-geography-prep-atlasmere/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/gcse-geography-prep-atlasmere/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-geography-prep-atlasmere/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-geography-prep-atlasmere/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/gcse-geography-prep-atlasmere/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.atlasmere.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.atlasmere.app"
+  },
+  "related": []
+}

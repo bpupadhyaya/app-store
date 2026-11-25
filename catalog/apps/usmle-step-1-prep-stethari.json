@@ -1,0 +1,67 @@
+{
+  "slug": "usmle-step-1-prep-stethari",
+  "name": "USMLE Step 1 Prep: Stethari",
+  "subtitle": "Step 1 vignettes, labs, mocks",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "qbank",
+    "medical",
+    "boards",
+    "exam",
+    "physiology",
+    "pathology",
+    "pharmacology",
+    "biostatistics",
+    "anatomy",
+    "microbiology"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "2,572 original USMLE Step 1 practice questions, a lesson for every outline point, function labs and timed blocks. Works offline.",
+  "longDescription": "USMLE Step 1 Prep: Stethari is a study app built around the official USMLE content outline: every one of the 303 points of the USMLE Content Outline (2026) has its own lesson and at least 8 original questions. The Coverage screen in the app shows the exact count, point by point.\n\n### Practice\n- 2,572 original questions, most of them clinical vignettes, each with five options and a reason for every option, the reasoning steps and the trap\n- Timed blocks of 20 questions in 30 minutes, plus a three-block run\n- A diagnostic that finds weak systems, spaced review and a mistake notebook\n\n### Learn\n- 303 short lessons that follow the outline, each citing authoritative open sources that open inside the app\n- Function labs with typeset equations: pressure-volume loop, acid-base from a blood gas, repeat-dose drug levels and screening-test statistics\n- Guided clinical cases with your own written work-up\n- Adult lab reference ranges\n\n### It Adapts to You\nThe app tracks each concept on your device, links every missed question back to its lesson, suggests the next best concept with a reason, and lets you study in outline order or by clinical case.\n\n### Comfortable to Read\nLight, high-contrast design, text size from 50 to 300 percent, and wide layouts for tablets. Works offline. No account. A notice on first launch explains the optional usage sharing, which you can switch off or on at any time, and you can send feedback and suggestions from the app.\n\nA study aid for exam preparation, not medical advice. Practice scores are not a prediction of any exam result. Questions are original; there are no real or released exam items. USMLE is a joint program of the FSMB and NBME. This app is not affiliated with or endorsed by USMLE, NBME, FSMB or ECFMG.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-stethari.html",
+  "supportUrl": "https://equalinformation.com/app-support-stethari.html",
+  "releasedAt": "2026-11-21",
+  "updatedAt": "2026-11-25",
+  "version": "1.0",
+  "icon": "assets/apps/usmle-step-1-prep-stethari/icon-512.webp",
+  "hero": "assets/apps/usmle-step-1-prep-stethari/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/usmle-step-1-prep-stethari/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/usmle-step-1-prep-stethari/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/usmle-step-1-prep-stethari/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/usmle-step-1-prep-stethari/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.stethari.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.stethari.app"
+  },
+  "related": []
+}

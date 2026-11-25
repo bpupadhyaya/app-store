@@ -52,8 +52,8 @@
     }
   ],
   "ios": {
-    "status": "soon",
-    "url": "",
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/usmle-step-2-ck-prep-vignetta/id6837455232",
     "bundleId": "com.equalinformation.vignetta.app",
     "appleId": "6837455232"
   },

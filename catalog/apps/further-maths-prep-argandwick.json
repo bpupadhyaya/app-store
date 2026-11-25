@@ -1,0 +1,70 @@
+{
+  "slug": "further-maths-prep-argandwick",
+  "name": "Further Maths Prep: Argandwick",
+  "subtitle": "A Level Further Maths practice",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "matrices",
+    "complex",
+    "polar",
+    "calculus",
+    "vectors",
+    "statistics",
+    "mechanics",
+    "decision",
+    "aqa",
+    "edexcel",
+    "ocr",
+    "quiz"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Adaptive A Level Further Maths: typeset lessons, checked questions, mock papers and interactive labs. Free core, optional Plus.",
+  "longDescription": "Further Maths Prep: Argandwick is an adaptive revision app for A Level Further Mathematics. It covers the whole of the compulsory Core Pure content and selected parts of Further Statistics, Further Mechanics and Decision Maths, written for the DfE subject content that AQA, Pearson Edexcel and OCR share.\n\nWhat you get\n- 65 topics: 40 Core Pure (proof, complex numbers, matrices, vectors, polar curves, hyperbolic functions, further calculus, differential equations, numerical methods, conics), 7 Further Statistics, 8 Further Mechanics and 10 Decision Maths.\n- Clear lessons with typeset equations, worked examples and common slips.\n- 910 original questions with instant feedback. Every numeric answer was checked by two independent computations before it was included.\n- Quizzes that adapt: your results set the next question, bring missed topics back for review and point you to the lesson or prerequisite you need.\n- Timed mock papers with marks by topic and a repair list.\n- Interactive labs: Argand diagram with loci and roots, matrix transformations on a grid, polar plotter, slope fields with Euler's method, Maclaurin series convergence, hyperbolic functions, volumes of revolution and Poisson tests.\n- Real-World builds: spin a logo with complex numbers, build a tiny graphics engine, model a car suspension and more. Switch between Syllabus order and Real-World at any time.\n- A Coverage screen showing exactly what is and is not included, and an Other boards map to GCSE, A Level Maths, IB and AP topics.\n- Text size from 50% to 300%, tablets with multi-pane layouts, works offline.\n\nFree and Plus\nAbout half of the topics, three labs, two mock papers and three builds are free. Argandwick Plus is a monthly subscription that unlocks the rest. You can cancel any time in your store account settings; access continues to the end of the month you have paid for.\n\nNot affiliated with or endorsed by AQA, Pearson Edexcel, OCR or the Department for Education. All content is original; check your own specification with your teacher.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-alevel-further-maths-argandwick.html",
+  "supportUrl": "https://equalinformation.com/app-support-alevel-further-maths-argandwick.html",
+  "releasedAt": "2026-11-25",
+  "updatedAt": "2026-11-25",
+  "version": "1.0.0",
+  "icon": "assets/apps/further-maths-prep-argandwick/icon-512.webp",
+  "hero": "assets/apps/further-maths-prep-argandwick/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/further-maths-prep-argandwick/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/further-maths-prep-argandwick/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/further-maths-prep-argandwick/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/further-maths-prep-argandwick/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/further-maths-prep-argandwick/id6839214419",
+    "bundleId": "com.equalinformation.alevelfurthermathsargandwick.app",
+    "appleId": "6839214419"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.alevelfurthermathsargandwick.app"
+  },
+  "related": []
+}

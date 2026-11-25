@@ -1,0 +1,69 @@
+{
+  "slug": "a-level-biology-cellwright",
+  "name": "A Level Biology: Cellwright",
+  "subtitle": "Practicals, quizzes & mocks",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "aqa",
+    "ocr",
+    "edexcel",
+    "eduqas",
+    "practical",
+    "enzyme",
+    "genetics",
+    "ecology",
+    "revision",
+    "mock",
+    "year-12",
+    "year-13"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "A personal tutor for A level biology: quizzes that learn what you miss, lab simulators, practical cards and mock papers.",
+  "longDescription": "A Level Biology: Cellwright adapts to you. Every answer you give updates a private model on your device, so the app shows what to revisit, which lab to run and what comes next, in plain words and with the reason why.\n\n### Study Your Way\n- Classical order follows the specification for A level biology (AQA 7402 structure, DfE subject content), covering 47 concepts from biological molecules to gene expression, plus topics that other boards add.\n- The Real-World view, Investigate it, has you build things step by step: roll out a vaccine, engineer a stain-removing enzyme, restore a wetland, design a drought-ready crop, fuel an athlete, diagnose a patient case, breed a new variety, plan a gene therapy clinic, run a community health project. Each step teaches the idea it needs, then checks it, and finished builds go on your Made-it shelf.\n- Switch between the Syllabus view and the Real-World view with one tap. Your progress is shared.\n\n### Learn, Try, Check\n- Short lessons with a worked example and the common slip, then a quick check with the reasoning explained.\n- Six simulators: enzyme rates, water potential, potometer, dihybrid crosses with chi-squared, field sampling with Simpson's index and mark-recapture, and microscope graticule calibration.\n- A practical logbook with 32 cards: the twelve AQA required practicals plus practicals and skills from Pearson, OCR and WJEC Eduqas. Choose variables, control the right factors, make it safe, evaluate.\n- Unit tests, a cumulative test and 18 mock tests, including board-style papers for AQA, Pearson, OCR and Eduqas (shorter, multiple-choice adaptations; guide times shown), each with a report that links every miss to the lesson and a study plan.\n- 2,113 original questions, each with a worked explanation, including 6-mark extended-response items with mark schemes. Calculated answers were checked by a second method.\n- A Coverage screen lists 180 specification points drawn from the DfE subject content, AQA 7402, Pearson 9BN0 and 9BI0, OCR H420 and H422 and Eduqas, each with at least 8 practice questions, and your mastery on each. It shows practice coverage, not a grade promise.\n- Optional Other boards chip on every lesson and a Curriculum map: see where a topic sits in GCSE, IB and AP.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free with ads, optional monthly ad-free",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-alevel-biology-cellwright.html",
+  "supportUrl": "https://equalinformation.com/app-support-alevel-biology-cellwright.html",
+  "releasedAt": "2026-11-23",
+  "updatedAt": "2026-11-25",
+  "version": "1.0",
+  "icon": "assets/apps/a-level-biology-cellwright/icon-512.webp",
+  "hero": "assets/apps/a-level-biology-cellwright/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/a-level-biology-cellwright/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-biology-cellwright/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-biology-cellwright/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/a-level-biology-cellwright/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.cellwright.app"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.cellwright.app"
+  },
+  "related": []
+}
