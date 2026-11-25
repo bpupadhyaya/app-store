@@ -56,9 +56,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.lexwren.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/a-level-law-lexwren/id6839381991",
+    "bundleId": "com.equalinformation.lexwren.app",
+    "appleId": "6839381991"
   },
   "android": {
     "status": "soon",

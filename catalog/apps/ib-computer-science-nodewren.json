@@ -58,7 +58,8 @@
   "ios": {
     "status": "review",
     "url": "",
-    "bundleId": "com.equalinformation.ibcomputersciencenodewren.app"
+    "bundleId": "com.equalinformation.ibcomputersciencenodewren.app",
+    "appleId": "6839343845"
   },
   "android": {
     "status": "soon",

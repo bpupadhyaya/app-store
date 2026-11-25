@@ -56,9 +56,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.ibhistorychronelle.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/ib-history-prep-chronelle/id6839384224",
+    "bundleId": "com.equalinformation.ibhistorychronelle.app",
+    "appleId": "6839384224"
   },
   "android": {
     "status": "soon",

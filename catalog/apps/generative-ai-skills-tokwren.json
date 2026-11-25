@@ -49,8 +49,9 @@
     }
   ],
   "ios": {
-    "status": "soon",
-    "url": ""
+    "status": "review",
+    "url": "",
+    "bundleId": "com.equalinformation.tokwren.app"
   },
   "android": {
     "status": "soon",

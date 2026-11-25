@@ -36,7 +36,7 @@
   "version": "1.0.0",
   "icon": "assets/apps/physics-i-mechanics-kinetrix/icon-512.png",
   "ios": {
-    "status": "soon",
+    "status": "review",
     "url": "",
     "bundleId": "com.equalinformation.course-phys-physics-1-mechanics.app"
   },
