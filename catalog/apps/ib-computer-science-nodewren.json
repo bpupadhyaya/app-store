@@ -56,8 +56,8 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/ib-computer-science-nodewren/id6839343845",
     "bundleId": "com.equalinformation.ibcomputersciencenodewren.app",
     "appleId": "6839343845"
   },
