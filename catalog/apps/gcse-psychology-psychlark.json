@@ -56,9 +56,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.psychlark.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/gcse-psychology-psychlark/id6839369540",
+    "bundleId": "com.equalinformation.psychlark.app",
+    "appleId": "6839369540"
   },
   "android": {
     "status": "soon",

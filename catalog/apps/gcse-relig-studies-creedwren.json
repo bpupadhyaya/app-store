@@ -56,9 +56,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.gcsereligiousstudiescreedwren.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/gcse-relig-studies-creedwren/id6839405028",
+    "bundleId": "com.equalinformation.gcsereligiousstudiescreedwren.app",
+    "appleId": "6839405028"
   },
   "android": {
     "status": "soon",

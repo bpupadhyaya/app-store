@@ -56,9 +56,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.lectmere.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/a-level-english-lang-lectmere/id6839406593",
+    "bundleId": "com.equalinformation.lectmere.app",
+    "appleId": "6839406593"
   },
   "android": {
     "status": "soon",

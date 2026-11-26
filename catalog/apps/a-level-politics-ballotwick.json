@@ -56,9 +56,10 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
-    "bundleId": "com.equalinformation.ballotwick.app"
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/a-level-politics-ballotwick/id6839308239",
+    "bundleId": "com.equalinformation.ballotwick.app",
+    "appleId": "6839308239"
   },
   "android": {
     "status": "soon",
