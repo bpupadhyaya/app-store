@@ -16,6 +16,7 @@ import fs from 'node:fs'; import path from 'node:path'; import os from 'node:os'
 import { ROOT } from './lib/catalog.mjs';
 import { probeIos, probePlay } from './refresh-store-status.mjs';
 import { webDescription, shorten } from './lib/storetext.mjs';
+import { monetizationFor } from './lib/monetization.mjs';
 const argv = process.argv.slice(2);
 const opt = k => { const i = argv.indexOf('--' + k); return i > -1 ? argv[i + 1] : undefined; }, flag = k => argv.includes('--' + k);
 const DRY = flag('dry');
@@ -122,7 +123,7 @@ async function build(rec, ex) {
   if (!categories.length) categories.push(rec.cats?.p === 'GAMES' ? 'casual' : 'education');
   const lk = rec.best === 'READY_FOR_SALE' ? await probeIos(rec.id, rec.bundle) : null;
   const releasedAt = lk?.releasedAt || (rec.versionCreated || '').slice(0, 10) || today;
-  const monet = /\bno ads\b/i.test(desc) ? 'Free, no ads, optional monthly subscription' : /subscription|ad-?free|remove ads/i.test(desc) ? 'Free with ads, optional monthly ad-free' : 'Free with ads';
+  const monet = monetizationFor(desc, { education: categories.includes('education') });
   const pk = flag('no-play-probe') ? null : await probePlay(rec.bundle);
   const ios = { status: lk?.live ? 'live' : 'review', url: lk?.live ? lk.url : '', bundleId: rec.bundle };
   if (rec.best === 'PREPARE_FOR_SUBMISSION') ios.status = 'soon';
@@ -203,7 +204,7 @@ if (flag('repo-only') || flag('with-repos')) for (const r of REPO_ONLY) {
   } else icon = `${arel}/icon-512.png`;
   const longDescription = webDescription(desc) || desc;
   const entry = { slug: r.slug, name, subtitle, categories: r.cats, tags: kw.split(',').map(k => slugify(k.trim())).filter(k => k && k.length < 28).slice(0, 12), developer: 'EqualInformation', shortDescription: shorten(promo || longDescription.split('\n').find(l => l && !l.startsWith('#'))), longDescription,
-    whatsNew: 'First release.', price: 'Free', monetization: 'Free with ads, optional monthly ad-free', ageRating: '4+', releasedAt: today, updatedAt: today, version: '1.0.0', icon, ...(hero && { hero }), screenshots,
+    whatsNew: 'First release.', price: 'Free', monetization: monetizationFor(desc, { education: r.cats.includes('education') }), ageRating: '4+', releasedAt: today, updatedAt: today, version: '1.0.0', icon, ...(hero && { hero }), screenshots,
     ios: { status: 'soon', url: '', bundleId: r.bundle }, android: { status: 'soon', url: '', package: r.bundle }, related: [] };
   save(entry); report.added.push(`[repo] ${r.slug} | ios=soon | shots=${screenshots.length}`);
 }

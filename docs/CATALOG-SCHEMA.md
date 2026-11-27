@@ -35,7 +35,7 @@ Catalog agent writes: `catalog/apps/<slug>.json` and images in `assets/apps/<slu
 Rules:
 - Required: slug (= file name, `[a-z0-9-]+`), name, subtitle, categories (>=1, ids from `catalog/categories.json`, primary first), shortDescription, longDescription, price, monetization, ageRating, releasedAt, updatedAt, icon, ios.status, android.status.
 - Optional: tags, whatsNew, version, hero, accent (#rrggbb), screenshots, related, editorial, privacyUrl, supportUrl.
-- `developer` is always `EqualInformation`; `price` always `Free`; `monetization` must disclose ads and the optional monthly ad-free plan.
+- `developer` is always `EqualInformation`; `price` always `Free`; `monetization` must state how that app earns, as its store listing does (ads, Plus or subscription); never assume ads (`tools/lib/monetization.mjs`).
 - status is `live` | `review` | `soon`. `live` REQUIRES an https url on apps.apple.com (iOS) / play.google.com (Android). Never link another publisher's listing. `review` and `soon` show "Coming soon" without a link.
 - Images: icon 512x512 PNG; hero 1600x900 (jpg/webp); screenshots 1170x2532 phone / 2048x2732 tablet jpg or webp, each <= ~250 KB (optimise before commit). Missing files fail validation; the sample catalog is exempt. A gradient placeholder is used when `hero` is omitted.
 - No secrets, internal repo links or private org names anywhere in the JSON.

@@ -13,6 +13,7 @@ import fs from 'node:fs'; import path from 'node:path'; import os from 'node:os'
 import { ROOT } from './lib/catalog.mjs';
 import { probeIos, probePlay } from './refresh-store-status.mjs';
 import { parseStoreText, webDescription, shorten, mapCategories } from './lib/storetext.mjs';
+import { monetizationFor } from './lib/monetization.mjs';
 const argv = process.argv.slice(2);
 const VALUE_OPTS = new Set(['name', 'apple-id', 'package', 'bundle', 'category', 'assets', 'cc', 'text', 'subtitle']);
 const opt = k => { const i = argv.indexOf('--' + k); return i > -1 ? argv[i + 1] : undefined; }, flag = k => argv.includes('--' + k);
@@ -120,7 +121,7 @@ if (!flag('dry')) {
 const today = new Date().toISOString().slice(0, 10);
 const entry = {
   slug, name, subtitle, categories, tags: old.tags?.length ? old.tags : [...new Set([...keywords.map(k => k.toLowerCase().replace(/\s+/g, '-')), ...(/offline/i.test(longDescription) ? ['offline'] : [])])].slice(0, 12),
-  developer: 'EqualInformation', shortDescription, longDescription, whatsNew, price: 'Free', monetization: old.monetization || (/\bno ads\b/i.test(P.description + packet) && !/shows ads|admob/i.test(P.description) ? 'Free, no ads, optional monthly subscription' : /subscription|ad-?free/i.test(text + packet + rowText) ? 'Free with ads, optional monthly ad-free' : 'Free with ads'), ageRating,
+  developer: 'EqualInformation', shortDescription, longDescription, whatsNew, price: 'Free', monetization: old.monetization || monetizationFor(P.description || LK?.description, { education: categories.includes('education') }), ageRating,
   ...(privacyUrl && { privacyUrl }), ...(supportUrl && { supportUrl }), releasedAt: old.releasedAt || (LK?.releaseDate || '').slice(0, 10) || today, updatedAt: today, version: old.version || '1.0.0',
   icon: icon || `${arel}/icon-512.png`, ...(hero && { hero }), ...(old.accent && { accent: old.accent }), screenshots, ios, android,
   related: old.related || [], ...(old.editorial && { editorial: old.editorial }),
