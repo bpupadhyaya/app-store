@@ -1,31 +1,37 @@
 {
   "slug": "macroeconomics-ap-fiscavo",
   "name": "Macroeconomics AP: Fiscavo",
-  "subtitle": "Macro AP Mocks & FRQs",
+  "subtitle": "Macroeconomics AP practice",
   "categories": [
     "education"
   ],
   "tags": [
-    "macroeconomics",
-    "ap",
-    "mock exam",
-    "frq",
-    "ad-as",
+    "macro",
+    "ap-macro",
+    "aggregate-demand",
     "gdp",
     "inflation",
-    "multiplier"
+    "frq",
+    "mock-exam",
+    "multiplier",
+    "money-market",
+    "economics",
+    "study"
   ],
   "developer": "EqualInformation",
-  "shortDescription": "Practice AP Macroeconomics with 405 original questions, worked solutions, six interactive stations and timed mocks. No account. Works offline.",
-  "longDescription": "Prepare for the AP Macroeconomics exam on Friday, May 7, 2027 with original practice, graphs you can drag around, and mock exams that follow the real layout. No account, no internet needed.\n\nA DAILY BUDGET INSTEAD OF A DECK. Every topic holds a balance that grows when you answer well and depreciates while you ignore it. Each day the app spends ten questions on the topics where your balance is lowest and the exam weight is highest.\n\nTHE WHOLE COURSE. Six units and 42 topics, each with short idea cards, graph-labelling reminders and a formula list.\n\n405 ORIGINAL QUESTIONS. Every one has a worked solution that explains the reasoning, and calculation questions name the slip behind each wrong choice.\n\nSIX STUDIO STATIONS. AD-AS, the money market, multipliers and policy, loanable funds, the foreign exchange market, plus a number desk for CPI, unemployment, real GDP and the rule of 70. Shift a curve, watch the equilibrium move, then answer a question made from your own numbers.\n\nMOCK EXAMS. A quick mock of 20 questions in 20 minutes, and a full mock with 60 multiple-choice questions in 70 minutes followed by 3 free-response questions in 60 minutes. Twelve original free-response sets come with line-by-line rubrics for you to score yourself. The 1 to 5 estimate is only a rough guide built on our own cut points.\n\nCHECK OUR SOURCES. Each topic points to the College Board course description and to matching chapters of the OpenStax macroeconomics textbook, which is licensed CC BY-NC-SA 4.0 and is linked, never copied.\n\nFREE WITH FAIR ADS. Studying is free. Ads show up only between activities, never during a question, a mock or a graph. Earn credits by watching an optional short video, or choose the monthly plan at $3.99 with a 7-day free trial. The plan only removes ads; the three extra stations and the full mock are opened with credits. It renews every month, and you can cancel any time in your App Store or Google Play account settings; ad-free time you paid for stays active until it ends and no further charge is made.\n\nQuestions are our own writing and no teacher or subject expert has reviewed them. No real exam questions are included.\nAP is a trademark registered by the College Board, which is not affiliated with and does not endorse this app.\n\nPrivacy Policy: https://equalinformation.com/privacy-fiscavo.html\nTerms of Use: https://equalinformation.com/terms-fiscavo.html",
+  "shortDescription": "Study AP Macroeconomics your way: adaptive practice, interactive graphs and labs, timed mocks and free-response practice. No account. Works offline.",
+  "longDescription": "Prepare for the AP Macroeconomics exam with practice that adapts to you, graphs you can drag, and mock exams that follow the real layout. No account. No internet needed.\n\nTWO WAYS TO STUDY, ONE PROGRESS RECORD. Follow the course in syllabus order, or switch to Real-World view and work through missions built from everyday economic problems. Switch at any time: your progress, your weak spots and your study plan stay the same in both.\n\nPRACTICE THAT ADAPTS. Quizzes and tests feed a personal progress map. When an answer shows a gap, the app links you to the exact lesson and the next questions that close it, and brings topics back for review just before you would forget them. Pin topics, set a focus and save your own plan.\n\nTHE WHOLE COURSE. All six units of the course, with short lessons, graph-labelling reminders and formula lists. A Coverage screen shows exactly which course topics have lessons and how many questions each topic has.\n\nLABS YOU CAN SHIFT. Move a curve and watch the equilibrium respond in the aggregate demand and supply model, the money market, loanable funds and the foreign exchange market, and work through multipliers, policy and the numbers behind CPI, unemployment and growth. Then answer a question built from your own numbers.\n\nMOCK EXAMS AND FREE RESPONSE. Timed multiple-choice mocks and free-response sets with line-by-line rubrics for you to score yourself. The estimated score is a rough guide only.\n\nOTHER BOARDS. An optional map links each topic to related material in A Level, IB and GCSE economics, so you can prepare extra material if you move between systems.\n\nSOURCES YOU CAN CHECK. Topics point to the College Board course and exam description and to matching chapters of the OpenStax macroeconomics textbook, which is licensed CC BY-NC-SA 4.0 and is linked, never copied.\n\nBUILT TO READ COMFORTABLY. Text size from 50% to 300%, a bright clear design, and layouts that use the whole screen on iPhone and iPad.\n\nPractice questions are our own writing and have not been reviewed by a teacher or subject expert. No real exam questions are included. Estimated scores are not predictions of exam results.\nAP is a registered trademark of the College Board, which is not affiliated with and does not endorse this app.",
   "whatsNew": "First release.",
   "price": "Free",
-  "monetization": "Free with ads, optional monthly ad-free",
+  "monetization": "Free core course, optional monthly Plus",
   "ageRating": "4+",
-  "releasedAt": "2026-11-18",
-  "updatedAt": "2026-11-18",
+  "privacyUrl": "https://equalinformation.com/privacy-fiscavo.html",
+  "supportUrl": "https://equalinformation.com/app-support-fiscavo.html",
+  "releasedAt": "2026-11-28",
+  "updatedAt": "2026-11-28",
   "version": "1.0.0",
-  "icon": "assets/apps/macroeconomics-ap-fiscavo/icon-512.png",
+  "icon": "assets/apps/macroeconomics-ap-fiscavo/icon-512.webp",
+  "hero": "assets/apps/macroeconomics-ap-fiscavo/hero.webp",
   "screenshots": [
     {
       "src": "assets/apps/macroeconomics-ap-fiscavo/shot-1.webp",
@@ -49,11 +55,15 @@
     }
   ],
   "ios": {
-    "status": "soon",
-    "url": ""
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/macroeconomics-ap-fiscavo/id6839453710",
+    "bundleId": "com.equalinformation.fiscavo.app",
+    "appleId": "6839453710"
   },
   "android": {
     "status": "soon",
-    "url": ""
-  }
+    "url": "",
+    "package": "com.equalinformation.fiscavo.app"
+  },
+  "related": []
 }

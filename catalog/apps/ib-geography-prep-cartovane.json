@@ -1,0 +1,70 @@
+{
+  "slug": "ib-geography-prep-cartovane",
+  "name": "IB Geography Prep: Cartovane",
+  "subtitle": "IB Geography SL/HL practice",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "revision",
+    "quiz",
+    "case-study",
+    "hazards",
+    "urban",
+    "freshwater",
+    "climate",
+    "population",
+    "fieldwork",
+    "study",
+    "paper-1",
+    "paper-2"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "Revise IB Geography your way: adaptive quizzes, guided real-world builds, map and data skills and timed mock papers. SL and HL topics clearly marked.",
+  "longDescription": "IB Geography Prep: Cartovane is revision and practice for IB Geography at standard and higher level. It works offline and needs no account.\n\n### What It Is\nA study companion written entirely in our own words: short lessons, key terms, case study summaries for real places, original practice questions, extended-response plans, simulations you control and paper-style mock sets. Nothing in it is the official guide, a past paper or a mark scheme.\n\n### Syllabus Coverage, Honestly\nCartovane follows the IB Geography guide first assessed in 2019. It covers 13 themes: the three core units of Geographic perspectives: global change (changing population; global climate, vulnerability and resilience; global resource consumption and security), all seven options (Freshwater; Oceans and coastal margins; Extreme environments; Geophysical hazards; Leisure, tourism and sport; Food and health; Urban environments) and the three HL extension units (Power, places and networks; Human development and diversity; Global risks and resilience). That is 46 topics and 166 specification points, each with at least eight original questions. HL-only material is marked. This is topic-level coverage in our own wording, so please check the current guide with your teacher or school. Case study figures are drawn from public sources and change over time.\n\n### Learns How You Learn\n- Short quizzes after lessons. A wrong answer links straight to the idea you missed, with a one-line reason.\n- A next-best step on the home screen that tells you why it was chosen: a gap to repair, a recall check or the next idea in order.\n- A mastery estimate for every specification point, and recall prompts when something you knew starts to fade.\n- Switch whenever you like between Classical view, which follows the guide order, and Real-World view, which is built around missions such as planning flood defences for a drainage basin or advising a coastal council. Progress is shared between the two.\n- Organise your own revision: pin topics, set a focus, choose an exam date and keep a study plan that stays put when you switch views.\n\n### See It Work\nInteractive simulations and guided builds let you change the inputs and watch the result, from hydrographs and flood risk to population change and urban planning. Maps, graphs and diagrams are drawn for the app and designed to read well on phones and tablets.\n\n### Practise Like the Exam\nMixed checks, topic tests and paper-style mocks for SL and HL, command-term practice with marking points, and guidance for the fieldwork Internal Assessment. Text size can be set from 50% to 300%.\n\n### Other Boards\nAn optional, uncluttered Other boards chip on each topic points to related material in other courses, so you can look further if you move between systems.\n\nIB Geography Prep: Cartovane is an independent study aid. It is not affiliated with or endorsed by the International Baccalaureate Organization. IB is used in plain text only to name the course.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free core course, optional monthly Plus",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-ib-geography-cartovane.html",
+  "supportUrl": "https://equalinformation.com/app-support-ib-geography-cartovane.html",
+  "releasedAt": "2026-11-28",
+  "updatedAt": "2026-11-28",
+  "version": "1.0.0",
+  "icon": "assets/apps/ib-geography-prep-cartovane/icon-512.webp",
+  "hero": "assets/apps/ib-geography-prep-cartovane/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/ib-geography-prep-cartovane/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-geography-prep-cartovane/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-geography-prep-cartovane/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/ib-geography-prep-cartovane/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/ib-geography-prep-cartovane/id6839434037",
+    "bundleId": "com.equalinformation.ibgeographycartovane.app",
+    "appleId": "6839434037"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.ibgeographycartovane.app"
+  },
+  "related": []
+}

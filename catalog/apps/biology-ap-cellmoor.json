@@ -24,8 +24,8 @@
   "price": "Free",
   "monetization": "Free core course, optional monthly Plus",
   "ageRating": "4+",
-  "releasedAt": "2026-11-17",
-  "updatedAt": "2026-11-27",
+  "releasedAt": "2026-11-28",
+  "updatedAt": "2026-11-28",
   "version": "1.0.0",
   "icon": "assets/apps/biology-ap-cellmoor/icon-512.webp",
   "hero": "assets/apps/biology-ap-cellmoor/hero.webp",
@@ -52,8 +52,8 @@
     }
   ],
   "ios": {
-    "status": "review",
-    "url": "",
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/biology-ap-cellmoor/id6839412925",
     "bundleId": "com.equalinformation.cellmoor.app",
     "appleId": "6839412925"
   },
@@ -62,5 +62,7 @@
     "url": "",
     "package": "com.equalinformation.cellmoor.app"
   },
-  "related": []
+  "related": [],
+  "privacyUrl": "https://equalinformation.com/privacy-cellmoor.html",
+  "supportUrl": "https://equalinformation.com/app-support-cellmoor.html"
 }

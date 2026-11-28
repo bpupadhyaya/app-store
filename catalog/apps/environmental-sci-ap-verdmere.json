@@ -1,0 +1,68 @@
+{
+  "slug": "environmental-sci-ap-verdmere",
+  "name": "Environmental Sci AP: Verdmere",
+  "subtitle": "AP Environmental Science prep",
+  "categories": [
+    "education"
+  ],
+  "tags": [
+    "apes",
+    "frq",
+    "mock-exam",
+    "ecology",
+    "pollution",
+    "climate",
+    "energy",
+    "quiz",
+    "simulation",
+    "biodiversity"
+  ],
+  "developer": "EqualInformation",
+  "shortDescription": "AP Environmental Science practice that adapts to you: original questions, interactive labs, guided missions and timed mocks. Works offline. No account.",
+  "longDescription": "Environmental Sci AP: Verdmere is a practice companion for AP Environmental Science. It follows the 9 units of the course framework and turns every missed question into a clear next step.\n\n### Learn Your Way\n- Classical view in course-unit order, or Real-World view that starts from a real problem such as a polluted river, a power plan or a changing climate. Both views share your progress.\n- Topic notes with worked examples, common traps and links to open sources\n- Adaptive plan: a wrong answer points to the idea to revise, and the app tells you why that step is next. Pin topics, set an exam date and keep your own plan.\n\n### Practise Like the Exam\n- Original multiple-choice questions and free-response questions with a worked explanation after every answer and step-by-step solutions for calculations (860 multiple-choice questions and 24 free-response questions across all 9 units and 99 topics, every topic with at least 8 practice questions)\n- Quizzes by unit, by skill or by your weak spots\n- Timed mock exams in the style of the multiple-choice and free-response sections (8 in all), with a report and a study plan afterwards\n- Constants, unit conversions and energy facts in one place\n\n### Labs and Missions\n- Interactive labs you can move and watch (10 lab benches: population growth, energy through trophic levels, food webs, the carbon budget, the greenhouse effect, watersheds, soil, air quality, power plants and demographic change)\n- 14 guided Real-World missions that apply the science to a real task, such as a watershed, a power plan or a city air problem\n\n### Made for Every Screen\n- Text size from 50% to 300%, two-pane layouts on tablets, works offline, no account\n- A Coverage screen that shows exactly what is included, and an Other boards map to GCSE, A Level and IB equivalents\n\n### Honest Limits\nThe questions and solutions are original. All were checked by automatic tests, and 131 numeric answers were confirmed by two independent calculations. A separate read-through checked a sample of 407 of the 860 questions (47%) and found 23 faulty ones, which we fixed. The rest were not independently reviewed, so a few mistakes may remain.\n\nAP is a registered trademark of the College Board, which is not affiliated with and does not endorse this app. Environmental Sci AP: Verdmere is an independent study tool by EqualInformation, LLC.",
+  "whatsNew": "First release.",
+  "price": "Free",
+  "monetization": "Free core course, optional monthly Plus",
+  "ageRating": "4+",
+  "privacyUrl": "https://equalinformation.com/privacy-verdmere.html",
+  "supportUrl": "https://equalinformation.com/app-support-verdmere.html",
+  "releasedAt": "2026-11-28",
+  "updatedAt": "2026-11-28",
+  "version": "1.0",
+  "icon": "assets/apps/environmental-sci-ap-verdmere/icon-512.webp",
+  "hero": "assets/apps/environmental-sci-ap-verdmere/hero.webp",
+  "screenshots": [
+    {
+      "src": "assets/apps/environmental-sci-ap-verdmere/shot-1.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/environmental-sci-ap-verdmere/shot-2.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/environmental-sci-ap-verdmere/shot-3.webp",
+      "device": "phone",
+      "caption": ""
+    },
+    {
+      "src": "assets/apps/environmental-sci-ap-verdmere/shot-4.webp",
+      "device": "phone",
+      "caption": ""
+    }
+  ],
+  "ios": {
+    "status": "live",
+    "url": "https://apps.apple.com/us/app/environmental-sci-ap-verdmere/id6839470242",
+    "bundleId": "com.equalinformation.verdmere.app",
+    "appleId": "6839470242"
+  },
+  "android": {
+    "status": "soon",
+    "url": "",
+    "package": "com.equalinformation.verdmere.app"
+  },
+  "related": []
+}
